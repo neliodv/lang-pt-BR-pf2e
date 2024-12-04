@@ -1,0 +1,145 @@
+{
+  "label": "classes",
+  "entries": {
+    "Alchemist": {
+      "name": "Alquimista",
+      "description": "<p><em>Não há visão mais bela para você do que uma estranha mistura borbulhando em um béquer, e você consome seus elixires engenhosos com abandono. Você é fascinado por descobrir os segredos da ciência e do mundo natural, e está constantemente experimentando em seu laboratório ou em movimento com misturas inventivas para cada eventualidade. Você é destemido diante do risco, lançando criações explosivas ou tóxicas em seus inimigos. Seu caminho único para a grandeza é pavimentado com misturas alquímicas que levam sua mente e corpo aos seus limites.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Om4e4tsgNWrComie]{Alquimista}</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Animist": {
+      "name": "Animista",
+      "description": "<p><em>Você é o interlocutor entre o visto e o não visto, a voz que conecta o mortal e o espiritual. Você se liga a espíritos, manifestando sua magia distinta e permitindo que seu conhecimento flua através de você. Você pode favorecer aparições que lhe concedem magia de cura, outras que lhe concedem magias de poder destrutivo, ou escolher entre diferentes aparições conforme seu ambiente e circunstâncias exigirem. Você pode considerar seus poderes como parte de uma confiança sagrada ou ver suas habilidades únicas como um sinal de que você foi escolhido como um campeão de dois mundos. Quer você defenda os mortais nos planos além ou represente os interesses dos espíritos, você fornece a ponte entre os reinos.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.ThFPVuxGiZ2Asgyr]{Animista}</p>",
+      "source": "Pathfinder War of Immortals"
+    },
+    "Barbarian": {
+      "name": "Bárbaro",
+      "description": "<p><em>A fúria te consome na batalha. Você se deleita em causar estragos e usar armas poderosas para destruir seus inimigos, confiando em uma durabilidade surpreendente sem precisar de técnicas complicadas ou treinamento rígido. Suas fúrias se baseiam em um instinto cruel, que você pode associar a um animal, um espírito ou alguma parte de si mesmo. Para muitos bárbaros, a força bruta é um martelo e todo problema parece um prego, enquanto outros tentam conter a tempestade de emoções dentro de si e liberar sua fúria apenas quando é mais importante.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.lvuutBI9BSCU6cWe]{Bárbaro}</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Bard": {
+      "name": "Bardo",
+      "description": "<p><em>Você é um mestre da arte, um estudioso de 'segredos ocultos e um persuasor cativante. Usando performances poderosas, você influencia mentes e eleva almas a novos níveis de heroísmo. Você pode usar seus poderes para se tornar um líder carismático, ou talvez você possa ser um conselheiro, manipulador, estudioso, patife ou virtuoso. Embora sua versatilidade leve alguns a considerá-lo um encantador vigarista e um pau para toda obra, é perigoso descartá-lo como um mestre de nada.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.Tz0NWVqhZyt8EyUV]{Bardo}</em></p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Champion": {
+      "name": "Campeão",
+      "description": "<p><em>Você é um emissário de uma divindade, um servo devoto que assumiu um manto importante e adere a um código que o diferencia daqueles ao seu redor. Embora existam campeões para todos os alinhamentos, como um campeão do bem, você oferece certeza e esperança aos inocentes. Você tem defesas poderosas que compartilha livremente com seus aliados e espectadores inocentes, bem como poder sagrado que você usa para acabar com a ameaça do mal. Sua devoção atrai até mesmo a atenção de espíritos sagrados que o ajudam em sua jornada.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.rebppVgBVi8J6TT2]{Campeão}</em></p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Cleric": {
+      "name": "Clérigo",
+      "description": "<p><em>As divindades exercem sua vontade sobre o mundo de infinitas maneiras, e você serve como um de seus servos mortais mais leais. Abençoado com magia divina, você vive os ideais de sua fé, se adorna com os símbolos de sua igreja e treina diligentemente para manejar a arma favorita de sua divindade. Suas magias podem proteger e curar seus aliados, ou podem punir inimigos e oponentes de sua fé, conforme a vontade de sua divindade. A sua é uma vida de devoção, espalhando os ensinamentos de sua fé por meio de palavras e ações.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.N4ABcd6CcCbqmw3x]{Clérigo}</em></p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Druid": {
+      "name": "Druida",
+      "description": "<p><em>O poder da natureza é impossível de resistir. Ele pode trazer ruína à fortaleza mais robusta em minutos, reduzindo até mesmo as obras mais poderosas a escombros, queimando-as em cinzas, enterrando-as sob uma avalanche de neve ou afogando-as sob as ondas. Ele pode fornecer generosidade infinita e esplendor de tirar o fôlego para aqueles que o respeitam - e uma morte agonizante para aqueles que o subestimam. Você é um daqueles que ouvem o chamado da natureza. Você admira a majestade de seu poder e se entrega ao seu serviço.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.8ElntNAGahQka70r]{Druida}</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Exemplar": {
+      "name": "Exemplar",
+      "description": "<p><em>Conforme o deus da guerra morreu, seu poder choveu pelos muitos planos da criação, provocando conflitos e instilando energia divina naqueles que antes não a tinham. Se você foi diretamente tocado por este poder, o reivindicou de um ser ou artefato antigo, ou se ele despertou algo há muito adormecido em sua linhagem, uma centelha do divino agora brilha em sua alma, concedendo-lhe habilidades, armas sagradas e significantes divinos que alcançam o reino anteriormente reservado para deuses e lendas. Como você exercerá essas ferramentas e aumentará seu poder é com você - você pode se tornar um herói ou pode se voltar para fins egoístas, mas uma coisa é certa: você pretende gravar seu epíteto na história, imortalizado na memória de deuses e mortais.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.CIQggvnSfmuLa7eH]{Exemplar}</p>",
+      "source": "Pathfinder War of Immortals"
+    },
+    "Fighter": {
+      "name": "Guerreiro",
+      "description": "<p><em>Lutando por honra, ganância, lealdade ou simplesmente pela emoção da batalha, você é um mestre indiscutível de armas e técnicas de combate. Você combina suas ações através de combinações inteligentes de golpes de abertura, golpes de finalização e contra-ataques sempre que seus inimigos são imprudentes o suficiente para baixar a guarda. Seja você um cavaleiro, mercenário, atirador de elite ou mestre de lâminas, você aprimorou suas habilidades marciais em uma forma de arte e executa ataques críticos devastadores em seus inimigos.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.HZbrRRVzW7w17L2W]{Guerreiro}</em></p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Gunslinger": {
+      "name": "Pistoleiro",
+      "description": "<p><em>Enquanto alguns temem armas de projéteis, você aprecia o flash ardente, o coice selvagem e a fumaça sufocante que acompanha um tiro, ou o estalo do cabo e o baque revelador de sua besta pouco antes de seu virote encontrar seu alvo. Pronto para mirar em um inimigo a cada turno, você confia em seus reflexos, mão firme e conhecimento de suas armas para crivar seus inimigos de buracos.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.88K0xjShkhkckbhv]{Pistoleiro}</em></p>",
+      "source": "Pathfinder Guns & Gears"
+    },
+    "Inventor": {
+      "name": "Inventor",
+      "description": "<p><em>Qualquer inventor pode seguir um diagrama para fazer um dispositivo, mas você inventa o impossível! Cada engenhoca estranha que você imagina é um experimento único que ultrapassa os limites da possibilidade, uma máquina misteriosa que parece funcionar apenas para você. Você está sempre à beira do próximo grande avanço, e cada tentativa e tribulação é outra oportunidade de testar e ajustar. Se você pode sonhar, você pode construir.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gcRmL4Id1ggKDhvg]{Inventor}</em></p>",
+      "source": "Pathfinder Guns & Gears"
+    },
+    "Investigator": {
+      "name": "Investigador",
+      "description": "<p><em>Você busca descobrir a verdade, perseguindo obstinadamente pistas para revelar os planos de vilões tortuosos, descobrir segredos antigos ou desvendar outros mistérios. Sua mente analítica formula rapidamente soluções para problemas complicados e seus sentidos apurados identificam até mesmo as pistas mais obscuras. Empunhando o conhecimento como uma arma, você estuda as criaturas e os perigos que encontra para explorar suas fraquezas.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.omDi7otL3UWLVgct]{Investigador}</em></p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Kineticist": {
+      "name": "Cinesista",
+      "description": "<p><em>O poder dos elementos flui de dentro de você. Fogo rugindo, água pura, ar fugaz, terra firme, madeira retorcida, metal cortante. Um portal cinético inextricavelmente ligado ao seu corpo canaliza o poder diretamente dos planos elementais, fazendo com que os elementos saltem para sua mão, girem em torno do seu corpo e explodam os inimigos ao seu capricho. Conforme sua conexão com os planos cresce, você atinge o domínio verdadeiro sobre seus elementos escolhidos.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.lNWQPwgT4vhYCOT7]{Cinesista}</em></p>",
+      "source": "Pathfinder Rage of Elements"
+    },
+    "Magus": {
+      "name": "Magus",
+      "description": "<p><em>Combinando a fisicalidade e a técnica de um guerreiro com a habilidade de conjurar magia arcana, você busca aperfeiçoar a arte de fundir magia e golpe. Embora o tomo pesado que você carrega reflita horas conduzindo pesquisas arcanas, seus inimigos não precisam ser lembrados do seu treinamento. Eles o reconhecem ao serem derrotados por você.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.YVoyzV9v4QyP2UIC]{Magus}</em></p>",
+      "source": "Pathfinder Secrets of Magic"
+    },
+    "Monk": {
+      "name": "Monge",
+      "description": "<p><em>A força do seu punho flui de sua mente e espírito. Você busca a perfeição - aprimorando seu corpo em um instrumento impecável e sua mente em um bastião ordenado de sabedoria. Você é um combatente feroz, famoso por suas habilidades em artes marciais e posturas de combate que lhe concedem movimentos de luta únicos. Embora o desafio de dominar muitos estilos de luta o leve a grandes alturas, você também gosta de meditar sobre questões filosóficas e descobrir novas maneiras de obter paz e iluminação.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.hGKd722Kn4ZxIOJs]{Monge}</em></p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Oracle": {
+      "name": "Oráculo",
+      "description": "<p><em>Seu canal para o poder divino evita os canais tradicionais de oração e servidão - em vez disso, você colhe verdades sagradas e grandes mistérios incorporados em conceitos abrangentes, seja porque você percebe o terreno comum entre várias divindades ou porque contorna seu poder inteiramente.</em></p>\n<p><em>Você explora um desses mistérios e usa seu poder para lançar magias milagrosas, mas esse poder tem um preço terrível: uma maldição que fica mais forte quanto mais você a usa, que você pode defender como um instrumento do divino ou ver como punição dos deuses.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.bqaqOx3naiwTozBX]{Oráculo}</em></p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Psychic": {
+      "name": "Psíquico",
+      "description": "<p><em>A mente pode perceber verdades ocultas a instrumentos refinados, guardar mais segredos do que qualquer tomo e mover objetos e corações mais habilmente do que qualquer alavanca. Ao mergulhar nos aspectos conscientes e subconscientes do seu eu interior, você despertou para o poder da magia psíquica, permitindo que você conjure magias não por meio de encantamentos ou gestos, mas pelo poder de sua vontade. Embora a tênue linha entre sua mente e a realidade signifique que um único pensamento errante pode ter consequências inesperadas para você e seus companheiros, você sabe que tudo é possível, se você puder imaginar.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.KVoEUJBAbAFUJTqw]{Psíquico}</em></p>",
+      "source": "Pathfinder Dark Archive"
+    },
+    "Ranger": {
+      "name": "Patrulheiro",
+      "description": "<p><em>Alguns patrulheiros acreditam que a civilização desgasta a alma, mas ainda precisa ser protegida de criaturas selvagens. Outros dizem que a natureza precisa ser protegida dos gananciosos, que desejam domar sua beleza e saquear seus tesouros. Você pode defender qualquer um dos objetivos, ou ambos. Você pode ser um batedor, rastreador ou caçador de fugitivos ou bestas, assombrando a borda da civilização ou explorando a natureza. Você sabe como viver da terra e é habilidoso em avistar e derrubar presas oportunas e inimigos odiados.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gdEmPPRYhRai7I1N]{Patrulheiro}</em></p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Rogue": {
+      "name": "Ladino",
+      "description": "<p><em>Você é habilidoso e oportunista. Usando sua inteligência aguçada e reações rápidas, você tira vantagem dos erros de seus oponentes e ataca onde mais dói. Você joga um jogo perigoso, buscando emoções e testando suas habilidades, e provavelmente não se importa muito com as leis que atrapalham seu caminho. Embora o caminho de cada ladino seja único e cheio de perigos, a única coisa que todos vocês compartilham em comum é a amplitude e profundidade de suas habilidades.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.u4qPrDRBagxG9wj8]{Ladino}</em></p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Sorcerer": {
+      "name": "Feiticeiro",
+      "description": "<p><em>Você não escolheu se tornar um conjurador - você nasceu um. Há magia em seu sangue, seja uma divindade que tocou um de seus ancestrais, um ancestral que comungou com uma criatura primal ou um poderoso ritual oculto que influenciou sua linhagem. A autorreflexão e o estudo permitem que você refine suas habilidades mágicas inerentes e desbloqueie novas habilidades mais poderosas. O poder em seu sangue carrega um risco, no entanto, e você constantemente enfrenta a escolha de se tornar um mestre conjurador ou cair em destruição.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.ixBx2wZpnf4qUoEv]{Feiticeiro}</em></p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Summoner": {
+      "name": "Convocador",
+      "description": "<p><em>Você pode invocar magicamente um ser poderoso chamado eidolon para o seu lado, servindo como o conduto mortal que o ancora ao mundo. Seja seu eidolon um amigo, um servo ou mesmo um deus pessoal, sua conexão com ele o marca como extraordinário, moldando o curso de sua vida dramaticamente.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.gA4Ud8oSUGkkLwAi]{Convocador}</em></p>",
+      "source": "Pathfinder Secrets of Magic"
+    },
+    "Swashbuckler": {
+      "name": "Espadachim",
+      "description": "<p><em>Muitos guerreiros dependem de força bruta, armaduras pesadas ou armas incômodas. Para você, a batalha é uma dança onde você se move entre os inimigos com estilo e graça. Você se lança entre os combatentes com talento e desfere golpes de finalização poderosos com um movimento do pulso e um lampejo da lâmina, tudo enquanto contra-ataca com respostas elegantes que mantêm os inimigos em desequilíbrio. Assediar e frustrar seus inimigos permite que você encante o destino e engane a morte repetidamente com desenvoltura e muito estilo.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.rsDTKu4HUuKft7fk]{Espadachim}</em></p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Thaumaturge": {
+      "name": "Taumaturgo",
+      "description": "<p><em>O mundo está cheio de inexplicáveis: magia antiga, deuses mortos e coisas ainda mais estranhas. Em resposta, você vasculhou as melhores partes de cada tradição mágica e construiu uma coleção de esotérica - uma relíquia sagrada quebrada aqui, um ramo de visco ali - que você pode usar para derrotar qualquer criatura explorando suas fraquezas e vulnerabilidades. O implemento místico que você carrega é tanto um distintivo quanto uma arma, seu peso simbólico ajudando você a barganhar e subjugar o sobrenatural. Todo caminho para o poder tem suas restrições e custos, mas você transforma todos eles em sua vantagem. Você é um taumaturgo e faz maravilhas.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.qigU4oNH2KDVvhjX]{Taumaturgo}</em></p>",
+      "source": "Pathfinder Dark Archive"
+    },
+    "Witch": {
+      "name": "Bruxa",
+      "description": "<p><em>Você comanda magia poderosa, não através do estudo ou devoção, mas como um agente de um patrono de outro mundo que nem mesmo você entende completamente. Essa entidade pode ser uma divindade secreta, uma fada poderosa, um espírito ancestral ou qualquer outro ser sobrenatural poderoso - mas sua natureza é provavelmente um mistério tanto para você quanto para os outros. Através de um familiar especial, seu patrono concede a você magias versáteis e feitiços poderosos para usar como achar melhor, embora você nunca tenha certeza se está apenas servindo ao plano maior do seu patrono.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.fYJruhQfzs4dj0mp]{Bruxa}</em></p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Wizard": {
+      "name": "Mago",
+      "description": "<p><em>Você é um eterno estudante dos segredos do universo, usando seu domínio da magia para lançar magias poderosas. Você trata a magia como uma ciência, cruzando os textos mais recentes sobre feitiçaria prática com tomos antigos para descobrir e entender a magia arcana. No entanto, a teoria mágica é vasta e não há como você estudar tudo. A maioria dos magos aprende por meio da educação formal, com seu currículo informando uma rubrica específica, embora pesquisadores particularmente motivados às vezes reúnam suas próprias teorias.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.kzxu2dI7tFxv6Ix6.JournalEntryPage.wDukeO3euLEGn6FA]{Mago}</em></p>",
+      "source": "Pathfinder Player Core"
+    }
+  },
+  "mapping": {
+    "description": "system.description.value",
+    "name": {
+      "converter": "translateDualLanguage",
+      "path": "name"
+    },
+    "rules": {
+      "converter": "translateRules",
+      "path": "system.rules"
+    },
+    "source": {
+      "converter": "translateSource",
+      "path": "system.publication.title"
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "label": "Glossário de Habilidades do Bestiário",
+  "entries": {
+    "+1 Status to All Saves vs. Magic": {
+      "name": "+1 de Status em todos os Testes de Resistência contra Magia",
+      "source": "Pathfinder Monster Core"
+    },
+    "All-Around Vision": {
+      "name": "Visão em 360°",
+      "source": "Pathfinder Monster Core"
+    },
+    "Aquatic Ambush": {
+      "name": "Emboscada Aquática",
+      "source": "Pathfinder Monster Core"
+    },
+    "At-Will Spells": {
+      "name": "Magias à Vontade",
+      "source": "Pathfinder Monster Core"
+    },
+    "Attack of Opportunity": {
+      "name": "Ataque de Oportunidade",
+      "source": "Pathfinder Bestiary"
+    },
+    "Aura": {
+      "name": "Aura",
+      "source": "Pathfinder Monster Core"
+    },
+    "Buck": {
+      "name": "Empinar",
+      "description": "<p>@Check[reflex|dc:]</p>\n<p>A criatura se levanta sobre as patas traseiras e tenta derrubar um inimigo. Faça um teste de Atletismo contra a CD de Reflexos de uma criatura no seu alcance. Em um sucesso, a criatura cai prostrada.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Catch Rock": {
+      "name": "Agarrar Rocha",
+      "source": "Pathfinder Bestiary"
+    },
+    "Change Shape": {
+      "name": "Mudar de Forma",
+      "source": "Pathfinder Monster Core"
+    },
+    "Constant Spells": {
+      "name": "Magias Constantes",
+      "source": "Pathfinder Monster Core"
+    },
+    "Constrict": {
+      "name": "Constringir",
+      "description": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>A criatura se enrola em torno de uma criatura agarrada, causando 1d4 de dano de concussão + seu modificador de Força. A criatura agarrada também está restringida.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Coven": {
+      "name": "Congregação",
+      "source": "Pathfinder Monster Core"
+    },
+    "Darkvision": {
+      "name": "Visão no Escuro",
+      "source": "Pathfinder Monster Core"
+    },
+    "Disease": {
+      "name": "Doença",
+      "source": "Pathfinder Monster Core"
+    },
+    "Engulf": {
+      "name": "Engolir",
+      "description": "<p>@Check[reflex|dc:], @Damage[(0)[damageType]] dano, CD de Escapar [0], Ruptura [0]</p>\n<hr />\n<p>A criatura tenta engolir uma criatura adjacente que seja pelo menos um tamanho menor do que ela. O alvo deve tentar um teste básico de Reflexos. Em uma falha, o alvo é engolido e fica cego e restringido. Em um sucesso crítico, o alvo não é afetado. Em um sucesso, o alvo é agarrado em vez de engolido. Enquanto engolida, a criatura recebe o dano listado no início de cada um dos turnos da criatura engolindo. A CD de escapar é listada no início da descrição e a criatura engolindo pode tentar um teste de Atletismo contra essa CD no início de cada um de seus turnos para romper a criatura engolida, que recebe dano de concussão igual ao valor de ruptura listado no início da descrição.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Fast Healing": {
+      "name": "Cura Acelerada",
+      "source": "Pathfinder Monster Core"
+    },
+    "Ferocity": {
+      "name": "Ferocidade",
+      "source": "Pathfinder Monster Core"
+    },
+    "Form Up": {
+      "name": "Formação",
+      "source": "Pathfinder Bestiary 3"
+    },
+    "Frightful Presence": {
+      "name": "Presença Aterradora",
+      "description": "<p>0 feet @Check[will|dc:]</p>\n<hr />\n<p>Cada criatura a até a distância especificada que possa ver a criatura deve tentar um teste de Vontade. Em uma falha, a criatura fica assustada por 1 minuto. Em um sucesso, a criatura fica imune à Presença Aterradora dessa criatura por 1 dia.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Grab": {
+      "name": "Agarrar",
+      "source": "Pathfinder Monster Core"
+    },
+    "Greater Constrict": {
+      "name": "Constringir Aprimorado",
+      "description": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>A criatura se enrola em torno de uma criatura agarrada, causando 2d4 de dano de concussão + seu modificador de Força. A criatura agarrada também está restringida e, em uma falha, cai prostrada.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Greater Darkvision": {
+      "name": "Visão no Escuro Aprimorada",
+      "source": "Pathfinder Monster Core"
+    },
+    "Improved Grab": {
+      "name": "Agarrar Aprimorado",
+      "source": "Pathfinder Monster Core"
+    },
+    "Improved Knockdown": {
+      "name": "Derrubar Aprimorado",
+      "source": "Pathfinder Monster Core"
+    },
+    "Improved Push": {
+      "name": "Empurrar Aprimorado",
+      "source": "Pathfinder Monster Core"
+    },
+    "Knockdown": {
+      "name": "Derrubar",
+      "source": "Pathfinder Monster Core"
+    },
+    "Lifesense": {
+      "name": "Sensor de Vida",
+      "source": "Pathfinder Monster Core"
+    },
+    "Light Blindness": {
+      "name": "Cegueira à Luz",
+      "source": "Pathfinder Monster Core"
+    },
+    "Low-Light Vision": {
+      "name": "Visão na Penumbra",
+      "source": "Pathfinder Monster Core"
+    },
+    "Master's Eye": {
+      "name": "Olho do Mestre",
+      "description": "<p>O mestre observa o mundo através dos olhos do raktavarna em vez dos seus, usando a Percepção e a visão no escuro do raktavarna. Isso dura até o final do próximo turno do mestre, mas o mestre pode Sustentar a atividade.</p>\n<p>Essa habilidade funciona a qualquer distância, mesmo em diferentes planos de existência. Se o raktavarna morrer enquanto seu mestre estiver usando essa habilidade, o mestre fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 5}.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Nimble Dodge": {
+      "name": "Esquiva Ágil",
+      "description": "<p><strong>Acionamento</strong> Uma criatura mira em você com um ataque e você pode ver o atacante.</p>\n<p><strong>Requerimentos</strong> Você não está sobrecarregado</p>\n<hr />\n<p>Você se esquiva habilmente do caminho, ganhando um bônus de circunstância +2 na CA contra o ataque de acionamento.</p>",
+      "source": "Pathfinder Core Rulebook"
+    },
+    "Poison": {
+      "name": "Veneno",
+      "source": "Pathfinder Monster Core"
+    },
+    "Power Attack": {
+      "name": "Ataque Poderoso"
+    },
+    "Pull": {
+      "name": "Puxar",
+      "source": "Pathfinder Monster Core"
+    },
+    "Push": {
+      "name": "Empurrar",
+      "source": "Pathfinder Monster Core"
+    },
+    "Reactive Strike": {
+      "name": "Golpe Reativo",
+      "source": "Pathfinder Monster Core"
+    },
+    "Regeneration": {
+      "name": "Regeneração",
+      "source": "Pathfinder Monster Core"
+    },
+    "Rend": {
+      "name": "Rasgar",
+      "source": "Pathfinder Monster Core"
+    },
+    "Retributive Strike": {
+      "name": "Golpe Retributivo",
+      "source": "Pathfinder Bestiary"
+    },
+    "Scent": {
+      "name": "Faro",
+      "source": "Pathfinder Monster Core"
+    },
+    "Shield Block": {
+      "name": "Bloqueio de Escudo",
+      "source": "Pathfinder Monster Core"
+    },
+    "Sneak Attack": {
+      "name": "Ataque Furtivo",
+      "description": "<p>Os Golpes da criatura causam 1d6 de dano de precisão adicional a criaturas @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido}.</p>",
+      "source": "Pathfinder Bestiary"
+    },
+    "Stench": {
+      "name": "Fedor",
+      "description": "<p>@Check[fortitude|dc:]</p>\n<hr />\n<p>Criaturas adjacentes à criatura devem tentar um teste de Fortitude. Em uma falha, a criatura fica enjoada 1. Em um sucesso, a criatura fica imune ao Fedor dessa criatura por 1 dia.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Swallow Whole": {
+      "name": "Engolir Inteiro",
+      "description": "<p>[Tamanho Listado], @Damage[(0)[bludgeoning]], Ruptura [0]</p>\n<hr />\n<p>A criatura tenta Engolir uma criatura adjacente que seja pelo menos um tamanho menor do que ela. O alvo deve tentar um teste básico de Reflexos. Em uma falha, o alvo é engolido e fica cego e restringido. Em um sucesso crítico, o alvo não é afetado. Em um sucesso, o alvo é agarrado em vez de engolido. Enquanto engolida, a criatura recebe o dano listado no início de cada um dos turnos da criatura engolindo. A CD de escapar é listada no início da descrição e a criatura engolindo pode tentar um teste de Atletismo contra essa CD no início de cada um de seus turnos para romper a criatura engolida, que recebe dano de concussão igual ao valor de ruptura listado no início da descrição.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Swarm Mind": {
+      "name": "Mente Coletiva",
+      "source": "Pathfinder Monster Core"
+    },
+    "Telepathy": {
+      "name": "Telepatia",
+      "source": "Pathfinder Monster Core"
+    },
+    "Thoughtsense": {
+      "name": "Sensor de Pensamentos"
+    },
+    "Throw Rock": {
+      "name": "Arremessar Rocha",
+      "source": "Pathfinder Monster Core"
+    },
+    "Trample": {
+      "name": "Pisotear",
+      "description": "<p>[Tamanho], [Golpe Listado], @Check[reflex|dc:|basic]</p>\n<hr />\n<p>A criatura se move pelo menos 10 pés em linha reta, e cada criatura de no máximo um tamanho especificado em seu caminho deve tentar um teste básico de Reflexos. Em uma falha, a criatura recebe o dano listado e é derrubada. Em um sucesso crítico, a criatura não é afetada. Em um sucesso, a criatura recebe metade do dano listado e não é derrubada.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Tremorsense": {
+      "name": "Sensor de Tremores",
+      "source": "Pathfinder Monster Core"
+    },
+    "Troop Defenses": {
+      "name": "Defesas de Tropa",
+      "source": "Pathfinder Bestiary 3"
+    },
+    "Void Healing": {
+      "name": "Cura do Vazio",
+      "source": "Pathfinder Monster Core"
+    },
+    "Wavesense": {
+      "name": "Sensor de Ondas",
+      "source": "Pathfinder Monster Core"
+    }
+  },
+  "mapping": {
+    "description": "system.description.value",
+    "name": {
+      "converter": "translateDualLanguage",
+      "path": "name"
+    },
+    "rules": {
+      "converter": "translateRules",
+      "path": "system.rules"
+    },
+    "source": {
+      "converter": "translateSource",
+      "path": "system.publication.title"
+    }
+  }
+}

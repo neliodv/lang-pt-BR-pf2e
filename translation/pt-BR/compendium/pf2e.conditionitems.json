@@ -1,0 +1,235 @@
+{
+  "label": "condições",
+  "entries": {
+    "Blinded": {
+      "name": "Cego",
+      "description": "<p>Você não pode ver. Todo terreno normal é terreno difícil para você. Você não pode detectar nada usando a visão. Você automaticamente falha criticamente em testes de Percepção que exigem que você seja capaz de ver e, se a visão for seu único sentido preciso, você recebe uma penalidade de status -4 em testes de Percepção. Você é imune a efeitos visuais. Cego substitui Ofuscado.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Broken": {
+      "name": "Quebrado",
+      "description": "<p>Quebrado é uma condição que afeta apenas objetos. Um objeto é quebrado quando o dano reduziu seus Pontos de Vida para igual ou menor que seu Limiar de Quebra. Um objeto quebrado não pode ser usado para sua função normal, nem concede bônus - com exceção da armadura. A armadura quebrada ainda concede seu bônus de item à CA, mas também concede uma penalidade de status à CA, dependendo de sua categoria: -1 para armadura leve quebrada, -2 para armadura média quebrada ou -3 para armadura pesada quebrada.</p>\n<p>Um item quebrado ainda impõe penalidades e limitações normalmente incorridas ao carregá-lo, segurá-lo ou usá-lo. Por exemplo, a armadura quebrada ainda imporia seu limite de modificador de Destreza, penalidade de teste e assim por diante. Se um efeito fizer com que um item seja quebrado automaticamente e o item tiver mais PVs do que seu Limiar de Quebra, esse efeito também reduzirá os PVs atuais do item para o Limiar de Quebra.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Clumsy": {
+      "name": "Desajeitado",
+      "description": "<p>Seus movimentos se tornam desajeitados e imprecisos. Desajeitado sempre inclui um valor. Você recebe uma penalidade de status igual ao valor da condição em testes e CDs baseados em Destreza, incluindo CA, testes de Reflexos, rolagens de ataque à distância e testes de perícia usando Acrobacia, Furtividade e Ladinagem.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Concealed": {
+      "name": "Oculto",
+      "description": "<p>Você é difícil de ser visto por uma ou mais criaturas devido à neblina densa ou alguma outra característica obscurecedora. Você pode estar oculto para algumas criaturas, mas não para outras. Enquanto estiver oculto, você ainda pode ser Observado, mas é mais difícil de ser alvo. Uma criatura para a qual você está oculto deve ter sucesso em um @Check[flat|showDC:all|dc:5] teste fixo (CD 5) ao mirar em você com um ataque, magia ou outro efeito. Se o teste falhar, você não será afetado. Efeitos de área não estão sujeitos a este teste fixo.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Confused": {
+      "name": "Confuso",
+      "description": "<p>Você não está em seu juízo perfeito e ataca descontroladamente. Você está Desprevenido, você não trata ninguém como seu aliado (embora eles ainda possam tratá-lo como seu) e você não pode Adiar, Preparar ou usar reações.</p>\n<p>Você usa todas as suas ações para Golpear ou lançar truques ofensivos, embora o Mestre possa fazer com que você use outras ações para facilitar o ataque, como sacar uma arma, mover-se para que o alvo esteja ao alcance e assim por diante. Seus alvos são determinados aleatoriamente pelo Mestre. Se você não tiver outros alvos viáveis, você terá como alvo a si mesmo, acertando automaticamente, mas não conseguindo um acerto crítico. Se for impossível para você atacar ou lançar magias, você balbucia incoerentemente, desperdiçando suas ações.</p>\n<p>Cada vez que você recebe dano de um ataque ou magia, você pode tentar um @Check[flat|showDC:all|dc:11] teste fixo (CD 11) para se recuperar da sua confusão e encerrar a condição.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Controlled": {
+      "name": "Controlado",
+      "description": "<p>Você foi comandado, dominado magicamente ou de outra forma teve sua vontade subvertida. O controlador dita como você age e pode fazer você usar qualquer uma de suas ações, incluindo ataques, reações ou até mesmo Adiar. O controlador geralmente não precisa gastar suas próprias ações ao controlá-lo.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Cursebound": {
+      "name": "Atado à Maldição",
+      "description": "<p>Sua maldição oracular está se apertando ao seu redor conforme você recebe punição divina após recorrer profundamente aos poderes do seu mistério. Atado à Maldição é uma condição que afeta apenas criaturas com uma maldição oracular, e Atado à Maldição sempre inclui um valor. Sua maldição oracular específica impõe efeitos negativos exclusivos, dependendo do seu valor de Atado à Maldição. Você pode remover a condição Atado à Maldição apenas Refocando.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Dazzled": {
+      "name": "Ofuscado",
+      "description": "<p>Seus olhos estão superexcitados ou sua visão está turva. Se a visão for seu único sentido preciso, todas as criaturas e objetos estão Ocultos de você.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Deafened": {
+      "name": "Ensurdecido",
+      "description": "<p>Você não pode ouvir. Você automaticamente falha criticamente em testes de Percepção que exigem que você seja capaz de ouvir. Você recebe uma penalidade de status -2 em testes de Percepção para iniciativa e testes que envolvem som, mas também dependem de outros sentidos. Se você realizar uma ação que tenha a característica auditiva, você deve ter sucesso em um @Check[flat|showDC:all|dc:5] teste fixo (CD 5) ou a ação é perdida; faça o teste após gastar a ação, mas antes que quaisquer efeitos sejam aplicados. Você é imune a efeitos auditivos enquanto estiver ensurdecido.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Doomed": {
+      "name": "Condenado",
+      "description": "<p>Sua alma foi agarrada por uma força poderosa que o chama para mais perto da morte. Condenado sempre inclui um valor. O valor de Morrendo no qual você morre é reduzido pelo seu valor de condenado. Se seu valor máximo de morrendo for reduzido para 0, você morre instantaneamente. Quando você morre, você não está mais condenado.</p>\n<p>Seu valor de condenado diminui em 1 cada vez que você tem uma noite inteira de descanso.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Drained": {
+      "name": "Drenado",
+      "description": "<p>Sua saúde e vitalidade foram esgotadas conforme você perdeu sangue, força vital ou alguma outra essência. Drenado sempre inclui um valor. Você recebe uma penalidade de status igual ao seu valor de drenado em testes baseados em Constituição, como testes de resistência de Fortitude. Você também perde um número de Pontos de Vida igual ao seu nível (mínimo 1) vezes o valor drenado, e seus Pontos de Vida máximos são reduzidos na mesma quantidade. Por exemplo, se você ficar drenado 3 e for um personagem de 3º nível, você perde 9 Pontos de Vida e reduz seus Pontos de Vida máximos em 9. Perder esses Pontos de Vida não conta como receber dano.</p>\n<p>Cada vez que você tem uma noite inteira de descanso, seu valor de drenado diminui em 1. Isso aumenta seus Pontos de Vida máximos, mas você não recupera imediatamente os Pontos de Vida perdidos.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Dying": {
+      "name": "Morrendo",
+      "description": "<p>Você está sangrando ou à beira da morte. Enquanto você tiver esta condição, você está Inconsciente. Morrendo sempre inclui um valor, e se ele atingir morrendo 4, você morre. Quando você está morrendo, você deve tentar um teste de recuperação no início do seu turno a cada rodada para determinar se você melhora ou piora. Sua condição de morrendo aumenta em 1 se você receber dano enquanto estiver morrendo, ou em 2 se você receber dano de um acerto crítico de um inimigo ou uma falha crítica em seu teste de resistência.</p>\n<p>Se você perder a condição morrendo por ser bem-sucedido em um teste de recuperação e ainda estiver com 0 Pontos de Vida, você permanece inconsciente, mas pode acordar conforme descrito nessa condição. Você perde a condição morrendo automaticamente e acorda se tiver 1 Ponto de Vida ou mais. Sempre que você perde a condição morrendo, você ganha a condição @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Ferido 1}, ou aumenta seu valor de condição ferido em 1 se você já tiver essa condição.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Encumbered": {
+      "name": "Sobrecarregado",
+      "description": "<p>Você está carregando mais peso do que consegue suportar. Enquanto estiver sobrecarregado, você fica @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Desajeitado 1} e recebe uma penalidade de 10 pés em todas as suas Velocidades. Como acontece com todas as penalidades à sua Velocidade, isso não pode reduzir sua Velocidade abaixo de 5 pés.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Enfeebled": {
+      "name": "Enfraquecido",
+      "description": "<p>Você está fisicamente enfraquecido. Enfraquecido sempre inclui um valor. Quando você está enfraquecido, você recebe uma penalidade de status igual ao valor da condição em rolagens e CDs baseados em Força, incluindo rolagens de ataque corpo a corpo baseadas em Força, rolagens de dano baseadas em Força e testes de Atletismo.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Fascinated": {
+      "name": "Fascinado",
+      "description": "<p>Você é compelido a concentrar sua atenção em algo, distraindo-o de qualquer outra coisa que esteja acontecendo ao seu redor. Você recebe uma penalidade de status -2 em testes de Percepção e perícia, e você não pode usar ações de concentrar a menos que elas (ou suas consequências pretendidas) estejam relacionadas ao assunto de sua fascinação, conforme determinado pelo Mestre. Por exemplo, você pode ser capaz de @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} e @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recordar Conhecimento} sobre o assunto, mas você provavelmente não poderia lançar uma magia visando uma criatura diferente. Esta condição termina se uma criatura usar ações hostis contra você ou qualquer um de seus aliados.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Fatigued": {
+      "name": "Fatigado",
+      "description": "<p>Você está cansado e não consegue reunir muita energia. Você recebe uma penalidade de status -1 na CA e nos testes de resistência. Você não pode usar atividades de exploração realizadas durante a viagem.</p>\n<p>Você se recupera da fadiga após uma noite inteira de descanso.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Fleeing": {
+      "name": "Fugindo",
+      "description": "<p>Você é forçado a fugir devido ao medo ou alguma outra compulsão. No seu turno, você deve gastar cada uma de suas ações tentando escapar da fonte da condição fugindo o mais rápido possível (como usando ações de movimento para fugir ou abrindo portas que impedem sua fuga). A fonte geralmente é o efeito ou criatura que causou a condição, embora alguns efeitos possam definir algo diferente como a fonte. Você não pode @UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Adiar} ou @UUID[Compendium.pf2e.actionspf2e.Item.dLgAMt3TbkmLkUqE]{Preparar} enquanto estiver fugindo.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Friendly": {
+      "name": "Amigável",
+      "description": "<p>Esta condição reflete a disposição de uma criatura em relação a um personagem em particular, e apenas efeitos sobrenaturais (como uma magia) podem impor esta condição a um PJ. Uma criatura que é amigável com um personagem gosta daquele personagem. É provável que concorde com Pedidos daquele personagem, desde que sejam simples, seguros e não custem muito para serem cumpridos. Se o personagem (ou um de seus aliados) usar ações hostis contra a criatura, a criatura ganha uma condição de atitude pior, dependendo da severidade da ação hostil, conforme determinado pelo Mestre.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Frightened": {
+      "name": "Assustado",
+      "description": "<p>Você está tomado pelo medo e luta para controlar seus nervos. A condição assustado sempre inclui um valor. Você recebe uma penalidade de status igual a esse valor em todos os seus testes e CDs. A menos que especificado de outra forma, no final de cada um dos seus turnos, o valor da sua condição assustado diminui em 1.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Grabbed": {
+      "name": "Agarrado",
+      "description": "<p>Você está sendo segurado no lugar por outra criatura, fazendo com que você fique com as condições @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} e @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizado}. Se você tentar uma ação de manipular enquanto estiver agarrado, você deve ter sucesso em um @Check[flat|showDC:all|dc:5] teste fixo (CD 5) ou ela será perdida; role o teste após gastar a ação, mas antes que quaisquer efeitos sejam aplicados.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Helpful": {
+      "name": "Prestativo",
+      "description": "<p>Esta condição reflete a disposição de uma criatura em relação a um personagem em particular, e apenas efeitos sobrenaturais (como uma magia) podem impor esta condição a um PJ. Uma criatura que é prestativa a um personagem deseja ajudar ativamente aquele personagem. Ela aceitará @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Pedidos} razoáveis daquele personagem, desde que tais pedidos não sejam às custas dos objetivos ou qualidade de vida da criatura prestativa. Se o personagem (ou um de seus aliados) usar uma ação hostil contra a criatura, a criatura ganha uma condição de atitude pior, dependendo da severidade da ação hostil, conforme determinado pelo Mestre.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Hidden": {
+      "name": "Escondido",
+      "description": "<p>Enquanto você estiver escondido de uma criatura, essa criatura sabe o espaço em que você está, mas não pode dizer exatamente onde você está. Você normalmente fica escondido usando Furtividade para @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Esconder-se}. Ao @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} uma criatura usando apenas sentidos imprecisos, ela permanece escondida, em vez de @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observada}. Uma criatura da qual você está escondido está @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} para você, e ela deve ter sucesso em um @Check[flat|showDC:all|dc:11] teste fixo (CD 11) ao mirar em você com um ataque, magia ou outro efeito ou ela falha em afetá-lo. Efeitos de área não estão sujeitos a este teste fixo.</p>\n<p>Uma criatura pode ser capaz de usar a ação buscar para tentar observá-lo.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Hostile": {
+      "name": "Hostil",
+      "description": "<p>Esta condição reflete a disposição de uma criatura em relação a um personagem em particular, e apenas efeitos sobrenaturais (como uma magia) podem impor esta condição a um PJ. Uma criatura hostil a um personagem procura ativamente prejudicar aquele personagem. Ela não necessariamente ataca, mas não aceitará @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Pedidos} do personagem.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Immobilized": {
+      "name": "Imobilizado",
+      "description": "<p>Você é incapaz de se mover. Você não pode usar nenhuma ação que tenha a característica movimento. Se você estiver imobilizado por algo que o mantém no lugar e uma força externa o moveria para fora do seu espaço, a força deve ter sucesso em um teste contra a CD do efeito que o mantém no lugar ou a defesa relevante (geralmente CD de Fortitude) do monstro que o mantém no lugar.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Indifferent": {
+      "name": "Indiferente",
+      "description": "<p>Esta condição reflete a disposição de uma criatura em relação a um personagem em particular, e apenas efeitos sobrenaturais (como uma magia) podem impor esta condição a um PJ. Uma criatura que é indiferente a um personagem não se importa de uma forma ou de outra com aquele personagem. Assuma que a atitude de uma criatura em relação a um determinado personagem é indiferente, a menos que especificado de outra forma.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Invisible": {
+      "name": "Invisível",
+      "description": "<p>Você não pode ser visto. Você está @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Não Detectado} para todos. As criaturas podem @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} para te detectar; se uma criatura for bem-sucedida em seu teste de Percepção contra sua CD de Furtividade, você se torna @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondido} para aquela criatura até que você se @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Esgueire} para se tornar não detectado novamente. Se você se tornar invisível enquanto alguém já pode te ver, você começa escondido para eles (em vez de não detectado) até que você se Esgueire com sucesso. Você não pode se tornar @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observado} enquanto estiver invisível, exceto por meio de habilidades especiais ou magia.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Observed": {
+      "name": "Observado",
+      "description": "<p>Qualquer coisa à vista está sendo observada por você. Se uma criatura tomar medidas para evitar a detecção, como usar Furtividade para @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Esconder-se}, ela pode se tornar @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondido} ou @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Não Detectado} em vez de observado. Se você tiver outro sentido preciso além da visão, você pode ser capaz de observar uma criatura ou objeto usando esse sentido. Você pode observar uma criatura apenas com seus sentidos precisos. Ao @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} uma criatura usando apenas sentidos imprecisos, ela permanece escondida, em vez de observada.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Off-Guard": {
+      "name": "Desprevenido",
+      "description": "<p>Você está distraído ou incapaz de concentrar toda a sua atenção na defesa. Você recebe uma penalidade de circunstância -2 na CA. Alguns efeitos fazem com que você fique desprevenido apenas para certas criaturas ou contra certos ataques. Outros - especialmente condições - podem te deixar desprevenido contra tudo. Se uma regra não especificar que a condição se aplica apenas a certas circunstâncias, ela se aplica a todas elas, como \"O alvo está desprevenido\".</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Paralyzed": {
+      "name": "Paralisado",
+      "description": "<p>Você está congelado no lugar. Você tem a condição @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} e não pode agir, exceto para @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recordar Conhecimento} e usar ações que requerem apenas sua mente (conforme determinado pelo Mestre). Seus sentidos ainda funcionam, mas apenas nas áreas que você pode perceber sem se mover, então você não pode @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar}.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Persistent Damage": {
+      "name": "Dano Persistente",
+      "description": "<p>Você está recebendo dano de um efeito contínuo, como estar em chamas. Isso aparece como \"X de dano persistente [tipo]\", onde \"X\" é a quantidade de dano causado e \"[tipo]\" é o tipo de dano. Como o dano normal, ele pode ser dobrado ou reduzido à metade com base nos resultados de um teste de ataque ou teste de resistência. Em vez de receber dano persistente imediatamente, você o recebe no final de cada um dos seus turnos, desde que tenha a condição, rolando quaisquer dados de dano novamente a cada vez. Depois de receber dano persistente, role um @Check[flat|showDC:all|dc:15] teste fixo (CD 15) para ver se você se recupera do dano persistente. Se você for bem-sucedido, a condição termina.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Petrified": {
+      "name": "Petrificado",
+      "description": "<p>Você foi transformado em pedra. Você não pode agir nem sentir nada. Você se torna um objeto com um Volume dobrado do seu Volume normal (normalmente 12 para uma criatura Média petrificada ou 6 para uma criatura Pequena petrificada), CA 9, Dureza 8 e os mesmos Pontos de Vida atuais que você tinha quando estava vivo. Você não tem um Limiar de Quebra. Quando a condição petrificado termina, você tem o mesmo número de Pontos de Vida que tinha como uma estátua. Se a estátua for destruída, você morre imediatamente. Enquanto petrificado, sua mente e corpo estão em estase, então você não envelhece nem percebe a passagem do tempo.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Prone": {
+      "name": "Prostrado",
+      "description": "<p>Você está deitado no chão. Você está @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} e recebe uma penalidade de circunstância -2 em rolagens de ataque. As únicas ações de movimento que você pode usar enquanto estiver prostrado são @UUID[Compendium.pf2e.actionspf2e.Item.Tj055UcNm6UEgtCg]{Rastejar} e @UUID[Compendium.pf2e.actionspf2e.Item.OdIUybJ3ddfL7wzj]{Levantar}. Levantar-se termina a condição prostrado. Você pode @UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{Obter Cobertura} enquanto estiver prostrado para se proteger e obter cobertura maior contra ataques à distância, mesmo se você não tiver um objeto para se esconder atrás, o que concede a você um bônus de circunstância +4 na CA contra ataques à distância (mas você permanece desprevenido).</p>\n<p>Se você for derrubado enquanto estiver @UUID[Compendium.pf2e.actionspf2e.Item.pprgrYQ1QnIDGZiy]{Escalando} ou @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Voando}, você cai. Você não pode ser derrubado ao @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Nadar}.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Quickened": {
+      "name": "Acelerado",
+      "description": "<p>Você é capaz de agir mais rapidamente. Você ganha 1 ação adicional no início do seu turno a cada rodada. Muitos efeitos que te aceleram exigem que você use esta ação extra apenas de certas maneiras. Se você for acelerado por várias fontes, você pode usar a ação extra que te foi concedida para qualquer ação única permitida por qualquer um dos efeitos que te aceleraram. Como acelerado tem seu efeito no início do seu turno, você não ganha ações imediatamente se for acelerado durante o seu turno.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Restrained": {
+      "name": "Restrito",
+      "description": "<p>Você está amarrado e mal consegue se mover, ou uma criatura o prendeu. Você tem as condições @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} e @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizado}, e você não pode usar nenhuma ação de ataque ou manipular, exceto para tentar @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapar} ou @UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Forçar Abertura} de suas amarras. Restrito substitui Agarrado.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Sickened": {
+      "name": "Enjoado",
+      "description": "<p>Você se sente mal. Enjoado sempre inclui um valor. Você recebe uma penalidade de status igual a esse valor em todos os seus testes e CDs. Você não pode ingerir nada voluntariamente - incluindo elixires e poções - enquanto estiver enjoado.</p>\n<p>Você pode gastar uma única ação vomitando em uma tentativa de se recuperar, o que permite que você tente imediatamente um teste de resistência de Fortitude contra a CD do efeito que o deixou enjoado. Em um sucesso, você reduz seu valor de enjoado em 1 (ou em 2 em um sucesso crítico).</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Slowed": {
+      "name": "Lento",
+      "description": "<p>Você tem menos ações. Lento sempre inclui um valor. Quando você recupera suas ações, reduza o número de ações recuperadas pelo seu valor de lento. Como você recupera ações no início do seu turno, você não perde ações imediatamente se ficar lento durante o seu turno.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Stunned": {
+      "name": "Atordoado",
+      "description": "<p>Você ficou insensível. Você não pode agir. Atordoado geralmente inclui um valor, que indica quantas ações no total você perde, possivelmente em vários turnos, por estar atordoado. Cada vez que você recupera ações, reduza o número que você recupera pelo seu valor de atordoado, então reduza seu valor de atordoado pelo número de ações que você perdeu. Por exemplo, se você estivesse atordoado 4, você perderia todas as suas 3 ações no seu turno, reduzindo para atordoado 1; no seu próximo turno, você perderia mais 1 ação e então seria capaz de usar suas 2 ações restantes normalmente. Atordoado também pode ter uma duração em vez disso, como \"atordoado por 1 minuto\", fazendo com que você perca todas as suas ações durante a duração.</p>\n<p>Atordoado substitui Lento. Se a duração da sua condição de atordoado terminar enquanto você estiver lento, você conta as ações perdidas para a condição de atordoado em relação às perdidas por estar lento. Então, se você estivesse atordoado 1 e lento 2 no início do seu turno, você perderia 1 ação por estar atordoado e então perderia apenas 1 ação adicional por estar lento, então você ainda teria 1 ação restante para usar naquele turno.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Stupefied": {
+      "name": "Estupefato",
+      "description": "<p>Seus pensamentos e instintos estão nublados. Estupefato sempre inclui um valor. Você recebe uma penalidade de status igual a esse valor em testes e CDs baseados em Inteligência, Sabedoria e Carisma, incluindo testes de resistência de Vontade, modificadores de ataque de magia, CDs de magia e testes de perícia que usam esses modificadores de atributo. Sempre que você tentar @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Conjurar uma Magia} enquanto estiver estupefato, a magia é interrompida a menos que você tenha sucesso em um @Check[flat|showDC:all|dc:resolve(5+@item.badge.value)] teste fixo (CD igual a 5 + seu valor de estupefato).</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Unconscious": {
+      "name": "Inconsciente",
+      "description": "<p>Você está dormindo ou foi nocauteado. Você não pode agir. Você recebe uma penalidade de status -4 na CA, Percepção e testes de resistência de Reflexos, e você tem as condições @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} e @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido}. Quando você ganha esta condição, você cai @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado} e deixa cair os itens que você está segurando, a menos que o efeito diga o contrário ou o Mestre determine que você está posicionado de forma que não faria isso.</p>\n<p>Se você estiver inconsciente porque está @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Morrendo}, você não pode acordar enquanto tiver 0 Pontos de Vida. Se você for restaurado para 1 Ponto de Vida ou mais, você perde as condições morrendo e inconsciente e pode agir normalmente no seu próximo turno.</p>\n<p>Se você estiver inconsciente e com 0 Pontos de Vida, mas não morrendo, você retorna para 1 Ponto de Vida e acorda depois que tempo suficiente passar. O Mestre determina por quanto tempo você permanece inconsciente, de um mínimo de 10 minutos a várias horas. Se você for curado, você perde a condição inconsciente e pode agir normalmente no seu próximo turno.</p>\n<p>Se você estiver inconsciente e tiver mais de 1 Ponto de Vida (normalmente porque você está dormindo ou inconsciente devido a um efeito), você acorda de uma das seguintes maneiras.</p>\n<ul>\n<li>Você recebe dano, embora se o dano reduzir você a 0 Pontos de Vida, você permanece inconsciente e ganha a condição morrendo normalmente.</li>\n<li>Você recebe cura, diferente da cura natural que você obtém descansando.</li>\n<li>Alguém te sacode para acordar com uma ação @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interagir}.</li>\n<li>Ruídos altos ao seu redor podem te acordar. No início do seu turno, você tenta automaticamente um teste de Percepção contra a CD do ruído (ou a CD mais baixa se houver mais de um ruído), acordando se tiver sucesso. Se as criaturas estiverem tentando ficar quietas perto de você, este teste de Percepção usa suas CDs de Furtividade. Alguns efeitos fazem você dormir tão profundamente que não permitem este teste de Percepção.</li>\n<li>Se você estiver simplesmente dormindo, o Mestre decide que você acorda porque teve uma noite de sono repousante ou algo interrompeu esse descanso.</li>\n</ul>",
+      "source": "Pathfinder Player Core"
+    },
+    "Undetected": {
+      "name": "Não Detectado",
+      "description": "<p>Quando você está não detectado por uma criatura, essa criatura não pode te ver, não tem ideia de qual espaço você ocupa e não pode te ter como alvo, embora você ainda possa ser afetado por habilidades que têm como alvo uma área. Quando você está não detectado por uma criatura, essa criatura está @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} para você.</p>\n<p>Uma criatura para a qual você está não detectado pode adivinhar em qual quadrado você está para tentar te mirar. Ela deve escolher um quadrado e tentar um ataque. Isso funciona como mirar em uma criatura @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondida} (exigindo um @Check[flat|showDC:all|dc:11|traits:secret] teste fixo (CD 11)), mas o teste fixo e o teste de ataque são rolados em segredo pelo Mestre, que não revela se o ataque errou devido à falha no teste fixo, falha no teste de ataque ou escolha do quadrado errado. Ela pode @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} para tentar te encontrar.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Unfriendly": {
+      "name": "Indisposto",
+      "description": "<p>Esta condição reflete a disposição de uma criatura em relação a um personagem em particular, e apenas efeitos sobrenaturais (como uma magia) podem impor esta condição a um PJ. Uma criatura que é indisposta a um personagem não gosta e desconfia daquele personagem. A criatura indisposta não aceitará @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Pedidos} do personagem.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Unnoticed": {
+      "name": "Despercebido",
+      "description": "<p>Se você não for notado por uma criatura, essa criatura não tem ideia de que você está presente. Quando você não é notado, você também está @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Não Detectado}. Isso importa para habilidades que podem ser usadas apenas contra alvos totalmente inconscientes de sua presença.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Wounded": {
+      "name": "Ferido",
+      "description": "<p>Você foi gravemente ferido. Se você perder a condição @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Morrendo} e ainda não tiver a condição ferido, você se torna ferido 1. Se você já tiver a condição ferido quando perder a condição morrendo, seu valor de condição ferido aumenta em 1. Se você ganhar a condição morrendo enquanto estiver ferido, aumente seu valor de condição morrendo pelo seu valor de ferido.</p>\n<p>A condição ferido termina se alguém restaurar com sucesso Pontos de Vida para você usando @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Tratar Ferimentos}, ou se você for restaurado aos Pontos de Vida totais por qualquer meio e descansar por 10 minutos.</p>",
+      "source": "Pathfinder Player Core"
+    }
+  },
+  "mapping": {
+    "description": "system.description.value",
+    "name": {
+      "converter": "translateDualLanguage",
+      "path": "name"
+    },
+    "rules": {
+      "converter": "translateRules",
+      "path": "system.rules"
+    },
+    "source": {
+      "converter": "translateSource",
+      "path": "system.publication.title"
+    }
+  }
+}

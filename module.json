@@ -1,0 +1,67 @@
+{
+  "id": "lang-pt-BR-pf2e",
+  "title": "Brazilian Portuguese [Pathfinder 2e]",
+  "version": "6.7.1.0",
+  "compatibility": {
+    "minimum": "12.328",
+    "verified": "12.331",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "Nelio Vieira"
+    }
+  ],
+  "description": "Tradução não oficial do Pathfinder 2e para Português Brasileiro",
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português Brasileiro",
+      "path": "translation/pt-BR/pt-BR.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Actions",
+      "path": "translation/pt-BR/action-pt-BR.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Elementos de Regras",
+      "path": "translation/pt-BR/re-pt-BR.json"
+    },
+    {
+        "lang": "pt-BR",
+        "name": "Kingmaker",
+        "path": "translation/pt-BR/kingmaker-pt-BR.json"
+}
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.7.1",
+          "verified": "6.7.1"
+}
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.5.6",
+          "verified": "2.5.6"
+        }
+      }
+    ]
+  },
+  "esmodules": ["src/babele-register.js", "src/translator/translator.js"],
+  "url": "https://github.com/neliodv/lang-pt-BR-pf2e",
+  "manifest": "https://github.com/neliodv/lang-pt-BR-pf2e/releases/latest/download/module.json",
+  "download": "https://github.com/neliodv/lang-pt-BR-pf2e/releases/latest/download/lang-pt-BR-pf2e.zip",
+  "bugs": "https://github.com/neliodv/lang-pt-BR-pf2e/issues",
+  "readme": "https://github.com/neliodv/lang-pt-BR-pf2e/blob/main/README.md",
+  "changelog": "https://github.com/neliodv/lang-pt-BR-pf2e/blob/main/CHANGELOG.md"
+}

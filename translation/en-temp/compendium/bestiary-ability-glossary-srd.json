@@ -1,0 +1,241 @@
+{
+  "label": "bestiary-ability-glossary-srd",
+  "entries": {
+    "+1 Status to All Saves vs. Magic": {
+      "name": "+1 Status to All Saves vs. Magic",
+      "source": "Pathfinder Monster Core"
+    },
+    "All-Around Vision": {
+      "name": "All-Around Vision",
+      "source": "Pathfinder Monster Core"
+    },
+    "Aquatic Ambush": {
+      "name": "Aquatic Ambush",
+      "source": "Pathfinder Monster Core"
+    },
+    "At-Will Spells": {
+      "name": "At-Will Spells",
+      "source": "Pathfinder Monster Core"
+    },
+    "Attack of Opportunity": {
+      "name": "Attack of Opportunity",
+      "source": "Pathfinder Bestiary"
+    },
+    "Aura": {
+      "name": "Aura",
+      "source": "Pathfinder Monster Core"
+    },
+    "Buck": {
+      "name": "Buck",
+      "description": "<p>@Check[reflex|dc:]</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Catch Rock": {
+      "name": "Catch Rock",
+      "source": "Pathfinder Bestiary"
+    },
+    "Change Shape": {
+      "name": "Change Shape",
+      "source": "Pathfinder Monster Core"
+    },
+    "Constant Spells": {
+      "name": "Constant Spells",
+      "source": "Pathfinder Monster Core"
+    },
+    "Constrict": {
+      "name": "Constrict",
+      "description": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Coven": {
+      "name": "Coven",
+      "source": "Pathfinder Monster Core"
+    },
+    "Darkvision": {
+      "name": "Darkvision",
+      "source": "Pathfinder Monster Core"
+    },
+    "Disease": {
+      "name": "Disease",
+      "source": "Pathfinder Monster Core"
+    },
+    "Engulf": {
+      "name": "Engulf",
+      "description": "<p>@Check[reflex|dc:], @Damage[(0)[damageType]] damage, Escape DC [0], Rupture [0]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Fast Healing": {
+      "name": "Fast Healing",
+      "source": "Pathfinder Monster Core"
+    },
+    "Ferocity": {
+      "name": "Ferocity",
+      "source": "Pathfinder Monster Core"
+    },
+    "Form Up": {
+      "name": "Form Up",
+      "source": "Pathfinder Bestiary 3"
+    },
+    "Frightful Presence": {
+      "name": "Frightful Presence",
+      "description": "<p>0 feet @Check[will|dc:]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Grab": {
+      "name": "Grab",
+      "source": "Pathfinder Monster Core"
+    },
+    "Greater Constrict": {
+      "name": "Greater Constrict",
+      "description": "<p>@Damage[(0)[bludgeoning]], @Check[fortitude|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Greater Darkvision": {
+      "name": "Greater Darkvision",
+      "source": "Pathfinder Monster Core"
+    },
+    "Improved Grab": {
+      "name": "Improved Grab",
+      "source": "Pathfinder Monster Core"
+    },
+    "Improved Knockdown": {
+      "name": "Improved Knockdown",
+      "source": "Pathfinder Monster Core"
+    },
+    "Improved Push": {
+      "name": "Improved Push",
+      "source": "Pathfinder Monster Core"
+    },
+    "Knockdown": {
+      "name": "Knockdown",
+      "source": "Pathfinder Monster Core"
+    },
+    "Lifesense": {
+      "name": "Lifesense",
+      "source": "Pathfinder Monster Core"
+    },
+    "Light Blindness": {
+      "name": "Light Blindness",
+      "source": "Pathfinder Monster Core"
+    },
+    "Low-Light Vision": {
+      "name": "Low-Light Vision",
+      "source": "Pathfinder Monster Core"
+    },
+    "Master's Eye": {
+      "name": "Master's Eye",
+      "description": "<p>The master observes the world through the raktavarna's eyes instead of their own, using the raktavarna's Perception and darkvision. This lasts until the end of the master's next turn, but the master can Sustain the activity.</p>\n<p>This ability functions at any range, even on different planes of existence. If the raktavarna dies while their master is using this ability, the master is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 5}.</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Nimble Dodge": {
+      "name": "Nimble Dodge",
+      "description": "<p><strong>Trigger</strong> A creature targets you with an attack and you can see the attacker.</p>\n<p><strong>Requirements</strong> You are not encumbered</p>\n<hr />\n<p>You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.</p>",
+      "source": "Pathfinder Core Rulebook"
+    },
+    "Poison": {
+      "name": "Poison",
+      "source": "Pathfinder Monster Core"
+    },
+    "Power Attack": {
+      "name": "Power Attack"
+    },
+    "Pull": {
+      "name": "Pull",
+      "source": "Pathfinder Monster Core"
+    },
+    "Push": {
+      "name": "Push",
+      "source": "Pathfinder Monster Core"
+    },
+    "Reactive Strike": {
+      "name": "Reactive Strike",
+      "source": "Pathfinder Monster Core"
+    },
+    "Regeneration": {
+      "name": "Regeneration",
+      "source": "Pathfinder Monster Core"
+    },
+    "Rend": {
+      "name": "Rend",
+      "source": "Pathfinder Monster Core"
+    },
+    "Retributive Strike": {
+      "name": "Retributive Strike",
+      "source": "Pathfinder Bestiary"
+    },
+    "Scent": {
+      "name": "Scent",
+      "source": "Pathfinder Monster Core"
+    },
+    "Shield Block": {
+      "name": "Shield Block",
+      "source": "Pathfinder Monster Core"
+    },
+    "Sneak Attack": {
+      "name": "Sneak Attack",
+      "description": "<p>The creature's Strikes deal an additional 1d6 precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>",
+      "source": "Pathfinder Bestiary"
+    },
+    "Stench": {
+      "name": "Stench",
+      "description": "<p>@Check[fortitude|dc:]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Stench]</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Swallow Whole": {
+      "name": "Swallow Whole",
+      "description": "<p>[Listed Size], @Damage[(0)[bludgeoning]], Rupture [0]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Swarm Mind": {
+      "name": "Swarm Mind",
+      "source": "Pathfinder Monster Core"
+    },
+    "Telepathy": {
+      "name": "Telepathy",
+      "source": "Pathfinder Monster Core"
+    },
+    "Thoughtsense": {
+      "name": "Thoughtsense"
+    },
+    "Throw Rock": {
+      "name": "Throw Rock",
+      "source": "Pathfinder Monster Core"
+    },
+    "Trample": {
+      "name": "Trample",
+      "description": "<p>[Size], [Listed Strike], @Check[reflex|dc:|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>",
+      "source": "Pathfinder Monster Core"
+    },
+    "Tremorsense": {
+      "name": "Tremorsense",
+      "source": "Pathfinder Monster Core"
+    },
+    "Troop Defenses": {
+      "name": "Troop Defenses",
+      "source": "Pathfinder Bestiary 3"
+    },
+    "Void Healing": {
+      "name": "Void Healing",
+      "source": "Pathfinder Monster Core"
+    },
+    "Wavesense": {
+      "name": "Wavesense",
+      "source": "Pathfinder Monster Core"
+    }
+  },
+  "mapping": {
+    "description": "system.description.value",
+    "name": {
+      "converter": "translateDualLanguage",
+      "path": "name"
+    },
+    "rules": {
+      "converter": "translateRules",
+      "path": "system.rules"
+    },
+    "source": {
+      "converter": "translateSource",
+      "path": "system.publication.title"
+    }
+  }
+}

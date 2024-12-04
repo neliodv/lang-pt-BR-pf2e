@@ -1,0 +1,14 @@
+lang-pt-BR-pf2e.lock
+packs/
+.vs/
+.vscode/
+buildconfig.json
+build/**
+lang-de-pf2e/
+lang-de-pf2e.lock
+node_modules/
+src/crowdin-manager/database/
+src/crowdin-manager/crowdin-config.json
+src/crowdin-manager/updateLabels.json
+src/leveldb/leveldb-config.json
+src/xliff/xliff-config.json

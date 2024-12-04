@@ -1,0 +1,290 @@
+{
+  "label": "características de ancestralidade",
+  "entries": {
+    "Advanced Undead Benefits": {
+      "name": "Benefícios Avançados de Morto-Vivo",
+      "description": "<p><strong>Visão no Escuro:</strong> Você ganha visão no escuro se ainda não a tiver.</p>\n<p><strong>Proteção Aprimorada contra Doenças e Veneno:</strong> Seu bônus contra doenças e veneno aumenta para +2. Você ganha resistência a veneno igual à metade do seu nível.</p>\n<p><strong>Proteção contra Paralisia e Sono:</strong> Você ganha um bônus de circunstância +1 em testes de resistência (ou qualquer outra defesa) contra efeitos que o deixariam @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralisado} ou que tenham o traço sono.</p>",
+      "source": "Pathfinder Book of the Dead"
+    },
+    "Animal Attack": {
+      "name": "Ataque Animal",
+      "description": "<p>Sua herança lhe dá um ataque desarmado especial em vez do ataque desarmado de punho que os humanoides normalmente ganham. Este ataque está no grupo de armas de combate. Trabalhe com seu Mestre para determinar qual você tem, usando o tipo de animal que você é e as sugestões em sua herança como guia. Por exemplo, você pode escolher um bico, garra ou asa para uma águia, um punho ou cauda para um macaco ou uma língua ou mandíbulas para um sapo.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Ataque Desarmado</th>\n<th>Dano</th>\n<th>Traços</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Chifre</strong></td>\n<td>1d6 P</td>\n<td>Finesse, desarmado</td>\n</tr>\n<tr>\n<td><strong>Bico</strong></td>\n<td>1d6 P</td>\n<td>Finesse, desarmado</td>\n</tr>\n<tr>\n<td><strong>Garra</strong></td>\n<td>1d4 C</td>\n<td>Ágil, finesse, desarmado</td>\n</tr>\n<tr>\n<td><strong>Presas</strong></td>\n<td>1d6 P</td>\n<td>Finesse, desarmado</td>\n</tr>\n<tr>\n<td><strong>Punho</strong></td>\n<td>1d4 C</td>\n<td>Ágil, finesse, não letal, desarmado</td>\n</tr>\n<tr>\n<td><strong>Chifre</strong></td>\n<td>1d6 P</td>\n<td>Finesse, desarmado</td>\n</tr>\n<tr>\n<td><strong>Mandíbulas</strong></td>\n<td>1d6 P</td>\n<td>Finesse, desarmado</td>\n</tr>\n<tr>\n<td><strong>Cauda</strong></td>\n<td>1d6 C</td>\n<td>Finesse, derrubar, desarmado</td>\n</tr>\n<tr>\n<td><strong>Garra</strong></td>\n<td>1d4 P</td>\n<td>Ágil, finesse, desarmado</td>\n</tr>\n<tr>\n<td><strong>Língua</strong></td>\n<td>1d6 C</td>\n<td>Finesse, desarmado</td>\n</tr>\n<tr>\n<td><strong>Asa</strong></td>\n<td>1d4 C</td>\n<td>Ágil, finesse, desarmado</td>\n</tr>\n</tbody>\n</table>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Aquatic Adaptation": {
+      "name": "Adaptação Aquática",
+      "description": "<p>Sua biologia reptiliana permite que você prenda a respiração por muito tempo. Você ganha o talento geral @UUID[Compendium.pf2e.feats-srd.Item.aJUXbe9HJVvv0Mxa]{Controle da Respiração} como um talento bônus.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Aquatic Grace": {
+      "name": "Graça Aquática",
+      "description": "<p>Quando você rola um sucesso em um teste de resistência contra um efeito de água, você obtém um sucesso crítico em vez disso.</p>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Automaton Core": {
+      "name": "Núcleo de Autômato",
+      "description": "<p>Seu corpo contém um núcleo de autômato infundido com quintessência planar que lhe concede poder para realizar várias tarefas e abriga sua alma e energia vital. Essa energia vital flui através de você como o sangue dos humanoides. Como resultado, você é uma criatura viva. Você não tem as imunidades típicas de construto, pode ser afetado por efeitos que têm como alvo uma criatura viva e pode recuperar Pontos de Vida normalmente por meio de energia vital. Além disso, você não é destruído quando reduzido a 0 Pontos de Vida. Em vez disso, sua energia vital tenta mantê-lo ativo mesmo em situações terríveis; você é nocauteado e começa a morrer quando reduzido a 0 Pontos de Vida.</p>",
+      "source": "Pathfinder Guns & Gears"
+    },
+    "Awakened Form": {
+      "name": "Forma Desperta",
+      "description": "<p>O despertar alterou sua forma, permitindo que você fale verbalmente e fique de pé sobre duas pernas. Você pode usar, segurar, empunhar e usar itens. Quais membros você usa para manipular itens e quantos são determinados por você e seu Mestre, mas para as regras você funciona como um humanoide com duas mãos.</p>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Awakened Mind": {
+      "name": "Mente Desperta",
+      "description": "<p>O despertar alterou sua mente. Você não é mais um animal, mas ainda pode fazer perguntas, receber respostas e usar a perícia Diplomacia com animais de sua espécie. Ao se lembrar de seus instintos, você pode se permitir ser afetado por magias e outros efeitos como se fosse um animal.</p>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Basic Undead Benefits": {
+      "name": "Benefícios Básicos de Morto-Vivo",
+      "description": "<p><strong>Necril:</strong> Você conhece o idioma Necril.</p>\n<p><strong>Visão de Morto-Vivo:</strong> Você ganha visão em condições de pouca luz ou visão no escuro se sua ancestralidade já tiver visão em condições de pouca luz.</p>\n<p><strong>Cura do Vazio:</strong> Você é danificado por dano de vitalidade e não é curado por efeitos de cura de vitalidade. Você não sofre dano de vazio e é curado por efeitos de vazio que curam mortos-vivos.</p>\n<p><strong>Sobrevivência Negativa:</strong> Ao contrário dos mortos-vivos normais, você não é destruído quando reduzido a 0 Pontos de Vida. Em vez disso, a poderosa energia do vazio tenta impedir que você seja destruído mesmo em situações terríveis. Você é nocauteado e começa a morrer quando reduzido a 0 Pontos de Vida. Como você é um morto-vivo, muitos métodos de trazer alguém de volta da morte, como estabilizar, não o beneficiam. Quando você morreria, você é destruído em vez de morto, assim como outros mortos-vivos.</p>\n<p><strong>Imunidade a Efeitos de Morte:</strong> Você é imune a efeitos de morte. Isso impede que você seja morto automaticamente ou que seu valor de morte aumente automaticamente, mas não o torna imune a outras partes da magia ou efeito. Por exemplo, você ainda pode sofrer dano mental e ficar assustado com um assassino fantasmagórico, mas você não morre instantaneamente por causa disso.</p>\n<p><strong>Proteção contra Doenças e Venenos:</strong> Você ganha um bônus de circunstância +1 em testes de resistência (ou qualquer outra defesa) contra doenças e venenos.</p>\n<p><strong>Fome de Morto-Vivo:</strong> Embora você não coma ou beba a mesma comida que os humanoides, você geralmente tem sede e fome relacionadas ao seu estado de morto-vivo, como a fome de um ghoul por carne humanoide, o desejo de um zumbi por cérebros e o desejo de um vampiro por sangue. Além disso, embora você não durma, você entra em um estado de quiescência por pelo menos 4 horas por dia para se recuperar, o que permite que sua carne de morto-vivo se regenere e se recupere naturalmente. Muitos mortos-vivos optam por descansar quando o sol está mais alto.</p>",
+      "source": "Pathfinder Book of the Dead"
+    },
+    "Bite": {
+      "name": "Mordida",
+      "description": "<p>Seus dentes afiados e mandíbulas poderosas são armas temíveis. Você tem um ataque desarmado de mandíbulas que causa 1d6 de dano perfurante. Suas mandíbulas estão no grupo de combate.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Blunt Snout": {
+      "name": "Focinho Arredondado",
+      "description": "<p>Seu focinho pequeno e arredondado e sistema sinusal labiríntico o tornam resistente a fenômenos que atacam o nariz. Quando você rola um teste de resistência contra ameaças inaladas (como venenos inalados) e efeitos olfativos (como o fedor de xulgath), você obtém o resultado um grau de sucesso melhor do que o resultado da sua rolagem.</p>",
+      "source": "Pathfinder #153: Life's Long Shadows"
+    },
+    "Change Shape": {
+      "name": "Mudar de Forma",
+      "description": "<p>Como um kitsune, você ganha a habilidade @UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{Mudar de Forma}.</p>",
+      "source": "Pathfinder Lost Omens: Ancestry Guide"
+    },
+    "Clan Dagger": {
+      "name": "Adaga do Clã",
+      "description": "<p>Você recebe uma @UUID[Compendium.pf2e.equipment-srd.Item.kJJvKm80KwWXPukV]{Adaga do Clã} do seu clã gratuitamente, pois ela foi dada a você no nascimento. Vender esta adaga é um tabu terrível e faz com que você seja desprezado por outros anões.</p>",
+      "source": "Pathfinder Core Rulebook"
+    },
+    "Claws": {
+      "name": "Garras",
+      "description": "<p>Suas garras afiadas oferecem uma alternativa aos punhos que outros humanoides usam em uma luta. Você tem um ataque desarmado de garra que causa 1d4 de dano cortante e tem os traços ágil e finesse.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Constructed": {
+      "name": "Construído",
+      "description": "<p>Seu corpo sintético resiste a doenças melhor do que aqueles de organismos puramente biológicos. Você ganha um bônus de circunstância +1 em testes de resistência contra doenças, venenos e radiação.</p>",
+      "rules": {
+        "0": {
+          "label": "Construído (contra doenças, venenos e radiação)"
+        }
+      },
+      "source": "Pathfinder Lost Omens: Ancestry Guide"
+    },
+    "Constructed (Poppet)": {
+      "name": "Construído (Poppet)",
+      "description": "<p>Os materiais do seu corpo resistem a doenças que atacam a carne. Você ganha um bônus de circunstância +1 em testes de resistência contra efeitos de morte, doença e veneno, bem como em testes de resistência contra efeitos que lhe dariam as condições drenado, paralisado ou enjoado. Sua centelha de vida significa que você é uma criatura viva e pode ser curado por energia vital e ferido por energia do vazio normalmente.</p>",
+      "rules": {
+        "0": {
+          "label": "Construído (contra doenças, venenos, efeitos de morte, paralisia, drenado e enjoado)"
+        }
+      },
+      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+    },
+    "Constructed Body": {
+      "name": "Corpo Construído",
+      "description": "<p>Suas necessidades fisiológicas são diferentes das de criaturas vivas. Você não precisa comer ou beber. Você não precisa dormir, mas ainda precisa de um período de descanso diário. Durante este período de descanso, você deve entrar em um estado de espera recuperador por 2 horas, que é semelhante a dormir, exceto que você está ciente do que o rodeia e não sofre penalidades por estar @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Inconsciente}. Assim como acontece com o sono, se você ficar muito tempo sem entrar em seu estado de espera, você fica @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigado} e não pode se recuperar até que entre em espera por 2 horas.</p>",
+      "source": "Pathfinder Guns & Gears"
+    },
+    "Cryptomnesia": {
+      "name": "Criptomnésia",
+      "description": "<p>Você retém fragmentos de conhecimento de suas vidas anteriores. Você ganha um bônus de circunstância +1 em testes de perícia não treinados.</p>",
+      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+    },
+    "Draconic Exemplar": {
+      "name": "Exemplar Dracônico",
+      "description": "<p>Você extrai poderes menores do seu exemplar dracônico. Escolha um tipo de dragão cromático ou metálico para ser seu exemplar. Isso determina a cor e a aparência da sua escama, e os dragões às vezes olham de forma mais favorável para os kobolds que se parecem com eles, a critério do Mestre. Seu exemplar também pode determinar detalhes de outras habilidades que você possui, usando a tabela de Exemplares Dracônicos.</p>\n<h3><strong>Tabela 1-1 Exemplares Dracônicos</strong></h3>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>Dragão</th>\n<th>Formato da Arma de Sopro</th>\n<th>Tipo de Dano</th>\n<th>Teste de Resistência</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Negro</td>\n<td>Linha</td>\n<td>Ácido</td>\n<td>Reflexos</td>\n</tr>\n<tr>\n<td>Azul</td>\n<td>Linha</td>\n<td>Eletricidade</td>\n<td>Reflexos</td>\n</tr>\n<tr>\n<td>Verde</td>\n<td>Cone</td>\n<td>Veneno</td>\n<td>Fortitude</td>\n</tr>\n<tr>\n<td>Vermelho</td>\n<td>Cone</td>\n<td>Fogo</td>\n<td>Reflexos</td>\n</tr>\n<tr>\n<td>Branco</td>\n<td>Cone</td>\n<td>Frio</td>\n<td>Reflexos</td>\n</tr>\n<tr>\n<td>Latão</td>\n<td>Linha</td>\n<td>Fogo</td>\n<td>Reflexos</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>Linha</td>\n<td>Eletricidade</td>\n<td>Reflexos</td>\n</tr>\n<tr>\n<td>Cobre</td>\n<td>Linha</td>\n<td>Ácido</td>\n<td>Reflexos</td>\n</tr>\n<tr>\n<td>Ouro</td>\n<td>Cone</td>\n<td>Fogo</td>\n<td>Reflexos</td>\n</tr>\n<tr>\n<td>Prata</td>\n<td>Cone</td>\n<td>Frio</td>\n<td>Reflexos</td>\n</tr>\n</tbody>\n</table>",
+      "source": "Pathfinder Advanced Player's Guide"
+    },
+    "Emotionally Unaware": {
+      "name": "Emocionalmente Inconsciente",
+      "description": "<p>Você tem dificuldade em entender e expressar emoções complexas. Você sofre uma penalidade de circunstância -1 em testes de Diplomacia e Performance e em testes de Percepção para Sentir Motivação.</p>",
+      "rules": {
+        "0": {
+          "label": "Emocionalmente Inconsciente (para Sentir Motivação)"
+        }
+      },
+      "source": "Pathfinder Lost Omens: Ancestry Guide"
+    },
+    "Empathic Sense": {
+      "name": "Sentido Empático",
+      "description": "<p>Os kashrishi são capazes de ter uma vaga noção do estado emocional atual de outras pessoas em um raio de 15 pés deles. Isso se manifesta como um sentimento geral de felicidade, raiva ou medo, sem nenhum detalhe específico. Para aqueles com quem os kashrishi têm uma conexão emocional, o toque físico pode aumentar esse sentido para maiores graus de detalhe e compreensão, aumentando com a força de seu vínculo. Isso também funciona como um sentido impreciso, alertando você sobre a presença, mas não a localização precisa, de criaturas não irracionais dentro da área. Você ganha um bônus de circunstância +2 em testes de Percepção para @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sentir Motivação} contra criaturas não irracionais dentro da área do seu sentido empático.</p>",
+      "source": "Pathfinder Lost Omens: Impossible Lands"
+    },
+    "Eyes in Back": {
+      "name": "Olhos Atrás",
+      "description": "<p>Você tem olhos que apontam em várias direções diferentes e instintivamente percebe o movimento nas periferias da sua visão. Quando você usa a ação básica Procurar, você pode procurar criaturas em duas áreas em vez de uma. Se a precisão for necessária, você pode selecionar dois @Template[cone|distance:30]s ou @Template[burst|distance:15]s dentro da linha de visão em vez de um.</p>",
+      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+    },
+    "Fangs": {
+      "name": "Presas",
+      "description": "<p>Você nasceu com um meio natural de caça e autodefesa. Você ganha um ataque desarmado de presas que causa 1d6 de dano perfurante. Suas presas estão no grupo de combate e têm os traços finesse e desarmado.</p>",
+      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+    },
+    "Fangs (Nagaji)": {
+      "name": "Presas (Nagaji)",
+      "description": "<p>Sua boca contém fileiras de dentes em forma de gancho, afiados como agulhas, ou um par de presas de serpente cruéis. Você ganha um ataque desarmado de presas que causa 1d6 de dano perfurante. Suas presas estão no grupo de combate e têm os traços finesse e desarmado.</p>",
+      "source": "Pathfinder Lost Omens: Impossible Lands"
+    },
+    "Flammable": {
+      "name": "Inflamável",
+      "description": "<p>Você tem fraqueza a dano de fogo igual a um terço do seu nível (mínimo 1).</p>",
+      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+    },
+    "Glowing Horn": {
+      "name": "Chifre Brilhante",
+      "description": "<p>Seu chifre reage à energia psíquica brilhando suavemente. O chifre emite luz fraca em um @Template[emanation|distance:10] até o início do seu próximo turno sempre que você usar uma ação oculta que ganhou de um talento de ancestralidade, lançar uma magia oculta inata ou Lançar uma Magia que tenha o traço mental.</p>",
+      "source": "Pathfinder Lost Omens: Impossible Lands"
+    },
+    "Greater Darkvision": {
+      "name": "Visão no Escuro Maior",
+      "description": "<p>Você pode ver na escuridão e luz fraca tão bem quanto pode ver na luz forte, embora sua visão na escuridão seja em preto e branco. Algumas formas de escuridão mágica, como uma magia de @UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{Escuridão} de 4º nível, bloqueiam a visão no escuro normal. Você, no entanto, pode ver através mesmo dessas formas de escuridão mágica.</p>",
+      "source": "Pathfinder Advanced Player's Guide"
+    },
+    "Head Gem": {
+      "name": "Gema da Cabeça",
+      "description": "<p>Em sua testa há uma gema que abriga sua alma. Ao lançar qualquer magia ou ritual para trazê-lo de volta à vida, sua @UUID[Compendium.pf2e.equipment-srd.Item.FA1mAc7rEyC9vzZa]{Gema da Cabeça} intacta pode ser substituída por seu corpo. Embora você possa remover livremente a gema da sua cabeça, normalmente é impossível para outra criatura remover ou destruir à força a gema da sua cabeça, a menos que você seja morto ou permanentemente incapacitado primeiro; a critério do Mestre, magia ou habilidades poderosas podem contornar essa restrição. Se a gema da sua cabeça for removida ou destruída, ela pode ser regenerada usando um ritual de um dia. Quando isso ocorre, quaisquer restos da gema anterior imediatamente se desfazem em pó.</p>",
+      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+    },
+    "Horns (Minotaur)": {
+      "name": "Chifres (Minotauro)",
+      "description": "<p>Seus chifres afiados são tão mortais quanto lanças. Você tem um ataque desarmado de chifres que causa 1d8 de dano perfurante. Seus chifres estão no grupo de combate e têm o traço desarmado.</p>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Horns (Sarangay)": {
+      "name": "Chifres (Sarangay)",
+      "description": "<p>Seus chifres poderosos são armas formidáveis. Você tem um ataque desarmado de chifres que causa 1d6 de dano perfurante e tem o traço empurrar. Seus chifres estão no grupo de combate.</p>",
+      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+    },
+    "Hydration": {
+      "name": "Hidratação",
+      "description": "<p>Embora você seja um ser anfíbio tão capaz em terra quanto na água, seu corpo exige que você retorne aos ambientes aquáticos pelo menos uma vez em um período de 24 horas. Você deve submergir na água para reidratar sua pele aclimatada à água.</p>\n<p>Se você não fizer isso, sua pele começa a rachar e suas guelras doem. Após as primeiras 24 horas fora da água, você sofre uma penalidade de status -1 em testes de resistência de Fortitude. Após 48 horas, você luta para respirar ar e começa a sufocar até retornar à água.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Q5FUu7yhWPJlcXei]{Efeito: Desidratado}</p>",
+      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+    },
+    "Hydration (Merfolk)": {
+      "name": "Hidratação (Merfolk)",
+      "description": "<p>Seu corpo exige que você retorne aos ambientes aquáticos pelo menos uma vez em um período de 24 horas. Após as primeiras 24 horas fora da água, você sofre uma penalidade de status -1 em testes de resistência de Fortitude. Após 48 horas, você luta para respirar ar e começa a sufocar até retornar à água.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Q5FUu7yhWPJlcXei]{Efeito: Desidratado}</p>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Innate Venom": {
+      "name": "Veneno Inato",
+      "description": "<p>Seu sangue carrega toxinas mortais para todos, exceto você. Você ganha a ação @UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenenar}, que pode liberar veneno vishkanya menor. O CD de teste de resistência para o seu veneno é igual ao maior entre seu CD de classe ou CD de magia.</p>",
+      "source": "Pathfinder Lost Omens: Impossible Lands"
+    },
+    "Keen Eyes": {
+      "name": "Olhos Aguçados",
+      "description": "<p>Seus olhos são afiados, permitindo que você discerne pequenos detalhes sobre criaturas @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Oculto} ou mesmo @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisível} que outros podem não notar. Você ganha um bônus de circunstância +2 ao usar a ação @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Procurar} para encontrar criaturas @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondido} ou @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Indetectadas} em um raio de 30 pés de você. Quando você mirar em um oponente que está oculto de você ou escondido de você, reduza o CD do teste fixo para 3 para um alvo oculto ou 9 para um alvo escondido.</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Land on Your Feet": {
+      "name": "Cair de Pé",
+      "description": "<p>Quando você cai, você sofre apenas metade do dano normal e não cai @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado}.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Magical Strikes": {
+      "name": "Golpes Mágicos",
+      "description": "<p>Sua magia inerente permeia todo o seu ser. Todos os seus Golpes são mágicos, sejam com ataques desarmados ou com armas.</p>",
+      "source": "Pathfinder Lost Omens: Ancestry Guide"
+    },
+    "Magiphage": {
+      "name": "Magifago",
+      "description": "<p>Os vários nódulos em seu corpo atraem magia latente do mundo ao seu redor. Você não precisa comer ou beber a menos que esteja em um ambiente especialmente pobre em magia (como os Desertos de Mana). Escolha qual tradição de magia você mais consumiu como larva; esse tipo de magia se tornou tão arraigado em seu corpo que muda a tradição de todas as magias e ações mágicas surki para essa tradição.</p>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Mount": {
+      "name": "Montaria",
+      "description": "<p>Seu corpo equino é adequado para carregar aliados de confiança. Um PJ pode montá-lo se for uma categoria de tamanho menor que você (tamanho Médio, para a maioria dos centauros), em vez de precisar ser duas categorias de tamanho menor.</p>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Natural Climber": {
+      "name": "Escalador Natural",
+      "description": "<p>Você ganha um bônus de circunstância +2 em testes de Atletismo para Escalar.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Photosynthesis": {
+      "name": "Fotossíntese",
+      "description": "<p>Você obtém nutrição da fotossíntese. Você normalmente não precisa pagar por comida. Se você ficar sem luz solar por 1 semana, você começa a morrer de fome. Você pode obter nutrição de frascos especialmente formulados de luz solar alquímica em vez de luz solar natural, mas esses frascos custam 10 vezes mais do que as rações padrão (40 sp).</p>",
+      "source": "Pathfinder Lost Omens: Impossible Lands"
+    },
+    "Plant Nourishment": {
+      "name": "Nutrição Vegetal",
+      "description": "<p>Você obtém nutrição da mesma forma que as plantas ou fungos que correspondem ao seu tipo de corpo normalmente fazem, por meio de alguma combinação de fotossíntese, absorvendo minerais com suas raízes ou eliminando a matéria em decomposição. Você normalmente não precisa pagar por comida. Se você normalmente depende da fotossíntese e fica sem luz solar por 1 semana, você começa a morrer de fome. Você pode obter nutrição de frascos de luz solar especialmente formulados em vez de luz solar natural, mas esses frascos custam 10 vezes mais do que as rações padrão (ou 40 sp).</p>",
+      "source": "Pathfinder Player Core"
+    },
+    "Prehensile Tail": {
+      "name": "Cauda Preênsil",
+      "description": "<p>Você pode usar sua cauda longa e flexível para realizar ações Interagir que exigem uma mão livre, mesmo que ambas as mãos estejam ocupadas. Sua cauda não pode realizar ações que exigem dedos ou destreza manual significativa, incluindo qualquer ação que exigiria um teste para realizar, e você não pode usá-la para segurar itens.</p>",
+      "source": "Pathfinder Lost Omens: Impossible Lands"
+    },
+    "Revulsion": {
+      "name": "Repulsa",
+      "description": "<p>Você não pode se aproximar voluntariamente a menos de 10 pés de alho brandido ou um símbolo religioso de uma divindade não maligna. Uma criatura deve Interagir para brandir alho ou um símbolo religioso por 1 rodada (semelhante a Levantar um Escudo). Se você se aproximar involuntariamente a menos de 10 pés de um objeto de sua repulsa, você ganha a condição @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fugindo}, fugindo do sujeito de sua repulsa até que você termine uma ação além de 10 pés dele. Após 1 rodada sendo exposto ao sujeito de sua repulsa, você pode tentar um teste de @Check[vontade|dc:25] como uma única ação, que tem o traço concentrar. Em um sucesso, você supera suas repulsa por [[/r 1d6 #Overcome Revulsion Duration]]{1d6 rodadas}, ou 1 hora em um sucesso crítico.</p>",
+      "source": "Pathfinder Book of the Dead"
+    },
+    "Robust": {
+      "name": "Robusto",
+      "description": "<p>Você aumenta seus limites de Volume máximo e sobrecarregado em 2.</p>",
+      "source": "Pathfinder Howl of the Wild"
+    },
+    "Sharp Beak": {
+      "name": "Bico Afiado",
+      "description": "<p>Com seu bico afiado, você nunca fica sem arma. Você tem um ataque desarmado de bico que causa 1d6 de dano perfurante. Seu bico está no grupo de armas de combate e tem os traços finesse e desarmado.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Sharp Teeth": {
+      "name": "Dentes Afiados",
+      "description": "<p>Seus incisivos proeminentes oferecem uma alternativa aos punhos que outros humanoides usam em uma luta. Você tem um ataque desarmado de mandíbulas que causa 1d4 de dano perfurante, está no grupo de combate e tem os traços ágil e finesse.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
+    "Sunlight": {
+      "name": "Luz Solar",
+      "description": "<p>Se exposto à luz solar direta, você imediatamente fica @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Lento 1}. O valor de lento aumenta em 1 cada vez que você termina seu turno na luz solar. Se você perder todas as suas ações dessa forma, você será destruído. Devido à sua aversão sobrenatural à luz, você não projeta sombras ou mostra reflexo em espelhos.</p>",
+      "source": "Pathfinder Book of the Dead"
+    },
+    "Sunlight Healing": {
+      "name": "Cura da Luz Solar",
+      "description": "<p>Um conrasu pode entrar em um estado meditativo de cura como uma atividade de 10 minutos quando exposto à luz solar direta, caso em que ele recupera @Damage[(max(1,(ceil(@actor.level/2))))d8[healing]] Pontos de Vida. No nível 3 e a cada 2 níveis depois disso, essa cura aumenta em 1d8.</p>\n<p>Uma vez que um conrasu tenha recuperado Pontos de Vida dessa forma, ele fica temporariamente imune a outros usos de Cura da Luz Solar por 1 dia.</p>",
+      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+    },
+    "Swim": {
+      "name": "Nadar",
+      "description": "<p>Os azarketi têm um deslocamento de Natação base de 30.</p>",
+      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+    },
+    "Unusual Anatomy": {
+      "name": "Anatomia Incomum",
+      "description": "<p>Seu corpo não ortodoxo resiste a aflições físicas destinadas a outras criaturas. Você ganha um bônus de circunstância +1 em salvamentos contra doenças e venenos.</p>",
+      "source": "Pathfinder Lost Omens: Ancestry Guide"
+    },
+    "Wanderer's Soul": {
+      "name": "Alma Errante",
+      "description": "<p>Sua alma é especialmente capaz de retornar ao ciclo de reencarnação. Quando você é o alvo de @UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{Levantar Morto}, @UUID[Compendium.pf2e.spells-srd.Item.gIVaSCrLhhBzGHQY]{Reencarnar} ou um ritual semelhante que o traria de volta à vida, o conjurador principal usa o resultado um grau de sucesso melhor do que sua rolagem. Você sempre retorna à vida como um samsarano, mesmo que o ritual o reencarne em um corpo de uma ancestralidade diferente.</p>",
+      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+    },
+    "Wings": {
+      "name": "Asas",
+      "description": "<p>Todos os strix possuem asas poderosas. Embora nem todos os strix se concentrem em aprimorar suas habilidades de voo, um forte bater de suas asas permite que os strix viajem distâncias maiores ao pular.</p>\n<p>Ao @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Saltar} horizontalmente, você se move 5 pés adicionais. Você não falha automaticamente em seus testes para @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{Salto em Altura} ou @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Salto em Distância} se você não Andar pelo menos 10 pés primeiro. Além disso, quando você faz um Salto em Distância, você pode pular uma distância de até 10 pés a mais do que o resultado do seu teste de Atletismo, embora ainda com o máximo normal do seu Deslocamento. Além disso, você não sofre dano de queda, não importa a distância que você caia.</p>",
+      "source": "Pathfinder Lost Omens: Ancestry Guide"
+    }
+  },
+  "mapping": {
+    "description": "system.description.value",
+    "name": {
+      "converter": "translateDualLanguage",
+      "path": "name"
+    },
+    "rules": {
+      "converter": "translateRules",
+      "path": "system.rules"
+    },
+    "source": {
+      "converter": "translateSource",
+      "path": "system.publication.title"
+    }
+  }
+}

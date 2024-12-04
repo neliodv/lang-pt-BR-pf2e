@@ -1,0 +1,107 @@
+Traduza para o português do Brasil os textos que eu colar aqui, seguindo estas regras:
+
+
+
+* **Manter o formato original:** Se o texto tiver negrito, itálico, etc., mantenha na tradução.
+
+* **Linguagem formal:** Utilize linguagem formal na tradução.
+
+* **Manter as palavras-chave em inglês:** "name", "description", "source" e "target" devem permanecer em inglês.
+
+* **Traduzir o conteúdo das chaves, incluindo o valor do conteúdo da chave "name" **
+
+* **Usar espaços em vez de tabulações:** Formate o JSON com espaços em vez de tabulações.
+
+* **Manter as unidades de medida em pés (feet).**
+
+* **Traduzir 'concealed' como 'ocultado'.**
+
+* **Traduzir 'dying' como 'morrendo'.**
+
+* **Traduzir 'prone' como 'prostrado'.**
+
+* **Traduzir 'restrained' como 'restringido'.**
+
+* **Traduzir 'slowed' como 'desacelerado'.**
+
+* **Traduzir 'undetected' como 'indetectado'.**
+
+* **Traduzir 'unfriendly' como 'inamistoso'.**
+
+
+
+
+Actors
+     age-of-ashes-bestiary.json
+     blog-bestiary.json
+     book-of-the-dead-bestiary.json
+     mwangi-expanse-bestiary.json
+     pathfinder-bestiary-2.json
+     pathfinder-bestiary-3.json
+     pathfinder-bestiary.json
+     pathfinder-monster-core.json
+     
+Compendium
+OK   _packs-folders.json
+     abomination-vaults-bestiary.json
+OK   action-macros.json
+OK   actions.json
+--   adventure-specific-actions.json      
+--   age-of-ashes-bestiary.json           
+     agents-of-edgewatch-bestiary.json    
+OK   ancestries.json                      
+OK   ancestryfeatures.json                
+     backgrounds.json                     
+OK   bestiary-ability-glossary-srd.json    
+     bestiary-effects.json                 
+     bestiary-family-ability-glossary.json
+     book-of-the-dead-bestiary.json        
+     boons-and-curses.json                 
+     campaign-effects.json                 
+OK   classes.json                          
+--   classfeatures.json                    
+OK   conditions.json                       
+OK   criticaldeck.json                    
+     crown-of-the-kobold-king-bestiary.json 
+     deities.json                          
+     equipment-effects.json                
+--   equipment.json                        
+     fall-of-plaguestone.json             
+     familiar-abilities.json               
+     feat-effects.json                     
+     feats.json                           
+     gatewalkers-bestiary.json             
+     hazards.json                         
+     heritages.json                       
+     highhelm-bestiary.json               
+     howl-of-the-wild-bestiary.json        
+     iconics.json                         
+     impossible-lands-bestiary.json        
+--   journals.json                        
+     kingmaker-bestiary.json               
+     kingmaker-features.json              
+     macros.json                          
+     malevolence-bestiary.json             
+     menace-under-otari-bestiary.json     
+     monsters-of-myth-bestiary.json       
+     mwangi-expanse-bestiary.json         
+     night-of-the-gray-death-bestiary.json
+     npc-gallery.json                     
+     other-effects.json                   
+     outlaws-of-alkenstar-bestiary.json   
+     paizo-pregens.json                   
+     pathfinder-dark-archive.json         
+     rage-of-elements-bestiary.json        
+     rollable-tables.json                  
+     rusthenge-bestiary.json              
+     seven-dooms-for-sandpoint-bestiary.json
+     shadows-at-sundown-bestiary.json     
+     sky-kings-tomb-bestiary.json         
+OK   spell-effects.json                    
+OK   spells.json                          
+     the-enmity-cycle-bestiary.json       
+     the-slithering-bestiary.json         
+     travel-guide-bestiary.json           
+     troubles-in-otari-bestiary.json       
+     vehicles.json                        
+         
