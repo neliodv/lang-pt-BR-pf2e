@@ -1038,6 +1038,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "treasure->Gold Pieces": {
@@ -1357,6 +1358,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "equipment->Flint and Steel": {
@@ -1661,7 +1663,7 @@
     },
     "Hryngar Breccia Squad": {
       "name": "Hryngar Breccia Squad",
-      "hpDetails": "Thresholds 100 (12 squares), 50 (8 squares); ",
+      "hpDetails": "Thresholds 100 (12 squares), 50 (8 squares)",
       "publicNotes": "<p>A hryngar breccia squad is a group of hryngar martial combatants armed with melee weapons and steel shields. Though more likely to be encountered near large hryngar settlements, these strike forces see wide use throughout the Darklands. Hryngar breccia squads often serve as military units, mercenary companies, city patrols, and caravan guards. Like all warriors, the favored combat methods of a hryngar breccia squad change by location, often due to surrounding environment and popular equipment.</p>\n<hr />\n<p>Deep under the surface of Golarion, dwarves still dwell in the darkness. Once abandoned by their kin who were obsessed with reaching the surface, these dwarves have found that by working harder than their brethren, they can build a society far greater than anything under the sun. Droskar, Master of the Dark Furnace, teaches them that toiling for their masters, who in turn toil for their masters above, will lead all of them to become stronger than ever. Every hryngar knows that their labor defines them, and brings them glory in the eyes of Droskar and their peers. Exhaustion at the end of the work day is an honor, proof of their worth in society.</p>\n<h2>Rift Jumpers</h2>\n<p>Hryngar breccia squads that specialize in spelunking are known as Rift Jumpers, named for their reckless leaps into perilous chasms. They swap their shields and warhammers for light picks and train with their climbing equipment until it serves as an extension of their body. Rift Jumpers lose the Raise Shields, Shield Block, and Push Back actions, and gain a climb Speed of 20 feet.</p>",
       "saveDetails": "+2 status to all saves vs. magic",
       "source": "Pathfinder #195: Heavy is the Crown",

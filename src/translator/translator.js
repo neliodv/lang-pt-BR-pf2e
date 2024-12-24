@@ -518,4 +518,3 @@ function getCompendiumLinkFromItemData(item) {
 
     return false;
 }
-

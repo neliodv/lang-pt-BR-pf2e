@@ -494,7 +494,6 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick-Tempered": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.a9PzINjFTO5GvAJN]\n<p><strong>Trigger</strong> You roll initiative.</p>\n<p><strong>Requirements</strong> You are not @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} or wearing heavy armor.</p>\n<hr />\n<p>So long as you are able to move freely, your fury is instinctive and instantaneous. You @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Rage}.</p>",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Wash Out": {
@@ -3056,6 +3055,8 @@
           "name": "Art Lore"
         },
         "heritage->Ganzi": {
+          "name": "Ganzi",
+          "description": "<p>Your blood is touched by primal chaos. You gain the ganzi trait in addition to the traits from your ancestry. You gain resistance to a single damage type equal to half your level; at the beginning of each day, determine randomly whether this resistance applies to acid, electricity, or sonic damage. You also gain a +1 circumstance bonus to saving throws against effects that would cause you to gain the @UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{Controlled} condition. You can choose from ganzi feats and feats from your ancestry whenever you gain an ancestry feat.</p>",
           "source": "Pathfinder Lost Omens: Ancestry Guide"
         },
         "background->Artist": {
@@ -3291,12 +3292,14 @@
           "source": "Pathfinder Player Core"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "shield->Steel Shield": {
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Religious Symbol of Sarenrae": {
@@ -3711,6 +3714,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "consumable->Bravo's Brew (Lesser)": {
@@ -4073,6 +4077,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "weapon->Shortsword": {
@@ -4295,6 +4300,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "equipment->Doubling Rings": {
@@ -6212,8 +6218,7 @@
           "source": "Pathfinder GM Core"
         },
         "consumable->Cat's Eye Elixir": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.bQPRKEpnLakJBAAh]\n<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact</p>\n<p>After you consume this elixir, your vision sharpens and you become sensitive to even the most minute movements.</p>\n<p>For the next minute, you reduce the flat check to target hidden creatures to 5, and you don't need to attempt a flat check to target concealed creatures. These benefits apply only against creatures within 30 feet of you.</p>",
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder GM Core"
         },
         "consumable->Darkvision Elixir (Lesser)": {
           "source": "Pathfinder GM Core"

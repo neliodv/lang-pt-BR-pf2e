@@ -73,6 +73,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit (Expanded)": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.SGkOHFyBbzWdBk8D]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. Expanded healer's toolkits provide a +1 item bonus to such checks. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Religious Symbol (Silver)": {
@@ -183,6 +184,7 @@
           "source": "Pathfinder Player Core"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "consumable->Darkvision Elixir (Moderate)": {
@@ -363,6 +365,7 @@
           "source": "Pathfinder Player Core"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Maestro's Lute (Lesser)": {
@@ -1152,7 +1155,7 @@
     },
     "Ghast Cultist": {
       "name": "Ghast Cultist",
-      "blurb": "Ghast priest of Kabriri ",
+      "blurb": "Ghast priest of Kabriri",
       "hpDetails": "void healing",
       "source": "Pathfinder #200: Seven Dooms for Sandpoint",
       "items": {
@@ -1690,7 +1693,7 @@
     },
     "Jervis Stoot": {
       "name": "Jervis Stoot",
-      "blurb": "Male human ghost ",
+      "blurb": "Male human ghost",
       "hpDetails": "void healing, rejuvenation",
       "skillSpecialCrafting": {
         "0": {
@@ -3814,6 +3817,7 @@
           "source": "Pathfinder Player Core"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Gold Religious Symbol of Calistria": {

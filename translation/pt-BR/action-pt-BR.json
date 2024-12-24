@@ -287,12 +287,12 @@
       },
       "Disarm": {
         "Description": "<p><strong>Requerimentos</strong> Você tem pelo menos uma mão livre. Seu alvo não pode ser mais de um tamanho maior que você.</p><hr><p>Você tenta derrubar algo que um oponente esteja segurando. Faça um teste de Atletismo contra a CD de Reflexos dele.</p><p><strong>Sucesso Crítico</strong> Você derruba o item da empunhadura do oponente. O item cai no chão no espaço do oponente.<br><strong>Sucesso</strong> Você enfraquece a empunhadura de seu oponente no item. Até o início do turno dessa criatura, tentativas de Desarmar o oponente desse item recebem +2 de bônus de circunstância e o alvo sofre –2 de penalidade de circunstância em ataques com o item ou outros testes que exijam uma empunhadura firme nesse item.<br><strong>Falha Crítica</strong> Você perde o equilíbrio e fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início de seu próximo turno.</p>",
-        "Notes": {
-          "criticalFailure": "<strong>Falha Crítica</strong> Você perde o equilíbrio e fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início de seu próximo turno.",
-          "criticalSuccess": "<strong>Sucesso Crítico</strong> Você derruba o item da empunhadura do oponente. O item cai no chão no espaço do oponente.",
-          "success": "<strong>Sucesso</strong> Você enfraquece a empunhadura de seu oponente no item. Até o início do turno dessa criatura, tentativas de Desarmar o oponente desse item recebem +2 de bônus de circunstância e o alvo sofre –2 de penalidade de circunstância em ataques com o item ou outros testes que exijam uma empunhadura firme nesse item. @UUID[Compendium.pf2e.equipment-effects.Item.z3ATL8DcRVrT0Uzt]{Efeito: Desarmar (Successo)}"
-        },
-        "Title": "Desarmar"
+"Notes": {
+                "criticalFailure": "<strong>Falha Crítica</strong> Você perde o equilíbrio e fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início do seu próximo turno.",
+                "criticalSuccess": "<strong>Sucesso Crítico</strong> Você arranca o item das mãos do alvo. Ele cai no chão no espaço do alvo.",
+                "success": "<strong>Sucesso</strong> Você enfraquece a pegada do alvo no item. Tentativas adicionais de Desarmar o alvo deste item ganham um bônus de circunstância +2, e o alvo sofre uma penalidade de circunstância -2 em ataques com o item ou outros testes que exigem uma pegada firme no item. A criatura pode encerrar o efeito Interagindo para mudar sua pegada no item; caso contrário, ele dura enquanto a criatura segurar o item.<br>@UUID[Compendium.pf2e.other-effects.Item.PuDS0DEq0CnaSIFV]{Effect: Disarm (Success)}"
+            },
+                                "Title": "Desarmar"
       },
       "Dismiss": {
         "Description": "<p>Você encerra um efeito que declara que você pode dispensá-lo. Dispensar encerra todo o efeito, a menos que especificado de outra forma.</p>",
