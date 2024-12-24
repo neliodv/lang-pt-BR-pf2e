@@ -108,7 +108,6 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick-Tempered": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.a9PzINjFTO5GvAJN]\n<p><strong>Trigger</strong> You roll initiative.</p>\n<p><strong>Requirements</strong> You are not @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} or wearing heavy armor.</p>\n<hr />\n<p>So long as you are able to move freely, your fury is instinctive and instantaneous. You @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Rage}.</p>",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Sudden Charge": {
@@ -148,6 +147,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Wayfinder": {
@@ -255,7 +255,6 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick-Tempered": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.a9PzINjFTO5GvAJN]\n<p><strong>Trigger</strong> You roll initiative.</p>\n<p><strong>Requirements</strong> You are not @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} or wearing heavy armor.</p>\n<hr />\n<p>So long as you are able to move freely, your fury is instinctive and instantaneous. You @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Rage}.</p>",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Sudden Charge": {
@@ -304,6 +303,7 @@
           "source": "Pathfinder GM Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "consumable->Elixir of Life (Minor)": {
@@ -420,7 +420,6 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick-Tempered": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.a9PzINjFTO5GvAJN]\n<p><strong>Trigger</strong> You roll initiative.</p>\n<p><strong>Requirements</strong> You are not @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Encumbered} or wearing heavy armor.</p>\n<hr />\n<p>So long as you are able to move freely, your fury is instinctive and instantaneous. You @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Rage}.</p>",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Raging Athlete": {
@@ -1347,6 +1346,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "consumable->Bolts": {
@@ -1512,6 +1512,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "consumable->Bolts": {
@@ -1674,6 +1675,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Torch": {
@@ -1910,7 +1912,7 @@
           "source": "Pathfinder Lost Omens: World Guide"
         },
         "feat->Additional Lore": {
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Player Core"
         },
         "backpack->Backpack": {
           "source": "Pathfinder Player Core"
@@ -1933,22 +1935,10 @@
         "treasure->Silver Pieces": {
           "source": "Pathfinder Core Rulebook"
         },
-        "equipment->Formula Book (Blank)": [
-          {
-            "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
-            "source": "Pathfinder Player Core",
-            "id": "nBNqMZJARlU94bS1"
-          },
-          {
-            "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
-            "source": "Pathfinder Player Core",
-            "id": "1jXFT6Qhk8eUh8r2"
-          },
-          {
-            "source": "Pathfinder Player Core",
-            "id": "NnGrrc6qqc1HFyde"
-          }
-        ],
+        "equipment->Formula Book (Blank)": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
+          "source": "Pathfinder Player Core"
+        },
         "equipment->Lantern (Hooded)": {
           "source": "Pathfinder Player Core"
         },
@@ -1980,7 +1970,6 @@
           "source": "Pathfinder GM Core"
         },
         "consumable->Elixir of Life (Minor)": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.hDLbR56Id2OtU318]\n<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p>\n<hr />\n<p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain @Damage[1d6[healing]] Hit Points and gain +1 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life}</p>",
           "source": "Pathfinder GM Core"
         },
         "heritage->Charhide Goblin": {
@@ -1998,12 +1987,13 @@
         "class->Alchemist": {
           "source": "Pathfinder Player Core 2"
         },
+        "feat->Goblin Weapon Familiarity": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Quick Bomber": {
+          "source": "Pathfinder Player Core 2"
+        },
         "feat->Alchemy": {
-          "rules": {
-            "5": {
-              "text": "If have the formula for the item you're identifying, you automatically identify it."
-            }
-          },
           "source": "Pathfinder Player Core 2"
         },
         "feat->Research Field": {
@@ -2021,25 +2011,16 @@
         "feat->Versatile Vials": {
           "source": "Pathfinder Player Core 2"
         },
+        "weapon->Versatile Vial": {
+          "source": "Pathfinder Player Core 2"
+        },
         "feat->Quick Alchemy": {
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick Alchemy": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]\n<p><strong>Requirements</strong> You're either holding or wearing an @UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{Alchemist's Toolkit}. and you have a free hand.</p>\n<hr />\n<p>You can either use up a versatile vial to make another alchemical consumable at a moment's notice or create an especially short-lived versatile vial. Any effect created by an item made with Quick Alchemy that would have a duration longer than 10 minutes lasts for 10 minutes instead.</p>\n<ul>\n<li><strong>Create Consumable</strong> You expend one of your versatile vials to create a single alchemical consumable item of your level or lower that's in your formula book. You don't have to spend the normal monetary cost in alchemical raw materials or need to attempt a Crafting check. This item has the infused trait, but it remains potent only until the start of your next turn. (As normal, you need only one formula for an item to create any level of that item.)</li>\n<li>\n<p><strong>Quick Vial</strong> You create a versatile vial that can be used only as a bomb or for the versatile vial option from your research field (it can't be used to create a consumable, for example). This item has the infused trait, but it remains potent only until the end of your current turn.</p>\n</li>\n</ul>",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Bomber": {
-          "rules": {
-            "0": {
-              "text": "You can choose to deal splash damage to only your primary target instead of the usual splash area."
-            }
-          },
-          "source": "Pathfinder Player Core 2"
-        },
-        "feat->Goblin Weapon Familiarity": {
-          "source": "Pathfinder Player Core"
-        },
-        "feat->Quick Bomber": {
           "source": "Pathfinder Player Core 2"
         }
       }
@@ -2053,7 +2034,7 @@
           "source": "Pathfinder Lost Omens: World Guide"
         },
         "feat->Additional Lore": {
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Player Core"
         },
         "backpack->Backpack": {
           "source": "Pathfinder Player Core"
@@ -2076,22 +2057,10 @@
         "treasure->Silver Pieces": {
           "source": "Pathfinder Core Rulebook"
         },
-        "equipment->Formula Book (Blank)": [
-          {
-            "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
-            "source": "Pathfinder Player Core",
-            "id": "nBNqMZJARlU94bS1"
-          },
-          {
-            "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
-            "source": "Pathfinder Player Core",
-            "id": "d2Xf2IUGV6ZAlhB1"
-          },
-          {
-            "source": "Pathfinder Player Core",
-            "id": "N6DCttHWsROp5ZeC"
-          }
-        ],
+        "equipment->Formula Book (Blank)": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
+          "source": "Pathfinder Player Core"
+        },
         "equipment->Lantern (Hooded)": {
           "source": "Pathfinder Player Core"
         },
@@ -2114,17 +2083,10 @@
           "name": "Pathfinder Society Lore"
         },
         "feat->Breath Control": {
-          "rules": {
-            "0": {
-              "label": "Breath control (vs. inhaled)"
-            },
-            "1": {
-              "text": "If you roll a success on a saving throw against an inhaled threat, you get a critical success instead."
-            }
-          },
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "weapon->Acid Flask (Moderate)": {
@@ -2165,12 +2127,16 @@
         "class->Alchemist": {
           "source": "Pathfinder Player Core 2"
         },
+        "feat->Goblin Weapon Familiarity": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Quick Bomber": {
+          "source": "Pathfinder Player Core 2"
+        },
+        "feat->Far Lobber": {
+          "source": "Pathfinder Player Core 2"
+        },
         "feat->Alchemy": {
-          "rules": {
-            "5": {
-              "text": "If have the formula for the item you're identifying, you automatically identify it."
-            }
-          },
           "source": "Pathfinder Player Core 2"
         },
         "feat->Research Field": {
@@ -2188,28 +2154,16 @@
         "feat->Versatile Vials": {
           "source": "Pathfinder Player Core 2"
         },
+        "weapon->Versatile Vial": {
+          "source": "Pathfinder Player Core 2"
+        },
         "feat->Quick Alchemy": {
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick Alchemy": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]\n<p><strong>Requirements</strong> You're either holding or wearing an @UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{Alchemist's Toolkit}. and you have a free hand.</p>\n<hr />\n<p>You can either use up a versatile vial to make another alchemical consumable at a moment's notice or create an especially short-lived versatile vial. Any effect created by an item made with Quick Alchemy that would have a duration longer than 10 minutes lasts for 10 minutes instead.</p>\n<ul>\n<li><strong>Create Consumable</strong> You expend one of your versatile vials to create a single alchemical consumable item of your level or lower that's in your formula book. You don't have to spend the normal monetary cost in alchemical raw materials or need to attempt a Crafting check. This item has the infused trait, but it remains potent only until the start of your next turn. (As normal, you need only one formula for an item to create any level of that item.)</li>\n<li>\n<p><strong>Quick Vial</strong> You create a versatile vial that can be used only as a bomb or for the versatile vial option from your research field (it can't be used to create a consumable, for example). This item has the infused trait, but it remains potent only until the end of your current turn.</p>\n</li>\n</ul>",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Bomber": {
-          "rules": {
-            "0": {
-              "text": "You can choose to deal splash damage to only your primary target instead of the usual splash area."
-            }
-          },
-          "source": "Pathfinder Player Core 2"
-        },
-        "feat->Goblin Weapon Familiarity": {
-          "source": "Pathfinder Player Core"
-        },
-        "feat->Quick Bomber": {
-          "source": "Pathfinder Player Core 2"
-        },
-        "feat->Far Lobber": {
           "source": "Pathfinder Player Core 2"
         }
       }
@@ -2223,7 +2177,7 @@
           "source": "Pathfinder Lost Omens: World Guide"
         },
         "feat->Additional Lore": {
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Player Core"
         },
         "backpack->Backpack": {
           "source": "Pathfinder Player Core"
@@ -2246,22 +2200,10 @@
         "treasure->Silver Pieces": {
           "source": "Pathfinder Core Rulebook"
         },
-        "equipment->Formula Book (Blank)": [
-          {
-            "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
-            "source": "Pathfinder Player Core",
-            "id": "nBNqMZJARlU94bS1"
-          },
-          {
-            "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
-            "source": "Pathfinder Player Core",
-            "id": "mAINVGGVnbdq8yLS"
-          },
-          {
-            "source": "Pathfinder Player Core",
-            "id": "sFwXgFGEF3gsmECq"
-          }
-        ],
+        "equipment->Formula Book (Blank)": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; characters of the alchemist class typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>",
+          "source": "Pathfinder Player Core"
+        },
         "equipment->Lantern (Hooded)": {
           "source": "Pathfinder Player Core"
         },
@@ -2284,17 +2226,10 @@
           "name": "Pathfinder Society Lore"
         },
         "feat->Breath Control": {
-          "rules": {
-            "0": {
-              "label": "Breath control (vs. inhaled)"
-            },
-            "1": {
-              "text": "If you roll a success on a saving throw against an inhaled threat, you get a critical success instead."
-            }
-          },
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Bracers of Missile Deflection": {
@@ -2310,12 +2245,10 @@
           "source": "Pathfinder GM Core"
         },
         "consumable->Elixir of Life (Lesser)": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co]\n<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p>\n<hr />\n<p>Elixirs of life accelerate a living creatures natural healing processes and immune system. Upon drinking this elixir, you regain @Damage[(3d6+6)[healing]] Hit Points and gain +1 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life}</p>",
           "source": "Pathfinder GM Core"
         },
         "weapon->Frost Vial (Moderate)": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]\n<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Strike</p>\n<hr />\n<p>The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.</p>\n<p>You gain a +1 item bonus to attack rolls, the bomb deals 2d6 cold damage and 2 cold splash damage, and the target takes a -10-foot penalty.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.dv0IKm5syOdP759w]{Effect: Frost Vial (Moderate)}</p>",
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Player Core 2"
         },
         "heritage->Charhide Goblin": {
           "source": "Pathfinder Core Rulebook"
@@ -2345,12 +2278,22 @@
         "class->Alchemist": {
           "source": "Pathfinder Player Core 2"
         },
+        "feat->Goblin Weapon Familiarity": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Burn It!": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Quick Bomber": {
+          "source": "Pathfinder Player Core 2"
+        },
+        "feat->Far Lobber": {
+          "source": "Pathfinder Player Core 2"
+        },
+        "feat->Healing Bomb": {
+          "source": "Pathfinder Player Core 2"
+        },
         "feat->Alchemy": {
-          "rules": {
-            "5": {
-              "text": "If have the formula for the item you're identifying, you automatically identify it."
-            }
-          },
           "source": "Pathfinder Player Core 2"
         },
         "feat->Research Field": {
@@ -2371,45 +2314,22 @@
         "feat->Versatile Vials": {
           "source": "Pathfinder Player Core 2"
         },
+        "weapon->Versatile Vial": {
+          "source": "Pathfinder Player Core 2"
+        },
         "feat->Quick Alchemy": {
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick Alchemy": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]\n<p><strong>Requirements</strong> You're either holding or wearing an @UUID[Compendium.pf2e.equipment-srd.Item.4ftXXUCBHcf4b0MH]{Alchemist's Toolkit}. and you have a free hand.</p>\n<hr />\n<p>You can either use up a versatile vial to make another alchemical consumable at a moment's notice or create an especially short-lived versatile vial. Any effect created by an item made with Quick Alchemy that would have a duration longer than 10 minutes lasts for 10 minutes instead.</p>\n<ul>\n<li><strong>Create Consumable</strong> You expend one of your versatile vials to create a single alchemical consumable item of your level or lower that's in your formula book. You don't have to spend the normal monetary cost in alchemical raw materials or need to attempt a Crafting check. This item has the infused trait, but it remains potent only until the start of your next turn. (As normal, you need only one formula for an item to create any level of that item.)</li>\n<li>\n<p><strong>Quick Vial</strong> You create a versatile vial that can be used only as a bomb or for the versatile vial option from your research field (it can't be used to create a consumable, for example). This item has the infused trait, but it remains potent only until the end of your current turn.</p>\n</li>\n</ul>",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Bomber": {
-          "rules": {
-            "0": {
-              "text": "You can choose to deal splash damage to only your primary target instead of the usual splash area."
-            }
-          },
           "source": "Pathfinder Player Core 2"
         },
         "feat->Field Discovery (Bomber)": {
-          "rules": {
-            "0": {
-              "text": "When you throw an alchemical bomb with the splash trait, you can cause the bomb to deal splash damage equal to your Intelligence modifier (minimum 1) instead of the normal amount."
-            }
-          },
           "source": "Pathfinder Player Core 2"
         },
         "feat->Powerful Alchemy": {
-          "source": "Pathfinder Core Rulebook"
-        },
-        "feat->Goblin Weapon Familiarity": {
-          "source": "Pathfinder Player Core"
-        },
-        "feat->Burn It!": {
-          "source": "Pathfinder Player Core"
-        },
-        "feat->Quick Bomber": {
-          "source": "Pathfinder Player Core 2"
-        },
-        "feat->Far Lobber": {
-          "source": "Pathfinder Player Core 2"
-        },
-        "feat->Healing Bomb": {
           "source": "Pathfinder Player Core 2"
         }
       }
@@ -3308,6 +3228,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "weapon->Khakkhara": {
@@ -3473,6 +3394,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "weapon->Khakkhara": {
@@ -3687,6 +3609,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "weapon->Khakkhara": {
@@ -3994,9 +3917,11 @@
           "source": "Pathfinder Player Core"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Religious Symbol (Wooden)": {
@@ -4097,6 +4022,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "spell->Fire Ray": {
@@ -4316,6 +4242,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "spell->Fire Ray": {
@@ -5155,6 +5082,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "treasure->Silver Pieces": {
@@ -5316,6 +5244,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "feat->Perception Expertise": {
@@ -5447,6 +5376,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "spell->Entangling Flora": {
@@ -6749,6 +6679,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Thieves' Toolkit": {
@@ -6952,6 +6883,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "weapon->Infiltrator's Accessory": {
@@ -7604,6 +7536,7 @@
           "source": "Pathfinder GM Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "armor->Sankeit": {
@@ -7751,6 +7684,7 @@
           "source": "Pathfinder GM Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "armor->Sankeit": {
@@ -7942,6 +7876,7 @@
           "source": "Pathfinder GM Core"
         },
         "equipment->Healer's Toolkit": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.s1vB3HdXjMigYAnY]\n<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}, @UUID[Compendium.pf2e.actionspf2e.Item.TC7OcDa7JlWbqMaN]{Treat Disease}, @UUID[Compendium.pf2e.actionspf2e.Item.KjoCEEmPGTeFE4hh]{Treat Poison}, or @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds}. If you wear your healer's toolkit, you can draw and replace it as part of the action that uses it.</p>",
           "source": "Pathfinder Player Core"
         },
         "armor->Sankeit": {

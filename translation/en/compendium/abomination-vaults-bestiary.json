@@ -1994,6 +1994,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "consumable->Arrows": {
@@ -2214,6 +2215,9 @@
         },
         "spell->Telekinetic Projectile": {
           "source": "Pathfinder Core Rulebook"
+        },
+        "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>"
         },
         "strike-melee->War Flail": {
           "name": "War Flail"
@@ -3991,6 +3995,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "equipment->Nyzuros's Keys": {
@@ -4337,6 +4342,9 @@
         },
         "weapon->Repeating Hand Crossbow": {
           "source": "Pathfinder Guns & Gears"
+        },
+        "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>"
         },
         "equipment->Quara's Key": {
           "name": "Quara's Key"
@@ -5630,6 +5638,7 @@
           "source": "Pathfinder #165: Eyes of Empty Death"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "strike-melee->Shauth Lash": {

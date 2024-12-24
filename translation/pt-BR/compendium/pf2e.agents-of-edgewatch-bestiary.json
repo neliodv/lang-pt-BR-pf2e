@@ -1487,6 +1487,9 @@
         "weapon->+1 Striking Sap": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.TLQErnOpM9Luy7rL]\n+1 Striking Sap"
         },
+        "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>"
+        },
         "strike-melee->Fist": {
           "name": "Fist"
         },
@@ -2019,6 +2022,9 @@
         "spell->Water Walk (Constant)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.Seaah9amXg70RKw2]\nWater Walk (Constant)"
         },
+        "spell->Black Tentacles": {
+          "source": "Pathfinder Core Rulebook"
+        },
         "spell->Dimension Door": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nDimension Door"
         },
@@ -2047,7 +2053,7 @@
         },
         "action->Breath of Lies": {
           "name": "Breath of Lies",
-          "description": "<p>The Daemonic Rumormonger breathes a torrent of acidic sand and poisoned ink in an @Template[line|distance:80], dealing @Damage[6d12[acid]] damage and @Damage[6d12[poison]] damage and exposing victims to his black ink delirium.</p>\n<p>He can't use Breath of Lies again for [[/br 1d4 #Recharge Breath of Lies]]{1d4 rounds}.</p>"
+          "description": "<p>The Daemonic Rumormonger breathes a torrent of acidic sand and poisoned ink in an @Template[line|distance:80], dealing @Damage[6d12[acid],6d12[poison]|options:area-damage]{6d12 acid damage and 6d12 poison damage} and exposing victims to his black ink delirium.</p>\n<p>He can't use Breath of Lies again for [[/gmr 1d4 #Recharge Breath of Lies]]{1d4 rounds}.</p>"
         },
         "action->Whirling Slashes": {
           "name": "Whirling Slashes",
@@ -3918,6 +3924,9 @@
         "spell->Disintegrate": {
           "target": "1 creature or unattended object"
         },
+        "spell->Black Tentacles": {
+          "source": "Pathfinder Core Rulebook"
+        },
         "spell->Passwall": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.115Xp9E38CJENhNS]\nPasswall"
         },
@@ -4380,6 +4389,9 @@
         },
         "spell->True Seeing": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]\nTrue Seeing"
+        },
+        "spell->Black Tentacles": {
+          "source": "Pathfinder Core Rulebook"
         },
         "spell->Dimension Door": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nDimension Door"
@@ -5639,6 +5651,7 @@
           "source": "Pathfinder #162: Ruins of the Radiant Siege"
         },
         "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>",
           "source": "Pathfinder Player Core"
         },
         "equipment->Whisper of the First Lie": {
@@ -6345,6 +6358,9 @@
       "items": {
         "spellcastingEntry->Prepared Arcane Spells": {
           "name": "Prepared Arcane Spells"
+        },
+        "spell->Black Tentacles": {
+          "source": "Pathfinder Core Rulebook"
         },
         "spell->Shadow Walk": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.rxvS7EMJ7qmexAyA]\nShadow Walk",
@@ -7898,6 +7914,9 @@
       "items": {
         "weapon->+1 Morningstar": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.5fu6dCtqhdBnHNqh]\n+1 Morningstar"
+        },
+        "armor->Chain Shirt": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MPcM4Wt6KmWE2kGL]\n<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>"
         },
         "strike-melee->Morningstar": {
           "name": "Morningstar"
