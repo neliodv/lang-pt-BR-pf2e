@@ -1443,6 +1443,11 @@
       "description": "<p>The creature gains +1 status bonus to attack rolls, perception checks, saving throws, and skill checks.</p>",
       "source": "Pathfinder Bestiary 3"
     },
+    "Effect: Pray to the Rotting God": {
+      "name": "Effect: Pray to the Rotting God",
+      "description": "<p>You gain a +1 status bonus on attack rolls.</p>",
+      "source": "Pathfinder #210: Whispers in the Dirt"
+    },
     "Effect: Prepare Fangs": {
       "name": "Effect: Prepare Fangs",
       "description": "<p>Daggers deals additional poison damage equal to the counter value.</p>",

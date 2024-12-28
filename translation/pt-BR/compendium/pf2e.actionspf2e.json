@@ -71,17 +71,17 @@
       "description": "<p><strong>Frequência</strong> Uma vez por dia</p>\n<p><strong>Acionamento</strong> Uma criatura mira em você com um ataque ou outro efeito direcionado, e você pode ver o atacante.</p>\n<hr />\n<p>Você cria um manto de névoa em uma explosão de 5 pés centrada em um canto do seu espaço. Todas as criaturas dentro dessa área ficam ocultas, e todas as outras ficam ocultas para elas. Esta ocultação se aplica ao efeito de acionamento, e a névoa dura 1 minuto ou até ser dispersada por um vento forte. Após resolver o efeito de acionamento, você realiza um Passo. Se um efeito te impedir de realizar um Passo, você tenta @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapar} do efeito e realiza um Passo se obtiver sucesso.</p>",
       "source": "Pathfinder Lost Omens: Ancestry Guide"
     },
-"Amassed Assault": {
-        "name": "Assalto Concentrado",
-        "description": "<p>Cada inimigo no espaço do seu companheiro unido recebe dano igual a um de seus Golpes desarmados mais seu nível (teste de @Check[reflex|against:class-spell|basic] contra o DC de classe ou DC de magia, o que for maior).</p>",
-        "source": "Pathfinder War of Immortals"
+    "Amassed Assault": {
+      "name": "Assalto Concentrado",
+      "description": "<p>Cada inimigo no espaço do seu companheiro unido recebe dano igual a um de seus Golpes desarmados mais seu nível (teste de @Check[reflex|against:class-spell|basic] contra o DC de classe ou DC de magia, o que for maior).</p>",
+      "source": "Pathfinder War of Immortals"
     },
     "Amulet's Abeyance": {
-        "name": "Suspensão do Amuleto",
-        "description": "<p><strong>Gatilho</strong> O alvo da sua Explorar Vulnerabilidade causaria dano a você ou a um aliado a até 15 pés de você.</p>\n<p><strong>Requisitos</strong> Você está segurando seu implemento amuleto e está se beneficiando de Explorar Vulnerabilidade.</p>\n<hr />\n<p>Você apresenta seu amuleto com força para evitar o dano. Você ou um aliado alvo a até 15 pés ganha resistência a todos os danos contra o dano do gatilho. A resistência é igual a 2 + seu nível.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.90dTxPhFtbhK6Nv4]{Effect: Amulet's Abeyance}</p>",
-        "source": "Pathfinder Dark Archive"
+      "name": "Suspensão do Amuleto",
+      "description": "<p><strong>Gatilho</strong> O alvo da sua Explorar Vulnerabilidade causaria dano a você ou a um aliado a até 15 pés de você.</p>\n<p><strong>Requisitos</strong> Você está segurando seu implemento amuleto e está se beneficiando de Explorar Vulnerabilidade.</p>\n<hr />\n<p>Você apresenta seu amuleto com força para evitar o dano. Você ou um aliado alvo a até 15 pés ganha resistência a todos os danos contra o dano do gatilho. A resistência é igual a 2 + seu nível.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.90dTxPhFtbhK6Nv4]{Effect: Amulet's Abeyance}</p>",
+      "source": "Pathfinder Dark Archive"
     },
-        "Anadi Venom": {
+    "Anadi Venom": {
       "name": "Veneno Anadi",
       "description": "<p><strong>Frequência</strong> um número de vezes por dia igual ao seu nível</p>\n<hr />\n<p>Você envenena suas presas. Se o próximo Golpe com as presas que você fizer antes do final do seu turno acertar e causar dano, o Golpe causa um adicional de 1d6 de dano de veneno. Em uma falha crítica, o veneno é desperdiçado como de costume. No 12º nível, este dano de veneno aumenta para 2d6.</p>",
       "source": "Pathfinder Lost Omens: The Mwangi Expanse"
@@ -91,12 +91,12 @@
       "description": "<p><strong>Requerimentos</strong> Você está em uma superfície sólida</p>\n<hr />\n<p><strong>Efeito</strong> Você envia suas raízes para dentro ou através do solo, tornando mais difícil para você tropeçar. Até você se mover, você ganha um bônus de circunstância +2 em sua CD de Fortitude ou Reflexos contra tentativas de @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Reposicionar}, @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Empurrar} ou @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Derrubar} você (ou um bônus de circunstância +4 se você for um leshy de raiz). Este bônus também se aplica a testes de resistência contra magias ou efeitos que tentam mover você ou te deixar prostrado. Se um efeito te forçar a se mover, você se move apenas metade da distância normal, pois parte do esforço é gasto para arrancar as raízes.</p>",
       "source": "Pathfinder Player Core"
     },
-"Arcane Cascade": {
-        "name": "Cascata Arcana",
-        "description": "<p><strong>Requisitos</strong> Você usou sua ação mais recente neste turno para Lançar uma Magia ou fazer um @UUID[Compendium.pf2e.actionspf2e.Item.QDW9H8XLIjuW2fE4]{Golpe Mágico}. Você precisa atender a este requisito apenas para entrar na postura, não para permanecer nela.</p>\n<hr />\n<p>Você desvia uma porção do poder mágico da magia e a mantém circulando pelo seu corpo e arma usando formas especializadas, respiração ou trabalho de pés. Enquanto você estiver na postura, seus Golpes corpo a corpo causam 1 de dano de força extra. Este dano aumenta para 2 se você tiver especialização em armas e 3 se você tiver especialização em armas maior. Qualquer Golpe que se beneficie deste dano ganha a característica arcana, tornando-o mágico.</p>\n<p>Se sua magia mais recente antes de entrar na postura foi uma que pode causar dano, o dano da postura é do mesmo tipo que a magia poderia causar (ou um tipo de sua escolha se a magia pudesse causar vários tipos de dano).</p>",
-        "source": "Pathfinder Secrets of Magic"
+    "Arcane Cascade": {
+      "name": "Cascata Arcana",
+      "description": "<p><strong>Requisitos</strong> Você usou sua ação mais recente neste turno para Lançar uma Magia ou fazer um @UUID[Compendium.pf2e.actionspf2e.Item.QDW9H8XLIjuW2fE4]{Golpe Mágico}. Você precisa atender a este requisito apenas para entrar na postura, não para permanecer nela.</p>\n<hr />\n<p>Você desvia uma porção do poder mágico da magia e a mantém circulando pelo seu corpo e arma usando formas especializadas, respiração ou trabalho de pés. Enquanto você estiver na postura, seus Golpes corpo a corpo causam 1 de dano de força extra. Este dano aumenta para 2 se você tiver especialização em armas e 3 se você tiver especialização em armas maior. Qualquer Golpe que se beneficie deste dano ganha a característica arcana, tornando-o mágico.</p>\n<p>Se sua magia mais recente antes de entrar na postura foi uma que pode causar dano, o dano da postura é do mesmo tipo que a magia poderia causar (ou um tipo de sua escolha se a magia pudesse causar vários tipos de dano).</p>",
+      "source": "Pathfinder Secrets of Magic"
     },
-        "Armor Up!": {
+    "Armor Up!": {
       "name": "Vestir Armadura!",
       "description": "<p><strong>Efeito</strong> Você estala seus dedos. A armadura retorna vestida para seu corpo.</p>",
       "source": "Pathfinder Secrets of Magic"
@@ -196,17 +196,17 @@
       "description": "<p><strong>Requerimentos</strong> Você está transformado na forma de fênix pela magia Forma Monstruosa concedida por este talento</p>\n<hr />\n<p><strong>Efeito</strong> Você encerra a forma de fênix enquanto uma corona flamejante irrompe de você como luz ardente. Cada criatura em um @Template[type:burst|distance:10] recebe @Damage[max(16,(2*(floor(@actor.level/2))))d6[fire]|options:area-damage] de dano de fogo com um teste de @Check[fortitude|against:spell|basic] Fortitude contra sua CD de magia; criaturas que falham criticamente ficam @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cegadas} por 1 rodada. Você ganha 8d6 Pontos de Vida temporários. No 18º nível e novamente no 20º nível, a explosão causa um adicional de 2d6 de dano de fogo e você ganha um adicional de 1d6 Pontos de Vida temporários.</p>",
       "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
     },
-"Bless Ally": {
-        "name": "Abençoar Aliado",
-        "description": "<p><strong>Frequência</strong> uma vez a cada 10 minutos</p>\n<p><strong>Requisitos</strong> Sua auréola está ativa</p>\n<p><strong>Alvo</strong> um aliado voluntário dentro da luz brilhante da sua auréola</p>\n<hr />\n<p><strong>Efeito</strong> Seu esplendor concede a um aliado um pouco da sua graça celestial. Esse aliado pode rolar duas vezes e usar o resultado maior para o próximo teste de Vontade que tentar antes do início do seu próximo turno.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.niYOLA6l44U2NMM3]{Effect: Bless Ally}</p>",
-        "source": "Pathfinder War of Immortals"
+    "Bless Ally": {
+      "name": "Abençoar Aliado",
+      "description": "<p><strong>Frequência</strong> uma vez a cada 10 minutos</p>\n<p><strong>Requisitos</strong> Sua auréola está ativa</p>\n<p><strong>Alvo</strong> um aliado voluntário dentro da luz brilhante da sua auréola</p>\n<hr />\n<p><strong>Efeito</strong> Seu esplendor concede a um aliado um pouco da sua graça celestial. Esse aliado pode rolar duas vezes e usar o resultado maior para o próximo teste de Vontade que tentar antes do início do seu próximo turno.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.niYOLA6l44U2NMM3]{Effect: Bless Ally}</p>",
+      "source": "Pathfinder War of Immortals"
     },
     "Blinding of the Needle": {
-        "name": "Ofuscamento da Agulha",
-        "description": "<p>Você mira sua arma em um corte superficial acima do olho do seu oponente. Faça um Golpe com o ícone imbuído. Se o Golpe for bem-sucedido, o alvo deve ser bem-sucedido em um teste de @Check[fortitude|against:exemplar] contra o DC da sua classe ou ficará @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} por 1 rodada ou até usar uma ação Interagir para limpar o sangue de sua visão.</p>",
-        "source": "Pathfinder War of Immortals"
+      "name": "Ofuscamento da Agulha",
+      "description": "<p>Você mira sua arma em um corte superficial acima do olho do seu oponente. Faça um Golpe com o ícone imbuído. Se o Golpe for bem-sucedido, o alvo deve ser bem-sucedido em um teste de @Check[fortitude|against:exemplar] contra o DC da sua classe ou ficará @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} por 1 rodada ou até usar uma ação Interagir para limpar o sangue de sua visão.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Blizzard Evasion": {
+    "Blizzard Evasion": {
       "name": "Evasão da Nevasca",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você recebe 40 ou mais de dano físico de um único ataque</p>\n<hr />\n<p><strong>Efeito</strong> Você se desincorpora em uma nevasca rodopiante por até 3 rodadas. Durante este tempo, você ganha resistência 10 a dano físico e fraqueza 10 a dano de força. Você ganha uma velocidade de voo de 40 pés, mas a única ação que você pode realizar é @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Voar}. Na primeira vez a cada rodada que você entra no espaço de outra criatura enquanto desincorporado, ou na primeira vez que uma criatura entra no seu espaço, essa criatura recebe @Damage[4d8[frio]] de dano e deve ter sucesso em um teste de resistência de @Check[fortitude|against:class-spell] Fortitude contra sua CD de classe ou CD de magia, o que for maior, ou então fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoada 1}. No início do seu turno, você pode encerrar este efeito como uma ação livre.</p>",
       "source": "Pathfinder Lost Omens: Monsters of Myth"
@@ -591,12 +591,12 @@
       "description": "<p>Esta ação permite que você desarme uma armadilha ou outro dispositivo complexo. Muitas vezes, um dispositivo requer vários sucessos antes de ser desativado, dependendo de sua construção e complexidade. Um @UUID[Compendium.pf2e.equipment-srd.Item.zvLyCVD8g2PdHJAc]{Kit de Ladrão} é útil e às vezes até necessário para Desativar um Dispositivo, conforme determinado pelo Mestre, e às vezes um dispositivo requer um nível de proficiência mais alto em Ladinagem para desativá-lo.</p>\n<p>O resultado do seu teste de <span data-pf2-action=\"disableDevice\" data-pf2-glyph=\"D\">Ladinagem</span> determina seu progresso.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você desativa o dispositivo ou obtém dois sucessos para desativar um dispositivo que requer mais de um sucesso. Você não deixa nenhum vestígio de sua manipulação e pode rearmar o dispositivo mais tarde, se esse tipo de dispositivo puder ser rearmado.</p>\n<p><strong>Sucesso</strong> Você desativa o dispositivo ou obtém um sucesso para desativar um dispositivo que requer mais de um sucesso.</p>\n<p><strong>Falha Crítica</strong> Você aciona o dispositivo.</p>",
       "source": "Pathfinder Player Core"
     },
-"Disarm": {
-        "name": "Desarmar",
-        "description": "<p><strong>Requisitos</strong> Você tem pelo menos uma mão livre. O alvo não pode ser mais de um tamanho maior que você.</p>\n<hr />\n<p>Você tenta arrancar um item das mãos de uma criatura. Faça um teste de [[/act disarm]]{Atletismo} contra o DC de Reflexos do alvo.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você arranca o item das mãos do alvo. Ele cai no chão no espaço do alvo.</p>\n<p><strong>Sucesso</strong> Você enfraquece a pegada do alvo no item. Tentativas adicionais de @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Desarmar} o alvo deste item ganham um bônus de circunstância +2, e o alvo sofre uma penalidade de circunstância -2 em ataques com o item ou outros testes que exigem uma pegada firme no item. A criatura pode encerrar o efeito Interagindo para mudar sua pegada no item; caso contrário, ele dura enquanto a criatura segurar o item.</p>\n<p>@UUID[Compendium.pf2e.other-effects.Item.PuDS0DEq0CnaSIFV]{Effect: Disarm (Success)}</p>\n<p><strong>Falha Crítica</strong> Você perde o equilíbrio e fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início do seu próximo turno.</p>",
-        "source": "Pathfinder Player Core"
+    "Disarm": {
+      "name": "Desarmar",
+      "description": "<p><strong>Requisitos</strong> Você tem pelo menos uma mão livre. O alvo não pode ser mais de um tamanho maior que você.</p>\n<hr />\n<p>Você tenta arrancar um item das mãos de uma criatura. Faça um teste de [[/act disarm]]{Atletismo} contra o DC de Reflexos do alvo.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você arranca o item das mãos do alvo. Ele cai no chão no espaço do alvo.</p>\n<p><strong>Sucesso</strong> Você enfraquece a pegada do alvo no item. Tentativas adicionais de @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Desarmar} o alvo deste item ganham um bônus de circunstância +2, e o alvo sofre uma penalidade de circunstância -2 em ataques com o item ou outros testes que exigem uma pegada firme no item. A criatura pode encerrar o efeito Interagindo para mudar sua pegada no item; caso contrário, ele dura enquanto a criatura segurar o item.</p>\n<p>@UUID[Compendium.pf2e.other-effects.Item.PuDS0DEq0CnaSIFV]{Effect: Disarm (Success)}</p>\n<p><strong>Falha Crítica</strong> Você perde o equilíbrio e fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início do seu próximo turno.</p>",
+      "source": "Pathfinder Player Core"
     },
-        "Disarming Interception": {
+    "Disarming Interception": {
       "name": "Interceptação Desarmante",
       "description": "<p><strong>Requerimentos</strong> Você tem seu punho posicionado para aparar</p>\n<p><strong>Acionamento</strong> Um inimigo dentro do seu alcance mira em você ou em um aliado com um Golpe de arma</p>\n<hr />\n<p><strong>Efeito</strong> Você tenta @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Desarmar} a arma com a qual o inimigo está atacando. Você ganha um bônus de status +2 neste teste de Desarmar e, se o teste for bem-sucedido, o ataque de acionamento é interrompido. Se a tentativa de Desarmar for um sucesso crítico e você tiver uma mão livre, você pode pegar a arma desarmada em sua mão em vez de ela cair no chão no espaço do alvo.</p>",
       "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
@@ -646,12 +646,12 @@
       "description": "<p>Seu eidolon ataca uma criatura viva e drena parte da força vital da criatura para alimentar seu vínculo compartilhado. Seu eidolon Golpeia um inimigo vivo. Se o Golpe acertar e causar dano, o alvo deve tentar um teste de Fortitude, com os seguintes efeitos. Em um acerto crítico, o inimigo usa o resultado um grau pior do que o rolado.</p>\n<p><strong>Sucesso Crítico</strong> Nenhum efeito.</p>\n<p><strong>Sucesso</strong> Seu eidolon drena uma pequena quantidade de força vital. O inimigo recebe dano de vazio adicional igual à metade do seu nível.</p>\n<p><strong>Falha</strong> Seu eidolon drena força vital suficiente para se satisfazer. O inimigo recebe dano de vazio adicional igual à metade do seu nível e fica @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drenado 1}. Seu eidolon ganha Pontos de Vida temporários iguais ao nível do inimigo, que duram 1 minuto.</p>\n<p><strong>Falha Crítica</strong> Seu eidolon drena uma quantidade incrível de força vital e fica completamente repleto de energia. Como na falha, mas o inimigo fica @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drenado 2} e os Pontos de Vida temporários são iguais ao dobro do nível do inimigo.</p>",
       "source": "Pathfinder Book of the Dead"
     },
-"Drain Realm": {
-        "name": "Drenar Reino",
-        "description": "<p><strong>Gatilho</strong> Sua ação anterior foi Sustentar seu reino manifestado</p>\n<p><strong>Requisitos</strong> Seu reino manifestado tem um raio de pelo menos 10 pés</p>\n<hr />\n<p><strong>Efeito</strong> Você extrai poder do seu reino manifestado para fortalecer sua forma física. Diminua o raio do seu reino manifestado em 10 pés. Você recupera vários @Damage[(@actor.level)[healing]]{Pontos de Vida iguais ao seu nível} e cada um dos seus Golpes feitos antes do final do seu turno causa 1d8 de dano adicional do tipo de dano do seu reino.</p>",
-        "source": "Pathfinder War of Immortals"
+    "Drain Realm": {
+      "name": "Drenar Reino",
+      "description": "<p><strong>Gatilho</strong> Sua ação anterior foi Sustentar seu reino manifestado</p>\n<p><strong>Requisitos</strong> Seu reino manifestado tem um raio de pelo menos 10 pés</p>\n<hr />\n<p><strong>Efeito</strong> Você extrai poder do seu reino manifestado para fortalecer sua forma física. Diminua o raio do seu reino manifestado em 10 pés. Você recupera vários @Damage[(@actor.level)[healing]]{Pontos de Vida iguais ao seu nível} e cada um dos seus Golpes feitos antes do final do seu turno causa 1d8 de dano adicional do tipo de dano do seu reino.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Drape Ambient Magic": {
+    "Drape Ambient Magic": {
       "name": "Envolver em Magia Ambiente",
       "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<hr />\n<p><strong>Efeito</strong> Seu ostilli fica transparente enquanto converte sua magia armazenada em uma bolha de luz refratária ao seu redor. Você fica @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondido} de todas as criaturas até o final do seu turno. Se você Golpear uma criatura, essa criatura fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenida} contra esse ataque e você se torna observado.</p>",
       "source": "Pathfinder Howl of the Wild"
@@ -666,17 +666,17 @@
       "description": "<p><strong>Requerimentos</strong> Uma criatura @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Agarrada}, @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralisada}, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restringida}, @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Inconsciente} ou disposta está dentro do seu alcance</p>\n<hr />\n<p><strong>Efeito</strong> Você crava suas presas naquela criatura e bebe seu sangue. Isso requer um teste de @Check[athletics|defense:fortitude] Atletismo contra a CD de Fortitude da vítima se ela estiver agarrada, e automaticamente tem sucesso para qualquer uma das outras condições. Se você for bem-sucedido, a criatura fica @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drenadas 1} e você ganha PVs temporários iguais ao nível do alvo que duram 10 minutos. Usos adicionais contra o alvo não aumentam a condição drenado nem concedem mais PVs temporários a você.</p>",
       "source": "Pathfinder Book of the Dead"
     },
-"Drink from the Chalice": {
-        "name": "Beber do Cálice",
-        "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<p><strong>Requisitos</strong> Você está segurando seu implemento cálice.</p>\n<hr />\n<p>Você bebe do líquido que lentamente se acumula em seu cálice ou o administra a um aliado adjacente. Quem bebe escolhe se toma um pequeno gole ou drena o conteúdo.</p>\n<ul>\n<li>\n<p><strong>Gole</strong> Um gole concede a quem bebe uma quantidade de Pontos de Vida temporários igual a 2 + metade do seu nível que duram até o final do seu próximo turno.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.gjxSQgN3MopLxM35]{Effect: Drink from the Chalice}</p>\n</li>\n<li><strong>Drenar</strong> (cura, vitalidade) Beber profundamente cura quem bebe em 3 @Damage[(3*@actor.level)[healing,vitality]]{Pontos de Vida para cada nível} que você tem. Depois que o cálice é drenado, ele fica apenas com seus resíduos que se acumulam lentamente; o cálice não pode ser drenado novamente, embora ainda possa ser tomado em goles. Se passarem 10 minutos sem que ninguém beba do cálice, ele se enche novamente e pode ser drenado novamente. Se quem bebe tiver @Damage[(3*@actor.level)[healing,void]]{cura vazia}, ele ainda pode curar desta forma, e o efeito tem a característica vazio em vez de cura e vitalidade.</li>\n</ul>",
-        "source": "Pathfinder Dark Archive"
+    "Drink from the Chalice": {
+      "name": "Beber do Cálice",
+      "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<p><strong>Requisitos</strong> Você está segurando seu implemento cálice.</p>\n<hr />\n<p>Você bebe do líquido que lentamente se acumula em seu cálice ou o administra a um aliado adjacente. Quem bebe escolhe se toma um pequeno gole ou drena o conteúdo.</p>\n<ul>\n<li>\n<p><strong>Gole</strong> Um gole concede a quem bebe uma quantidade de Pontos de Vida temporários igual a 2 + metade do seu nível que duram até o final do seu próximo turno.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.gjxSQgN3MopLxM35]{Effect: Drink from the Chalice}</p>\n</li>\n<li><strong>Drenar</strong> (cura, vitalidade) Beber profundamente cura quem bebe em 3 @Damage[(3*@actor.level)[healing,vitality]]{Pontos de Vida para cada nível} que você tem. Depois que o cálice é drenado, ele fica apenas com seus resíduos que se acumulam lentamente; o cálice não pode ser drenado novamente, embora ainda possa ser tomado em goles. Se passarem 10 minutos sem que ninguém beba do cálice, ele se enche novamente e pode ser drenado novamente. Se quem bebe tiver @Damage[(3*@actor.level)[healing,void]]{cura vazia}, ele ainda pode curar desta forma, e o efeito tem a característica vazio em vez de cura e vitalidade.</li>\n</ul>",
+      "source": "Pathfinder Dark Archive"
     },
     "Drink of my Foes": {
-        "name": "Beber dos Meus Inimigos",
-        "description": "<p><strong>Requisitos</strong> Sua última ação foi um Golpe bem-sucedido com o @UUID[Compendium.pf2e.classfeatures.Item.LfgeEJgJdA8WAKV8]{Fio da Cova}</p>\n<hr />\n<p><strong>Efeito</strong> Sua lâmina brilha ao absorver a vitalidade do seu inimigo. Você recupera Pontos de Vida iguais à metade do dano causado.</p>",
-        "source": "Pathfinder War of Immortals"
+      "name": "Beber dos Meus Inimigos",
+      "description": "<p><strong>Requisitos</strong> Sua última ação foi um Golpe bem-sucedido com o @UUID[Compendium.pf2e.classfeatures.Item.LfgeEJgJdA8WAKV8]{Fio da Cova}</p>\n<hr />\n<p><strong>Efeito</strong> Sua lâmina brilha ao absorver a vitalidade do seu inimigo. Você recupera Pontos de Vida iguais à metade do dano causado.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Drive": {
+    "Drive": {
       "name": "Conduzir",
       "description": "<p><strong>Requerimentos</strong> Você está pilotando um veículo. Você pilota seu veículo para se mover.</p>\n<p>Decida quantas ações você pretende gastar antes de começar a Conduzir. Os efeitos dependem do número de ações que você gastar. Você não pode Conduzir através de espaços ocupados por criaturas, mesmo que sejam aliados.</p>\n<p><span class=\"action-glyph\">1</span> Faça um teste de pilotagem. Em um sucesso, o veículo se move até sua Velocidade e pode virar normalmente. Em uma falha, o veículo se move sua Velocidade em linha reta. Em uma falha crítica, o veículo se move sua Velocidade em linha reta e fica descontrolado.</p>\n<p><span class=\"action-glyph\">2</span> (imprudente) O veículo se move até o dobro de sua Velocidade em linha reta na direção atual do veículo.</p>\n<p><span class=\"action-glyph\">3</span> (imprudente) Você recebe uma penalidade de -5 no seu teste de pilotagem para manter o controle do veículo. O veículo se move até três vezes sua Velocidade em linha reta na direção atual do veículo.</p>",
       "source": "Pathfinder Gamemastery Guide"
@@ -816,22 +816,22 @@
       "description": "<p><strong>Requerimentos</strong> Você está dentro do alcance corpo a corpo do alvo que você tenta Fintar.</p>\n<hr />\n<p>Com um floreio enganoso, você deixa um oponente despreparado para seu ataque real. Faça um teste de [[/act feint]]{Enganação} contra a CD de Percepção do seu alvo.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você desequilibra completamente as defesas do seu inimigo contra você. O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} contra ataques corpo a corpo que você tentar contra ele até o final do seu próximo turno.</p>\n<p><strong>Sucesso</strong> Seu inimigo é enganado, mas apenas momentaneamente. O alvo fica desprevenido contra o próximo ataque corpo a corpo que você tentar contra ele antes do final do seu turno atual.</p>\n<p><strong>Falha Crítica</strong> Sua finta sai pela culatra. Você fica desprevenido contra ataques corpo a corpo que o alvo tentar contra você até o final do seu próximo turno.</p>",
       "source": "Pathfinder Player Core"
     },
-"Feral Swing": {
-        "name": "Giro Feral",
-        "description": "<p>Você ataca com ambos os braços, dilacerando tudo à sua frente. Cada criatura em um @Template[type:cone|distance:15] deve ser bem-sucedida em um teste de @Check[reflex|against:exemplar|basic] contra o DC da sua classe ou sofrer dano espiritual igual ao seu dano de Golpe normal com suas @UUID[Compendium.pf2e.classfeatures.Item.MhM6u4Stl0jV6CF2]{Mãos do Selvagem}.</p>\n<p>Você pode escolher girar com abandono, o que impõe um bônus de circunstância de -2 aos testes de resistência dos inimigos, mas faz com que você fique @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início do seu próximo turno.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.raZ8SIBYyFux8L3U]{Effect: Feral Swing}</p>",
-        "source": "Pathfinder War of Immortals"
+    "Feral Swing": {
+      "name": "Giro Feral",
+      "description": "<p>Você ataca com ambos os braços, dilacerando tudo à sua frente. Cada criatura em um @Template[type:cone|distance:15] deve ser bem-sucedida em um teste de @Check[reflex|against:exemplar|basic] contra o DC da sua classe ou sofrer dano espiritual igual ao seu dano de Golpe normal com suas @UUID[Compendium.pf2e.classfeatures.Item.MhM6u4Stl0jV6CF2]{Mãos do Selvagem}.</p>\n<p>Você pode escolher girar com abandono, o que impõe um bônus de circunstância de -2 aos testes de resistência dos inimigos, mas faz com que você fique @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início do seu próximo turno.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.raZ8SIBYyFux8L3U]{Effect: Feral Swing}</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Fey's Fortune": {
+    "Fey's Fortune": {
       "name": "Sorte Feérica",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você tenta um teste de perícia e ainda não rolou</p>\n<hr />\n<p><strong>Efeito</strong> Role o teste de perícia duas vezes e use o melhor resultado</p>",
       "source": "Pathfinder Player Core 2"
     },
-"Field of Roots": {
-        "name": "Campo de Raízes",
-        "description": "<p>Seu eidolon estende suas raízes no subsolo para emaranhar e possivelmente danificar todos os inimigos próximos. Todos os inimigos dentro do alcance do seu eidolon recebem dano do mesmo tipo e quantidade do Golpe mais prejudicial do seu eidolon, dependendo de seus testes de Reflexos contra o DC de magia. Quaisquer efeitos contínuos da resistência duram até que o inimigo Escape ou saia do alcance do seu eidolon.</p>\n<p>Depois de usar Campo de Raízes, seu eidolon fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizado} até que realize uma única ação, que tem a característica manipular, para se desprender do solo; isso também encerra quaisquer efeitos restantes sobre os inimigos de Campo de Raízes.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O inimigo não é afetado.</p>\n<p><strong>Sucesso</strong> O inimigo não recebe dano, mas sofre uma penalidade de circunstância de -10 pés em suas Velocidades.</p>\n<p><strong>Falha</strong> O inimigo recebe metade do dano, sofre uma penalidade de circunstância de -10 pés em suas Velocidades e, no final de cada um de seus turnos, recebe metade do dano novamente.</p>\n<p><strong>Falha Crítica</strong> O inimigo fica imobilizado, recebe dano total e, no final de cada um de seus turnos, recebe dano total novamente.</p>",
-        "source": "Pathfinder Secrets of Magic"
+    "Field of Roots": {
+      "name": "Campo de Raízes",
+      "description": "<p>Seu eidolon estende suas raízes no subsolo para emaranhar e possivelmente danificar todos os inimigos próximos. Todos os inimigos dentro do alcance do seu eidolon recebem dano do mesmo tipo e quantidade do Golpe mais prejudicial do seu eidolon, dependendo de seus testes de Reflexos contra o DC de magia. Quaisquer efeitos contínuos da resistência duram até que o inimigo Escape ou saia do alcance do seu eidolon.</p>\n<p>Depois de usar Campo de Raízes, seu eidolon fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizado} até que realize uma única ação, que tem a característica manipular, para se desprender do solo; isso também encerra quaisquer efeitos restantes sobre os inimigos de Campo de Raízes.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O inimigo não é afetado.</p>\n<p><strong>Sucesso</strong> O inimigo não recebe dano, mas sofre uma penalidade de circunstância de -10 pés em suas Velocidades.</p>\n<p><strong>Falha</strong> O inimigo recebe metade do dano, sofre uma penalidade de circunstância de -10 pés em suas Velocidades e, no final de cada um de seus turnos, recebe metade do dano novamente.</p>\n<p><strong>Falha Crítica</strong> O inimigo fica imobilizado, recebe dano total e, no final de cada um de seus turnos, recebe dano total novamente.</p>",
+      "source": "Pathfinder Secrets of Magic"
     },
-        "Fight with Fear": {
+    "Fight with Fear": {
       "name": "Lutar com Medo",
       "description": "<p><strong>Acionamento</strong> Uma criatura que você pode ver usa um efeito mental contra você</p>\n<hr />\n<p><strong>Efeito</strong> A criatura que acionou o efeito deve tentar um teste de Vontade, que tem os seguintes efeitos.</p>\n<hr />\n<p><strong>Sucesso</strong> A criatura não é afetada.</p>\n<p><strong>Falha</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustada 2} e você ganha um bônus de status +2 no seu teste de resistência ou outra defesa contra o efeito mental de acionamento.</p>\n<p><strong>Falha Crítica</strong> A criatura fica assustada 2 e você não é afetado pelo efeito mental de acionamento.</p>",
       "source": "Pathfinder Secrets of Magic"
@@ -866,22 +866,22 @@
       "description": "<p><strong>Acionamento</strong> Um inimigo causa dano ao seu aliado, e ambos estão dentro da aura do seu campeão</p>\n<hr />\n<p><strong>Efeito</strong> Uma luz divina imperiosa brilha de você para cercar seu inimigo. O aliado ganha resistência a todo dano contra o dano que acionou o efeito igual a 2 + seu nível. Por 1 rodada, o atacante é afetado por @UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{Luz Reveladora}.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Efeito: Resistência do Campeão}</p>",
       "source": "Pathfinder Player Core 2"
     },
-"Fleeting Arc through Heaven and Earth": {
-        "name": "Arco Fugaz através do Céu e da Terra",
-        "description": "<p>Você balança sua arma em um arco amplo, liberando um arco-íris flamejante que causa @Damage[9d6[spirit]|options:area-damage] de dano e @Damage[9d6[untyped]|options:area-damage] de dano do mesmo tipo que sua arma a todos os inimigos em um @Template[type:cone|distance:60], com um teste de @Check[fortitude|against:exemplar|basic|options:area-effect] contra o DC da sua classe. Conforme o arco-íris se propaga, você o usa como uma ponte para se teletransportar para qualquer local dentro da área do efeito.</p>",
-        "source": "Pathfinder War of Immortals"
+    "Fleeting Arc through Heaven and Earth": {
+      "name": "Arco Fugaz através do Céu e da Terra",
+      "description": "<p>Você balança sua arma em um arco amplo, liberando um arco-íris flamejante que causa @Damage[9d6[spirit]|options:area-damage] de dano e @Damage[9d6[untyped]|options:area-damage] de dano do mesmo tipo que sua arma a todos os inimigos em um @Template[type:cone|distance:60], com um teste de @Check[fortitude|against:exemplar|basic|options:area-effect] contra o DC da sua classe. Conforme o arco-íris se propaga, você o usa como uma ponte para se teletransportar para qualquer local dentro da área do efeito.</p>",
+      "source": "Pathfinder War of Immortals"
     },
     "Fling Magic": {
-        "name": "Lançar Magia",
-        "description": "<p><strong>Requisitos</strong> Você está segurando seu implemento varinha.</p>\n<hr />\n<p>Você lança energia mágica em um alvo a até 60 pés, causando dano igual a @Damage[ceil(@actor.level/2)d4 +@actor.abilities.cha.mod[untyped]]{1d4 + seu modificador de Carisma} ao alvo, com um teste de @Check[reflex|against:class|basic] contra o DC da sua classe. O dano é do tipo que você selecionou quando ganhou seu implemento varinha. No 3º nível e a cada 2 níveis depois disso, o dano aumenta em 1d4.</p>\n<p>Você pode gastar mais energia do que o normal para aumentar o efeito de Lançar Magia, causando @Damage[ceil(@actor.level/2)d6 +@actor.abilities.cha.mod[untyped]]{d6 de dano} em vez de d4. Depois de fazer isso, a varinha leva [[/r 1d4 #Recarregar Varinha]]{1d4 rodadas} para recarregar, durante as quais você não pode aumentar o dano da varinha, mas pode continuar a Lançar Magia normalmente. Se você atingir criticamente com um Golpe, sua varinha recarrega imediatamente ao absorver poder do choque.</p>\n<hr />\n<p><strong>Especial</strong> Esta atividade tem a característica correspondente ao tipo de dano que você selecionou.</p>",
-        "source": "Pathfinder Dark Archive"
+      "name": "Lançar Magia",
+      "description": "<p><strong>Requisitos</strong> Você está segurando seu implemento varinha.</p>\n<hr />\n<p>Você lança energia mágica em um alvo a até 60 pés, causando dano igual a @Damage[ceil(@actor.level/2)d4 +@actor.abilities.cha.mod[untyped]]{1d4 + seu modificador de Carisma} ao alvo, com um teste de @Check[reflex|against:class|basic] contra o DC da sua classe. O dano é do tipo que você selecionou quando ganhou seu implemento varinha. No 3º nível e a cada 2 níveis depois disso, o dano aumenta em 1d4.</p>\n<p>Você pode gastar mais energia do que o normal para aumentar o efeito de Lançar Magia, causando @Damage[ceil(@actor.level/2)d6 +@actor.abilities.cha.mod[untyped]]{d6 de dano} em vez de d4. Depois de fazer isso, a varinha leva [[/r 1d4 #Recarregar Varinha]]{1d4 rodadas} para recarregar, durante as quais você não pode aumentar o dano da varinha, mas pode continuar a Lançar Magia normalmente. Se você atingir criticamente com um Golpe, sua varinha recarrega imediatamente ao absorver poder do choque.</p>\n<hr />\n<p><strong>Especial</strong> Esta atividade tem a característica correspondente ao tipo de dano que você selecionou.</p>",
+      "source": "Pathfinder Dark Archive"
     },
     "Flowing Spirit Strike": {
-        "name": "Golpe Espiritual Fluido",
-        "description": "<p>Faça dois Golpes com a lâmina reluzente, cada um contra o mesmo alvo e usando sua penalidade de ataque múltiplo atual. Se a @UUID[Compendium.pf2e.classfeatures.Item.o8Q7wWx2oKvKMi1s]{Lâmina Reluzente} não tiver a característica ágil, o segundo Golpe sofre uma penalidade de -2. Se ambos os ataques acertarem, você combina seus danos, que são todos causados como dano espiritual.</p>\n<p>Você adiciona qualquer dano de precisão apenas uma vez. Combine o dano de ambos os Golpes e aplique resistências e fraquezas apenas uma vez. Isso conta como dois ataques ao calcular sua penalidade de ataque múltiplo.</p>",
-        "source": "Pathfinder War of Immortals"
+      "name": "Golpe Espiritual Fluido",
+      "description": "<p>Faça dois Golpes com a lâmina reluzente, cada um contra o mesmo alvo e usando sua penalidade de ataque múltiplo atual. Se a @UUID[Compendium.pf2e.classfeatures.Item.o8Q7wWx2oKvKMi1s]{Lâmina Reluzente} não tiver a característica ágil, o segundo Golpe sofre uma penalidade de -2. Se ambos os ataques acertarem, você combina seus danos, que são todos causados como dano espiritual.</p>\n<p>Você adiciona qualquer dano de precisão apenas uma vez. Combine o dano de ambos os Golpes e aplique resistências e fraquezas apenas uma vez. Isso conta como dois ataques ao calcular sua penalidade de ataque múltiplo.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Flurry of Blows": {
+    "Flurry of Blows": {
       "name": "Rajada de Golpes",
       "description": "<p>Faça dois Golpes desarmados. Se ambos acertarem a mesma criatura, combine seus danos para fins de resistências e fraquezas. Aplique sua penalidade de ataque múltiplo aos Golpes normalmente. Como possui a característica floreio, você só pode usar Rajada de Golpes uma vez por turno.</p>",
       "source": "Pathfinder Core Rulebook"
@@ -1261,12 +1261,12 @@
       "description": "<p>Seu eidolon aparece em um espaço aberto adjacente a você e pode então realizar uma única ação. Se seu eidolon já estava manifestado, você o desmanifesta em vez disso.</p>\n<p>O conduto que permite que seu eidolon se manifeste também é um elo entre vocês. Seu eidolon deve permanecer dentro de 100 pés de você o tempo todo e não pode ir além desse limite voluntariamente. Se forçado a ir além dessa distância, ou se você for reduzido a 0 Pontos de Vida, a forma física do seu eidolon se dissolve: seu eidolon se desmanifesta e você precisa usar Manifestar Eidolon para manifestá-lo novamente.</p>\n<hr />\n<p><strong>Especial</strong> Esta atividade tem a característica correspondente à tradição do seu eidolon (arcana, divina, oculta ou primal).</p>",
       "source": "Pathfinder Secrets of Magic"
     },
-"Manifest Realm": {
-        "name": "Manifestar Reino",
-        "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Você corrompe a área ao redor em uma manifestação do seu reino em uma @Template[type:burst|distance:20]{explosão com raio de 20 pés} centrada em você. Seu reino manifestado conta como terreno difícil para seus inimigos, e seus inimigos sofrem uma penalidade de -1 em testes de Fortitude enquanto estiverem em seu reino manifestado.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.VrTaP6BcXo6sizn6]{Effect: Manifest Realm}</p>\n<p>Você pode Sustentar seu reino manifestado uma vez por rodada em rodadas subsequentes e, se não o fizer, o raio do seu reino manifestado é reduzido em 5 pés.</p>\n<p>Seu reino permanece manifestado por um máximo de 1 minuto, e você pode Dissipar seu reino manifestado. Se o raio do seu reino manifestado for reduzido a 0 pés ou se você se mover para além de 100 pés das bordas do seu reino manifestado, seu reino manifestado é automaticamente Dissipado.</p>",
-        "source": "Pathfinder War of Immortals"
+    "Manifest Realm": {
+      "name": "Manifestar Reino",
+      "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Você corrompe a área ao redor em uma manifestação do seu reino em uma @Template[type:burst|distance:20]{explosão com raio de 20 pés} centrada em você. Seu reino manifestado conta como terreno difícil para seus inimigos, e seus inimigos sofrem uma penalidade de -1 em testes de Fortitude enquanto estiverem em seu reino manifestado.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.VrTaP6BcXo6sizn6]{Effect: Manifest Realm}</p>\n<p>Você pode Sustentar seu reino manifestado uma vez por rodada em rodadas subsequentes e, se não o fizer, o raio do seu reino manifestado é reduzido em 5 pés.</p>\n<p>Seu reino permanece manifestado por um máximo de 1 minuto, e você pode Dissipar seu reino manifestado. Se o raio do seu reino manifestado for reduzido a 0 pés ou se você se mover para além de 100 pés das bordas do seu reino manifestado, seu reino manifestado é automaticamente Dissipado.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Manifest Soulforged Armament": {
+    "Manifest Soulforged Armament": {
       "name": "Manifestar Armamento Forjado na Alma",
       "description": "<p><strong>Requerimentos</strong> Se estiver invocando uma arma ou escudo, você tem as mãos livres para empunhá-la; se estiver invocando uma armadura, você não está vestindo nenhuma armadura</p>\n<hr />\n<p><strong>Efeito</strong> Você imediatamente empunha ou veste o armamento forjado na alma ligado a você. O armamento forjado na alma permanece manifestado até que você Dispense este efeito.</p>\n<p>Uma vez por dia, quando você usar esta habilidade, você pode manifestar a forma de essência do armamento. Você ganha o poder de essência do armamento até que ele seja Dispensado. Após 1 minuto, o armamento em forma de essência é automaticamente Dispensado.</p>",
       "source": "Pathfinder Secrets of Magic"
@@ -1276,22 +1276,22 @@
       "description": "<p>Contanto que seu grupo tenha Reconhecido com sucesso o hexágono, você pode usar esta atividade para criar um mapa preciso do hexágono com um teste de Sobrevivência bem-sucedido (normalmente com uma CD treinada ou especialista). Quando você tem um mapa preciso do hexágono, a CD de qualquer teste para navegar naquele hexágono é reduzida em 2.</p>",
       "source": "Pathfinder Gamemastery Guide"
     },
-"Marathon Dash": {
-        "name": "Corrida de Maratona",
-        "description": "<p>Seus pés o carregam tão rapidamente que deixam um rastro que acelera seus aliados. Você Anda. Cada aliado a até 10 pés de você no início do seu movimento pode Andar como uma reação.</p>",
-        "source": "Pathfinder War of Immortals"
+    "Marathon Dash": {
+      "name": "Corrida de Maratona",
+      "description": "<p>Seus pés o carregam tão rapidamente que deixam um rastro que acelera seus aliados. Você Anda. Cada aliado a até 10 pés de você no início do seu movimento pode Andar como uma reação.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Mark for Death": {
+    "Mark for Death": {
       "name": "Marcado para Morrer",
       "description": "<p><strong>Requerimentos</strong> A criatura que você pretende marcar está sendo Observada por você</p>\n<hr />\n<p><strong>Efeito</strong> Você designa uma única criatura como seu alvo. Usar Marcado para Morrer enquanto estiver @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondido} ou @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Não Detectado} não o torna @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observado}. Marcado para Morrer dura até que o alvo morra ou você use Marcado para Morrer novamente. Você ganha um bônus de circunstância +2 em testes de Percepção para @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} seu alvo, bem como em testes de Dissimulação para @UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Fintar} contra seu alvo. Seu alvo recebe uma penalidade de circunstância -2 em todos os testes de Percepção para te Buscar.</p>\n<p>Além disso, ao atacar seu alvo, você tem a característica de classe @UUID[Compendium.pf2e.classfeatures.Item.j1JE61quDxdge4mg]{Ataque Furtivo}, exceto que causa 1d4 de dano de precisão e você não aumenta o número de dados conforme você ganha níveis. No 6º nível, o dano aumenta para 1d6. Se você já tiver a característica de classe de ataque furtivo, você causa 1 de dano de precisão adicional com seus ataques furtivos feitos contra seu alvo, aumentando para 2 de dano de precisão no 6º nível.</p>",
       "source": "Pathfinder Player Core 2"
     },
-"Mark the Center": {
-        "name": "Marcar o Centro",
-        "description": "<p>Você leva uma mão aos lábios e exala, liberando cinzas vermelhas encantadas em um @Template[type:cone|distance:15]. As cinzas se agarram às áreas vitais de cada inimigo na área por 1 minuto. Quando uma criatura marcada pelas cinzas é atingida e recebe dano de um Golpe, ela recebe 4d6 de dano de precisão ou vitalidade adicional, então sua marca termina. O tipo de dano é o que for pior para a criatura, conforme determinado pelo GM. No 13º nível e a cada 3 níveis depois disso, o dano aumenta em 1d6.</p>",
-        "source": "Pathfinder War of Immortals"
+    "Mark the Center": {
+      "name": "Marcar o Centro",
+      "description": "<p>Você leva uma mão aos lábios e exala, liberando cinzas vermelhas encantadas em um @Template[type:cone|distance:15]. As cinzas se agarram às áreas vitais de cada inimigo na área por 1 minuto. Quando uma criatura marcada pelas cinzas é atingida e recebe dano de um Golpe, ela recebe 4d6 de dano de precisão ou vitalidade adicional, então sua marca termina. O tipo de dano é o que for pior para a criatura, conforme determinado pelo GM. No 13º nível e a cada 3 níveis depois disso, o dano aumenta em 1d6.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Master Strike": {
+    "Master Strike": {
       "name": "Golpe de Mestre",
       "description": "<p><strong>Acionamento</strong> Seu Golpe atinge uma criatura @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenida} e causa dano.</p>\n<hr />\n<p>O alvo tenta um teste de @Check[fortitude|against:rogue] Fortitude contra sua CD de classe. Ele então se torna temporariamente imune ao seu Golpe Mestre por 1 dia.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 2} até o final do seu próximo turno.</p>\n<p><strong>Falha</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralisado} por 4 rodadas.</p>\n<p><strong>Falha Crítica</strong> O alvo fica paralisado por 4 rodadas, fica @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Inconsciente} por 2 horas ou é morto (sua escolha).</p>",
       "source": "Pathfinder Player Core"
@@ -1326,22 +1326,22 @@
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Você experimenta um breve ressurgimento de um mutagênico. Escolha um mutagênico que você consumiu desde seus últimos preparativos diários. Você ganha os efeitos desse mutagênico por 1 minuto.</p>",
       "source": "Pathfinder Core Rulebook"
     },
-"Mystic Aegis": {
-        "name": "Égide Mística",
-        "description": "<p><strong>Gatilho</strong> Uma criatura sobre a qual você obteve sucesso em Recordar Conhecimento causaria dano a você</p>\n<p><strong>Requisitos</strong> Você tem uma mão livre</p>\n<hr />\n<p><strong>Efeito</strong> Você brande seu amuleto, canalizando e moldando as forças dentro dele para protegê-lo contra danos. Você ganha resistência a todos os danos igual a 2 + metade do seu nível arredondado para cima contra o efeito de gatilho.</p>",
-        "source": "Pathfinder Lost Omens: Divine Mysteries"
+    "Mystic Aegis": {
+      "name": "Égide Mística",
+      "description": "<p><strong>Gatilho</strong> Uma criatura sobre a qual você obteve sucesso em Recordar Conhecimento causaria dano a você</p>\n<p><strong>Requisitos</strong> Você tem uma mão livre</p>\n<hr />\n<p><strong>Efeito</strong> Você brande seu amuleto, canalizando e moldando as forças dentro dele para protegê-lo contra danos. Você ganha resistência a todos os danos igual a 2 + metade do seu nível arredondado para cima contra o efeito de gatilho.</p>",
+      "source": "Pathfinder Lost Omens: Divine Mysteries"
     },
-        "Name Drop": {
+    "Name Drop": {
       "name": "Mencionar Nomes",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você falha ou falha criticamente em um teste de Dissimulação, Diplomacia, Intimidação ou Sociedade</p>\n<hr />\n<p><strong>Efeito</strong> Role novamente o teste de perícia. Você deve usar o segundo resultado, mesmo que seja pior.</p>",
       "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
     },
-"No Scar but This": {
-        "name": "Nenhuma Cicatriz Além Desta",
-        "description": "<p>Suas feridas se fecham sem deixar nenhum arranhão. Você recupera @Damage[(ceil(@actor.level/2))d8[healing,vitality]|shortLabel] Pontos de Vida. No 3º nível e a cada 2 níveis depois disso, a cura aumenta em 1d8.</p>",
-        "source": "Pathfinder War of Immortals"
+    "No Scar but This": {
+      "name": "Nenhuma Cicatriz Além Desta",
+      "description": "<p>Suas feridas se fecham sem deixar nenhum arranhão. Você recupera @Damage[(ceil(@actor.level/2))d8[healing,vitality]|shortLabel] Pontos de Vida. No 3º nível e a cada 2 níveis depois disso, a cura aumenta em 1d8.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Nudging Whisper": {
+    "Nudging Whisper": {
       "name": "Sussurro Instigante",
       "description": "<p>Você entrelaça suas palavras com ecos da magia de seus ancestrais. Se sua próxima ação for @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Pedir}, você ganha os efeitos do talento @UUID[Compendium.pf2e.feats-srd.Item.KIK2Eza9TK47MEb2]{Pedido Descarado}, e se sua próxima ação for @UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Mentir}, você ganha os efeitos do talento @UUID[Compendium.pf2e.feats-srd.Item.6Z4e3B9vePYpibcy]{Confabulador}. Se você falhar criticamente em qualquer um dos testes, o alvo e qualquer um que testemunhou sua falha se torna imune ao seu Sussurro Instigante por um dia, embora isso não necessariamente os deixe saber que você tentou encantá-los.</p>",
       "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
@@ -1356,37 +1356,37 @@
       "description": "<p><strong>Acionamento</strong> Uma criatura adjacente a você te atinge com um Golpe corpo a corpo desarmado</p>\n<p><strong>Requerimentos</strong> Você preparou sua roupa para envenenar atacantes</p>\n<hr />\n<p><strong>Efeito</strong> A criatura que acionou o efeito é exposta ao veneno impregnado, e o veneno se torna inerte.</p>",
       "source": "Pathfinder Player Core 2"
     },
-"One Moment till Glory": {
-        "name": "Um Momento para a Glória",
-        "description": "<p>Você conclama seus aliados, levando-os da beira do desastre para a beira da vitória. Cada aliado em sua aura pode imediatamente tentar um novo teste de resistência com um bônus de status +2 contra um efeito negativo ou condição em andamento que os afeta atualmente, mesmo que esse efeito normalmente não permita um novo teste de resistência.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xHbMPpYEPwI0tmcV]{Effect: One Moment till Glory}</p>",
-        "source": "Pathfinder War of Immortals"
+    "One Moment till Glory": {
+      "name": "Um Momento para a Glória",
+      "description": "<p>Você conclama seus aliados, levando-os da beira do desastre para a beira da vitória. Cada aliado em sua aura pode imediatamente tentar um novo teste de resistência com um bônus de status +2 contra um efeito negativo ou condição em andamento que os afeta atualmente, mesmo que esse efeito normalmente não permita um novo teste de resistência.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xHbMPpYEPwI0tmcV]{Effect: One Moment till Glory}</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "One Shot, One Kill": {
+    "One Shot, One Kill": {
       "name": "Um Tiro, Uma Morte",
       "description": "<p><strong>Acionamento</strong> Você rola Furtividade para iniciativa.</p>\n<hr />\n<p>Seu primeiro tiro é o mais mortal. Interaja para sacar uma arma de fogo ou besta. No seu primeiro turno, seu primeiro Golpe com essa arma causa um adicional de 1d6 de dano de precisão. Esse dano de precisão aumenta para 2d6 no 9º nível e 3d6 no 15º nível.</p>",
       "source": "Pathfinder Guns & Gears"
     },
-"Only You and I": {
-        "name": "Só Você e Eu",
-        "description": "<p>Você atrai seu inimigo para um conflito predestinado - um que você sabe que vencerá. Escolha um inimigo dentro do seu alcance. Até o final do seu próximo turno, esse inimigo ganha um bônus de circunstância +2 em jogadas de ataque que fizer contra você, mas deve tentar um teste de @Check[will|against:exemplar] contra o DC da sua classe sempre que tentar se afastar de você, Golpear um alvo diferente de você ou Lançar uma Magia que não o inclua como alvo. Em uma falha, a ação ou ações relacionadas à tentativa falha são interrompidas. Sempre que o inimigo errar você com um Golpe enquanto este efeito estiver ativo, você cura @Damage[(1d8+5)[healing]] Pontos de Vida.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.ZdPLjPFwp9JuVRFf]{Effect: Only You and I}</p>",
-        "source": "Pathfinder War of Immortals"
+    "Only You and I": {
+      "name": "Só Você e Eu",
+      "description": "<p>Você atrai seu inimigo para um conflito predestinado - um que você sabe que vencerá. Escolha um inimigo dentro do seu alcance. Até o final do seu próximo turno, esse inimigo ganha um bônus de circunstância +2 em jogadas de ataque que fizer contra você, mas deve tentar um teste de @Check[will|against:exemplar] contra o DC da sua classe sempre que tentar se afastar de você, Golpear um alvo diferente de você ou Lançar uma Magia que não o inclua como alvo. Em uma falha, a ação ou ações relacionadas à tentativa falha são interrompidas. Sempre que o inimigo errar você com um Golpe enquanto este efeito estiver ativo, você cura @Damage[(1d8+5)[healing]] Pontos de Vida.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.ZdPLjPFwp9JuVRFf]{Effect: Only You and I}</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Opportune Riposte": {
+    "Opportune Riposte": {
       "name": "Resposta Oportuna",
       "description": "<p><strong>Acionamento</strong> Um inimigo dentro do seu alcance falha criticamente em um Golpe contra você</p>\n<hr />\n<p>Você aproveita uma abertura do ataque falho do seu inimigo. Você pode fazer um Golpe corpo a corpo contra o inimigo que acionou o efeito ou tentar @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Desarmá-lo} da arma que ele usou para o Golpe.</p>",
       "source": "Pathfinder Player Core 2"
     },
-"Opportunistic Accusation": {
-        "name": "Acusação Oportunista",
-        "description": "<p><strong>Gatilho</strong> Um demônio do qual você está ciente a até 30 pés de você sofre de sua vulnerabilidade ao pecado ou falha criticamente em um teste de resistência contra um efeito mental</p>\n<hr />\n<p>Você faz um comentário rápido e cortante contra o demônio que se aproveita da desvantagem momentânea do demônio. O demônio deve tentar um teste de @Check[will|against:class] contra o DC da sua classe.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O demônio não é afetado e provavelmente focará sua atenção em você em combate a partir deste ponto.</p>\n<p><strong>Sucesso</strong> O demônio recebe @Damage[2d6[mental]] de dano.</p>\n<p><strong>Falha</strong> O demônio recebe @Damage[4d6[mental]] de dano e fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início do seu próximo turno.</p>\n<p><strong>Falha Crítica</strong> Como falha, mas a condição desprevenido dura até o final da próxima rodada. O demônio também recebe @Damage[2d6[persistent,mental]] de dano.</p>",
-        "source": "Pathfinder Spore War Player's Guide"
+    "Opportunistic Accusation": {
+      "name": "Acusação Oportunista",
+      "description": "<p><strong>Gatilho</strong> Um demônio do qual você está ciente a até 30 pés de você sofre de sua vulnerabilidade ao pecado ou falha criticamente em um teste de resistência contra um efeito mental</p>\n<hr />\n<p>Você faz um comentário rápido e cortante contra o demônio que se aproveita da desvantagem momentânea do demônio. O demônio deve tentar um teste de @Check[will|against:class] contra o DC da sua classe.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O demônio não é afetado e provavelmente focará sua atenção em você em combate a partir deste ponto.</p>\n<p><strong>Sucesso</strong> O demônio recebe @Damage[2d6[mental]] de dano.</p>\n<p><strong>Falha</strong> O demônio recebe @Damage[4d6[mental]] de dano e fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início do seu próximo turno.</p>\n<p><strong>Falha Crítica</strong> Como falha, mas a condição desprevenido dura até o final da próxima rodada. O demônio também recebe @Damage[2d6[persistent,mental]] de dano.</p>",
+      "source": "Pathfinder Spore War Player's Guide"
     },
     "Overawe Crowd": {
-        "name": "Intimidar Multidão",
-        "description": "<p><strong>Requisitos</strong> Você está compartilhando o mesmo espaço que um enxame ou está adjacente a uma tropa</p>\n<hr />\n<p><strong>Efeito</strong> Gaste 1 Ponto Mítico e tente um teste de Intimidação com proficiência mítica contra o DC de Vontade do enxame ou tropa necessário. Em uma falha, o alvo Anda em uma direção de sua escolha e você se move junto com ele. Em um sucesso, o alvo Anda duas vezes em uma direção de sua escolha e você pode decidir se move ou não junto com ele. Independentemente do resultado, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 1} e temporariamente imune ao seu Intimidar Multidão por 24 horas.</p>",
-        "source": "Pathfinder War of Immortals"
+      "name": "Intimidar Multidão",
+      "description": "<p><strong>Requisitos</strong> Você está compartilhando o mesmo espaço que um enxame ou está adjacente a uma tropa</p>\n<hr />\n<p><strong>Efeito</strong> Gaste 1 Ponto Mítico e tente um teste de Intimidação com proficiência mítica contra o DC de Vontade do enxame ou tropa necessário. Em uma falha, o alvo Anda em uma direção de sua escolha e você se move junto com ele. Em um sucesso, o alvo Anda duas vezes em uma direção de sua escolha e você pode decidir se move ou não junto com ele. Independentemente do resultado, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 1} e temporariamente imune ao seu Intimidar Multidão por 24 horas.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Overdrive": {
+    "Overdrive": {
       "name": "Sobrecarga",
       "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<hr />\n<p>Acionando temporariamente os dispositivos em seu corpo em sobrecarga, você tenta adicionar maior poder aos seus ataques. Faça um teste de @Check[crafting|dc:@self.level] Fabricação com uma CD padrão para o seu nível.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.1XlJ9xLzL19GHoOL]{Efeito: Sobrecarga}</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Seus dispositivos entram em um estado de incrível eficiência chamado sobrecarga crítica, adicionando grande poder aos seus ataques. Seus Golpes causam dano adicional igual ao seu modificador de Inteligência por 1 minuto. Após o término da Sobrecarga, seus dispositivos ficam inutilizáveis enquanto esfriam ou reiniciam e você não pode usar Sobrecarga por 1 minuto.</p>\n<p><strong>Sucesso</strong> Seus dispositivos entram em sobrecarga, adicionando poder aos seus ataques. Como no sucesso crítico, exceto que o dano adicional é igual à metade do seu modificador de Inteligência.</p>\n<p><strong>Falha</strong> Você faz um cálculo errado e nada acontece.</p>\n<p><strong>Falha Crítica</strong> Opa! Algo explode. Você recebe dano de fogo igual ao seu nível e não pode usar Sobrecarga novamente por 1 minuto enquanto seus dispositivos esfriam e reiniciam.</p>\n<hr />\n<p><strong>Especial</strong> Quando sob os efeitos de Sobrecarga, você ainda pode usar a ação Sobrecarga. Você não pode estender a duração da sua Sobrecarga dessa maneira, mas você pode transformar uma sobrecarga em uma sobrecarga crítica se você tiver um sucesso crítico. Uma falha não tem efeito na sua Sobrecarga atual e você encerra sua Sobrecarga em uma falha crítica.</p>",
       "source": "Pathfinder Guns & Gears"
@@ -1466,12 +1466,12 @@
       "description": "<p><strong>Requerimento</strong> Você é um conversante ou orador do conhecimento.</p>\n<hr />\n<p>Você identifica algo interessante em campo e realiza uma pesquisa especial sobre isso. Isso requer um teste apropriado, que o Mestre descreverá quando a oportunidade surgir. Os resultados do teste variam. Embora normalmente incluam todos os benefícios da atividade de Estudo, algumas oportunidades para Pesquisa Prática também oferecem benefícios únicos, como acesso a novas opções de personagem.</p>",
       "source": "Pathfinder #169: Kindled Magic"
     },
-"Primal Howl": {
-        "name": "Uivo Primal",
-        "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Seu companheiro animal grita e uiva, empoderado com magia natural. Todas as criaturas em um @Template[cone|distance:30] recebem @Damage[(floor(@actor.level/2))d6[sonic]] de dano para cada 2 níveis que seu companheiro tiver, com um teste de @Check[fortitude|against:spell|basic] contra o DC de magia. Criaturas que falham ficam @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontadas 1} e criaturas que falham criticamente ficam @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontadas 2}. O medo é um efeito de emoção, medo e mental.</p>",
-        "source": "Pathfinder Player Core"
+    "Primal Howl": {
+      "name": "Uivo Primal",
+      "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Seu companheiro animal grita e uiva, empoderado com magia natural. Todas as criaturas em um @Template[cone|distance:30] recebem @Damage[(floor(@actor.level/2))d6[sonic]] de dano para cada 2 níveis que seu companheiro tiver, com um teste de @Check[fortitude|against:spell|basic] contra o DC de magia. Criaturas que falham ficam @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontadas 1} e criaturas que falham criticamente ficam @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontadas 2}. O medo é um efeito de emoção, medo e mental.</p>",
+      "source": "Pathfinder Player Core"
     },
-        "Primal Roar": {
+    "Primal Roar": {
       "name": "Rugido Primal",
       "description": "<p>Seu eidolon solta um rugido primal ou outro ruído aterrorizante que se encaixe com a sua forma. Seu eidolon tenta testes de Intimidação para @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Desmoralizar} cada inimigo que possa ouvir o rugido; essas tentativas de Desmoralizar não sofrem nenhuma penalidade por não compartilharem um idioma.</p>",
       "source": "Pathfinder Secrets of Magic"
@@ -1511,22 +1511,22 @@
       "description": "<p><strong>Custo</strong> 1 frasco versátil</p>\n<p><strong>Requerimentos</strong> Você conhece a fórmula para o item alquímico que está criando, você está segurando ou usando um kit de alquimista e tem uma mão livre.</p>\n<hr />\n<p>Você prepara rapidamente uma tintura de curta duração. Você cria um único elixir ou ferramenta alquímica do seu nível ou inferior sem ter que gastar o custo monetário normal em reagentes alquímicos ou precisar tentar um teste de Fabricação. Este item tem a característica infundido, mas permanece potente apenas até o final do turno atual.</p>",
       "source": "Pathfinder Player Core 2"
     },
-"Quick-Tempered": {
-        "name": "Temperamento Explosivo",
-        "description": "<p><strong>Gatilho</strong> Você rola iniciativa.</p>\n<p><strong>Requisitos</strong> Você não está @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Sobrecarregado} ou vestindo armadura pesada.</p>\n<hr />\n<p>Contanto que você seja capaz de se mover livremente, sua fúria é instintiva e instantânea. Você entra em @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Raiva}.</p>",
-        "rules": {
-            "0": {
-                "text": "{item|description}\n@UUID[Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr]{Effect: Rage}\n@UUID[Compendium.pf2e.feat-effects.Item.MaepXeSHiMoWDm7u]{Effect: Rage Temporary Hit Points Immunity}"
-            }
-        },
-        "source": "Pathfinder Player Core 2"
+    "Quick-Tempered": {
+      "name": "Temperamento Explosivo",
+      "description": "<p><strong>Gatilho</strong> Você rola iniciativa.</p>\n<p><strong>Requisitos</strong> Você não está @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Sobrecarregado} ou vestindo armadura pesada.</p>\n<hr />\n<p>Contanto que você seja capaz de se mover livremente, sua fúria é instintiva e instantânea. Você entra em @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Raiva}.</p>",
+      "rules": {
+        "0": {
+          "text": "{item|description}\n@UUID[Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr]{Effect: Rage}\n@UUID[Compendium.pf2e.feat-effects.Item.MaepXeSHiMoWDm7u]{Effect: Rage Temporary Hit Points Immunity}"
+        }
+      },
+      "source": "Pathfinder Player Core 2"
     },
     "Race the Skies": {
-        "name": "Competir com os Céus",
-        "description": "<p>Você toma seu lugar entre os céus. Por 1 minuto, você ganha uma Velocidade de voo igual à sua Velocidade ou 20 pés, o que for maior.</p>",
-        "source": "Pathfinder War of Immortals"
+      "name": "Competir com os Céus",
+      "description": "<p>Você toma seu lugar entre os céus. Por 1 minuto, você ganha uma Velocidade de voo igual à sua Velocidade ou 20 pés, o que for maior.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Raconteur's Reload": {
+    "Raconteur's Reload": {
       "name": "Recarga do Contador de Histórias",
       "description": "<p>Suas palavras rápidas ou contundentes desviam a atenção do inimigo de suas mãos por tempo suficiente para colocar outra bala na câmara. Interaja para recarregar e, em seguida, tente um teste de Dissimulação para @UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{Criar uma Distração} ou um teste de Intimidação para @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Desmoralizar}.</p>",
       "source": "Pathfinder Guns & Gears"
@@ -1911,12 +1911,12 @@
       "description": "<p><strong>Requerimentos</strong> Você está empunhando sua arma de alma ligada</p>\n<hr />\n<p><strong>Efeito</strong> Você Conjura uma Magia que leva 1 ou 2 ações para ser conjurada e requer um teste de ataque de magia. Os efeitos da magia não ocorrem imediatamente, mas são imbuídos na arma de alma ligada que você está empunhando. Faça um Golpe com essa arma de alma ligada. Sua magia voa com a munição, usando o resultado do seu teste de ataque para determinar os efeitos tanto do Golpe quanto da magia. Isso conta como dois ataques para os propósitos de determinar sua penalidade de ataque múltiplo, mas você não aplica a penalidade até depois de ter terminado de resolver o ataque e a magia.</p>",
       "source": "Pathfinder Guns & Gears"
     },
-"Spellstrike": {
-        "name": "Golpe Mágico",
-        "description": "<p><strong>Frequência</strong> até recarregar (veja abaixo)</p>\n<hr />\n<p>Você canaliza uma magia em um soco ou estocada de espada para realizar um ataque combinado. Você lança uma magia que leva 1 ou 2 ações para lançar e requer uma jogada de ataque de magia ou um teste de resistência. Você imbui seus efeitos em um ataque em vez de executar a magia normalmente. Faça um Golpe corpo a corpo com uma arma ou ataque desarmado. Isso conta como dois ataques para sua penalidade de ataque múltiplo, mas você não aplica a penalidade até depois de completar o Golpe Mágico. A infusão de energia mágica concede ao seu Golpe a característica arcana, tornando-o mágico. Se a magia exigia uma jogada de ataque de magia, use os resultados do seu Golpe para determinar os efeitos do Golpe e da magia. Se exigia um teste de resistência, o alvo do Golpe rola seu teste de resistência normalmente, embora se seu Golpe for uma falha crítica, o alvo não será afetado.</p>\n<p>Depois de usar Golpe Mágico, você não pode fazê-lo novamente até recarregar seu Golpe Mágico como uma única ação, que tem a característica concentrar. Você também recarrega seu Golpe Mágico quando lança uma magia de confluxo que leva pelo menos 1 ação para lançar; lançar uma magia de foco de outro tipo não recarrega seu Golpe Mágico.</p>",
-        "source": "Pathfinder Secrets of Magic"
+    "Spellstrike": {
+      "name": "Golpe Mágico",
+      "description": "<p><strong>Frequência</strong> até recarregar (veja abaixo)</p>\n<hr />\n<p>Você canaliza uma magia em um soco ou estocada de espada para realizar um ataque combinado. Você lança uma magia que leva 1 ou 2 ações para lançar e requer uma jogada de ataque de magia ou um teste de resistência. Você imbui seus efeitos em um ataque em vez de executar a magia normalmente. Faça um Golpe corpo a corpo com uma arma ou ataque desarmado. Isso conta como dois ataques para sua penalidade de ataque múltiplo, mas você não aplica a penalidade até depois de completar o Golpe Mágico. A infusão de energia mágica concede ao seu Golpe a característica arcana, tornando-o mágico. Se a magia exigia uma jogada de ataque de magia, use os resultados do seu Golpe para determinar os efeitos do Golpe e da magia. Se exigia um teste de resistência, o alvo do Golpe rola seu teste de resistência normalmente, embora se seu Golpe for uma falha crítica, o alvo não será afetado.</p>\n<p>Depois de usar Golpe Mágico, você não pode fazê-lo novamente até recarregar seu Golpe Mágico como uma única ação, que tem a característica concentrar. Você também recarrega seu Golpe Mágico quando lança uma magia de confluxo que leva pelo menos 1 ação para lançar; lançar uma magia de foco de outro tipo não recarrega seu Golpe Mágico.</p>",
+      "source": "Pathfinder Secrets of Magic"
     },
-        "Spin Tale": {
+    "Spin Tale": {
       "name": "Contar História",
       "description": "<p><strong>Frequência</strong> uma vez a cada 10 minutos</p>\n<hr />\n<p><strong>Efeito</strong> Você conta uma história, designando um de seus aliados (mas não você mesmo) como o herói da história e um inimigo como o vilão; ambos devem estar a até 60 pés. O herói ganha um bônus de status +1 em testes de ataque e testes de resistência contra o vilão até o início do seu próximo turno. Se você Contar uma História no seu próximo turno, a história continua por mais uma rodada, por um máximo de 10 rodadas. Enquanto o conto continua, ilusões menores e cruas surgem em seu espaço; estes são efeitos de ilusão arcana que não têm impacto mecânico além de ilustrar sua história.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.UzIamWcEJTOjwfoA]{Efeito: Contar História}</p>",
       "source": "Pathfinder #170: Spoken on the Song Wind"
@@ -1966,12 +1966,12 @@
       "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Luz gira ao seu redor, transformando sua armadura, roupas e uma única arma em sua posse em um traje alternativo específico. Embora seu equipamento possa parecer dramaticamente diferente, ele funciona normalmente. Se alguém tentar discernir sua identidade, ele deve usar uma ação de @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} para tentar um teste de Percepção contra sua CD de Dissimulação, como se você estivesse usando a ação @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Personificar}. Sua CD de Dissimulação contra tais tentativas é 20 + seu modificador de proficiência em vez da CD normal. Ao contrário de Personificar, você não precisa tentar um teste de Dissimulação para interagir com alguém para ocultar sua identidade - um teste acontece apenas se alguém tentar especificamente descobri-la. Você permanece em sua forma de sentinela por 10 minutos ou até usar Transformação Estelar novamente para voltar à sua forma normal.</p>\n<p>Enquanto você estiver na forma de sentinela, sua arma transformada brilha com a luz das estrelas e ganha um bônus de status +1 em rolagens de dano com a arma. Você pode lançar raios de luz estelar de sua arma com uma ação de Golpe, usando seu modificador de ataque corpo a corpo com a arma. Esses raios causam 1d4 de dano de força, têm um alcance de 60 pés, são afetados pelas runas da sua arma e têm as características arcana e de força.</p>",
       "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
     },
-"Steal": {
-        "name": "Furtar",
-        "description": "<p>Você tenta pegar um objeto pequeno de outra criatura sem ser notado. Normalmente, você só pode Furtar um objeto de Volume insignificante, deve ter uma mão livre e falha automaticamente se a criatura que possui o objeto estiver em combate ou em guarda.</p>\n<p>Faça um teste de [[/act steal]]{Ladinoagem} para determinar se você Furta o objeto com sucesso. O DC geralmente é o DC de Percepção da criatura que está usando o objeto. É mais fácil roubar um objeto que está sendo usado, mas não está sendo guardado de perto (como uma bolsa carregada frouxamente cheia de moedas ou um objeto dentro de tal bolsa). O GM pode aumentar o DC se o objeto estiver protegido ou se a natureza do objeto tornar mais difícil roubá-lo (como um item muito pequeno em uma mochila grande ou uma folha de pergaminho misturada com outros documentos). Por exemplo, o DC é normalmente 5 mais alto se o objeto estiver em um bolso, na mão de uma criatura ou similarmente protegido.</p>\n<p>Você também pode precisar comparar o resultado do seu teste de Ladinoagem com os DCs de Percepção de observadores diferentes da pessoa que está usando o objeto. O GM pode impor uma penalidade de circunstância aos DCs de observadores que estão distraídos.</p>\n<hr />\n<p><strong>Sucesso</strong> Você rouba o item sem que o portador perceba, ou um observador não o vê pegar ou tentar pegar o item.</p>\n<p><strong>Falha</strong> O portador do item percebe sua tentativa antes que você possa pegar o objeto, ou um observador o vê pegar ou tentar pegar o item. O GM determina a resposta de qualquer criatura que perceba seu furto.</p>",
-        "source": "Pathfinder Player Core"
+    "Steal": {
+      "name": "Furtar",
+      "description": "<p>Você tenta pegar um objeto pequeno de outra criatura sem ser notado. Normalmente, você só pode Furtar um objeto de Volume insignificante, deve ter uma mão livre e falha automaticamente se a criatura que possui o objeto estiver em combate ou em guarda.</p>\n<p>Faça um teste de [[/act steal]]{Ladinoagem} para determinar se você Furta o objeto com sucesso. O DC geralmente é o DC de Percepção da criatura que está usando o objeto. É mais fácil roubar um objeto que está sendo usado, mas não está sendo guardado de perto (como uma bolsa carregada frouxamente cheia de moedas ou um objeto dentro de tal bolsa). O GM pode aumentar o DC se o objeto estiver protegido ou se a natureza do objeto tornar mais difícil roubá-lo (como um item muito pequeno em uma mochila grande ou uma folha de pergaminho misturada com outros documentos). Por exemplo, o DC é normalmente 5 mais alto se o objeto estiver em um bolso, na mão de uma criatura ou similarmente protegido.</p>\n<p>Você também pode precisar comparar o resultado do seu teste de Ladinoagem com os DCs de Percepção de observadores diferentes da pessoa que está usando o objeto. O GM pode impor uma penalidade de circunstância aos DCs de observadores que estão distraídos.</p>\n<hr />\n<p><strong>Sucesso</strong> Você rouba o item sem que o portador perceba, ou um observador não o vê pegar ou tentar pegar o item.</p>\n<p><strong>Falha</strong> O portador do item percebe sua tentativa antes que você possa pegar o objeto, ou um observador o vê pegar ou tentar pegar o item. O GM determina a resposta de qualquer criatura que perceba seu furto.</p>",
+      "source": "Pathfinder Player Core"
     },
-        "Steel Your Resolve": {
+    "Steel Your Resolve": {
       "name": "Fortalecer a Determinação",
       "description": "<p><strong>Custo</strong> 1 Ponto de Determinação</p>\n<hr />\n<p>Recupere Pontos de Vigor iguais à metade do seu máximo.</p>",
       "source": "Pathfinder Gamemastery Guide"
@@ -2041,12 +2041,12 @@
       "description": "<p>Escolha um dos seus efeitos que tem uma duração sustentada ou lista um benefício especial quando você o Sustenta. A maioria desses efeitos vem de magias ou ativações de itens mágicos. Se o efeito tiver uma duração sustentada, sua duração se estende até o final do seu próximo turno. (Sustentar mais de uma vez no mesmo turno não estende a duração para turnos subsequentes.) Se uma habilidade puder ser sustentada, mas não listar por quanto tempo, ela pode ser sustentada por até 10 minutos.</p>\n<p>Um efeito pode listar um benefício adicional que ocorre se você o Sustentar, e isso pode até aparecer em efeitos que não têm uma duração sustentada. Se o efeito tiver um benefício especial e uma duração sustentada, sua ação Sustentar estende a duração e também concede o benefício especial.</p>\n<p>Se sua ação Sustentar for interrompida, a habilidade termina.</p>",
       "source": "Pathfinder Player Core"
     },
-"Sustain an Effect": {
-        "name": "Sustentar um Efeito",
-        "description": "<p>Você Sustenta um efeito com uma duração sustentada enquanto se move a metade da velocidade. A maioria desses efeitos pode ser sustentada por 10 minutos, embora alguns especifiquem que podem ser sustentados por uma duração diferente. Sustentar um efeito que requer a tomada de decisões complexas, como @UUID[Compendium.pf2e.spells-srd.Item.WPu3UE3kTXSLqO40]{Armamento Espiritual}, pode deixá-lo @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fadigado}, conforme determinado pelo GM.</p>",
-        "source": "Pathfinder Player Core"
+    "Sustain an Effect": {
+      "name": "Sustentar um Efeito",
+      "description": "<p>Você Sustenta um efeito com uma duração sustentada enquanto se move a metade da velocidade. A maioria desses efeitos pode ser sustentada por 10 minutos, embora alguns especifiquem que podem ser sustentados por uma duração diferente. Sustentar um efeito que requer a tomada de decisões complexas, como @UUID[Compendium.pf2e.spells-srd.Item.WPu3UE3kTXSLqO40]{Armamento Espiritual}, pode deixá-lo @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fadigado}, conforme determinado pelo GM.</p>",
+      "source": "Pathfinder Player Core"
     },
-        "Swarm Forth": {
+    "Swarm Forth": {
       "name": "Enxamear Adiante",
       "description": "<p><strong>Requerimentos</strong> Seu enxame está dentro do seu corpo</p>\n<hr />\n<p><strong>Efeito</strong> Seu enxame irrompe do seu corpo para um espaço adjacente ao seu. (Seu espaço pode se sobrepor ao seu.) Ele permanece separado de você até o final do seu próximo turno, mas você pode Sustentar o efeito por até 1 minuto. O efeito também termina se você terminar seu turno a mais de 60 pés de distância do enxame. Quando você usa Enxamear Adiante e cada vez que você Sustenta o efeito, você pode fazer com que o enxame Ande.</p>",
       "source": "Pathfinder Howl of the Wild"
@@ -2156,6 +2156,11 @@
       "description": "<p>O alvo libera uma vocalização poderosa. Cada inimigo em uma @Template[type:emanation|distance:10] emanação de 10 pés recebe @Damage[4d8[sonic]|options:area-damage] 4d8 de dano sônico com um teste básico de Vontade contra sua CD de magia. Uma criatura que falha em seu teste de Vontade também fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustada 1}.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
+    "Timely Dodge": {
+      "name": "Timely Dodge",
+      "description": "<p><strong>Trigger</strong> You are targeted by a Strike</p>\n<hr />\n<p><strong>Effect</strong> You dart aside, gaining a +1 circumstance bonus to AC, then Step after the Strike resolves.</p>",
+      "source": "Pathfinder #194: Cult of the Cave Worm"
+    },
     "Topple the Pillar of Heaven": {
       "name": "Topple the Pillar of Heaven",
       "description": "<p>Your ikon extends to an impossible length, striking all in its way. You deal @Damage[(max(6,floor(@actor.level / 2)))d8[untyped]|options:area-damage] damage to all creatures in a @Template[type:line|distance:60], with a @Check[reflex|against:exemplar|basic|options:area-effect] save against your class DC. The damage type matches that of your weapon. At 14th level and every two levels thereafter, the damage increases by 1d8.</p>",
@@ -2231,22 +2236,22 @@
       "description": "<p>Seu ostilli brilha em um amarelo fraco enquanto estabelece uma barreira. Escolha dano de ácido, frio, eletricidade, fogo ou sônico. Até o início do seu próximo turno, você ganha resistência contra o tipo de dano escolhido igual à metade do seu nível.</p>",
       "source": "Pathfinder Howl of the Wild"
     },
-"Ultimatum of Liberation": {
-        "name": "Ultimato de Libertação",
-        "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Você proclama um ultimato contra uma criatura que você acredita estar oprimindo outras e todos que seguem suas ordens. Todas as outras criaturas (incluindo você) que ouvirem seu ultimato, ou aprenderem sobre ele mais tarde, são encorajadas por suas palavras por 1 dia e ganham um bônus de status +2 em seus testes de resistência de Vontade contra efeitos produzidos pela criatura opressora e seus aliados, que aumenta para +3 se estiverem a até 30 pés de você.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.RPfpy4WzUzdwTeo0]{Effect: Ultimatum of Liberation}</p>\n<p>Além disso, na primeira vez a cada dia que essa criatura e cada um de seus aliados chegam a até 30 pés de você, eles devem ser bem-sucedidos em um teste de @Check[will|against:class-spell|traits:emotion,fear,mental] contra o DC da sua classe ou DC de magia (o que for maior) ou ficarão @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontados 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontados 2} em uma falha crítica). Este segundo efeito tem as características emoção, medo e mental. A criatura opressora pode encerrar todos os efeitos como uma ação livre, concordando de forma verdadeira em encerrar permanentemente sua opressão. Caso contrário, seu Ultimato de Libertação não tem duração, embora você só possa ter um Ultimato de Libertação ativo por vez. Se você pronunciar um segundo Ultimato de Libertação, os efeitos do primeiro terminam.</p>",
-        "source": "Pathfinder War of Immortals"
+    "Ultimatum of Liberation": {
+      "name": "Ultimato de Libertação",
+      "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Você proclama um ultimato contra uma criatura que você acredita estar oprimindo outras e todos que seguem suas ordens. Todas as outras criaturas (incluindo você) que ouvirem seu ultimato, ou aprenderem sobre ele mais tarde, são encorajadas por suas palavras por 1 dia e ganham um bônus de status +2 em seus testes de resistência de Vontade contra efeitos produzidos pela criatura opressora e seus aliados, que aumenta para +3 se estiverem a até 30 pés de você.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.RPfpy4WzUzdwTeo0]{Effect: Ultimatum of Liberation}</p>\n<p>Além disso, na primeira vez a cada dia que essa criatura e cada um de seus aliados chegam a até 30 pés de você, eles devem ser bem-sucedidos em um teste de @Check[will|against:class-spell|traits:emotion,fear,mental] contra o DC da sua classe ou DC de magia (o que for maior) ou ficarão @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontados 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontados 2} em uma falha crítica). Este segundo efeito tem as características emoção, medo e mental. A criatura opressora pode encerrar todos os efeitos como uma ação livre, concordando de forma verdadeira em encerrar permanentemente sua opressão. Caso contrário, seu Ultimato de Libertação não tem duração, embora você só possa ter um Ultimato de Libertação ativo por vez. Se você pronunciar um segundo Ultimato de Libertação, os efeitos do primeiro terminam.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Unleash Psyche": {
+    "Unleash Psyche": {
       "name": "Liberar a Psique",
       "description": "<p><strong>Acionamento</strong> Seu turno começa.</p>\n<hr />\n<p><strong>Requerimentos</strong> Você está em um encontro, você Conjurar uma Magia em seu turno anterior e você não está @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefato}.</p>\n<hr />\n<p>Você invoca as profundezas de sua mente e deixa o poder psíquico inundar você. Sua Psique permanece Liberada por 2 rodadas ou até você cair @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Inconsciente}, o que ocorrer primeiro. Você não pode voluntariamente reprimir sua psique liberada. Enquanto sua Psique estiver Liberada, os seguintes efeitos ocorrem.</p>\n<ul>\n<li>Você está constantemente cercado pela manifestação visual da sua magia psíquica.</li>\n<li>Quando você conjura uma magia que causa dano, você ganha um bônus de status ao seu dano igual ao dobro do círculo da magia. Isso se aplica apenas a magias que não têm duração e que você conjura usando conjuração de magia psíquica.</li>\n<li>Você pode usar ações que tenham a característica psique. Depois que sua psique liberada se acalma, sua mente deve se recuperar do esforço de canalizar todo o seu poder. Você não pode usar Liberar a Psique novamente por 2 rodadas e você fica @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefato 1} por 2 rodadas.</li>\n</ul>",
       "source": "Pathfinder Dark Archive"
     },
-"Unleash Realm": {
-        "name": "Desencadear Reino",
-        "description": "<p><strong>Gatilho</strong> Sua ação anterior foi Sustentar seu reino manifestado</p>\n<hr />\n<p><strong>Efeito</strong> Você pune aqueles que transgridem seu reino. Um inimigo dentro do seu reino recebe @Damage[4d8[@actor.flags.pf2e.realmDamage]|shortLabel|options:area-damage] de dano do tipo de dano do seu reino com um teste de @Check[fortitude|against:class-spell|basic|options:area-effect] contra o DC da sua classe ou DC de magia, o que for maior.</p>",
-        "source": "Pathfinder War of Immortals"
+    "Unleash Realm": {
+      "name": "Desencadear Reino",
+      "description": "<p><strong>Gatilho</strong> Sua ação anterior foi Sustentar seu reino manifestado</p>\n<hr />\n<p><strong>Efeito</strong> Você pune aqueles que transgridem seu reino. Um inimigo dentro do seu reino recebe @Damage[4d8[@actor.flags.pf2e.realmDamage]|shortLabel|options:area-damage] de dano do tipo de dano do seu reino com um teste de @Check[fortitude|against:class-spell|basic|options:area-effect] contra o DC da sua classe ou DC de magia, o que for maior.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Unwavering Resilience": {
+    "Unwavering Resilience": {
       "name": "Resiliência Inabalável",
       "description": "<p><strong>Acionamento</strong> Você tenta um teste de resistência contra um efeito de veneno, doença ou mental, mas ainda não rolou.</p>\n<hr />\n<p>Você acessa o poder do Plano da Madeira, ganhando força e fortitude mental. Você ganha um bônus de circunstância +1 no teste de resistência de acionamento. Se você obtiver um sucesso crítico neste teste de resistência, você se fortalece com seu sucesso; flores e novos brotos surgem temporariamente por todo o seu corpo e você ganha um número de Pontos de Vida temporários igual ao seu nível. Esses Pontos de Vida temporários duram um minuto. Quando esses Pontos de Vida temporários são perdidos, o crescimento verdejante diminui.</p>",
       "source": "Pathfinder #202: Severed at the Root"

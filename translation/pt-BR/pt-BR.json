@@ -214,6 +214,7 @@
           },
           "BatchQuantity": "x{quantity}",
           "Cost": "Custo",
+          "Create": "Create",
           "Daily": {
             "Complete": "Manufatura diária completa.",
             "Perform": "Executar Manufatura Diária"

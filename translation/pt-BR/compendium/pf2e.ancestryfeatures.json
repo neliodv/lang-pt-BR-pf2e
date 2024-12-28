@@ -103,12 +103,7 @@
     },
     "Emotionally Unaware": {
       "name": "Emocionalmente Inconsciente",
-      "description": "<p>Você tem dificuldade em entender e expressar emoções complexas. Você sofre uma penalidade de circunstância -1 em testes de Diplomacia e Performance e em testes de Percepção para Sentir Motivação.</p>",
-      "rules": {
-        "0": {
-          "label": "Emocionalmente Inconsciente (para Sentir Motivação)"
-        }
-      },
+      "description": "<*><p>You find it difficult to understand and express complex emotions. You take a -1 circumstance penalty to Diplomacy and Performance checks, and on Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}.</p>",
       "source": "Pathfinder Lost Omens: Ancestry Guide"
     },
     "Empathic Sense": {

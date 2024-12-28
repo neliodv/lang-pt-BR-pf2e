@@ -736,6 +736,11 @@
       "description": "<p>Applied when you apply a poison created with @UUID[Compendium.pf2e.feats-srd.Item.AYXherMu9gFTyXjp]{Deadly Poison Weapon}.</p>",
       "source": "Pathfinder #149: Against the Scarlet Triad"
     },
+    "Effect: Debilitating Bomb": {
+      "name": "Effect: Debilitating Bomb",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.sv4LeEbkOJyLen10]{Debilitating Bomb}</p>\n<p>You are dazzled, deafened, off-guard, or take a -5 foot status penalty to Speeds.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
     "Effect: Debilitating Strike": {
       "name": "Effect: Debilitating Strike",
       "description": "<p>The target has been affected by a rogue's @UUID[Compendium.pf2e.actionspf2e.Item.bp0Up04x3dzGK5bB]{Debilitating Strike}.</p>\n<p><em>Note: this effect only tracks the duration of the debilitation. You need to manually apply the specific penalties the rogue chose to apply.</em></p>",
@@ -2065,6 +2070,11 @@
       "name": "Effect: Multifaceted Will",
       "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.LBfLDfLnCFn1iy5h]{Multifaceted Will}</p>\n<p>You gain a +1 status bonus to saves against spells with the chosen tradition trait.</p>",
       "source": "Pathfinder War of Immortals"
+    },
+    "Effect: Mutagenist Field Benefit": {
+      "name": "Effect: Mutagenist Field Benefit",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.classfeatures.Item.tvdb1jkjl2bRZjSp]{Mutagenist}</p>\n<p>You gain temporary Hit Points equal to your Intelligence modifier plus half your level.</p>",
+      "source": "Pathfinder Player Core 2"
     },
     "Effect: Mutate Weapon": {
       "name": "Effect: Mutate Weapon",

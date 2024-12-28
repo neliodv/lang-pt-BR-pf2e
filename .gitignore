@@ -12,4 +12,4 @@ src/crowdin-manager/crowdin-config.json
 src/crowdin-manager/updateLabels.json
 src/leveldb/leveldb-config.json
 src/xliff/xliff-config.json
-*.zip
+lang-pt-BR-pf2e.zip
