@@ -298,7 +298,7 @@
     },
     "Effect: Blaze": {
       "name": "Effect: Blaze",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.q5Hr2nZr8RQ9DSZM]{Blaze}</p>\n<p>You gain a +1 item bonus to saves versus fire effects.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.q5Hr2nZr8RQ9DSZM]{Blaze}</p>\n<p>You gain a +1 item bonus to saves versus fire effects.</p>",
       "source": "Pathfinder #178: Punks in a Powder Keg"
     },
     "Effect: Blight Breath": {
@@ -1078,7 +1078,7 @@
     },
     "Effect: Five-Feather Wreath - Armor": {
       "name": "Effect: Five-Feather Wreath - Armor",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.5p4ORuCLOKePxUUR]{Five-Feather Wreath}, @UUID[Compendium.pf2e.equipment-srd.Item.alV162EF3qZrbxt0]{Five-Feather Wreath (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.VmmlkU5qJHcTunXV]{Five-Feather Wreath (Major)}</p>\n<p>You gain an item bonus to Acrobatics checks and resistance to falling damage.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.5p4ORuCLOKePxUUR]{Five-Feather Wreath}, @UUID[Compendium.pf2e.equipment-srd.Item.alV162EF3qZrbxt0]{Five-Feather Wreath (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.VmmlkU5qJHcTunXV]{Five-Feather Wreath (Major)}</p>\n<p>You gain an item bonus to Acrobatics checks and resistance to falling damage.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Effect: Flaming Star - Armor": {
@@ -1303,12 +1303,12 @@
     },
     "Effect: Grim Sandglass - Armor": {
       "name": "Effect: Grim Sandglass - Armor",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.OjOpj9u1EdEUhKuX]{Grim Sandglass}, @UUID[Compendium.pf2e.equipment-srd.Item.yQTmIcXIDg7nVpJX]{Grim Sandglass (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.beHqICAYt9ZuyBay]{Grim Sandglass (Major)}</p>\n<p>You gain resistance to void.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.OjOpj9u1EdEUhKuX]{Grim Sandglass}, @UUID[Compendium.pf2e.equipment-srd.Item.yQTmIcXIDg7nVpJX]{Grim Sandglass (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.beHqICAYt9ZuyBay]{Grim Sandglass (Major)}</p>\n<p>You gain resistance to void.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Effect: Grim Sandglass - Weapon": {
       "name": "Effect: Grim Sandglass - Weapon",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.OjOpj9u1EdEUhKuX]{Grim Sandglass}, @UUID[Compendium.pf2e.equipment-srd.Item.yQTmIcXIDg7nVpJX]{Grim Sandglass (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.beHqICAYt9ZuyBay]{Grim Sandglass (Major)}</p>\n<p>Your Strikes with the weapon deal additional void damage.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.OjOpj9u1EdEUhKuX]{Grim Sandglass}, @UUID[Compendium.pf2e.equipment-srd.Item.yQTmIcXIDg7nVpJX]{Grim Sandglass (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.beHqICAYt9ZuyBay]{Grim Sandglass (Major)}</p>\n<p>Your Strikes with the weapon deal additional void damage.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Effect: Grindlegrub Steak": {
