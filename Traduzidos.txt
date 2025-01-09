@@ -59,7 +59,7 @@ OK   bestiary-ability-glossary-srd.json
      boons-and-curses.json                 
      campaign-effects.json                 
 OK   classes.json                          
---   classfeatures.json                    
+OK   classfeatures.json                    
 OK   conditions.json                       
 OK   criticaldeck.json                    
      crown-of-the-kobold-king-bestiary.json 

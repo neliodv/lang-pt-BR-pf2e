@@ -663,7 +663,7 @@
     },
     "GenericLabel": {
       "ItemVs": {
-        "DeathVoid": "<*>{item} vs. Death and Void effects",
+        "DeathVoid": "{item} vs. Death and Void effects",
         "Fear": "{item} vs. fear"
       },
       "PreviousAction": {
@@ -875,7 +875,7 @@
           "Plant": "Plant",
           "PorcupineGiant": "Giant Porcupine",
           "Pukwudgie": "Pukwudgie",
-          "RacoonDog": "<*>Raccoon Dog",
+          "RacoonDog": "Raccoon Dog",
           "RajaKrodha": "Raja-Krodha",
           "Raktavarna": "Raktavarna",
           "Rat": "Rat",
@@ -1998,7 +1998,7 @@
           },
           "Chirurgeon": {
             "FieldVials": {
-              "Description": "<*>Your versatile vials can be used to heal a living creature @Damage[(ternary(gte(@item.level,18),4,ternary(gte(@item.level,12),3,ternary(gte(@item.level,4),2,1))))d6[healing]] Hit Points. A creature can drink the vial for this benefit, or you can throw the vial at a willing creature within 20 feet as an Interact action to heal that creature. In either case, a vial used this way loses the acid and splash traits and gains the coagulant and healing traits, plus the elixir trait if a creature drinks it."
+              "Description": "Your versatile vials can be used to heal a living creature @Damage[(ternary(gte(@item.level,18),4,ternary(gte(@item.level,12),3,ternary(gte(@item.level,4),2,1))))d6[healing]] Hit Points. A creature can drink the vial for this benefit, or you can throw the vial at a willing creature within 20 feet as an Interact action to heal that creature. In either case, a vial used this way loses the acid and splash traits and gains the coagulant and healing traits, plus the elixir trait if a creature drinks it."
             }
           },
           "FieldBenefit": "Field Benefit",
