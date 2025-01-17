@@ -373,6 +373,9 @@
           "name": "Battle Cry",
           "description": "<p><strong>Trigger</strong> The Brass Dragon rolls initiative.</p>\n<hr />\n<p><strong>Effect</strong> The Brass Dragon roars out a mighty challenge and attempts to Demoralize a creature it can see.</p>"
         },
+        "action->+1 Status to All Saves vs. Magic": {
+          "source": "Pathfinder Monster Core"
+        },
         "action->Bravo's Determination": {
           "name": "Bravo's Determination",
           "description": "<p><strong>Trigger</strong> A foe's Strike reduces you to 0 Hit Points; you were not at 1 Hit Point and you would not be killed.</p>\n<hr />\n<p>Your confidence borders on self-delusion, but it keeps you going against overwhelming odds. Attempt a Deception check against the attack DC of the triggering Strike. You take a penalty to this check equal to twice your wounded value, if any. If the triggering attack was a critical hit, use the result one degree of success worse than what you rolled.</p>\n<hr />\n<p><strong>Critical Success</strong> You avoid being knocked out and remain at 1 Hit Point.</p>\n<p><strong>Success</strong> You avoid being knocked out and remain at 1 Hit Point, but you increase your @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded} value by 1.</p>"
@@ -387,7 +390,7 @@
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",
-          "description": "<p>The brass dragon breathes in one of two ways.</p>\n<p>The dragon can't use Breath Weapon again for [[/br 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>\n<ul>\n<li><strong>Flame</strong> The dragon breathes fire in a @Template[line|distance:100] that deals @Damage[16d6[fire]] damage (@Check[reflex|dc:41|basic] save).</li>\n<li><strong>Sleep Gas</strong> The dragon breathes an @Template[cone|distance:80] of sleep gas. Each creature within the cone must succeed at a @Check[fortitude|dc:41] save or fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} for [[/br 1d6 #rounds]]{1d6 rounds}, or 1 minute on a critical failure.</li>\n</ul>"
+          "description": "<p>The brass dragon breathes in one of two ways.</p>\n<p>The dragon can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>\n<ul>\n<li><strong>Flame</strong> The dragon breathes fire in a @Template[line|distance:100] that deals @Damage[16d6[fire]] damage (@Check[reflex|dc:41|basic] save).</li>\n<li><strong>Sleep Gas</strong> The dragon breathes an @Template[cone|distance:80] of sleep gas. Each creature within the cone must succeed at a @Check[fortitude|dc:41] save or fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} for [[/gmr 1d6 #rounds]]{1d6 rounds}, or 1 minute on a critical failure.</li>\n</ul>"
         },
         "action->Desert Wind": {
           "name": "Desert Wind",
@@ -434,7 +437,7 @@
         },
         "action->Alchemical Rupture": {
           "name": "Alchemical Rupture",
-          "description": "<p>When the goblin zombie is reduced to 0 Hit Points, an alchemical device jammed in its belly ruptures. Roll 1d4 and consult the following for the effect:</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>[[/br 1d4 #Alchemical Rupture]]</th>\n<th>Alchemical Effect</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>creatures in a @Template[emanation|distance:5] take @Damage[1d3[persistent,acid]|traits:area-damage] damage</td>\n</tr>\n<tr>\n<td>2</td>\n<td>creatures in a 5-foot emanation take @Damage[1d4[fire]|traits:area-damage] damage (@Check[reflex|dc:16|basic] save)</td>\n</tr>\n<tr>\n<td>3</td>\n<td>creatures in a 5-foot emanation take @Damage[1d4[poison]|traits:area-damage] damage (@Check[fortitude|dc:16|basic] save)</td>\n</tr>\n<tr>\n<td>4</td>\n<td>smoke billows out in a 5-foot emanation for 1 round (creatures in that area are @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}, and all other creatures are concealed to them)</td>\n</tr>\n</tbody>\n</table>"
+          "description": "<p>When the goblin zombie is reduced to 0 Hit Points, an alchemical device jammed in its belly ruptures. Roll 1d4 and consult the following for the effect:</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>[[/gmr 1d4 #Alchemical Rupture]]</th>\n<th>Alchemical Effect</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>creatures in a @Template[emanation|distance:5] take @Damage[1d3[persistent,acid]|traits:area-damage] damage</td>\n</tr>\n<tr>\n<td>2</td>\n<td>creatures in a 5-foot emanation take @Damage[1d4[fire]|traits:area-damage] damage (@Check[reflex|dc:16|basic] save)</td>\n</tr>\n<tr>\n<td>3</td>\n<td>creatures in a 5-foot emanation take @Damage[1d4[poison]|traits:area-damage] damage (@Check[fortitude|dc:16|basic] save)</td>\n</tr>\n<tr>\n<td>4</td>\n<td>smoke billows out in a 5-foot emanation for 1 round (creatures in that area are @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}, and all other creatures are concealed to them)</td>\n</tr>\n</tbody>\n</table>"
         },
         "action->Slow": {
           "name": "Slow",
@@ -932,7 +935,7 @@
         },
         "action->Kobold Breath": {
           "name": "Kobold Breath",
-          "description": "<p>Urok breathes a poisonous mist that deals @Damage[5d4[poison]] damage in a @Template[cone|distance:15] (@Check[fortitude|dc:25|basic] save).</p>\n<p>He can't use Kobold Breath again for [[/br 1d4 #Recharge Kobold Breath]]{1d4 rounds}.</p>"
+          "description": "<p>Urok breathes a poisonous mist that deals @Damage[5d4[poison]] damage in a @Template[cone|distance:15] (@Check[fortitude|dc:25|basic] save).</p>\n<p>He can't use Kobold Breath again for [[/gmr 1d4 #Recharge Kobold Breath]]{1d4 rounds}.</p>"
         },
         "action->Mastermind": {
           "name": "Mastermind",

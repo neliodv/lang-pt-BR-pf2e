@@ -24,7 +24,7 @@
           "description": "<p>An algea can see magic auras on creatures or objects that it can observe; it can't see magic auras on creatures or objects that are hidden from its view. It learns the schools of magic for all spells affecting creatures.</p>"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Grieving Aura": {
           "name": "Grieving Aura",
@@ -444,7 +444,7 @@
           "description": "<p><strong>Trigger</strong> The undead brain collector possesses at least 1 phantom brain after using Brainlash</p>\n<hr />\n<p><strong>Effect</strong> The undead brain collector absorbs [[/r 1d4 #Phantom Brains]]{1d4} of its phantom brains, gaining [[/r 1d8 #Temporary Hit Points]]{1d8 temporary Hit Points} for each brain it absorbed.</p>"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Void Healing": {
           "source": "Pathfinder Bestiary 2"
@@ -594,7 +594,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Unnerving Presence": {
           "name": "Unnerving Presence",

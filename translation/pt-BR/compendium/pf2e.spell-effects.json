@@ -2212,13 +2212,8 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Spell Effect: Soothing Words": {
-      "name": "Efeito de Magia: Palavras Calmantes",
-      "description": "<p>Concedido por @UUID[Compendium.pf2e.spells-srd.Item.YGRpHU5yxw73mls8]{Palavras Calmantes}</p>\n<p>Você ganha um bônus de status +1 em testes de resistência de Vontade. Este bônus aumenta para +2 contra efeitos de emoção.</p>\n<hr />\n<p><strong>Aumentado (5º)</strong> O bônus em resistências aumenta para +2, ou +3 contra efeitos de emoção.</p>",
-      "rules": {
-        "1": {
-          "label": "Palavras Calmantes (vs. emoção)"
-        }
-      },
+      "name": "Efeito de Magia: Palavras Suaves",
+      "description": "<p>Concedido por @UUID[Compendium.pf2e.spells-srd.Item.YGRpHU5yxw73mls8]{Palavras Suaves}</p>\n<p>Você ganha um bônus de status em testes de resistência de Vontade. Este bônus aumenta contra efeitos de emoção.</p>",
       "source": "Pathfinder Player Core"
     },
     "Spell Effect: Speaking Sky": {
@@ -2268,7 +2263,7 @@
     },
     "Spell Effect: Stoke the Heart": {
       "name": "Efeito de Magia: Atiçar o Coração",
-      "description": "<p>Concedido por @UUID[Compendium.pf2e.spells-srd.Item.GeUbPvwdZ4B4l0up]{Atiçar o Coração}</p>\n<p>Você ganha um bônus de status +2 em jogadas de dano.</p>",
+      "description": "<p>Concedido por @UUID[Compendium.pf2e.spells-srd.Item.GeUbPvwdZ4B4l0up]{Atiçar o Coração}</p>\n<p>Você ganha um bônus de status em jogadas de dano.</p>",
       "source": "Pathfinder Player Core"
     },
     "Spell Effect: Stormwind Flight": {
@@ -2370,6 +2365,11 @@
       "name": "Efeito de Magia: Forma de Tempestade",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.spells-srd.Item.zhqnMOVPzVvWSUbC]{Forma de Tempestade}</p>\n<p>Escolha se deseja se tornar ar, água ou névoa. A magia ganha a característica ar se você escolher ar ou névoa, e a característica água se você escolher água ou névoa. Você ganha resistência a dano físico e se torna imune a dano de precisão. Você também ganha os seguintes efeitos com base na sua forma.</p>\n<ul>\n<li><strong>Ar</strong> Você ganha uma Velocidade de voo de 20 pés.</li>\n<li><strong>Névoa</strong> Você ganha uma Velocidade de voo de 20 pés.</li>\n<li><strong>Água</strong> Você ganha uma Velocidade de nadar de 20.</li>\n</ul>",
       "source": "Pathfinder Advanced Player's Guide"
+    },
+    "Spell Effect: Tempest Touch": {
+      "name": "Spell Effect: Tempest Touch",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.EzB9i7R6aBRAtJCh]{Tempest Touch}</p>\n<p>You take a circumstance penalty to your Speeds.</p>",
+      "source": "Pathfinder Player Core 2"
     },
     "Spell Effect: Tempt Fate": {
       "name": "Efeito de Magia: Tentar o Destino",

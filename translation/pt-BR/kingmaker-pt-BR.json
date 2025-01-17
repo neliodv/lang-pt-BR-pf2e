@@ -191,6 +191,11 @@
         "Title": "Import Activities",
         "Content": "{added} activities will be added and {updated} activities will be updated: is this okay?"
       },
+      "FeatSlot": {
+        "Features": "Kingdom Features",
+        "Feats": "Kingdom Feats",
+        "Bonus": "Bonus Feats"
+      },
       "Leaders": "Leaders",
       "LeaderMissing": "None (Drag a new actor)",
       "LeadershipRole": {
@@ -222,7 +227,7 @@
         },
         "leadership": {
           "Header": "Activity Phase: Leadership Activities",
-          "Description": "If your kingdom’s capital has a Castle, Palace, or Town Hall, each PC in a leadership role may attempt up to three Leadership activities. If your capital has none of these structures, each PC can take no more than two Leadership activities during this step. Unless an activity states otherwise, a leader cannot attempt the same Leadership activity more than once per Kingdom turn."
+          "Description": "If your kingdom's capital has a Castle, Palace, or Town Hall, each PC in a leadership role may attempt up to three Leadership activities. If your capital has none of these structures, each PC can take no more than two Leadership activities during this step. Unless an activity states otherwise, a leader cannot attempt the same Leadership activity more than once per Kingdom turn."
         },
         "region": {
           "Header": "Activity Phase: Region Activities",

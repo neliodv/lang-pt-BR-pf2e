@@ -22,8 +22,8 @@
       "source": "Pathfinder Lost Omens: Character Guide"
     },
     "Accept Echo": {
-      "name": "Aceitar o Eco",
-      "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Você permite que o eco habite seu corpo, ganhando uma aura brilhante ao seu redor, íris verde-pálidas brilhantes, uma voz ressonante e a silhueta do espírito ao redor do seu próprio corpo, tudo isso podendo ser visto claramente pelos outros. Enquanto estiver neste estado, você se torna treinado na arma que escolheu e um especialista na perícia que escolheu. Além disso, enquanto você estiver neste estado, o eco pode falar e interagir com o Plano Material usando seu corpo, e você ganha um bônus de status +4 em todos os testes de resistência contra efeitos de possessão, já que o espírito que o possui o protege de outras possessões.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.2ca1ZuqQ7VkunAh3]{Efeito: Aceitar o Eco}</p>\n<p>Este estado dura 10 minutos, após os quais o eco desaparece completamente até a próxima vez que você fizer seus preparativos diários. Você pode Dispensar este efeito.</p>\n<p>No 7º nível você se torna um mestre na perícia que escolheu, no 13º nível você se torna um especialista com a arma que escolheu, e no 15º nível você se torna lendário na perícia que escolheu.</p>",
+      "name": "Aceitar Eco",
+      "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Você permite que o eco habite seu corpo, ganhando uma aura brilhante ao seu redor, íris verde-pálidas brilhantes, uma voz ressonante e a silhueta do espírito ao redor do seu próprio corpo, tudo isso podendo ser visto claramente pelos outros. Enquanto estiver neste estado, você se torna treinado na arma que escolheu e um especialista na perícia que escolheu. Além disso, enquanto você estiver neste estado, o eco pode falar e interagir com o Plano Material usando seu corpo, e você ganha um bônus de status +4 em todos os testes de resistência contra efeitos de possessão, já que o espírito que o possui o protege de outras posses.</p>\n<p>Este estado dura 10 minutos, após os quais o eco desaparece completamente até a próxima vez que você fizer seus preparos diários. Você pode Descartar este efeito.</p>\n<p>No 7º nível você se torna um mestre na perícia que escolheu, no 13º nível você se torna um especialista com a arma que escolheu e no 15º nível você se torna lendário na perícia que escolheu.</p>",
       "source": "Pathfinder Dark Archive"
     },
     "Accidental Shot": {
@@ -257,8 +257,8 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Breath Weapon (Riding Drake)": {
-      "name": "Sopro (Dragonete de Montaria)",
-      "description": "<p>O dragonete de montaria sopra um @Template[cone|distance:30]{cone de 30 pés} de fogo, causando @Damage[((ceil(@actor.level/2))d6)[fire]|options:area-damage]{1d6 de dano de fogo para cada 2 níveis que o dragonete possui} a todas as criaturas na área (teste básico de Reflexos). Isso usa uma CD treinada usando o modificador de Constituição do dragonete ou uma CD especialista se o dragonete for especializado.</p>",
+      "name": "Sopro de Arma (Drake de Montaria)",
+      "description": "<p>O drake de montaria sopra um @Template[cone|distance:30] de fogo, causando @Damage[((ceil(@actor.level/2))d6)[fire]|options:area-damage]{1d6 de dano de fogo para cada 2 níveis que o drake tiver} a todas as criaturas na área (teste de Reflexos básico). Isto usa um CD treinado usando o modificador de Constituição do drake ou um CD especialista se o drake for especializado.</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Bribe Contact": {
@@ -1473,7 +1473,7 @@
     },
     "Primal Roar": {
       "name": "Rugido Primal",
-      "description": "<p>Seu eidolon solta um rugido primal ou outro ruído aterrorizante que se encaixe com a sua forma. Seu eidolon tenta testes de Intimidação para @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Desmoralizar} cada inimigo que possa ouvir o rugido; essas tentativas de Desmoralizar não sofrem nenhuma penalidade por não compartilharem um idioma.</p>",
+      "description": "<p>Seu eidolon libera um rugido primal ou outro ruído assustador que se encaixa na forma do seu eidolão. Seu eidolão tenta testes de Intimidação para [[/act demoralizar]] cada inimigo que pode ouvir o rugido; essas tentativas de Demoralizar não sofrem nenhuma penalidade por não compartilhar um idioma.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Prophecy's Pawn": {
@@ -1528,7 +1528,7 @@
     },
     "Raconteur's Reload": {
       "name": "Recarga do Contador de Histórias",
-      "description": "<p>Suas palavras rápidas ou contundentes desviam a atenção do inimigo de suas mãos por tempo suficiente para colocar outra bala na câmara. Interaja para recarregar e, em seguida, tente um teste de Dissimulação para @UUID[Compendium.pf2e.actionspf2e.Item.GkmbTGfg8KcgynOA]{Criar uma Distração} ou um teste de Intimidação para @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Desmoralizar}.</p>",
+      "description": "<p>Suas palavras rápidas ou contundentes desviam a atenção do inimigo de suas mãos por tempo suficiente para colocar outra bala na câmara. Interaja para recarregar e então tente um teste de Enganação para [[/act create-a-diversion variant=distracting-words]]{Criar uma Diversão} ou um teste de Intimidação para [[/act demoralizar]].</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Rage": {
@@ -2148,7 +2148,7 @@
     },
     "Threatening Approach": {
       "name": "Abordagem Ameaçadora",
-      "description": "<p>Você Anda para ficar adjacente a um inimigo e @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Desmoraliza} esse inimigo. Se você for bem-sucedido, o inimigo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 2} em vez de assustado 1.</p>",
+      "description": "<p>Você Anda para ficar adjacente a um inimigo e [[/act demoralizar]] esse inimigo. Se você obtiver sucesso, o inimigo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontado 2} em vez de amedrontado 1.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Thundering Roar": {

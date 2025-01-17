@@ -210,7 +210,8 @@
         },
         "Crafting": {
           "Action": {
-            "Hint": "Select an item to craft using {resource} ({value}/{max})"
+            "Hint": "Select an item to craft using {resource} ({value}/{max})",
+            "HintResourceless": "Select an item to craft"
           },
           "BatchQuantity": "x{quantity}",
           "Cost": "Custo",
@@ -219,10 +220,12 @@
             "Complete": "Manufatura diária completa.",
             "Perform": "Executar Manufatura Diária"
           },
+          "DecreaseQuantity": "Decrease Quantity",
           "FreeCrafting": "Free Crafting",
           "FreeCraftingTooltip": "If enabled, creates items immediately without spending gold",
+          "IncreaseQuantity": "Increase Quantity",
           "MissingResource": "You have insufficient resources to complete crafting.",
-          "PrepareHint": "Select the items that you want to prepare",
+          "PrepareHint": "Select the items that you want to prepare ({remaining} remaining)",
           "RemainingSlots": "({remaining} slots vazios restantes)",
           "Search": "Search Formulas"
         },
@@ -346,7 +349,7 @@
           "goblin": "Goblin",
           "goloma": "Goloma",
           "grioth": "Grioth",
-          "grippli": "Grippli",
+          "grippli": "Tripkee",
           "halfling": "Halfling",
           "hallit": "Hallit",
           "hwan": "Hwan",
@@ -4269,7 +4272,7 @@
     "TraitDescriptionGhoul": "Ghouls are vile undead creatures that feast on flesh.",
     "TraitDescriptionGhul": "Greedy and gluttonous undead originally formed from genie.",
     "TraitDescriptionGiant": "Giants are massive humanoid creatures.",
-    "TraitDescriptionGnoll": "Gnolls são humanoides que lembram hienas.",
+    "TraitDescriptionGnoll": "Kholos are humanoids that resemble hyenas.",
     "TraitDescriptionGnome": "Uma criatura com este traço é membro da ancestralidade gnomo. Gnomos são um povo pequeno habilidoso com magia que busca novas experiência e que normalmente possuem visão no escuro. Uma habilidade com este traço pode ser usada ou selecionada somente por gnomos. Um item com este traço é criado e usado por gnomos.",
     "TraitDescriptionGoblin": "Uma criatura com este traço pode originar-se de várias tribos de criaturas, incluindo goblins, hobgoblins e bugbears. Goblins tendem a ter visão no escuro. Uma habilidade com este traço pode ser usada ou selecionada somente por goblins. Um item com este traço é criado e usado por goblins.",
     "TraitDescriptionGoloma": "Insular humanoids that bear countless eyes.",
@@ -4277,7 +4280,7 @@
     "TraitDescriptionGrapple": "Você pode usar esta arma para Agarrar com a perícia Atletismo mesmo se não tiver uma mão livre. Isto utiliza o alcance da arma (se for diferente do seu) e adiciona o bônus de item dela que é aplicado a rolagens de ataque (se houver) como um bônus de item aplicado ao seu teste de Atletismo. Se obtiver uma falha crítica no teste para Agarrar enquanto usar essa arma, você pode escolher soltá-la para sofrer os efeitos de uma falha em vez dos efeitos de uma falha crítica.",
     "TraitDescriptionGremlin": "Cruel and mischievous fey, gremlins have acclimated to life in the Universe.",
     "TraitDescriptionGrimoire": "Spellbooks are useful tools for any magic user to write down incantations and runes of power, but where most spellbooks are nothing more than ink on parchment, grimoires have absorbed the magic of the spells within—magic that knowledgeable spellcasters can use to augment their spells.",
-    "TraitDescriptionGrippli": "Gripplis are a family of frog-like humanoids",
+    "TraitDescriptionGrippli": "Tripkees are a family of froglike humanoids.",
     "TraitDescriptionGunslinger": "This indicates abilities from the gunslinger class.",
     "TraitDescriptionHag": "These malevolent spellcasters form covens.",
     "TraitDescriptionHalfling": "Uma criatura com este traço é membro da ancestralidade halfling. Halflings são um povo pequenino de andarilhos amistosos considerados sortudos. Uma habilidade com este traço pode ser usada ou selecionada somente por halflings. Um item com este traço é criado e usado por halflings.",
@@ -5369,6 +5372,7 @@
         "mithral-tree": "Mithral Tree",
         "monkeys-fist": "Monkey's Fist",
         "morningstar": "Maça-Estrela",
+        "nails": "Nails",
         "naginata": "Naginata",
         "nightstick": "Nightstick",
         "nodachi": "Nodachi",
@@ -5531,14 +5535,14 @@
       "ashen": {
         "Name": "Ashen",
         "Note": {
-          "success": "This ash clouds the senses, causing the creature to become confused for 1 round unless it succeeds at a @Check[type:will|dc:25] save."
+          "success": "This ash clouds the senses, causing the creature to become @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} for 1 round unless it succeeds at a @Check[will|dc:25] save."
         }
       },
       "astral": {
         "Name": "Astral",
         "Note": {
-          "criticalSuccess": "On a critical hit against a creature possessing another creature, the possessing creature must succeed at a @Check[type:will|dc:26] save or be expelled and unable to possess a creature for [[/br 1d4 #rounds]]{1d4 rounds}.",
-          "Note": "The weapon can harm creatures without physical form. An astral weapon is particularly effective against incorporeal creatures, which almost always have a specific vulnerability to astral weapons. Incorporeal creatures can touch, hold, and wield astral weapons (unlike most physical objects)."
+          "criticalSuccess": "On a critical hit against a creature possessing another creature, the possessing creature must succeed at a @Check[will|dc:26] save or be expelled and unable to possess a creature for [[/gmr 1d4 #rounds]]{1d4 rounds}.",
+          "Note": "This rune has the same effects as a @UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{Ghost Touch} rune, plus Strikes with it deal an extra @Damage[1d6[spirit]] damage. If used to attack a creature that's possessing another creature, this weapon deals no damage to the possessed creature."
         }
       },
       "authorized": {
@@ -5657,14 +5661,14 @@
       "greaterAshen": {
         "Name": "Greater Ashen",
         "Note": {
-          "success": "This ash clouds the senses, causing the creature to become confused for 1 round unless it succeeds at a @Check[type:will|dc:35] save. On a critical failure, the effect lasts for 1 minute."
+          "success": "This ash clouds the senses, causing the creature to become @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} for 1 round unless it succeeds at a @Check[will|dc:35] save. On a critical failure, the effect lasts for 1 minute."
         }
       },
       "greaterAstral": {
         "Name": "Greater Astral",
         "Note": {
-          "criticalSuccess": "On a critical hit against a creature possessing another creature, the possessing creature must succeed at a @Check[type:will|dc:36] save or be expelled and unable to possess a creature for [[/br 1d4 #rounds]]{1d4 rounds}.",
-          "Note": "The weapon can harm creatures without physical form. A greater astral weapon is particularly effective against incorporeal creatures, which almost always have a specific vulnerability to greater astral weapons. Incorporeal creatures can touch, hold, and wield greater astral weapons (unlike most physical objects). The spirit damage granted by a greater astral weapon ignores any spirit resistance the target has."
+          "criticalSuccess": "On a critical hit against a creature possessing another creature, the possessing creature must succeed at a @Check[will|dc:36] save or be expelled and unable to possess a creature for [[/gmr 1d4 #rounds]]{1d4 rounds}.",
+          "Note": "This rune has the same effects as a @UUID[Compendium.pf2e.equipment-srd.Item.JQdwHECogcTzdd8R]{Ghost Touch} rune, plus Strikes with it deal an extra @Damage[1d6[spirit]] damage. If used to attack a creature that's possessing another creature, this weapon deals no damage to the possessed creature."
         }
       },
       "greaterBloodbane": {
@@ -6196,6 +6200,7 @@
       },
       "stupefied": {
         "name": "Estupefato",
+        "note": "Any time you attempt to @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Cast a Spell} while stupefied, the spell is disrupted unless you succeed at a @Check[flat|showDC:all|dc:resolve(5+@actor.conditions.stupefied.value)].",
         "rules": "<p>Seus pensamentos e instintos ficam nublados. Estupefato sempre inclui um valor. Você sofre uma penalidade de estado igual ao valor desta condição em testes e CDs baseadas em Inteligência, Sabedoria e Carisma, incluindo jogadas de salvamento de Vontade, rolagens de ataque de magia, CDs de magia e testes de perícias que utilizem estes atributos. A qualquer momento em que você tentar Conjurar uma Magia enquanto estiver estupefato, a magia é interrompida a menos que você obtenha sucesso em um teste simples com CD igual a 5 + seu valor de estupefato.</p>",
         "summary": "Você não pode acessar suas faculdades mentais completas e tem problema em conjurar magias."
       },

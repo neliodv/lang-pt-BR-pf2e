@@ -158,6 +158,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "shield->Wooden Shield": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.ezVp13Uw8cWW08Da]\n<p>Though they come in a variety of shapes and sizes, the protection offered by wooden shields comes from the stoutness of their materials. While wooden shields are less expensive than steel shields, they break more easily.</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3</td>\n<td>12</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>",
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Hide Armor": {
@@ -633,7 +634,8 @@
         },
         "spell->Touch of Idiocy": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.CQb8HtQ1BPeZmu9h]\nTouch of Idiocy",
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Core Rulebook",
+          "target": "1 living creature"
         },
         "spell->Alarm": {
           "requirements": "3 gp silver bell focus",

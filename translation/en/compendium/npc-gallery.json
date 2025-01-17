@@ -201,7 +201,8 @@
         },
         "spell->Touch of Idiocy": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.CQb8HtQ1BPeZmu9h]\nTouch of Idiocy",
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Core Rulebook",
+          "target": "1 living creature"
         },
         "spell->Charm": {
           "source": "Pathfinder Core Rulebook"
@@ -1072,6 +1073,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "shield->Steel Shield": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.Yr9yCuJiAlFh3QEB]\n<p>Like wooden shields, steel shields come in a variety of shapes and sizes. Though more expensive than wooden shields, they are much more durable.</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>",
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Full Plate": {
@@ -1501,7 +1503,8 @@
         },
         "spell->Touch of Idiocy": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.CQb8HtQ1BPeZmu9h]\nTouch of Idiocy",
-          "source": "Pathfinder Core Rulebook"
+          "source": "Pathfinder Core Rulebook",
+          "target": "1 living creature"
         },
         "spell->Bless": {
           "source": "Pathfinder Core Rulebook"
@@ -4075,7 +4078,7 @@
         },
         "action->You're Next": {
           "name": "You're Next",
-          "description": "<p><strong>Trigger</strong> The prisoner reduces a creature to 0 hit points.</p>\n<hr />\n<p><strong>Effect</strong> The prisoner attempts an Intimidation check with a +2 circumstance bonus to @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} a single creature it can see and that can see them.</p>"
+          "description": "<p><strong>Trigger</strong> The prisoner reduces a creature to 0 hit points.</p>\n<hr />\n<p><strong>Effect</strong> The prisoner attempts an Intimidation check with a +2 circumstance bonus to [[/act demoralize options=youre-next]] a single creature it can see and that can see them.</p>"
         }
       }
     },
@@ -5595,6 +5598,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "shield->Steel Shield": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.Yr9yCuJiAlFh3QEB]\n<p>Like wooden shields, steel shields come in a variety of shapes and sizes. Though more expensive than wooden shields, they are much more durable.</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>",
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Breastplate": {
@@ -5694,6 +5698,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "shield->Steel Shield": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.Yr9yCuJiAlFh3QEB]\n<p>Like wooden shields, steel shields come in a variety of shapes and sizes. Though more expensive than wooden shields, they are much more durable.</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>",
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Half Plate": {
