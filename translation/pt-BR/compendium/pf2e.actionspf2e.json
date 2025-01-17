@@ -148,7 +148,7 @@
     },
     "Barbed Quills": {
       "name": "Espinhos Farpados",
-      "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você é atingido com um golpe desarmado ou um golpe com uma arma corpo a corpo sem alcance.</p>\n<hr />\n<p>Você quebra espinhos na carne do seu atacante. Você causa @Damage[ceil(@actor.level/2)d8[perfurante]] de dano à criatura que acionou o efeito (@Check[reflex|against:class-spell|basic] save usando sua CD de classe ou CD de magia, o que for maior.) Em uma falha crítica, a criatura também recebe @Damage[(1d4+ceil(@actor.level/2)-1)[sangramento]] enquanto seus espinhos se prendem em sua carne. No 3º nível, e a cada 2 níveis subsequentes, este dano aumenta em 1d8 e o dano perfurante persistente aumenta em 1.</p>",
+      "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você é atingido com um golpe desarmado ou um golpe com uma arma corpo a corpo sem alcance.</p>\n<hr />\n<p>Você quebra espinhos na carne do seu atacante. Você causa @Damage[ceil(@actor.level/2)d8[perfurante]] de dano à criatura que acionou o efeito (@Check[reflex|against:class-spell|basic] save usando sua CD de classe ou CD de magia, o que for maior.) Em uma falha crítica, a criatura também recebe @Damage[(1d4+ceil(@actor.level/2)-1)[bleed]] enquanto seus espinhos se prendem em sua carne. No 3º nível, e a cada 2 níveis subsequentes, este dano aumenta em 1d8 e o dano perfurante persistente aumenta em 1.</p>",
       "source": "Pathfinder Lost Omens: The Mwangi Expanse"
     },
     "Base Kinesis": {
@@ -243,7 +243,7 @@
     },
     "Break Them Down": {
       "name": "Destruí-los",
-      "description": "<p>Seus inimigos são apenas escória da qual você esculpe e atira sua lenda. Faça um Golpe corpo a corpo e depois um Golpe à distância com uma arma combinada, ambos contra o mesmo inimigo; você não precisa mudar de modo para fazer isso. Se o Golpe corpo a corpo acertar, você ganha um bônus de circunstância +1 no teste de ataque com o Golpe à distância. Cada ataque conta para sua penalidade de ataque múltiplo, mas sua penalidade de ataque múltiplo não aumenta até que você tenha feito ambos os ataques. Se ambos os Golpes acertarem, você causa um dano adicional de @Damage[2d6[sangramento]] ao inimigo, e eles ficam @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscados} até que este dano persistente de sangramento termine.</p>",
+      "description": "<p>Seus inimigos são apenas escória da qual você esculpe e atira sua lenda. Faça um Golpe corpo a corpo e depois um Golpe à distância com uma arma combinada, ambos contra o mesmo inimigo; você não precisa mudar de modo para fazer isso. Se o Golpe corpo a corpo acertar, você ganha um bônus de circunstância +1 no teste de ataque com o Golpe à distância. Cada ataque conta para sua penalidade de ataque múltiplo, mas sua penalidade de ataque múltiplo não aumenta até que você tenha feito ambos os ataques. Se ambos os Golpes acertarem, você causa um dano adicional de @Damage[2d6[bleed]] ao inimigo, e eles ficam @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscados} até que este dano persistente de sangramento termine.</p>",
       "source": "Pathfinder Lost Omens: Impossible Lands"
     },
     "Break the Sun's Legs": {
