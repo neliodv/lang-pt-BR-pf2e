@@ -20,18 +20,12 @@
         "Greater": {
           "Text": "Por 1 minuto depois que você causar dano a uma criatura com uma munição exsanguinante ativada, essa criatura ganha fraqueza 3 a dano de sangramento persistente. Além disso, a CD de quaisquer testes fixos para encerrar o dano de sangramento persistente aumenta de 15 para 17 (de 10 para 12 ao receber assistência particularmente eficaz) pela duração. @UUID[Compendium.pf2e.equipment-effects.Item.5lZWAvm0oGxvF4bm]{Efeito: Munição Exsanguinante (Maior)}",
           "Title": "Munição Exsanguinante (Maior)"
-          "Text": "Por 1 minuto depois que você causar dano a uma criatura com uma munição exsanguinante ativada, essa criatura ganha fraqueza 3 a dano de sangramento persistente. Além disso, a CD de quaisquer testes fixos para encerrar o dano de sangramento persistente aumenta de 15 para 17 (de 10 para 12 ao receber assistência particularmente eficaz) pela duração. @UUID[Compendium.pf2e.equipment-effects.Item.5lZWAvm0oGxvF4bm]{Efeito: Munição Exsanguinante (Maior)}",
-          "Title": "Munição Exsanguinante (Maior)"
         },
         "Major": {
           "Text": "Por 1 minuto depois que você causar dano a uma criatura com uma munição exsanguinante, essa criatura ganha fraqueza 5 a dano de sangramento persistente. Além disso, a CD de quaisquer testes fixos para encerrar o dano de sangramento persistente aumenta de 15 para 17 (de 10 para 12 ao receber assistência partifcularmente eficaz) pela duração. @UUID[Compendium.pf2e.equipment-effects.Item.mrwg2XftLtSLj197]{Efeito: Munição Exsanguinante (Superior)}",
           "Title": "Munição Exsanguinante (Superior)"
-          "Text": "Por 1 minuto depois que você causar dano a uma criatura com uma munição exsanguinante, essa criatura ganha fraqueza 5 a dano de sangramento persistente. Além disso, a CD de quaisquer testes fixos para encerrar o dano de sangramento persistente aumenta de 15 para 17 (de 10 para 12 ao receber assistência partifcularmente eficaz) pela duração. @UUID[Compendium.pf2e.equipment-effects.Item.mrwg2XftLtSLj197]{Efeito: Munição Exsanguinante (Superior)}",
-          "Title": "Munição Exsanguinante (Superior)"
         },
         "Normal": {
-          "Text": "Por 1 minuto depois que você causar dano a uma criatura com uma munição exsanguinante, essa criatura ganha fraqueza 1 a dano de sangramento persistente. Além disso, a CD de quaisquer testes fixos para encerrar o dano de sangramento persistente aumenta de 15 para 17 (de 10 para 12 ao receber assistência partifcularmente eficaz) pela duração. @UUID[Compendium.pf2e.equipment-effects.Item.Fz3cSffzDAxhCh2D]{Efeito: Munição Exsanguinante}",
-          "Title": "Munição Exsanguinante"
           "Text": "Por 1 minuto depois que você causar dano a uma criatura com uma munição exsanguinante, essa criatura ganha fraqueza 1 a dano de sangramento persistente. Além disso, a CD de quaisquer testes fixos para encerrar o dano de sangramento persistente aumenta de 15 para 17 (de 10 para 12 ao receber assistência partifcularmente eficaz) pela duração. @UUID[Compendium.pf2e.equipment-effects.Item.Fz3cSffzDAxhCh2D]{Efeito: Munição Exsanguinante}",
           "Title": "Munição Exsanguinante"
         }
@@ -42,50 +36,34 @@
       },
       "MeteorShot": {
         "CriticalFailureText": "Em uma falha crítica, a arma falha.",
-        "CriticalFailureText": "Em uma falha crítica, a arma falha.",
         "Greater": {
-          "Text": "Além do dano normal da arma, o tiro meteoro causa dano de fogo e o solo na área se torna terreno difícil. A munição causa @Damage[6d6[fire]]{6d6 de dano de fogo} em um @Template[emanation|distance:10]{raio de 10 pés} ao redor do alvo (teste de @Check[reflex|dc:29|basic|name:Meteor Shot]{Reflexos com CD 29}).",
-          "Title": "Tiro Meteoro (Maior)"
           "Text": "Além do dano normal da arma, o tiro meteoro causa dano de fogo e o solo na área se torna terreno difícil. A munição causa @Damage[6d6[fire]]{6d6 de dano de fogo} em um @Template[emanation|distance:10]{raio de 10 pés} ao redor do alvo (teste de @Check[reflex|dc:29|basic|name:Meteor Shot]{Reflexos com CD 29}).",
           "Title": "Tiro Meteoro (Maior)"
         },
         "Major": {
-          "Text": "Além do dano normal da arma, o tiro meteoro causa dano de fogo e o solo na área se torna terreno difícil. A munição causa @Damage[9d6[fire]]{9d6 de dano de fogo} em um @Template[emanation|distance:20]{raio de 20 pés} ao redor do alvo (teste de @Check[reflex|dc:37|basic|name:Meteor Shot]{Reflexos com CD 37}).",
-          "Title": "Tiro Meteoro (Principal)"
           "Text": "Além do dano normal da arma, o tiro meteoro causa dano de fogo e o solo na área se torna terreno difícil. A munição causa @Damage[9d6[fire]]{9d6 de dano de fogo} em um @Template[emanation|distance:20]{raio de 20 pés} ao redor do alvo (teste de @Check[reflex|dc:37|basic|name:Meteor Shot]{Reflexos com CD 37}).",
           "Title": "Tiro Meteoro (Principal)"
         },
         "Normal": {
           "Text": "Além do dano normal da arma, o tiro meteoro causa dano de fogo e o solo na área se torna terreno difícil. A munição causa @Damage[3d6[fire]]{3d6 de dano de fogo} em um @Template[emanation|distance:5]{raio de 5 pés} ao redor do alvo (teste de @Check[reflex|dc:23|basic|name:Meteor Shot]{Reflexos com CD 23}).",
           "Title": "Tiro Meteoro"
-          "Text": "Além do dano normal da arma, o tiro meteoro causa dano de fogo e o solo na área se torna terreno difícil. A munição causa @Damage[3d6[fire]]{3d6 de dano de fogo} em um @Template[emanation|distance:5]{raio de 5 pés} ao redor do alvo (teste de @Check[reflex|dc:23|basic|name:Meteor Shot]{Reflexos com CD 23}).",
-          "Title": "Tiro Meteoro"
         }
-            },
+      },
       "OozeAmmunition": {
         "CriticalHitText": "Em um acerto crítico, a criatura fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizada} por 1 rodada, além dos outros efeitos.",
-        "CriticalHitText": "Em um acerto crítico, a criatura fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizada} por 1 rodada, além dos outros efeitos.",
         "Greater": {
-          "Text": "A criatura sofre uma penalidade de -10 pés em Velocidade e @Damage[3d4[persistent,acid]] até encerrar os efeitos. O alvo pode encerrar os efeitos @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapando} (CD 29) da espuma pegajosa. Outras criaturas podem fornecer as ações, embora isso cause metade do dano de ácido persistente da munição à criatura que está ajudando. Uma criatura que termina o efeito ainda recebe o dano persistente naquele turno. @UUID[Compendium.pf2e.equipment-effects.Item.6Pwdim01PH447CeS]{Efeito: Munição de Gosma (Maior)}",
-          "Title": "Munição de Gosma (Maior)"
           "Text": "A criatura sofre uma penalidade de -10 pés em Velocidade e @Damage[3d4[persistent,acid]] até encerrar os efeitos. O alvo pode encerrar os efeitos @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapando} (CD 29) da espuma pegajosa. Outras criaturas podem fornecer as ações, embora isso cause metade do dano de ácido persistente da munição à criatura que está ajudando. Uma criatura que termina o efeito ainda recebe o dano persistente naquele turno. @UUID[Compendium.pf2e.equipment-effects.Item.6Pwdim01PH447CeS]{Efeito: Munição de Gosma (Maior)}",
           "Title": "Munição de Gosma (Maior)"
         },
         "Lesser": {
           "Text": "A criatura sofre uma penalidade de -5 pés em Velocidade e @Damage[1d4[persistent,acid]] até encerrar os efeitos. O alvo pode encerrar os efeitos @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapando} (CD 16) da espuma pegajosa. Outras criaturas podem fornecer as ações, embora isso cause metade do dano de ácido persistente da munição à criatura que está ajudando. Uma criatura que termina o efeito ainda recebe o dano persistente naquele turno. @UUID[Compendium.pf2e.equipment-effects.Item.FPvMbKX8sXM9fGJT]{Efeito: Munição de Gosma (Menor)}",
           "Title": "Munição de Gosma (Menor)"
-          "Text": "A criatura sofre uma penalidade de -5 pés em Velocidade e @Damage[1d4[persistent,acid]] até encerrar os efeitos. O alvo pode encerrar os efeitos @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapando} (CD 16) da espuma pegajosa. Outras criaturas podem fornecer as ações, embora isso cause metade do dano de ácido persistente da munição à criatura que está ajudando. Uma criatura que termina o efeito ainda recebe o dano persistente naquele turno. @UUID[Compendium.pf2e.equipment-effects.Item.FPvMbKX8sXM9fGJT]{Efeito: Munição de Gosma (Menor)}",
-          "Title": "Munição de Gosma (Menor)"
         },
         "Major": {
           "Text": "A criatura sofre uma penalidade de -15 pés em Velocidade e @Damage[4d4[persistent,acid]] até encerrar os efeitos. O alvo pode encerrar os efeitos @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapando} (CD 38) da espuma pegajosa. Outras criaturas podem fornecer as ações, embora isso cause metade do dano de ácido persistente da munição à criatura que está ajudando. Uma criatura que termina o efeito ainda recebe o dano persistente naquele turno. @UUID[Compendium.pf2e.equipment-effects.Item.UjAJUFMfH0OWWwQS]{Efeito: Munição de Gosma (Superior)}",
           "Title": "Munição de Gosma (Superior)"
-          "Text": "A criatura sofre uma penalidade de -15 pés em Velocidade e @Damage[4d4[persistent,acid]] até encerrar os efeitos. O alvo pode encerrar os efeitos @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapando} (CD 38) da espuma pegajosa. Outras criaturas podem fornecer as ações, embora isso cause metade do dano de ácido persistente da munição à criatura que está ajudando. Uma criatura que termina o efeito ainda recebe o dano persistente naquele turno. @UUID[Compendium.pf2e.equipment-effects.Item.UjAJUFMfH0OWWwQS]{Efeito: Munição de Gosma (Superior)}",
-          "Title": "Munição de Gosma (Superior)"
         },
         "Moderate": {
-          "Text": "A criatura sofre uma penalidade de -10 pés em Velocidade e @Damage[2d4[persistent,acid]] até encerrar os efeitos. O alvo pode encerrar os efeitos @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapando} (CD 20) da espuma pegajosa. Outras criaturas podem fornecer as ações, embora isso cause metade do dano de ácido persistente da munição à criatura que está ajudando. Uma criatura que termina o efeito ainda recebe o dano persistente naquele turno. @UUID[Compendium.pf2e.equipment-effects.Item.6c4o7ypWWnZKPy5b]{Efeito: Munição de Gosma (Moderada)}",
-          "Title": "Munição de Gosma (Moderada)"
           "Text": "A criatura sofre uma penalidade de -10 pés em Velocidade e @Damage[2d4[persistent,acid]] até encerrar os efeitos. O alvo pode encerrar os efeitos @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapando} (CD 20) da espuma pegajosa. Outras criaturas podem fornecer as ações, embora isso cause metade do dano de ácido persistente da munição à criatura que está ajudando. Uma criatura que termina o efeito ainda recebe o dano persistente naquele turno. @UUID[Compendium.pf2e.equipment-effects.Item.6c4o7ypWWnZKPy5b]{Efeito: Munição de Gosma (Moderada)}",
           "Title": "Munição de Gosma (Moderada)"
         }
@@ -106,8 +84,8 @@
       "ReduceHiddenCheck": "The DC of the flat check to target a @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} creature is only @Check[type:flat|dc:5]."
     },
     "Background": {
-      "Favorecido": "<p><strong>Frequência</strong> uma vez por dia;</p><hr><p><strong>Efeito</strong> Role novamente o teste de perícia. Você deve usar o segundo resultado, mesmo se for pior.</p>"
-  },
+      "Favored": "<p><strong>Frequency</strong> once per day;</p><hr><p><strong>Effect</strong> Reroll the skill check. You must use the second result, even if it's worse.</p>"
+    },
     "BattleForm": {
       "AberrantForm": {
         "GugSqueezeNote": "Suas múltiplas articulações permitem que você se encaixe em espaços apertados como se fosse uma criatura Média."
@@ -117,40 +95,24 @@
       },
       "Attack": {
         "Antler": "Chifre",
-        "Antler": "Chifre",
         "AqueousFist": "Punho Aquoso",
         "Beak": "Bico",
         "Beard": "Barba",
         "Belly": "Barriga",
         "BigClaw": "Garra Grande",
-        "Belly": "Barriga",
-        "BigClaw": "Garra Grande",
         "Bite": "Mordida",
-        "Blade": "Lâmina",
         "Blade": "Lâmina",
         "Body": "Corpo",
         "BoneDart": "Dardo de Osso",
         "BoneShard": "Fragmento de Osso",
         "BoneSpike": "Espinho de Osso",
-        "BoneDart": "Dardo de Osso",
-        "BoneShard": "Fragmento de Osso",
-        "BoneSpike": "Espinho de Osso",
         "Boot": "Bota",
-        "Boulder": "Pedregulho",
         "Boulder": "Pedregulho",
         "Branch": "Galho",
         "Claw": "Garra",
         "CubeFace": "Face do Cubo",
         "ElementalCurrent": "Corrente Elemental",
-        "ElementalCurrent": "Corrente Elemental",
         "Fangs": "Presas",
-        "FireMote": "Centelha de Fogo",
-        "Fist": "Punho",
-        "FlameHair": "Cabelo de Fogo",
-        "FlamingSword": "Espada Flamejante",
-        "Foot": "Pé",
-        "Foreleg": "Pata Dianteira",
-        "Gust": "Rajada",
         "FireMote": "Centelha de Fogo",
         "Fist": "Punho",
         "FlameHair": "Cabelo de Fogo",
@@ -163,16 +125,11 @@
         "Horn": "Chifre",
         "Horns": "Chifres",
         "HurledDebris": "Detritos Arremessados",
-        "Horns": "Chifres",
-        "HurledDebris": "Detritos Arremessados",
         "Jaws": "Mandíbulas",
         "LavaFist": "Punho de Lava",
         "Leaf": "Folha",
         "Leaves": "Folhas",
-        "Leaves": "Folhas",
         "Leg": "Perna",
-        "LightningLash": "Chicote de Raio",
-        "LittleClaw": "Garra Pequena",
         "LightningLash": "Chicote de Raio",
         "LittleClaw": "Garra Pequena",
         "Mandibles": "Mandíbulas",
@@ -180,49 +137,30 @@
         "Moonbeam": "Raio Lunar",
         "Nectar": "Néctar",
         "PiercingHymn": "Hino Penetrante",
-        "MetalShard": "Fragmento de Metal",
-        "Moonbeam": "Raio Lunar",
-        "Nectar": "Néctar",
-        "PiercingHymn": "Hino Penetrante",
         "Pincer": "Pinça",
-        "Pseudopod": "Pseudópode",
-        "Quill": "Espinho",
         "Pseudopod": "Pseudópode",
         "Quill": "Espinho",
         "Rock": "Rocha",
         "Root": "Raiz",
         "SacredArmament": "Armamento Sagrado",
         "Seed": "Semente",
-        "Root": "Raiz",
-        "SacredArmament": "Armamento Sagrado",
-        "Seed": "Semente",
         "Spikes": "Espinhos",
         "Spine": "Espinha",
-        "Spoke": "Raio (de roda)",
         "Spoke": "Raio (de roda)",
         "Stinger": "Ferrão",
         "SpiritTouch": "Toque Espiritual",
         "StoneBall": "Bola de Pedra",
         "StrikingSurface": "Superfície de Impacto",
         "Sunbeam": "Raio Solar",
-        "SpiritTouch": "Toque Espiritual",
-        "StoneBall": "Bola de Pedra",
-        "StrikingSurface": "Superfície de Impacto",
-        "Sunbeam": "Raio Solar",
         "Tail": "Cauda",
-        "Talon": "Garra",
         "Talon": "Garra",
         "Tendril": "Gavinha",
         "Tentacle": "Tentáculo",
         "TentacleArm": "Braço Tentáculo",
-        "TentacleArm": "Braço Tentáculo",
         "Thorns": "Espinhos",
         "Tongue": "Língua",
         "Trunk": "Tromba",
-        "Trunk": "Tromba",
         "Tusk": "Presa",
-        "Vine": "Vinhas",
-        "WaterSpout": "Jato d'Água",
         "Vine": "Vinhas",
         "WaterSpout": "Jato d'Água",
         "Wave": "Onda",
@@ -238,13 +176,13 @@
         "Note": {
           "CeustodaemonDamage": "Qualquer Golpe de mandíbulas ou garras bem-sucedido causa @Damage[1d6[untyped]] de dano adicional, e você recebe a mesma quantidade de dano"
         }
-    },
-    "DemonForm": {
+      },
+      "DemonForm": {
         "Note": {
           "AbrikandiluCritical": "Em um acerto crítico, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Desajeitado 1} por 1 minuto."
         }
-    },
-          "ElementEmbodied": {
+      },
+      "ElementEmbodied": {
         "AirPushNote": "Mais @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{Impelir} 3m/10 pés",
         "WaterPushPullNote": "Mais @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl]{Impelir} ou Puxar 3m/10 pés"
       },
@@ -256,10 +194,9 @@
       },
       "NatureIncarnate": {
         "GreenMan": "Homem Verde",
-        "GreenMan": "Homem Verde",
         "Kaiju": "Kaiju"
-    },
-    "Note": {
+      },
+      "Note": {
         "Grab": "Você pode gastar uma ação imediatamente após um acerto para @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Agarrar} o alvo",
         "GrabbingTrunk": {
           "Text": "Uma criatura até dois tamanhos menor que seja atingida por sua tromba fica @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Agarrada}. Se você obtiver sucesso em seu teste de @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Agarrar} contra uma criatura agarrada por sua tromba, você pode reposicionar a criatura para outro espaço dentro do alcance de sua tromba.",
@@ -540,8 +477,8 @@
           "criticalSuccess": "<strong>Efeito</strong> A bomba também causa @Damage[(2*2d4)[persistent,fire]] e @Damage[(2[splash])[fire]]{2 dano de respingo de fogo}. Em um acerto crítico, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Desajeitado 1} até o início de sua próxima rodada.",
           "success": "<strong>Efeito</strong> A bomba também causa @Damage[2d4[persistent,fire]] e @Damage[(2[splash])[fire]]{2 dano de respingo de fogo}."
         }
-    },
-    "SkunkBomb": {
+      },
+      "SkunkBomb": {
         "Greater": {
           "success": "<strong>Efeito</strong> Qualquer criatura atingida pela bomba ou em sua área de respingo deve realizar um teste de @Check[fortitude|dc:28]. Criaturas na área de respingo tratam os resultados de seus testes de salvamento como um passo melhor.<hr><p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p><p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Enjoado 1}.</p><p><strong>Falha</strong> O alvo fica enjoado 1 e @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Desacelerado 1} enquanto enjoado.</p><p><strong>Falha Crítica</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} por 1 rodada, @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Enjoado 2}, e desacelerado 1 enquanto enjoado.</p>"
         },
@@ -5898,19 +5835,67 @@
           "Adept": {
             "Label": "Implement Adept"
           },
-          "Amulet": "Amulet",
-          "Bell": "Bell",
-          "Chalice": "Chalice",
-          "Lantern": "Lantern",
-          "Mirror": "Mirror",
+          "Amulet": {
+            "Adept": {
+              "Description": "When you use Amulet's Abeyance, you or your ally chooses one type of damage dealt by the triggering attack and gains resistance 5 against that damage type until the start of your next turn. At 15th level, this lingering resistance increases from 5 to 10.",
+              "Prompt": "Select a damage type dealt by the triggering attack."
+            },
+            "Label": "Amulet"
+          },
+          "Bell": {
+            "Label": "Bell"
+          },
+          "Chalice": {
+            "Adept": {
+              "DescriptionAlteration": "On a sip, the temporary Hit Points granted to the creature increase to 2 + your Charisma modifier + your level. When drained, the chalice heals the creature 5 Hit Points for each level you have.",
+              "Note": "If you or an ally within 30 feet takes piercing or slashing damage from a foe's critical hit or takes persistent bleed damage, Drinking from the Chalice before the end of your next turn grants that injured creature greater restoration to make up for its lost vitality. On a sip, the temporary Hit Points granted to the creature increase to 2 + your Charisma modifier + your level. When drained, the chalice heals the creature 5 Hit Points for each level you have. @UUID[Compendium.pf2e.feat-effects.Item.Sq558879cgEc1lGC]{Effect: Chalice Adept Benefit (Self)}"
+            },
+            "Label": "Chalice"
+          },
+          "Lantern": {
+            "BonusToggle": "Target is within the lantern's bright light",
+            "Label": "Lantern",
+            "LightToggle": "Light lantern implement"
+          },
+          "Mirror": {
+            "Label": "Mirror"
+          },
           "Paragon": {
             "Label": "Implement Paragon"
           },
           "Prompt": "Select an implement.",
-          "Regalia": "Regalia",
-          "Tome": "Tome",
-          "Wand": "Wand",
-          "Weapon": "Weapon"
+          "Regalia": {
+            "Label": "Regalia",
+            "UnflankableToggle": "Regalia owner is being flanked."
+          },
+          "Tome": {
+            "FirstSkillDropdown": "Tome — First skill",
+            "Label": "Tome",
+            "Paragon": {
+              "InitiativeBonusLabel": "Tome (Paragon)",
+              "InitiativeToggle": "Tome — Initiative vs. creatures or haunts"
+            },
+            "SecondSkillDropdown": "Tome — Second skill"
+          },
+          "Wand": {
+            "Adept": {
+              "Cold": "If the target fails its save and takes damage, it becomes chilled, taking a –10-foot status penalty to its Speeds for 1 round.",
+              "RangeIncrease": "Tne range of Fling Magic increases to 120 feet.",
+              "Electricity": "If the target fails its save and takes damage, it becomes shocked, becoming @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the end of your next turn.",
+              "Fire": "If the target fails its save and takes damage, it catches flame, taking @Damage[1d10[persistent,fire]] (or @Damage[2d10[persistent,fire]] on a critical failure).",
+              "FireParagon": "If the target fails its save and takes damage, it catches flame, taking @Damage[2d10[persistent,fire]] (or @Damage[4d10[persistent,fire]] on a critical failure)."
+            },
+            "Label": "Wand",
+            "Paragon": {
+              "Description": "The range of Fling Magic increases to 180 feet. You can choose to target a single creature or to affect all creatures in a @Template[burst|distance:20]."
+            }
+          },
+          "Weapon": {
+            "Adept": {
+              "Note": "You deal @Damage[1[@item.system.damage.damageType]] damage, possibly applying any bonus damage due to the target's weakness."
+            },
+            "Label": "Weapon"
+          }
         },
         "TalismanEsoterica": "Talisman Esoterica"
       },
