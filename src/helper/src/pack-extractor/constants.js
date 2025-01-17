@@ -156,7 +156,7 @@ export const PF2_DEFAULT_MAPPING = {
         actors: {
             path: "actors",
             converter: "translateAdventureActors",
-            extractOptions: { subMapping: "actor", specialExtraction: "adventureActors", subMappingAsMapping: true },
+            extractOptions: { subMapping: "actor", specialExtraction: "adventureActors" },
         },
         items: {
             path: "items",
@@ -341,6 +341,7 @@ export const PF2_DEFAULT_MAPPING = {
             path: "system.trainedSkills.lore",
             extractOptions: { extractOnActorItem: false, convertArray: false },
         },
+        unidentifiedName: { path: "system.identification.unidentified.name" },
     },
     journal: {
         name: { path: "name" },

@@ -14,6 +14,10 @@ Traduza para o português do Brasil os textos que eu colar aqui, seguindo estas 
 
 * **Manter as unidades de medida em pés (feet).**
 
+* **Manter em inglês as palavras: "token". 
+
+* **Manter em inglês tudo que estiver dentro de colchetes **
+
 * **Traduzir 'concealed' como 'ocultado'.**
 
 * **Traduzir 'dying' como 'morrendo'.**
@@ -28,6 +32,9 @@ Traduza para o português do Brasil os textos que eu colar aqui, seguindo estas 
 
 * **Traduzir 'unfriendly' como 'inamistoso'.**
 
+* **Traduzir 'paired' como 'pareado'.**
+
+* **Traduzir 'boost' como 'melhoria'.**
 
 
 
