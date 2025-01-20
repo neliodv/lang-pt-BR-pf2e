@@ -149,7 +149,7 @@
           }
         },
         "Attribute": {
-          "Apex": "Apex Attribute",
+          "Apex": "Atributo Apex",
           "Boosts": "Melhorias de Atributo",
           "Key": "Atributo Chave"
         },
@@ -908,7 +908,7 @@
     "CastLabel": "Conj",
     "CastingItemCreateDialog": {
       "10thLevelWand": "Varinhas de 10o. círculo não existem",
-      "cantripDeck5": "Cantrip Deck (5-pack)",
+      "cantripDeck5": "Baralho de Truque (pacote com 5)",
       "itemTypeLabel": "Tipo do item: ",
       "label": "Criar um item de conjuração a partir de uma magia escolhida",
       "scroll": "Pergaminho",
@@ -2870,6 +2870,9 @@
       },
       "Troubleshooting": "Solução de Problemas",
       "WorldNotReady": "Mundo do jogo não está pronto: tente novamente em alguns segundos."
+    },
+    "ModeOfBeing": {
+      "Living": "Living"
     },
     "ModifierNamePlaceholder": "Nome",
     "ModifierTitle": "Modificador",

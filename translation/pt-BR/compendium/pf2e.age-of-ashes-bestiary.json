@@ -2,13 +2,13 @@
   "label": "age-of-ashes-bestiary",
   "entries": {
     "Accursed Forge-Spurned": {
-      "name": "Accursed Forge-Spurned",
-      "hpDetails": "eternal damnation, void healing",
-      "publicNotes": "<p>This undead dwarf has gorged on suffering over the centuries, and in that time has grown immense himself, so that he is proportioned more like a giant than a dwarf.</p>",
+      "name": "Amaldiçoado Renegado da Forja",
+      "hpDetails": "danação eterna, cura do vazio",
+      "publicNotes": "<p>Este anão morto-vivo se alimentou de sofrimento ao longo dos séculos e, nesse tempo, tornou-se imenso, de modo que suas proporções são mais parecidas com as de um gigante do que com as de um anão.</p>",
       "source": "Pathfinder #148: Fires of the Haunted City",
       "items": {
         "weapon->Soul Chain": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.uVcePmysXUFhOebP]\n<p>An accursed forge-spurned's @UUID[Compendium.pf2e.equipment-srd.Item.uVcePmysXUFhOebP]{Soul Chain} is a <em>+2 greater striking flaming adamantine @UUID[Compendium.pf2e.equipment-srd.Item.zi9ovfoRp2fMhfpO]{Spiked Chain}</em>.</p>",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.uVcePmysXUFhOebP]\n<p>A @UUID[Compendium.pf2e.equipment-srd.Item.uVcePmysXUFhOebP]{Corrente da Alma} de um amaldiçoado renegado da forja é uma <em>+2 ataque maior flamejante adamantina @UUID[Compendium.pf2e.equipment-srd.Item.zi9ovfoRp2fMhfpO]{Corrente Espinhosa}</em>.</p>",
           "source": "Pathfinder Adventure: Crown of the Kobold King"
         },
         "weapon->Warhammer": {
@@ -18,94 +18,94 @@
           "source": "Pathfinder Player Core"
         },
         "strike-melee->Soul Chain": {
-          "name": "Soul Chain"
+          "name": "Corrente da Alma"
         },
         "strike-melee->Warhammer": {
-          "name": "Warhammer"
+          "name": "Martelo de Guerra"
         },
         "action->Eternal Damnation": {
-          "name": "Eternal Damnation",
-          "description": "<p>As long as its <em>soul chain</em> remains intact, the accursed forge-spurned can't be truly destroyed and rises again fully healed at the next sundown, even if its physical body was destroyed.</p>"
+          "name": "Danação Eterna",
+          "description": "<p>Enquanto sua <em>corrente da alma</em> permanecer intacta, o amaldiçoado renegado da forja não pode ser verdadeiramente destruído e se levanta totalmente curado ao próximo pôr do sol, mesmo que seu corpo físico tenha sido destruído.</p>"
         },
         "action->Searing Heat": {
-          "name": "Searing Heat",
-          "description": "<p>A creature that touches the accursed forge-spurned (including @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grappling} it or hitting it with an unarmed attack) takes @Damage[4d6[fire]] damage (@Check[reflex|dc:33|basic] save).</p>"
+          "name": "Calor Cauterizante",
+          "description": "<p>Uma criatura que toca o amaldiçoado renegado da forja (incluindo agarrá-lo ou atingi-lo com um ataque desarmado) recebe @Damage[4d6[fire]] de dano (teste de resistência de @Check[reflex|dc:33|basic]).</p>"
         },
         "action->Void Healing": {
           "source": "Pathfinder Bestiary 2"
         },
         "action->Forge Breath": {
-          "name": "Forge Breath",
-          "description": "<p>The accursed forge-spurned breathes a cloud of stinging soot, ash, and glowing embers. This can affect either a @Template[cone|distance:30] or a @Template[burst|distance:20] centered on the accursed forge-spurned and persists for [[/gmr 1d4 #rounds]]{1d4 rounds}.</p>\n<p>Creatures that move into or start their turn in the area take @Damage[12d6[fire]] damage (@Check[reflex|dc:36|basic] save).</p>\n<p>A creature that fails its save is also @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 minute. Creatures within the cloud are @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}, though not from the accursed forge-spurned.</p>\n<p>The accursed forge-spurned can't use Forge Breath again until it has used Inflate Bellows.</p>"
+          "name": "Sopro da Forja",
+          "description": "<p>O amaldiçoado renegado da forja sopra uma nuvem de fuligem pungente, cinzas e brasas brilhantes. Isso pode afetar um @Template[cone|distance:30] ou um @Template[burst|distance:20] centralizado no amaldiçoado renegado da forja e persiste por [[/gmr 1d4 #rounds]]{1d4 rounds}.</p>\n<p>Criaturas que se movem para ou começam seu turno na área recebem @Damage[12d6[fire]] de dano (teste de resistência de @Check[reflex|dc:36|basic]).</p>\n<p>Uma criatura que falha em seu teste de resistência também fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cega} por 1 minuto. As criaturas dentro da nuvem estão @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Ocultas}, embora não do amaldiçoado renegado da forja.</p>\n<p>O amaldiçoado renegado da forja não pode usar Sopro da Forja novamente até que tenha usado Inflar Foles.</p>"
         },
         "action->Inflate Bellows": {
-          "name": "Inflate Bellows",
-          "description": "<p><strong>Requirements</strong> The accursed forge-spurned has used Forge Breath.</p>\n<hr />\n<p><strong>Effect</strong> The accursed forge-spurned re-inflates its flaccid lungs, enabling it to use Forge Breath again.</p>"
+          "name": "Inflar Foles",
+          "description": "<p><strong>Requisitos</strong> O amaldiçoado renegado da forja usou Sopro da Forja.</p>\n<hr />\n<p><strong>Efeito</strong> O amaldiçoado renegado da forja infla novamente seus pulmões flácidos, permitindo que ele use Sopro da Forja novamente.</p>"
         },
         "action->Soul Chain": {
-          "name": "Soul Chain",
-          "description": "<p>If a creature is slain by an attack from the <em>soul chain</em> and the accursed forge-spurned is able to retain the creature's corpse, it can bind the creature's soul into the soul chain (as @UUID[Compendium.pf2e.spells-srd.Item.GYmXvS9NJ7QwfWGg]{Seize Soul}) with a day of work at a forge and a @Check[crafting|dc:20|name:Soul Chain Bind] check.</p>\n<p>An individual whose soul is bound in this way can't be resurrected unless the soul chain is destroyed (Hardness 10, 40 HP, BT 20).</p>"
+          "name": "Corrente da Alma",
+          "description": "<p>Se uma criatura for morta por um ataque da <em>corrente da alma</em> e o amaldiçoado renegado da forja for capaz de reter o cadáver da criatura, ele pode ligar a alma da criatura à corrente da alma (como @UUID[Compendium.pf2e.spells-srd.Item.GYmXvS9NJ7QwfWGg]{Agarrar Alma}) com um dia de trabalho em uma forja e um teste de @Check[crafting|dc:20|name:Corrente da Alma Ligar].</p>\n<p>Um indivíduo cuja alma está ligada dessa forma não pode ser ressuscitado a menos que a corrente da alma seja destruída (Dureza 10, 40 PV, LQ 20).</p>"
         },
         "action->Soul Siphon": {
-          "name": "Soul Siphon",
-          "description": "<p>When the accursed forge-spurned critically hits a target with its <em>soul chain</em>, the chain leeches away a portion of the target's soul. The target must attempt a @Check[fortitude|dc:36] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2}.</p>\n<p><strong>Critical Failure</strong> The target is drained 2 and @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2} from the pain.</p>"
+          "name": "Sifão de Alma",
+          "description": "<p>Quando o amaldiçoado renegado da forja acerta criticamente um alvo com sua <em>corrente da alma</em>, a corrente suga uma parte da alma do alvo. O alvo deve tentar um teste de resistência de @Check[fortitude|dc:36].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo está @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drenado 1}.</p>\n<p><strong>Falha</strong> O alvo está @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drenado 2}.</p>\n<p><strong>Falha Crítica</strong> O alvo está drenado 2 e @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 2} pela dor.</p>"
         },
         "lore->Droskar Lore": {
-          "name": "Droskar Lore"
+          "name": "Conhecimento de Droskar"
         }
       }
     },
     "Acidic Needle Launcher": {
-      "name": "Acidic Needle Launcher",
-      "description": "<p>A ceiling-mounted launcher rains resinous needles onto intruders, after which the needles melt into acid.</p>",
-      "disable": "<p>@Check[thievery|dc:36|name:Disable Firing Mechanism|traits:mechanical,trap,complex] to disable some firing mechanisms, making three adjacent squares in the trapped area safe to enter.</p>",
-      "routine": "<p>(3 actions) The acidic needle launcher fires a needle at a random target in the area indicated on the map.</p>",
+      "name": "Lançador de Agulhas Ácidas",
+      "description": "<p>Um lançador montado no teto lança agulhas resinosas sobre os intrusos, após o que as agulhas se derretem em ácido.</p>",
+      "disable": "<p>@Check[ladinoagem|dc:36|name:Desabilitar Mecanismo de Disparo|traits:mecânico,armadilha,complexo] para desabilitar alguns mecanismos de disparo, tornando três quadrados adjacentes na área da armadilha seguros para entrar.</p>",
+      "routine": "<p>(3 ações) O lançador de agulhas ácidas dispara uma agulha em um alvo aleatório na área indicada no mapa.</p>",
       "source": "Pathfinder #149: Against the Scarlet Triad",
-      "stealth": "<p>(master)</p>",
+      "stealth": "<p>(mestre)</p>",
       "items": {
         "action->Needle Rain": {
-          "name": "Needle Rain",
-          "description": "<p><strong>Trigger</strong> A creature moves into the area indicated on the map</p>\n<hr />\n<p><strong>Effect</strong> The trap shoots an acidic needle at a random target in the area indicated on the map, then rolls initiative.</p>"
+          "name": "Chuva de Agulhas",
+          "description": "<p><strong>Gatilho</strong> Uma criatura se move para a área indicada no mapa</p>\n<hr />\n<p><strong>Efeito</strong> A armadilha dispara uma agulha ácida em um alvo aleatório na área indicada no mapa e então rola iniciativa.</p>"
         },
         "strike-melee->Acidic Needle": {
-          "name": "Acidic Needle"
+          "name": "Agulha Ácida"
         }
       }
     },
     "Aiudara Wraith": {
-      "name": "Aiudara Wraith",
-      "publicNotes": "<p>Dahak's influence in Alseta's Landing created a soul-draining effect that slays unprotected creatures within, transforming them into ghostly creatures known as aiudara wraiths, but these rare undead can rise within modern aiudara portals as well. Each time an individual travels through an aiudara, there's a chance their passage could leave a faint imprint of their subconscious in the network. Normally this imprint simply fades away, but when an aiudara is damaged or the individual is suffering from necromantic contagions, these imprints can accumulate and, in time, coalesce on the Astral Plane or within Alseta's Landing as a full-fledged aiudara wraith. The wraith is forced to live with an incomplete sense of self, always seeking its own memories and swiftly growing violent and vengeful as its quest to reclaim these ephemeral notions constantly meets with failure.</p>",
+      "name": "Espectro de Aiudara",
+      "publicNotes": "<p>A influência de Dahak em Alseta's Landing criou um efeito de drenagem de alma que mata criaturas desprotegidas lá dentro, transformando-as em criaturas fantasmagóricas conhecidas como espectros de aiudara, mas esses raros mortos-vivos também podem surgir em portais de aiudara modernos. Cada vez que um indivíduo viaja por um aiudara, há uma chance de sua passagem deixar uma leve marca de seu subconsciente na rede. Normalmente, essa marca simplesmente desaparece, mas quando um aiudara é danificado ou o indivíduo está sofrendo de contágios necromânticos, essas marcas podem se acumular e, com o tempo, se aglutinar no Plano Astral ou em Alseta's Landing como um espectro de aiudara completo. O espectro é forçado a viver com uma sensação incompleta de si mesmo, sempre buscando suas próprias memórias e rapidamente se tornando violento e vingativo, pois sua busca para recuperar essas noções efêmeras constantemente encontra o fracasso.</p>",
       "source": "Pathfinder #150: Broken Promises",
-      "speed": "instantaneous movement",
+      "speed": "movimento instantâneo",
       "items": {
         "strike-melee->Spectral Hand": {
-          "name": "Spectral Hand"
+          "name": "Mão Espectral"
         },
         "action->Lifesense 60 feet": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.sebk9XseMCRkDqRg]\nLifesense 60 feet",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.sebk9XseMCRkDqRg]\nSensor de Vida 60 pés",
           "source": "Pathfinder Bestiary"
         },
         "action->Teleportation Attachment": {
-          "name": "Teleportation Attachment",
-          "description": "<p><strong>Trigger</strong> A creature within 60 feet uses a teleportation effect</p>\n<hr />\n<p><strong>Effect</strong> The aiudara wraith teleports with the creature, arriving in an empty space of its choice adjacent to the triggering creature's destination. If the triggering effect targets multiple creatures, the aiudara wraith chooses which creature it arrives beside.</p>"
+          "name": "Vinculação de Teletransporte",
+          "description": "<p><strong>Gatilho</strong> Uma criatura a até 60 pés usa um efeito de teletransporte</p>\n<hr />\n<p><strong>Efeito</strong> O espectro de aiudara se teletransporta com a criatura, chegando em um espaço vazio de sua escolha adjacente ao destino da criatura que acionou o efeito. Se o efeito de gatilho tiver como alvo várias criaturas, o espectro de aiudara escolhe ao lado de qual criatura ele chega.</p>"
         },
         "action->Dimensional Shunt": {
-          "name": "Dimensional Shunt",
-          "description": "<p>The aiudara wraith's touch displaces creatures and flings them through space. The creature must attempt a @Check[fortitude|dc:40] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected and becomes temporarily immune to dimensional shunt for 1 minute.</p>\n<p><strong>Success</strong> The creature is pushed 5 feet in a random direction.</p>\n<p><strong>Failure</strong> The creature is teleported 20 feet in a direction of the aiudara wraith's choice.</p>\n<p><strong>Critical Failure</strong> As failure, but the creature is also @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}.</p>"
+          "name": "Desvio Dimensional",
+          "description": "<p>O toque do espectro de aiudara desloca as criaturas e as arremessa pelo espaço. A criatura deve tentar um teste de resistência de @Check[fortitude|dc:40].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura não é afetada e se torna temporariamente imune a desvio dimensional por 1 minuto.</p>\n<p><strong>Sucesso</strong> A criatura é empurrada 5 pés em uma direção aleatória.</p>\n<p><strong>Falha</strong> A criatura é teletransportada 20 pés em uma direção à escolha do espectro de aiudara.</p>\n<p><strong>Falha Crítica</strong> Como falha, mas a criatura também fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoada 2}.</p>"
         },
         "action->Drain Life": {
-          "name": "Drain Life",
-          "description": "<p>When an aiudara wraith damages a living creature with its spectral hand Strike, the aiudara wraith gains 18 temporary Hit Points and the target must succeed at a @Check[fortitude|dc:40] save or become @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1} and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} as long as it is drained. Further damage dealt by the aiudara wraith's spectral hand Strikes increases the value of the drained and stupefied conditions by 1 each on a failed save, to a maximum of 10 for both.</p>"
+          "name": "Drenar Vida",
+          "description": "<p>Quando um espectro de aiudara causa dano a uma criatura viva com seu ataque de mão espectral, o espectro de aiudara ganha 18 pontos de vida temporários e o alvo deve ser bem-sucedido em um teste de resistência de @Check[fortitude|dc:40] ou se torna @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drenado 1} e @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefato 1} enquanto estiver drenado. Mais dano causado pelos ataques de mão espectral do espectro de aiudara aumenta o valor das condições drenado e estupefato em 1 cada em um teste de resistência falho, até um máximo de 10 para ambos.</p>"
         },
         "action->Instantaneous Movement": {
-          "name": "Instantaneous Movement",
-          "description": "<p>An aiudara wraith moves by means of localized teleportation. An aiudara wraith's Stride does not have the move trait. When an aiudara wraith Strides, it reaches its destination within the range of its Speed immediately.</p>"
+          "name": "Movimento Instantâneo",
+          "description": "<p>Um espectro de aiudara se move por meio de teletransporte localizado. O passo de um espectro de aiudara não tem a característica de movimento. Quando um espectro de aiudara dá um passo, ele atinge seu destino dentro do alcance de sua Velocidade imediatamente.</p>"
         }
       }
     },
     "Alak Stagram": {
       "name": "Alak Stagram",
-      "blurb": "Male human fighter 2",
+      "blurb": "Homem humano guerreiro 2",
       "source": "Pathfinder #145: Hellknight Hill",
       "items": {
         "weapon->Javelin": {
@@ -115,11 +115,11 @@
           "source": "Pathfinder Core Rulebook"
         },
         "armor->Full Plate": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.Gq1cZWSKOtJhKd2p]\n<p>Plate mail consists of interlocking plates that encase nearly the entire body in a carapace of steel. It is costly and heavy, and the wearer often requires help to don it correctly, but it provides some of the best defense armor can supply. A suit of this armor comes with an undercoat of padded armor and a pair of gauntlets.</p>",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.Gq1cZWSKOtJhKd2p]\n<p>A armadura de placas consiste em placas interligadas que envolvem quase todo o corpo em uma carapaça de aço. É cara e pesada, e o usuário geralmente precisa de ajuda para vesti-la corretamente, mas fornece uma das melhores defesas que uma armadura pode fornecer. Um conjunto desta armadura vem com uma camada interna de armadura acolchoada e um par de manoplas.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "strike-melee->Greatsword": {
-          "name": "Greatsword"
+          "name": "Espada Larga"
         },
         "strike-ranged->Javelin": {
           "name": "Javelin"
@@ -128,18 +128,18 @@
           "source": "Pathfinder Bestiary"
         },
         "action->Intimidating Strike": {
-          "name": "Intimidating Strike",
-          "description": "<p>Alak's blow not only wounds creatures but also shatters their confidence. He makes a melee Strike. If he hits and deals damage, the target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}, or @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical hit.</p>"
+          "name": "Golpe Intimidador",
+          "description": "<p>O golpe de Alak não apenas fere as criaturas, mas também destrói sua confiança. Ele faz um ataque corpo a corpo. Se ele acertar e causar dano, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontado 1} ou @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontado 2} em um acerto crítico.</p>"
         },
         "action->Power Attack": {
-          "name": "Power Attack",
-          "description": "<p>Alak unleashes a particularly powerful attack that clobbers his foe but leaves him a bit unsteady. He makes a melee Strike. This counts as two attacks when calculating his multiple attack penalty. If this Strike hits, he deals an extra die of weapon damage.</p>"
+          "name": "Ataque Poderoso",
+          "description": "<p>Alak desfere um ataque particularmente poderoso que atinge seu inimigo, mas o deixa um pouco instável. Ele faz um ataque corpo a corpo. Isso conta como dois ataques ao calcular sua penalidade de ataque múltiplo. Se este ataque acertar, ele causa um dado extra de dano de arma.</p>"
         }
       }
     },
     "Aluum Enforcer": {
-      "name": "Aluum Enforcer",
-      "publicNotes": "<p>The most common aluum is powered by the bound soul of a loyal city servant, but its creation is among the Pactmasters' most guarded secrets. There are dozens of dormant aluums spread throughout Katapesh, and only someone wearing an aluum charm can activate and command one of these 14-foot-tall soldiers. The Pactmasters entrust few beyond the Zephyr Guard to carry these charms, and stealing such a charm is one of the most severe crimes in the city.</p>\n<hr />\n<p>Aluums are powerful metal and stone constructs originally created by the Pactmasters to maintain order in Katapesh. The construction of each aluum includes the creation of an <em>@UUID[Compendium.pf2e.equipment-srd.Item.bU731I8njNmSAQhQ]{Aluum Charm}</em>, a brass pendant set with a blue crystal designed to control that particular construct. The charm constructed at the same time as an aluum is called its linked charm.</p>",
+      "name": "Executor Aluum",
+      "publicNotes": "<p>O aluum mais comum é movido pela alma ligada de um servo leal da cidade, mas sua criação está entre os segredos mais bem guardados dos Mestres do Pacto. Existem dezenas de aluums adormecidos espalhados por Katapesh, e apenas alguém usando um amuleto de aluum pode ativar e comandar um desses soldados de 4,2 metros de altura. Os Mestres do Pacto confiam poucos além da Guarda Zéfiro para carregar esses amuletos, e roubar tal amuleto é um dos crimes mais graves da cidade.</p>\n<hr />\n<p>Aluums são poderosos constructos de metal e pedra originalmente criados pelos Mestres do Pacto para manter a ordem em Katapesh. A construção de cada aluum inclui a criação de um <em>@UUID[Compendium.pf2e.equipment-srd.Item.bU731I8njNmSAQhQ]{Amuleto de Aluum}</em>, um pingente de bronze com um cristal azul projetado para controlar aquele constructo em particular. O amuleto construído ao mesmo tempo que um aluum é chamado de seu amuleto vinculado.</p>",
       "source": "Pathfinder #149: Against the Scarlet Triad",
       "items": {
         "strike-melee->Fist": {
@@ -163,7 +163,7 @@
       }
     },
     "Animated Dragonstorm": {
-      "name": "Animated Dragonstorm",
+      "name": "Tempestade de Dragão Animada",
       "source": "Pathfinder #150: Broken Promises",
       "items": {
         "strike-melee->Fist": {
@@ -188,12 +188,12 @@
       }
     },
     "Ash Web": {
-      "name": "Ash Web",
-      "description": "<p>This dangerous sooty black mold readily releases its toxic spores when disturbed. The entire swath of fungus in area <strong>B2</strong> is a single organism. There are nine 10-foot-square patches to remove, but the whole organism dies once it takes enough damage.</p>",
-      "disable": "<p>@Check[survival|dc:27|name:Remove Patch|traits:environmental,fungus] (expert) to remove a 10-foot-square patch of ash web without triggering the spores</p>",
-      "reset": "<p>This large patch of ash web resets automatically at the start of the round.</p>",
+      "name": "Teia de Cinzas",
+      "description": "<p>Este perigoso bolor preto fuliginoso libera facilmente seus esporos tóxicos quando perturbado. Toda a faixa de fungo na área B2 é um único organismo. Existem nove áreas de 3 metros quadrados para remover, mas todo o organismo morre quando recebe dano suficiente.</p>",
+      "disable": "<p>@Check[survival|dc:27|name:Remover área|traits:ambiental,fungo] (especialista) para remover uma área de 3 metros quadrados de teia de cinzas sem desencadear os esporos</p>",
+      "reset": "<p>Esta grande área de teia de cinzas redefine automaticamente no início da rodada.</p>",
       "source": "Pathfinder #148: Fires of the Haunted City",
-      "stealth": "<p>(expert)</p>",
+      "stealth": "<p>(especialista)</p>",
       "items": {
         "action->Spore Explosion": {
           "name": "Spore Explosion",
@@ -368,11 +368,11 @@
       }
     },
     "Barzillai's Hounds": {
-      "name": "Barzillai's Hounds",
-      "description": "<p>Hell hounds invisible to all but their lone target burn their chosen victim.</p>",
-      "disable": "<p>@Check[religion|dc:24|name:Exorcise the Hounds|traits:complex,haunt,hazard] (expert) to perform an exorcism (with 2 actions)</p>",
-      "reset": "<p>If their designated target dies or the hounds can't reach it in a turn, the hounds vanish into noxious smoke, but they manifest again elsewhere in the city after the next sunset.</p>",
-      "routine": "<p>(2 actions) The haunt uses its first action to Stride (Speed 60 feet), then its second action for a jaws Strike against its designated target if it is in reach. If the target is not in reach, the haunt resets.</p>",
+      "name": "Cães de Barzillai",
+      "description": "<p>Cães infernais invisíveis a todos, exceto seu único alvo, queimam sua vítima escolhida.</p>",
+      "disable": "<p>@Check[religion|dc:24|name:Exorcizar os Cães|traits:complexo,assombração,perigo] (especialista) para realizar um exorcismo (com 2 ações)</p>",
+      "reset": "<p>Se seu alvo designado morrer ou os cães não puderem alcançá-lo em um turno, os cães desaparecem em uma fumaça nociva, mas eles se manifestam novamente em outro lugar na cidade após o próximo pôr do sol.</p>",
+      "routine": "<p>(2 ações) A assombração usa sua primeira ação para Andar (Velocidade 18 metros), então sua segunda ação para um Golpe de mandíbulas contra seu alvo designado se estiver ao alcance. Se o alvo não estiver ao alcance, a assombração redefine.</p>",
       "source": "Pathfinder #147: Tomorrow Must Burn",
       "items": {
         "action->Begin the Hunt": {
@@ -387,7 +387,7 @@
     "Belmazog": {
       "name": "Belmazog",
       "source": "Pathfinder #146: Cult of Cinders",
-      "speed": "swamp stride",
+      "speed": "passo de pântano",
       "items": {
         "spellcastingEntry->Divine Prepared Spells": {
           "name": "Divine Prepared Spells"
@@ -444,7 +444,7 @@
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",
-          "description": "<p>Belmazog spews a gout of acid that deals @Damage[10d6[acid]] damage in a @Template[cone|distance:30] (@Check[reflex|dc:28|basic] save).</p>\n<p>Belmazog can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>"
+          "description": "<p>Belmazog spews a gout of acid that deals @Damage[10d6[acid]|options:area-damage] damage in a @Template[cone|distance:30] (@Check[reflex|dc:28|basic] save).</p>\n<p>Belmazog can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>"
         },
         "action->Drowning Drone": {
           "name": "Drowning Drone",
@@ -470,8 +470,8 @@
     },
     "Bida": {
       "name": "Bida",
-      "publicNotes": "<p>Bidas are black-scaled dragons with long, serpentine bodies and bat-like wings. Their legs and claws are smaller than those of most dragons, but their powerful undulating coils, like those of a boa constrictor, are potent weapons capable of squeezing the life from several unfortunate victims at a time.</p>\n<p>A bida uses its impressive intellect and powerful magic to pose as a humanoid and infiltrate a settlement. Over the course of weeks or months, it establishes itself as a key member of the village, and only after it has become invaluable to the community does it reveal the terrible price of its assistance: regular offerings of flesh and gold. From this point on, the bida dwells almost exclusively within its smoggy lair, growing fat off the blood of its sacrificial offerings. To hide its presence from the outside world, a bida conceals its enslaved settlement in a large-scale illusion, leaving only a stand of jungle trees where once a thriving village may have been and ordering the townsfolk to destroy any roads in and out of town.</p>\n<p>Bidas begrudgingly tolerate others of their kind, instead preferring the company of their small, tasty thralls. In rare cases, a pair of bidas may join forces to conquer a particularly large settlement, extracting that much more wealth from the populace as a result of their partnership.</p>",
-      "saveDetails": "+2 circumstance to all saves to disbelieve illusions",
+      "publicNotes": "<p>Bidas são dragões de escamas negras com corpos longos e serpentinos e asas de morcego. Suas pernas e garras são menores do que as da maioria dos dragões, mas suas poderosas espirais ondulantes, como as de uma jiboia, são armas potentes capazes de espremer a vida de várias vítimas infelizes ao mesmo tempo.</p>\n<p>Uma bida usa seu intelecto impressionante e magia poderosa para se passar por um humanoide e se infiltrar em um assentamento. Ao longo de semanas ou meses, ela se estabelece como um membro fundamental da vila, e somente depois de se tornar inestimável para a comunidade ela revela o terrível preço de sua ajuda: oferendas regulares de carne e ouro. Deste ponto em diante, a bida reside quase exclusivamente em sua cova esfumaçada, engordando com o sangue de suas oferendas de sacrifício. Para esconder sua presença do mundo exterior, uma bida esconde seu assentamento escravizado em uma ilusão em grande escala, deixando apenas um conjunto de árvores da selva onde antes poderia haver uma vila próspera e ordenando que os habitantes da cidade destruam quaisquer estradas que entram e saem da cidade.</p>\n<p>Bidas toleram a contragosto outros de sua espécie, preferindo a companhia de seus pequenos e saborosos escravos. Em casos raros, um par de bidas pode unir forças para conquistar um assentamento particularmente grande, extraindo muito mais riqueza da população como resultado de sua parceria.</p>",
+      "saveDetails": "+2 de circunstância em todos os testes de resistência para desfazer ilusões",
       "source": "Pathfinder #146: Cult of Cinders",
       "items": {
         "spellcastingEntry->Occult Innate Spells": {
@@ -511,12 +511,12 @@
       }
     },
     "Black Powder Bomb": {
-      "name": "Black Powder Bomb",
-      "description": "<p>Three bulky kegs of black powder placed at key locations in the temple are triggered to explode in unison, causing the entire structure to collapse into rubble and slide partially down the cliff face.</p>",
-      "disable": "<p>No special skills are required to disable this manually activated trap. As an Interact action, a PC can sweep aside some black powder to interrupt the fuse line, but this doesn't prevent Gerhard from activating a keg via blunderbuss. A keg that is removed from its position (either by being thrown over the cliff or merely carried away) retains its explosive potential, but as long as one of the three kegs are removed they no longer have the precise placement required to trigger a collapse-an explosion at this point merely inflicts fire damage in the appropriate areas but does not particularly damage the temple structure itself.</p>\n<p>A keg's contents can be dispersed by scattering the gunpowder to the wind (most efficiently by pouring it over the cliff side) as a 2-action activity, or rendered permanently inert by pouring a gallon of water into the powder, inhibiting its explosive qualities. The kegs themselves can be destroyed with damage (note that the AC listed below for each keg takes into account the fact that Gerhard has wedged the kegs into nooks in the temple's stone flooring and walls), but note that any fire damage (including incidental fire damage from area effects like a fireball or Gerhard's blunderbuss) causes them to explode. At your option, other actions may be similarly effective at disabling this hazard.</p>",
-      "routine": "<p>If Gerhard lights the black powder fuse, it burns at a speed of 10 feet each round; when the fuse reaches a keg 6 rounds later, the black powder bomb explodes. The bomb explodes immediately if he shoots a barrel with his blunderbuss.</p>",
+      "name": "Bomba de Pólvora Negra",
+      "description": "<p>Três barris volumosos de pólvora negra colocados em locais importantes no templo são acionados para explodir em uníssono, fazendo com que toda a estrutura desmorone em escombros e deslize parcialmente pela face do penhasco.</p>",
+      "disable": "<p>Nenhuma habilidade especial é necessária para desabilitar esta armadilha ativada manualmente. Como uma ação Interagir, um PJ pode varrer um pouco de pólvora negra para interromper a linha do pavio, mas isso não impede Gerhard de ativar um barril com seu bacamarte. Um barril que é removido de sua posição (seja sendo jogado penhasco abaixo ou simplesmente carregado) mantém seu potencial explosivo, mas contanto que um dos três barris seja removido, eles não têm mais o posicionamento preciso necessário para desencadear um colapso - uma explosão neste ponto simplesmente causa dano de fogo nas áreas apropriadas, mas não danifica particularmente a própria estrutura do templo.</p>\n<p>O conteúdo de um barril pode ser disperso espalhando a pólvora ao vento (mais eficientemente despejando-a do lado do penhasco) como uma atividade de 2 ações, ou tornado permanentemente inerte despejando um galão de água na pólvora, inibindo suas qualidades explosivas. Os próprios barris podem ser destruídos com dano (observe que a CA listada abaixo para cada barril leva em consideração o fato de que Gerhard enfiou os barris em cantos no piso e nas paredes de pedra do templo), mas observe que qualquer dano de fogo (incluindo dano de fogo incidental de efeitos de área como uma bola de fogo ou o bacamarte de Gerhard) faz com que eles explodam. A seu critério, outras ações podem ser igualmente eficazes para desabilitar este perigo.</p>",
+      "routine": "<p>Se Gerhard acender o pavio de pólvora negra, ele queima a uma velocidade de 3 metros a cada rodada; quando o pavio atingir um barril 6 rodadas depois, a bomba de pólvora negra explode. A bomba explode imediatamente se ele atirar em um barril com seu bacamarte.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
-      "stealth": "<p>The three powder kegs aren't particularly well hidden, but they are out of sight to casual observation.</p>",
+      "stealth": "<p>Os três barris de pólvora não estão particularmente bem escondidos, mas estão fora da vista de uma observação casual.</p>",
       "items": {
         "action->Destructive Explosion": {
           "name": "Destructive Explosion",
@@ -525,9 +525,9 @@
       }
     },
     "Blood Boar": {
-      "name": "Blood Boar",
-      "publicNotes": "<p>Blood boars are fearsome swine bred in Cheliax for the singular purpose of hunting down escaped slaves. The species originated from a type of large feral boar native to Nidal's shadowy Uskwood, and blood boars retain their predecessors' gray fur, red eyes, and exceptional senses. The intensive breeding process to produce blood boars-augmented by the selective application of magic-grants the creatures an unparalleled awareness of blood, including the ability to precisely detect a bloodied creature's location and movements, allowing the boars to track their prey from up to a mile away.</p>\n<p>Blood boars' keepers groom and mark the animals to enhance their already unsettling appearance. While from a distance, a blood boar might be mistaken for an ordinary pig, up close the differences are stark. Blood-red eyes, ashen fur, and unnaturally sharp tusks frame hundreds of pounds of raw muscle, the veins of which can be seen through the boar's ghastly pale flesh. Chains, manacles, and spikes are typical blood boar accessories, ensuring the boars are as fearsome as possible.</p>\n<p>A blood boar's ability to track its quarry using only the scent of the target's blood has been the bane of many thieves, brigands, and the occasional illicit lover, but none have as much cause to fear the beasts as slaves in pursuit of freedom. Even washing off spilled blood does nothing to deter the blood boar's pursuit if it already has the scent. As a result, many halflings in the Bellflower Network zealously practice disarming and nonlethal combat techniques specifically to avoid accidental bloodshed during an escape.</p>",
-      "senses": "bloodsense (precise) 60 feet",
+      "name": "Javali de Sangue",
+      "publicNotes": "<p>Javalis de sangue são porcos temíveis criados em Cheliax com o único propósito de caçar escravos fugitivos. A espécie se originou de um tipo de javali selvagem grande nativo da sombria Floresta Usk de Nidal, e os javalis de sangue mantêm o pelo cinza, os olhos vermelhos e os sentidos excepcionais de seus predecessores. O processo intensivo de reprodução para produzir javalis de sangue - aumentado pela aplicação seletiva de magia - concede às criaturas uma consciência incomparável de sangue, incluindo a capacidade de detectar com precisão a localização e os movimentos de uma criatura ensanguentada, permitindo que os javalis rastreiem suas presas a até 1,6 km de distância.</p>\n<p>Os guardiões dos javalis de sangue cuidam e marcam os animais para realçar sua aparência já perturbadora. Embora à distância, um javali de sangue possa ser confundido com um porco comum, de perto as diferenças são gritantes. Olhos vermelho-sangue, pelo cor de cinza e presas anormalmente afiadas emolduram centenas de libras de músculo bruto, cujas veias podem ser vistas através da carne horrivelmente pálida do javali. Correntes, algemas e pontas são acessórios típicos de javali de sangue, garantindo que os javalis sejam o mais assustadores possível.</p>\n<p>A capacidade de um javali de sangue de rastrear sua presa usando apenas o cheiro do sangue do alvo tem sido a ruína de muitos ladrões, bandidos e amantes ilícitos ocasionais, mas nenhum tem tanto motivo para temer as bestas quanto os escravos em busca de liberdade. Mesmo lavar o sangue derramado não faz nada para impedir a perseguição do javali de sangue se ele já tiver o cheiro. Como resultado, muitos halflings na Rede Bellflower praticam zelosamente técnicas de combate desarmado e não letal especificamente para evitar derramamento de sangue acidental durante uma fuga.</p>",
+      "senses": "olfato de sangue (preciso) 18 metros",
       "source": "Pathfinder #147: Tomorrow Must Burn",
       "items": {
         "strike-melee->Jaws": {
@@ -555,12 +555,12 @@
       }
     },
     "Bloody Blade Mercenary": {
-      "name": "Bloody Blade Mercenary",
-      "blurb": "Human (half-orc) ranger 1",
+      "name": "Mercenário da Lâmina Ensanguinada",
+      "blurb": "Humano (meio-orco) ranger 1",
       "source": "Pathfinder #145: Hellknight Hill",
       "items": {
         "weapon->Longsword": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.LJdbVTOZog39EEbi]\n<p>Longswords can be one-edged or two-edged swords. Their blades are heavy and they're between 3 and 4 feet in length.</p>",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.LJdbVTOZog39EEbi]\n<p>Espadas longas podem ser de uma ou duas arestas. Suas lâminas são pesadas e têm entre 3 e 4 pés de comprimento.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "weapon->Shortbow": {
@@ -596,7 +596,7 @@
       }
     },
     "Bshez \"Sand Claws\" Shak": {
-      "name": "Bshez \"Sand Claws\" Shak",
+      "name": "Bshez \"Garras de Areia\" Shak",
       "source": "Pathfinder #149: Against the Scarlet Triad",
       "items": {
         "armor->Scale Mail": {
@@ -720,16 +720,16 @@
       }
     },
     "Candlaron's Echo": {
-      "name": "Candlaron's Echo",
-      "hpDetails": "void healing, rejuvenation",
+      "name": "Eco de Candlaron",
+      "hpDetails": "cura do vazio, rejuvenescimento",
       "source": "Pathfinder #150: Broken Promises",
       "items": {
         "spellcastingEntry->Arcane Innate Spells": {
-          "name": "Arcane Innate Spells"
+          "name": "Magias Inatas Arcanas"
         },
         "spell->Wish": {
-          "name": "Wish",
-          "description": "<p>You state a wish, making your greatest desire come true. A wish spell can produce any one of the following effects.</p>\n<ul>\n<li>Duplicate any spell from the arcane list of 9th rank or lower to which you have access.</li>\n<li>Duplicate any spell from another spell list of 7th level or lower. It must be common or you must have access.</li>\n<li>Produce any effect whose power level is in line with the above effects.</li>\n<li>Reverse certain effects that refer to the wish spell.</li>\n</ul>\n<p>The GM might allow you to try using <em>wish</em> to produce greater effects than these, but doing so might be dangerous or the spell might have only a partial effect.</p>",
+          "name": "Desejo",
+          "description": "<p>Você expressa um desejo, realizando seu maior desejo. Uma magia de desejo pode produzir qualquer um dos seguintes efeitos.</p>\n<ul>\n<li>Duplicar qualquer magia da lista arcana de 9º grau ou inferior à qual você tenha acesso.</li>\n<li>Duplicar qualquer magia de outra lista de magias de 7º nível ou inferior. Ela deve ser comum ou você deve ter acesso a ela.</li>\n<li>Produzir qualquer efeito cujo nível de poder esteja de acordo com os efeitos acima.</li>\n<li>Reverter certos efeitos que se referem à magia de desejo.</li>\n</ul>\n<p>O Mestre pode permitir que você tente usar <em>desejo</em> para produzir efeitos maiores do que estes, mas fazê-lo pode ser perigoso ou a magia pode ter apenas um efeito parcial.</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Disjunction": {
@@ -739,7 +739,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Maze": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.Oj1PJBMQD9vuwCv7]\nMaze",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.Oj1PJBMQD9vuwCv7]\nLabirinto",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Power Word Stun": {
@@ -764,16 +764,16 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Crushing Despair": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.GaRQlC9Yw1BGKHfN]\nCrushing Despair",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.GaRQlC9Yw1BGKHfN]\nDesespero Esmagador",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Hallucination": {
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Resilient Sphere": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.qJQADktwD0x8kLAy]\nResilient Sphere",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.qJQADktwD0x8kLAy]\nEsfera Resiliente",
           "source": "Pathfinder Core Rulebook",
-          "target": "1 Large or smaller creature"
+          "target": "1 criatura Grande ou menor"
         },
         "spell->Suggestion": {
           "source": "Pathfinder Core Rulebook"
@@ -803,93 +803,93 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Mage Hand": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.pwzdSlJgYqN7bs2w]\nMage Hand",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.pwzdSlJgYqN7bs2w]\nMão Arcana",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Ray of Enfeeblement": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.J7Y7tl0bbdz7TcCc]\nRay of Enfeeblement",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.J7Y7tl0bbdz7TcCc]\nRaio de Enfraquecimento",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Read Aura": {
           "source": "Pathfinder Core Rulebook"
         },
         "strike-melee->Ghostly Hand": {
-          "name": "Ghostly Hand"
+          "name": "Mão Fantasmagórica"
         },
         "action->Site Bound": {
-          "name": "Site Bound",
-          "description": "<p>The Echo cannot leave the clearing.</p>\n<hr />\n<p>A typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location.</p>"
+          "name": "Preso ao Local",
+          "description": "<p>O Eco não pode deixar a clareira.</p>\n<hr />\n<p>Um fantasma típico pode se afastar apenas a uma curta distância de onde foi morto ou do lugar que assombra. Um limite típico é 120 pés. Alguns fantasmas estão presos a um cômodo, prédio, item ou criatura que era especial para ele, em vez de um local.</p>"
         },
         "action->Rejuvenation": {
-          "name": "Rejuvenation",
-          "description": "<p>Candlaron's echo rejuvenates so long as Dahak's manifestation lives.</p>\n<hr />\n<p>When a ghost is destroyed, it re-forms after [[/br 2d4 #days]]{2d4 days} within the location it's bound to, fully healed. A ghost can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting.</p>"
+          "name": "Rejuvenescimento",
+          "description": "<p>O eco de Candlaron rejuvenesce enquanto a manifestação de Dahak viver.</p>\n<hr />\n<p>Quando um fantasma é destruído, ele se reforma após [[/br 2d4 #days]]{2d4 dias} dentro do local ao qual está ligado, totalmente curado. Um fantasma pode ser permanentemente destruído apenas se alguém determinar a razão de sua existência e corrigir o que quer que impeça o espírito de descansar.</p>"
         },
         "action->Void Healing": {
           "source": "Pathfinder Bestiary 2"
         },
         "action->Frightful Moan": {
-          "name": "Frightful Moan",
-          "description": "<p>Candlaron's echo laments its fate, forcing each living creature within 30 feet to attempt a @Check[will|dc:44] save.</p>\nOn a failure, a creature becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} (or @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3} on a critical failure). On a success, a creature is temporarily immune to the echo's frightful moan for 1 minute."
+          "name": "Gemido Assustador",
+          "description": "<p>O eco de Candlaron lamenta seu destino, forçando cada criatura viva a até 30 pés a tentar um teste de resistência de @Check[will|dc:44].</p>\nEm uma falha, uma criatura se torna @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontada 2} (ou @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontada 3} em uma falha crítica). Em um sucesso, uma criatura fica temporariamente imune ao gemido assustador do eco por 1 minuto."
         },
         "action->Telekinetic Assault": {
-          "name": "Telekinetic Assault",
-          "description": "<p>The echo cries out in pain and anguish as small objects and debris fly about in a @Template[emanation|distance:30]. Creatures in this area take @Damage[12d6[bludgeoning]] damage subject to a @Check[reflex|dc:44|basic] save.</p>"
+          "name": "Ataque Telecinético",
+          "description": "<p>O eco grita de dor e angústia enquanto pequenos objetos e detritos voam em uma @Template[emanation|distance:30]. Criaturas nesta área recebem @Damage[12d6[bludgeoning]] de dano sujeito a um teste de resistência de @Check[reflex|dc:44|basic].</p>"
         }
       }
     },
     "Carnivorous Crystal": {
-      "name": "Carnivorous Crystal",
-      "publicNotes": "<p>Carnivorous crystals are strange ooze creatures native to the Plane of Earth. Unlike most oozes, their bodies are not homogeneously fluid; rather, interspersed within their glassy, viscous resin are thousands of sharp mineral formations that nevertheless possess some of the same flexibility and mobility as the rest of the creature's gooey body.</p>",
+      "name": "Cristal Carnívoro",
+      "publicNotes": "<p>Os cristais carnívoros são estranhas criaturas gosmentas nativas do Plano da Terra. Ao contrário da maioria das gosmas, seus corpos não são homogeneamente fluidos; em vez disso, intercaladas em sua resina vítrea e viscosa estão milhares de formações minerais afiadas que, no entanto, possuem a mesma flexibilidade e mobilidade que o resto do corpo pegajoso da criatura.</p>",
       "source": "Pathfinder #148: Fires of the Haunted City",
       "items": {
         "strike-melee->Pseudopod": {
-          "name": "Pseudopod"
+          "name": "Pseudópode"
         },
         "action->Motion Sense": {
-          "name": "Motion Sense",
-          "description": "<p>A carnivorous crystal can sense nearby motion through vibration and air movement.</p>"
+          "name": "Sensor de Movimento",
+          "description": "<p>Um cristal carnívoro pode sentir movimentos próximos por meio de vibração e movimento do ar.</p>"
         },
         "action->Split": {
-          "name": "Split",
-          "description": "<p>Whenever the carnivorous crystal takes a critical hit from an attack that deals bludgeoning or sonic damage, or it critically fails its saving throw against an effect that deals bludgeoning or sonic damage, it might split. If the carnivorous crystal has at least 15 HP remaining after taking the damage, it splits into two identical crystals, each with half the original's Hit Points. When the carnivorous crystal splits, one crystal remains in the same space and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, the crystal automatically pushes creatures out of the way to fill a space.</p>"
+          "name": "Dividir",
+          "description": "<p>Sempre que o cristal carnívoro recebe um acerto crítico de um ataque que causa dano de concussão ou sônico, ou falha criticamente em seu teste de resistência contra um efeito que causa dano de concussão ou sônico, ele pode se dividir. Se o cristal carnívoro tiver pelo menos 15 PV restantes após receber o dano, ele se divide em dois cristais idênticos, cada um com metade dos Pontos de Vida originais. Quando o cristal carnívoro se divide, um cristal permanece no mesmo espaço e o outro aparece em um espaço desocupado adjacente. Se nenhum espaço adjacente estiver desocupado, o cristal empurra automaticamente as criaturas para fora do caminho para preencher um espaço.</p>"
         },
         "action->Subsonic Hum": {
-          "name": "Subsonic Hum",
-          "description": "<p>60 feet. A creature that enters or starts its turn within the aura must succeed at a @Check[will|dc:28] save or become @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>"
+          "name": "Zumbido Subsônico",
+          "description": "<p>60 pés. Uma criatura que entra ou começa seu turno dentro da aura deve ser bem-sucedida em um teste de resistência de @Check[vontade|dc:28] ou se torna @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoada 1}.</p>"
         },
         "action->Crystallize": {
-          "name": "Crystallize",
-          "description": "<p><strong>Requirements</strong> The crystal has a creature engulfed.</p>\n<hr />\n<p><strong>Effect</strong> The engulfed creature must succeed at a @Check[fortitude|dc:28|name:Crystalize] save or become @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} until it is no longer engulfed. If the creature is already slowed, it becomes petrified as it is turned into crystal and expelled by the carnivorous crystal onto the ground.</p>\n<p>In [[/gmr 1d4 #hours]]{1d4 hours}, the petrified victim shatters and a new carnivorous crystal emerges from the remains.</p>"
+          "name": "Cristalizar",
+          "description": "<p><strong>Requisitos</strong> O cristal tem uma criatura engolfada.</p>\n<hr />\n<p><strong>Efeito</strong> A criatura engolfada deve ser bem-sucedida em um teste de resistência de @Check[fortitude|dc:28|name:Cristalizar] ou se torna @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Desacelerada 1} até que não esteja mais engolfada. Se a criatura já estiver desacelerada, ela se torna petrificada ao ser transformada em cristal e expelida pelo cristal carnívoro no chão.</p>\n<p>Em [[/gmr 1d4 #hours]]{1d4 horas}, a vítima petrificada se estilhaça e um novo cristal carnívoro emerge dos restos mortais.</p>"
         },
         "action->Engulf": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.zU3Ovaet4xQ5Gmvy]\n<p>@Check[reflex|dc:28|traits:damaging-effect], @Damage[2d6[slashing]] damage, Escape DC 28, Rupture 25 (bludgeoning only).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.zU3Ovaet4xQ5Gmvy]\n<p>@Check[reflexos|dc:28|traits:damaging-effect], @Damage[2d6[slashing]] de dano, CD de Escape 28, Ruptura 25 (concussão apenas).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>",
           "source": "Pathfinder Bestiary"
         },
         "action->Freeze": {
-          "name": "Freeze",
-          "description": "<p>Until the next time it acts, the carnivorous crystal appears to be a mundane crystal formation. It has an automatic result of 40 on Deception and Stealth checks and DCs to pass as a crystal formation.</p>"
+          "name": "Congelar",
+          "description": "<p>Até a próxima vez que agir, o cristal carnívoro parece ser uma formação de cristal mundana. Ele tem um resultado automático de 40 em testes de Enganação e Furtividade e CDs para se passar por uma formação de cristal.</p>"
         },
         "action->Razor Sharp": {
-          "name": "Razor Sharp",
-          "description": "<p>If a carnivorous crystal hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure.</p>"
+          "name": "Afiado como Navalha",
+          "description": "<p>Se um cristal carnívoro acertar com um ataque e rolar um 19 natural na rolagem do d20, o ataque é um acerto crítico. Isso não tem efeito se o 19 for uma falha.</p>"
         }
       }
     },
     "Caustic Vapor": {
-      "name": "Caustic Vapor",
-      "description": "<p>The door slams shut, and poison gas fills the room.</p>",
-      "disable": "<p>@Check[occultism|dc:36|name:Exorcise the Spirits|traits:mechanical,trap] (master) or @Check[religion|dc:36|name:Exorcise the Spirits|traits:mechanical,trap] (master) to exorcise the spirits</p>",
-      "reset": "<p>The trap resets after 1 day.</p>",
+      "name": "Vapor Cáustico",
+      "description": "<p>A porta se fecha e gás venenoso enche a sala.</p>",
+      "disable": "<p>@Check[ocultismo|dc:36|name:Exorcizar os Espíritos|traits:mecânico,armadilha] (mestre) ou @Check[religião|dc:36|name:Exorcizar os Espíritos|traits:mecânico,armadilha] (mestre) para exorcizar os espíritos</p>",
+      "reset": "<p>A armadilha é reiniciada após 1 dia.</p>",
       "source": "Pathfinder #149: Against the Scarlet Triad",
-      "stealth": "<p>(master)</p>",
+      "stealth": "<p>(mestre)</p>",
       "items": {
         "action->Breath Snatcher": {
-          "name": "Breath Snatcher",
-          "description": "<p><strong>Trigger</strong> A living creature other than an ooze spends at least 3 rounds in the room</p>\n<hr />\n<p><strong>Effect</strong> The trap activates and fills the area with caustic nightmare vapor, exposing all creatures within.</p>"
+          "name": "Ladrão de Fôlego",
+          "description": "<p><strong>Gatilho</strong> Uma criatura viva que não seja uma gosma passa pelo menos 3 rodadas na sala</p>\n<hr />\n<p><strong>Efeito</strong> A armadilha é ativada e preenche a área com vapor de pesadelo cáustico, expondo todas as criaturas dentro.</p>"
         },
         "action->Caustic Nightmare Vapor": {
-          "name": "Caustic Nightmare Vapor",
-          "description": "<p>Oozes are immune to this poison</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:38]</p>\n<p><strong>Onset</strong> 1 round</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[4d6[acid]] damage and @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[6d6[acid]] damage, confused, and @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[8d6[acid]] damage, confused, off-guard, and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} (1 round)</p>"
+          "name": "Vapor de Pesadelo Cáustico",
+          "description": "<p>As gosmas são imunes a este veneno</p>\n<p><strong>Teste de Resistência</strong> @Check[fortitude|dc:38]</p>\n<p><strong>Início</strong> 1 rodada</p>\n<p><strong>Duração Máxima</strong> 6 rodadas</p>\n<p><strong>Estágio 1</strong> @Damage[4d6[acid]] de dano e @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confuso} (1 rodada)</p>\n<p><strong>Estágio 2</strong> @Damage[6d6[acid]] de dano, confuso e @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} (1 rodada)</p>\n<p><strong>Estágio 3</strong> @Damage[8d6[acid]] de dano, confuso, desprevenido e @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefato 2} (1 rodada)</p>"
         }
       }
     },
@@ -907,21 +907,21 @@
           "source": "Pathfinder Core Rulebook"
         },
         "strike-melee->Sickle": {
-          "name": "Sickle"
+          "name": "Foice"
         },
         "strike-melee->Whip": {
-          "name": "Whip"
+          "name": "Chicote"
         },
         "strike-ranged->Thrown Debris": {
-          "name": "Thrown Debris"
+          "name": "Detritos Arremessados"
         },
         "action->Shrieking Frenzy": {
-          "name": "Shrieking Frenzy",
-          "description": "<p><strong>Trigger</strong> The charau-ka's turn begins.</p>\n<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> The charau-ka is @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of its turn, and can use the extra action to Stride or Strike. Due to its loud wailing while in a shrieking frenzy, the charau-ka can't speak and automatically critically fails all Stealth checks.</p>"
+          "name": "Frenesi Gritante",
+          "description": "<p><strong>Gatilho</strong> O turno do charau-ka começa.</p>\n<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> O charau-ka fica @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Acelerado} até o final de seu turno e pode usar a ação extra para Andar ou Atacar. Devido ao seu grito alto enquanto está em um frenesi gritante, o charau-ka não pode falar e falha criticamente em todos os testes de Furtividade.</p>"
         },
         "action->Thrown Weapon Mastery": {
-          "name": "Thrown Weapon Mastery",
-          "description": "<p>When a charau-ka throws a weapon, the weapon gains the deadly d6 weapon trait. When it throws an improvised weapon, it doesn't take the -2 penalty for using an improvised weapon, nor does it take the penalty for using that weapon to make a lethal attack instead of a nonlethal attack.</p>"
+          "name": "Maestria em Arma Arremessada",
+          "description": "<p>Quando um charau-ka arremessa uma arma, a arma ganha a característica de arma mortal d6. Quando ele arremessa uma arma improvisada, ele não sofre a penalidade de -2 por usar uma arma improvisada, nem sofre a penalidade por usar essa arma para fazer um ataque letal em vez de um ataque não letal.</p>"
         }
       }
     },
@@ -1105,76 +1105,76 @@
       }
     },
     "Dahak's Shell": {
-      "name": "Dahak's Shell",
-      "description": "<p>A ring of eight dragon pillar replicas mark the border of a dome of magical prismatic energy that entirely contains the Fortress of Sorrow.</p>",
-      "disable": "<p>Each dragon pillar that is destroyed removes the corresponding color's effect from Dahak's shell; as long as even one color remains active, the pillars marking the shell's border cannot be damaged themselves, but a successful @Check[thievery|dc:32|name:Disable Color|traits:magical,trap,hazard] (master) check or a successful @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (6th level; counteract DC 30) against one of the eight pillars can cause a randomly determined active color in the shell defense (below) to become deactivated for [[/gmr 1d4 #rounds]]{1d4 rounds}.</p>",
+      "name": "Carapaça de Dahak",
+      "description": "<p>Um anel de oito réplicas de pilares de dragão marca a borda de uma cúpula de energia prismática mágica que contém inteiramente a Fortaleza da Tristeza.</p>",
+      "disable": "<p>Cada pilar de dragão que é destruído remove o efeito da cor correspondente da carapaça de Dahak; enquanto pelo menos uma cor permanecer ativa, os próprios pilares que marcam a borda da carapaça não podem ser danificados, mas um teste de @Check[ladinoagem|dc:32|name:Desabilitar Cor|traits:mágico,armadilha,perigo] (mestre) bem-sucedido ou um @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia} (6º nível; CD de neutralização 30) bem-sucedido contra um dos oito pilares pode fazer com que uma cor ativa determinada aleatoriamente na defesa da carapaça (abaixo) seja desativada por [[/gmr 1d4 #rounds]]{1d4 rodadas}.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
-      "stealth": "<p>or @UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{Detect Magic}</p>",
+      "stealth": "<p>ou @UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{Detectar Magia}</p>",
       "items": {
         "strike-ranged->Eye Beam": {
-          "name": "Eye Beam",
-          "description": "<p>The target suffers an effect corresponding to the eye beam's color. On a critical hit, the target's save result is one degree worse.</p>"
+          "name": "Raio do Olho",
+          "description": "<p>O alvo sofre um efeito correspondente à cor do raio do olho. Em um acerto crítico, o resultado do teste de resistência do alvo é um grau pior.</p>"
         },
         "action->Prismatic Beam": {
-          "name": "Prismatic Beam",
-          "description": "<p><strong>Trigger</strong> a creature attempts and fails to disable one of the shell colors via Thievery or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic}</p>\n<hr />\n<p><strong>Effect</strong> Dahak's shell Strikes the triggering creature with a random eye beam. Roll [[/r 1d8 #Eye Beam]] to determine the color:</p>\n<ol>\n<li>Red</li>\n<li>Orange</li>\n<li>Yellow</li>\n<li>Green</li>\n<li>Blue</li>\n<li>Indigo</li>\n<li>Violet</li>\n<li>Black</li>\n</ol>"
+          "name": "Raio Prismático",
+          "description": "<p><strong>Gatilho</strong> uma criatura tenta e falha em desabilitar uma das cores da carapaça por meio de Ladinoagem ou @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia}</p>\n<hr />\n<p><strong>Efeito</strong> A carapaça de Dahak atinge a criatura que acionou o efeito com um raio do olho aleatório. Role [[/r 1d8 #Raio do Olho]] para determinar a cor:</p>\n<ol>\n<li>Vermelho</li>\n<li>Laranja</li>\n<li>Amarelo</li>\n<li>Verde</li>\n<li>Azul</li>\n<li>Anil</li>\n<li>Violeta</li>\n<li>Preto</li>\n</ol>"
         },
         "action->Shell Defense": {
-          "name": "Shell Defense",
-          "description": "<p>When a creature physically passes through the shell, the creature is affected simultaneously by all colors of energy currently active in the shell; apply these effects in the following order: red, orange, yellow, green, blue, indigo, violet, black. These effects are the same as that of the eye beams. Each effect requires its own save.</p>"
+          "name": "Defesa da Carapaça",
+          "description": "<p>Quando uma criatura passa fisicamente pela carapaça, a criatura é afetada simultaneamente por todas as cores de energia atualmente ativas na carapaça; aplique esses efeitos na seguinte ordem: vermelho, laranja, amarelo, verde, azul, anil, violeta, preto. Esses efeitos são os mesmos que os dos raios do olho. Cada efeito requer seu próprio teste de resistência.</p>"
         },
         "action->Black Eye Beam": {
-          "name": "Black Eye Beam",
-          "description": "<p>@Check[fortitude|dc:32|traits:hazard,trap] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 round.</p>\n<p><strong>Failure</strong> The target is blinded for 1 hour.</p>\n<p><strong>Critical Failure</strong> The target is blinded for 24 hours.</p>"
+          "name": "Raio do Olho Preto",
+          "description": "<p>Teste de resistência de @Check[fortitude|dc:32|traits:hazard,trap].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} por 1 rodada.</p>\n<p><strong>Falha</strong> O alvo fica cego por 1 hora.</p>\n<p><strong>Falha Crítica</strong> O alvo fica cego por 24 horas.</p>"
         },
         "action->Blue Eye Beam": {
-          "name": "Blue Eye Beam",
-          "description": "<p>@Check[fortitude|dc:32|traits:trap,hazard] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{Petrified} for 1 round.</p>\n<p><strong>Failure</strong> The target is petrified for 1 hour.</p>\n<p><strong>Critical Failure</strong> The target is petrified permanently.</p>"
+          "name": "Raio do Olho Azul",
+          "description": "<p>Teste de resistência de @Check[fortitude|dc:32|traits:trap,hazard].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{Petrificado} por 1 rodada.</p>\n<p><strong>Falha</strong> O alvo fica petrificado por 1 hora.</p>\n<p><strong>Falha Crítica</strong> O alvo fica petrificado permanentemente.</p>"
         },
         "action->Green Eye Beam": {
-          "name": "Green Eye Beam",
-          "description": "<p>@Damage[6d6[poison]] damage (@Check[reflex|dc:32|basic|traits:custom,hazard,trap] save).</p>"
+          "name": "Raio do Olho Verde",
+          "description": "<p>@Damage[6d6[poison]] de dano (teste de resistência de @Check[reflex|dc:32|basic|traits:custom,hazard,trap]).</p>"
         },
         "action->Indigo Eye Beam": {
-          "name": "Indigo Eye Beam",
-          "description": "<p>@Check[will|dc:32|traits:hazard,trap] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for 1 round.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} for 1 round.</p>\n<p><strong>Critical Failure</strong> The target is controlled by the dragon pillar and remains within 60 feet of it at all times, defending the dragon pillar from all non-Cinderclaws. While a target is controlled, it is treated as a Cinderclaw ally by the dragon pillar. The dragon pillar can control up to 3 targets at a time; any targets in excess who critically fail this saving throw are instead confused for [[/gmr 1d4+1 #Confused Rounds]]{1d4+1} rounds. A controlled creature can attempt a new Will save once every 24 hours to escape control, but doing so automatically causes the dragon pillar to attack it with a new eye beam to attempt to re-establish control. The control ends if the pillar is destroyed.</p>"
+          "name": "Raio do Olho Anil",
+          "description": "<p>Teste de resistência de @Check[will|dc:32|traits:hazard,trap].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Desacelerado 1} por 1 rodada.</p>\n<p><strong>Falha</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confuso} por 1 rodada.</p>\n<p><strong>Falha Crítica</strong> O alvo é controlado pelo pilar do dragão e permanece a até 60 pés dele o tempo todo, defendendo o pilar do dragão de todos os que não são Garras de Cinza. Enquanto um alvo está controlado, ele é tratado como um aliado Garra de Cinza pelo pilar do dragão. O pilar do dragão pode controlar até 3 alvos por vez; quaisquer alvos em excesso que falhem criticamente neste teste de resistência ficam confusos por [[/gmr 1d4+1 #Confused Rounds]]{1d4+1 rodadas}. Uma criatura controlada pode tentar um novo teste de Vontade uma vez a cada 24 horas para escapar do controle, mas fazê-lo faz com que o pilar do dragão a ataque automaticamente com um novo raio do olho para tentar restabelecer o controle. O controle termina se o pilar for destruído.</p>"
         },
         "action->Yellow Eye Beam": {
-          "name": "Yellow Eye Beam",
-          "description": "<p>@Damage[6d6[electricity]] damage (@Check[reflex|dc:32|basic|traits:evocation,custom,hazard,trap] save).</p>"
+          "name": "Raio do Olho Amarelo",
+          "description": "<p>@Damage[6d6[electricity]] de dano (teste de resistência de @Check[reflex|dc:32|basic|traits:evocation,custom,hazard,trap]).</p>"
         },
         "action->Orange Eye Beam": {
-          "name": "Orange Eye Beam",
-          "description": "<p>@Damage[6d6[acid]] damage (@Check[reflex|dc:32|basic|traits:custom,hazard,trap] save).</p>"
+          "name": "Raio do Olho Laranja",
+          "description": "<p>@Damage[6d6[acid]] de dano (teste de resistência de @Check[reflex|dc:32|basic|traits:custom,hazard,trap]).</p>"
         },
         "action->Red Eye Beam": {
-          "name": "Red Eye Beam",
-          "description": "<p>@Damage[6d6[fire]] damage (@Check[reflex|dc:32|basic|traits:hazard,trap] save).</p>"
+          "name": "Raio do Olho Vermelho",
+          "description": "<p>@Damage[6d6[fire]] de dano (teste de resistência de @Check[reflex|dc:32|basic|traits:hazard,trap]).</p>"
         },
         "action->Violet Eye Beam": {
-          "name": "Violet Eye Beam",
-          "description": "<p>@Check[will|dc:32|traits:hazard,trap] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 3}.</p>\n<p><strong>Critical Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 7}.</p>"
+          "name": "Raio do Olho Violeta",
+          "description": "<p>Teste de resistência de @Check[will|dc:32|traits:hazard,trap].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 1}.</p>\n<p><strong>Falha</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 3}.</p>\n<p><strong>Falha Crítica</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 7}.</p>"
         }
       }
     },
     "Dahak's Skull": {
-      "name": "Dahak's Skull",
-      "description": "<p>A pair of magical gems inside the dragon skull's eye sockets act as magical sensors with a 30-foot radius.</p>",
-      "disable": "<p>@Check[thievery|dc:27|name:Pry Out the Embedded Gems|traits:complex,magical,fire,trap,hazard] (expert) two times to pry the gems embedded deep in the skull's eye sockets without triggering the sensor, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (4th level, counteract DC 22) twice to dispel both eyes.</p>",
-      "routine": "<p>(2 actions) On its initiative, Dahak's skull fires up to two eye beams; it must target a different creature with each attack. The eye beams can't target creatures directly below the skull.</p>",
+      "name": "Crânio de Dahak",
+      "description": "<p>Um par de gemas mágicas dentro das órbitas oculares do crânio de dragão atuam como sensores mágicos com um raio de 30 pés.</p>",
+      "disable": "<p>@Check[ladinoagem|dc:27|name:Remover as Gemas Encrustadas|traits:complex,magical,fire,trap,hazard] (especialista) duas vezes para remover as gemas incrustadas nas órbitas oculares do crânio sem acionar o sensor, ou @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia} (4º nível, CD de neutralização 22) duas vezes para dissipar ambos os olhos.</p>",
+      "routine": "<p>(2 ações) Em sua iniciativa, o crânio de Dahak dispara até dois raios do olho; ele deve ter como alvo uma criatura diferente com cada ataque. Os raios do olho não podem ter como alvo criaturas diretamente abaixo do crânio.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
-      "stealth": "<p>but @Check[perception|dc:24|name:Notice Lights in Eyes|traits:complex,magical,fire,trap,hazard] to notice that the fiery lights within the skull's eye sockets seem to be looking around the room.</p>",
+      "stealth": "<p>mas @Check[percepção|dc:24|name:Perceber Luzes nos Olhos|traits:complex,magical,fire,trap,hazard] para perceber que as luzes ardentes dentro das órbitas oculares do crânio parecem estar olhando ao redor da sala.</p>",
       "items": {
         "action->Perception and Vision": {
-          "name": "Perception and Vision",
-          "description": "<p><strong>Perception</strong> [[/r 1d20+16 #Perception]]{+16}; @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.qCCLZhnp2HhP3Ex6]{Darkvision}, @UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{See the Unseen}</p>"
+          "name": "Percepção e Visão",
+          "description": "<p><strong>Percepção</strong> [[/r 1d20+16 #Perception]]{+16}; @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.qCCLZhnp2HhP3Ex6]{Visão no Escuro}, @UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{Ver o Invisível}</p>"
         },
         "action->Dahak's Glance": {
-          "name": "Dahak's Glance",
-          "description": "<p><strong>Trigger</strong> A living creature that is not a member of the Cinderclaws enters area <strong>C9</strong></p>\n<hr />\n<p><strong>Effect</strong> One of the dragon skull's eye sockets shoots an eye beam at the triggering creature, then the hazard rolls initiative.</p>"
+          "name": "Olhar de Dahak",
+          "description": "<p><strong>Gatilho</strong> Uma criatura viva que não seja membro das Garras de Cinza entra na área <strong>C9</strong></p>\n<hr />\n<p><strong>Efeito</strong> Uma das órbitas oculares do crânio de dragão dispara um raio do olho na criatura que acionou o efeito, então o perigo rola iniciativa.</p>"
         },
         "strike-ranged->Eye Beam": {
-          "name": "Eye Beam"
+          "name": "Raio do Olho"
         }
       }
     },
@@ -1398,61 +1398,61 @@
       }
     },
     "Dragon Pillar": {
-      "name": "Dragon Pillar",
-      "description": "<p>A 10-foot-tall wooden pole topped by a wooden carving of Dahak's head. Each dragon pillar's head has been treated with something to give it a distinct color, as indicated in the specific encounter, but regardless of color, plumes of smoke waft up from the mouth.</p>",
-      "disable": "<p>@Check[athletics|dc:26|name:Push the Pillar Over|traits:complex,magical,trap,hazard] (expert) to push the pillar over, or @Check[thievery|dc:26|name:Erase Magic Runes|traits:complex,magical,trap,hazard] (expert) on the pillar to erase the magic runes that power it, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (4th level; counteract DC 22) to dispel the pillar's magic.</p>",
-      "reset": "<p>The dragon pillar deactivates and resets as soon as it perceives no appropriate targets in range.</p>",
-      "routine": "<p>(1 action) On its initiative, the dragon pillar fires an eye beam at the closest target within 120 feet.</p>",
+      "name": "Pilar do Dragão",
+      "description": "<p>Um poste de madeira de 10 pés de altura encimado por uma escultura de madeira da cabeça de Dahak. A cabeça de cada pilar do dragão foi tratada com algo para lhe dar uma cor distinta, conforme indicado no encontro específico, mas independentemente da cor, plumas de fumaça saem de sua boca.</p>",
+      "disable": "<p>@Check[atletismo|dc:26|name:Empurrar o Pilar|traits:complex,magical,trap,hazard] (especialista) para empurrar o pilar, ou @Check[ladinoagem|dc:26|name:Apagar Runas Mágicas|traits:complex,magical,trap,hazard] (especialista) no pilar para apagar as runas mágicas que o alimentam, ou @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia} (4º nível; CD de neutralização 22) para dissipar a magia do pilar.</p>",
+      "reset": "<p>O pilar do dragão desativa e reinicia assim que não percebe alvos apropriados ao alcance.</p>",
+      "routine": "<p>(1 ação) Em sua iniciativa, o pilar do dragão dispara um raio do olho no alvo mais próximo a até 120 pés.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
-      "stealth": "<p>or @UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{Detect Magic}</p>",
+      "stealth": "<p>ou @UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{Detectar Magia}</p>",
       "items": {
         "action->Recognize Ally": {
-          "name": "Recognize Ally",
-          "description": "<p>A dragon pillar can see through its empty eye sockets, and it can recognize Cinderclaws and their allies. A character disguised as a Cinderclaw can trick a dragon pillar into perceiving it as a Cinderclaw ally by using Deception to @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate}. A dragon pillar always uses Perception for initiative.</p>"
+          "name": "Reconhecer Aliado",
+          "description": "<p>Um pilar do dragão pode ver através de suas órbitas oculares vazias e pode reconhecer Garras de Cinza e seus aliados. Um personagem disfarçado de Garra de Cinza pode enganar um pilar do dragão para que o perceba como um aliado Garra de Cinza usando Enganação para @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Personificar}. Um pilar do dragão sempre usa Percepção para iniciativa.</p>"
         },
         "action->Perception and Vision": {
-          "name": "Perception and Vision",
-          "description": "<p><strong>Perception</strong> [[/br 1d20+16 #Perception]]{+16}, @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.qCCLZhnp2HhP3Ex6]{Darkvision} 60 feet</p>"
+          "name": "Percepção e Visão",
+          "description": "<p><strong>Percepção</strong> [[/br 1d20+16 #Perception]]{+16}, @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.qCCLZhnp2HhP3Ex6]{Visão no Escuro} 60 pés</p>"
         },
         "action->Dragon Pillar Glance": {
-          "name": "Dragon Pillar Glance",
-          "description": "<p><strong>Trigger</strong> The dragon pillar sees a creature within 120 feet who isn't a recognized Cinderclaw or Cinderclaw ally.</p>\n<hr />\n<p><strong>Effect</strong> The dragon pillar makes an eye beam Strike against the triggering creature, then rolls initiative.</p>"
+          "name": "Olhar do Pilar do Dragão",
+          "description": "<p><strong>Gatilho</strong> O pilar do dragão vê uma criatura a até 120 pés que não seja um Garra de Cinza reconhecido ou um aliado Garra de Cinza.</p>\n<hr />\n<p><strong>Efeito</strong> O pilar do dragão faz um ataque de raio do olho contra a criatura que acionou o efeito, então rola iniciativa.</p>"
         },
         "action->Black Eye Beam": {
-          "name": "Black Eye Beam",
-          "description": "<p>@Check[fortitude|dc:24|traits:hazard,trap] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 round.</p>\n<p><strong>Failure</strong> The target is blinded for 1 hour.</p>\n<p><strong>Critical Failure</strong> The target is blinded for 24 hours.</p>"
+          "name": "Raio do Olho Preto",
+          "description": "<p>Teste de resistência de @Check[fortitude|dc:24|traits:hazard,trap].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} por 1 rodada.</p>\n<p><strong>Falha</strong> O alvo fica cego por 1 hora.</p>\n<p><strong>Falha Crítica</strong> O alvo fica cego por 24 horas.</p>"
         },
         "strike-ranged->Eye Beam": {
-          "name": "Eye Beam",
-          "description": "<p><strong>Effect</strong> The target is subjected to an effect determined by the pillar's color and summarized in the passive actions. On a critical hit, the target's save result is one degree worse.</p>"
+          "name": "Raio do Olho",
+          "description": "<p><strong>Efeito</strong> O alvo é submetido a um efeito determinado pela cor do pilar e resumido nas ações passivas. Em um acerto crítico, o resultado do teste de resistência do alvo é um grau pior.</p>"
         },
         "action->Blue Eye Beam": {
-          "name": "Blue Eye Beam",
-          "description": "<p>@Check[fortitude|dc:24|traits:trap,hazard] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{Petrified} for 1 round.</p>\n<p><strong>Failure</strong> The target is petrified for 1 hour.</p>\n<p><strong>Critical Failure</strong> The target is petrified permanently.</p>"
+          "name": "Raio do Olho Azul",
+          "description": "<p>Teste de resistência de @Check[fortitude|dc:24|traits:trap,hazard].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{Petrificado} por 1 rodada.</p>\n<p><strong>Falha</strong> O alvo fica petrificado por 1 hora.</p>\n<p><strong>Falha Crítica</strong> O alvo fica petrificado permanentemente.</p>"
         },
         "action->Green Eye Beam": {
-          "name": "Green Eye Beam",
-          "description": "<p>@Damage[6d6[poison]] damage (@Check[reflex|dc:24|basic|traits:hazard,trap] save.)</p>"
+          "name": "Raio do Olho Verde",
+          "description": "<p>@Damage[6d6[poison]] de dano (teste de resistência de @Check[reflex|dc:24|basic|traits:hazard,trap]).</p>"
         },
         "action->Indigo Eye Beam": {
-          "name": "Indigo Eye Beam",
-          "description": "<p>@Check[will|dc:24|traits:hazard,trap] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for 1 round.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} for 1 round.</p>\n<p><strong>Critical Failure</strong> The target is controlled by the dragon pillar and remains within 60 feet of it at all times, defending the dragon pillar from all non-Cinderclaws. While a target is controlled, it is treated as a Cinderclaw ally by the dragon pillar. The dragon pillar can control up to 3 targets at a time; any targets in excess who critically fail this saving throw are instead confused for [[/gmr 1d4+1 #Confused Rounds]]{1d4+1} rounds. A controlled creature can attempt a new Will save once every 24 hours to escape control, but doing so automatically causes the dragon pillar to attack it with a new eye beam to attempt to re-establish control. The control ends if the pillar is destroyed.</p>"
+          "name": "Raio do Olho Anil",
+          "description": "<p>Teste de resistência de @Check[will|dc:24|traits:hazard,trap].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Desacelerado 1} por 1 rodada.</p>\n<p><strong>Falha</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confuso} por 1 rodada.</p>\n<p><strong>Falha Crítica</strong> O alvo é controlado pelo pilar do dragão e permanece a até 60 pés dele o tempo todo, defendendo o pilar do dragão de todos os que não são Garras de Cinza. Enquanto um alvo está controlado, ele é tratado como um aliado Garra de Cinza pelo pilar do dragão. O pilar do dragão pode controlar até 3 alvos por vez; quaisquer alvos em excesso que falhem criticamente neste teste de resistência ficam confusos por [[/gmr 1d4+1 #Confused Rounds]]{1d4+1} rodadas. Uma criatura controlada pode tentar um novo teste de Vontade uma vez a cada 24 horas para escapar do controle, mas fazê-lo faz com que o pilar do dragão a ataque automaticamente com um novo raio do olho para tentar restabelecer o controle. O controle termina se o pilar for destruído.</p>"
         },
         "action->Yellow Eye Beam": {
-          "name": "Yellow Eye Beam",
-          "description": "<p>@Damage[6d6[electricity]] damage (@Check[reflex|dc:24|basic|traits:hazard,trap] save.)</p>"
+          "name": "Raio do Olho Amarelo",
+          "description": "<p>@Damage[6d6[electricity]] de dano (teste de resistência de @Check[reflex|dc:24|basic|traits:hazard,trap]).</p>"
         },
         "action->Orange Eye Beam": {
-          "name": "Orange Eye Beam",
-          "description": "<p>@Damage[6d6[acid]] damage (@Check[reflex|dc:24|basic|traits:hazard,trap] save.)</p>"
+          "name": "Raio do Olho Laranja",
+          "description": "<p>@Damage[6d6[acid]] de dano (teste de resistência de @Check[reflex|dc:24|basic|traits:hazard,trap]).</p>"
         },
         "action->Red Eye Beam": {
-          "name": "Red Eye Beam",
-          "description": "<p>@Damage[6d6[fire]] damage (@Check[reflex|dc:24|basic|traits:hazard,trap] save.)</p>"
+          "name": "Raio do Olho Vermelho",
+          "description": "<p>@Damage[6d6[fire]] de dano (teste de resistência de @Check[reflex|dc:24|basic|traits:hazard,trap]).</p>"
         },
         "action->Violet Eye Beam": {
-          "name": "Violet Eye Beam",
-          "description": "<p>@Check[will|dc:24|traits:hazard,trap] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 3}.</p>\n<p><strong>Critical Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 7}.</p>"
+          "name": "Raio do Olho Violeta",
+          "description": "<p>Teste de resistência de @Check[will|dc:24|traits:hazard,trap].</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 1}.</p>\n<p><strong>Falha</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 3}.</p>\n<p><strong>Falha Crítica</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoado 7}.</p>"
         }
       }
     },
@@ -2318,15 +2318,15 @@
       }
     },
     "Grippli Archer": {
-      "name": "Grippli Archer",
-      "publicNotes": "<p>Frog-like humanoids who make their homes in the treetops of tropical jungles and forests, gripplis are uniquely adapted to their environment. Their oversized eyes give them keen vision in both light and dark, and their large toes allow them to easily scale the trees atop which they reside. Gripplis vary widely in physical appearance, their physiologies largely determined by their surrounding environment; those who live in verdant forests, for example, typically have bright green skin and red eyes. In contrast, gripplis who live in regions of rot and decay have mottled brown coloration, and those who dwell near lakes or streams may bear bright blue and orange stripes. Typical gripplis are just over 2 feet tall and weigh approximately 30 pounds.</p>\n<p>Whatever region they come from, gripplis tend to be peaceful hunter-gatherers. Due to their modest understanding of agriculture, gripplis don't raise crops in the traditional sense, although they do cultivate mushroom patches and gather a wide array of fruits from the surrounding wilderness. The jungle also contains rivers and lakes filled with silver-scaled fish, which gripplis harvest in a sustainable manner to ensure their future supply, as well as fatty insects that grow much larger than in other parts of the world. Some of the most advanced grippli societies capture and breed these insects, nurturing herds of giant dragonflies or beetles that are eventually slaughtered for food for the rest of the village. Particularly enterprising gripplis even seek out and tame huge flying insects to use as mounts during their hunts. The rearing of such massive insects is no easy feat, however, so gripplis who manage to do so are often heralded as local heroes.</p>\n<p>The treetop settlements of the grippli are difficult to spot from the forest floor. Gripplis obscure their holdings with broad leaves and thick branches, and they riddle the surrounding forest with labyrinthine trails that only they know how to navigate. Their villages are usually constructed among the densest populations of trees, with thin rope bridges strung between wide wooden platforms built around each trunk.</p>\n<p>These sharpshooters are renowned for their patience and their accuracy.</p>",
+      "name": "Arqueiro Grippli",
+      "publicNotes": "<p>Humanoides semelhantes a sapos que fazem suas casas nas copas das árvores de florestas e selvas tropicais, os gripplis são excepcionalmente adaptados ao seu ambiente. Seus olhos grandes lhes dão uma visão aguçada tanto na luz quanto no escuro, e seus dedos grandes permitem que eles escalem facilmente as árvores sobre as quais residem. Os gripplis variam muito em aparência física, suas fisiologias em grande parte determinadas pelo ambiente ao seu redor; aqueles que vivem em florestas verdejantes, por exemplo, normalmente têm pele verde brilhante e olhos vermelhos. Em contraste, os gripplis que vivem em regiões de apodrecimento e decomposição têm coloração marrom mosqueada, e aqueles que vivem perto de lagos ou riachos podem ter listras azuis e laranja brilhantes. Gripplis típicos têm pouco mais de 60 centímetros de altura e pesam aproximadamente 15 kg.</p>\n<p>De qualquer região de onde venham, os gripplis tendem a ser caçadores-coletores pacíficos. Devido à sua modesta compreensão da agricultura, os gripplis não cultivam plantações no sentido tradicional, embora cultivem manchas de cogumelos e coletem uma grande variedade de frutas da natureza ao redor. A selva também contém rios e lagos cheios de peixes de escamas prateadas, que os gripplis colhem de forma sustentável para garantir seu suprimento futuro, bem como insetos gordurosos que crescem muito mais do que em outras partes do mundo. Algumas das sociedades grippli mais avançadas capturam e criam esses insetos, nutrindo rebanhos de libélulas ou besouros gigantes que são eventualmente abatidos para alimentar o resto da aldeia. Gripplis particularmente empreendedores até procuram e domesticam enormes insetos voadores para usar como montarias durante suas caçadas. A criação de insetos tão grandes não é uma tarefa fácil, no entanto, então os gripplis que conseguem fazê-lo são frequentemente considerados heróis locais.</p>\n<p>Os assentamentos nas copas das árvores dos gripplis são difíceis de avistar do solo da floresta. Os gripplis escondem suas posses com folhas largas e galhos grossos, e criam na floresta ao redor trilhas labirínticas que só eles sabem navegar. Suas aldeias são geralmente construídas entre as populações mais densas de árvores, com finas pontes de corda amarradas entre largas plataformas de madeira construídas ao redor de cada tronco.</p>\n<p>Esses atiradores de elite são famosos por sua paciência e precisão.</p>",
       "skillSpecialStealth": {
         "0": {
-          "label": "in Forests"
+          "label": "em Florestas"
         }
       },
       "source": "Pathfinder #146: Cult of Cinders",
-      "speed": "jungle stride",
+      "speed": "passo da selva",
       "items": {
         "weapon->Shortbow": {
           "source": "Pathfinder Core Rulebook"
@@ -2341,39 +2341,39 @@
           "source": "Pathfinder Core Rulebook"
         },
         "strike-melee->Shortsword": {
-          "name": "Shortsword"
+          "name": "Espada Curta"
         },
         "strike-ranged->Shortbow": {
-          "name": "Shortbow"
+          "name": "Arco Curto"
         },
         "action->Hail of Arrows": {
-          "name": "Hail of Arrows",
-          "description": "<p>The grippli archer makes three ranged Strikes with their shortbow, all against a single target. Combine the damage of any Strikes that hit for the purpose of resistances and weaknesses.</p>"
+          "name": "Chuva de Flechas",
+          "description": "<p>O arqueiro grippli faz três Ataques à distância com seu arco curto, todos contra um único alvo. Combine o dano de quaisquer Ataques que acertem para fins de resistências e fraquezas.</p>"
         },
         "action->Jungle Stride": {
-          "name": "Jungle Stride",
-          "description": "<p>A grippli ignores difficult terrain in forests and jungles.</p>"
+          "name": "Passo da Selva",
+          "description": "<p>Um grippli ignora terreno difícil em florestas e selvas.</p>"
         }
       }
     },
     "Grippli Greenspeaker": {
-      "name": "Grippli Greenspeaker",
-      "publicNotes": "<p>Frog-like humanoids who make their homes in the treetops of tropical jungles and forests, gripplis are uniquely adapted to their environment. Their oversized eyes give them keen vision in both light and dark, and their large toes allow them to easily scale the trees atop which they reside. Gripplis vary widely in physical appearance, their physiologies largely determined by their surrounding environment; those who live in verdant forests, for example, typically have bright green skin and red eyes. In contrast, gripplis who live in regions of rot and decay have mottled brown coloration, and those who dwell near lakes or streams may bear bright blue and orange stripes. Typical gripplis are just over 2 feet tall and weigh approximately 30 pounds.</p>\n<p>Whatever region they come from, gripplis tend to be peaceful hunter-gatherers. Due to their modest understanding of agriculture, gripplis don't raise crops in the traditional sense, although they do cultivate mushroom patches and gather a wide array of fruits from the surrounding wilderness. The jungle also contains rivers and lakes filled with silver-scaled fish, which gripplis harvest in a sustainable manner to ensure their future supply, as well as fatty insects that grow much larger than in other parts of the world. Some of the most advanced grippli societies capture and breed these insects, nurturing herds of giant dragonflies or beetles that are eventually slaughtered for food for the rest of the village. Particularly enterprising gripplis even seek out and tame huge flying insects to use as mounts during their hunts. The rearing of such massive insects is no easy feat, however, so gripplis who manage to do so are often heralded as local heroes.</p>\n<p>The treetop settlements of the grippli are difficult to spot from the forest floor. Gripplis obscure their holdings with broad leaves and thick branches, and they riddle the surrounding forest with labyrinthine trails that only they know how to navigate. Their villages are usually constructed among the densest populations of trees, with thin rope bridges strung between wide wooden platforms built around each trunk.</p>\n<p>The unofficial healers of gripplikind are known as greenspeakers.</p>",
+      "name": "Grippli Falante Verde",
+      "publicNotes": "<p>Humanoides semelhantes a sapos que fazem suas casas nas copas das árvores de florestas e selvas tropicais, os gripplis são excepcionalmente adaptados ao seu ambiente. Seus olhos grandes lhes dão uma visão aguçada tanto na luz quanto no escuro, e seus dedos grandes permitem que eles escalem facilmente as árvores sobre as quais residem. Os gripplis variam muito em aparência física, suas fisiologias em grande parte determinadas pelo ambiente ao seu redor; aqueles que vivem em florestas verdejantes, por exemplo, normalmente têm pele verde brilhante e olhos vermelhos. Em contraste, os gripplis que vivem em regiões de apodrecimento e decomposição têm coloração marrom mosqueada, e aqueles que vivem perto de lagos ou riachos podem ter listras azuis e laranja brilhantes. Gripplis típicos têm pouco mais de 60 centímetros de altura e pesam aproximadamente 15 kg.</p>\n<p>De qualquer região de onde venham, os gripplis tendem a ser caçadores-coletores pacíficos. Devido à sua modesta compreensão da agricultura, os gripplis não cultivam plantações no sentido tradicional, embora cultivem manchas de cogumelos e coletem uma grande variedade de frutas da natureza ao redor. A selva também contém rios e lagos cheios de peixes de escamas prateadas, que os gripplis colhem de forma sustentável para garantir seu suprimento futuro, bem como insetos gordurosos que crescem muito mais do que em outras partes do mundo. Algumas das sociedades grippli mais avançadas capturam e criam esses insetos, nutrindo rebanhos de libélulas ou besouros gigantes que são eventualmente abatidos para alimentar o resto da aldeia. Gripplis particularmente empreendedores até procuram e domesticam enormes insetos voadores para usar como montarias durante suas caçadas. A criação de insetos tão grandes não é uma tarefa fácil, no entanto, então os gripplis que conseguem fazê-lo são frequentemente considerados heróis locais.</p>\n<p>Os assentamentos nas copas das árvores dos gripplis são difíceis de avistar do solo da floresta. Os gripplis escondem suas posses com folhas largas e galhos grossos, e criam na floresta ao redor trilhas labirínticas que só eles sabem navegar. Suas aldeias são geralmente construídas entre as populações mais densas de árvores, com finas pontes de corda amarradas entre largas plataformas de madeira construídas ao redor de cada tronco.</p>\n<p>Os curandeiros não oficiais da espécie grippli são conhecidos como falantes verdes.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
-      "speed": "jungle stride",
+      "speed": "passo da selva",
       "items": {
         "spellcastingEntry->Primal Prepared Spells": {
-          "name": "Primal Prepared Spells"
+          "name": "Magias Preparadas Primais"
         },
         "spell->Animal Form": {
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Barkskin": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.YWrfKetOqDwVFut7]\nBarkskin",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.YWrfKetOqDwVFut7]\nCasca de Árvore",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Entangle": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.J6vNvrUT3b1hx2iA]\nEntangle",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.J6vNvrUT3b1hx2iA]\nEnredar",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Speak with Animals": {
@@ -2389,11 +2389,11 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Know Direction": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.tXa5vOu5giBNCjdR]\nKnow Direction",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.tXa5vOu5giBNCjdR]\nConhecer Direção",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Pass Without Trace": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.zlnXpME1T2uvn8Lr]\nPass Without Trace",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.zlnXpME1T2uvn8Lr]\nPassar Sem Deixar Rastros",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Produce Flame": {
@@ -2406,7 +2406,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Tanglefoot": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.uZK2BYzPnxUBnDjr]\nTanglefoot",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.uZK2BYzPnxUBnDjr]\nPés Pegajosos",
           "source": "Pathfinder Core Rulebook"
         },
         "weapon->Dart": {
@@ -2416,18 +2416,18 @@
           "source": "Pathfinder Core Rulebook"
         },
         "strike-melee->Staff": {
-          "name": "Staff"
+          "name": "Cajado"
         },
         "strike-ranged->Dart": {
-          "name": "Dart"
+          "name": "Dardo"
         },
         "action->Green Empathy": {
-          "name": "Green Empathy",
-          "description": "<p>The greenspeaker can use Diplomacy to @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} on and make very simple Requests of plants and fungi.</p>"
+          "name": "Empatia Verde",
+          "description": "<p>O falante verde pode usar Diplomacia para @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Causar uma Boa Impressão} e fazer Pedidos muito simples a plantas e fungos.</p>"
         },
         "action->Jungle Stride": {
-          "name": "Jungle Stride",
-          "description": "<p>A grippli ignores difficult terrain in forests and jungles.</p>"
+          "name": "Passo da Selva",
+          "description": "<p>Um grippli ignora terreno difícil em florestas e selvas.</p>"
         }
       }
     },
@@ -3979,7 +3979,7 @@
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",
-          "description": "<p>The manifestation of Dahak breathes a blast of dragonstorm energy that deals @Damage[5d6[acid],5d6[cold],5d6[electricity],5d6[fire],5d6[poison]]{5d6 acid, 5d6 cold, 5d6 electricity, 5d6 fire, and 5d6 poison damage} in a @Template[cone|distance:60] (@Check[reflex|dc:46|basic|name:Dragonstorm Breath|traits:fire,acid,cold,electricity,poison] save).</p>\n<p>It can't use Dragonstorm Breath again for [[/gmr 1d4 #Recharge Dragonstorm Breath]]{1d4 rounds}.</p>"
+          "description": "<p>The manifestation of Dahak breathes a blast of dragonstorm energy that deals @Damage[5d6[acid],5d6[cold],5d6[electricity],5d6[fire],5d6[poison]|options:area-damage]{5d6 acid, 5d6 cold, 5d6 electricity, 5d6 fire, and 5d6 poison damage} in a @Template[cone|distance:60] (@Check[reflex|dc:46|basic|name:Dragonstorm Breath|traits:fire,acid,cold,electricity,poison] save).</p>\n<p>It can't use Dragonstorm Breath again for [[/gmr 1d4 #Recharge Dragonstorm Breath]]{1d4 rounds}.</p>"
         },
         "action->Draconic Frenzy": {
           "name": "Draconic Frenzy",
@@ -4290,11 +4290,11 @@
         },
         "action->Dragonstorm Breath": {
           "name": "Dragonstorm Breath",
-          "description": "<p>The manifestation of Dahak breathes a blast of dragonstorm energy that deals @Damage[5d6[acid],5d6[cold],5d6[electricity],5d6[fire],5d6[poison]]{5d6 acid, 5d6 cold, 5d6 electricity, 5d6 fire, and 5d6 poison damage} in a @Template[cone|distance:60] (@Check[reflex|dc:48|basic|traits:fire,acid,cold,electricity,poison] save). It can't use Dragonstorm Breath again for [[/gmr 1d4 #Recharge Dragonstorm Breath]]{1d4 rounds}.</p>"
+          "description": "<p>The manifestation of Dahak breathes a blast of dragonstorm energy that deals @Damage[5d6[acid],5d6[cold],5d6[electricity],5d6[fire],5d6[poison]|options:area-damage]{5d6 acid, 5d6 cold, 5d6 electricity, 5d6 fire, and 5d6 poison damage} in a @Template[cone|distance:60] (@Check[reflex|dc:48|basic|traits:fire,acid,cold,electricity,poison] save). It can't use Dragonstorm Breath again for [[/gmr 1d4 #Recharge Dragonstorm Breath]]{1d4 rounds}.</p>"
         },
         "action->Focused Breath Weapon": {
           "name": "Focused Breath Weapon",
-          "description": "<p>The manifestation breathes a blast of energy that deals 12d12 damage in a @Template[line|distance:90] (@Check[reflex|dc:44|basic] save). The type of damage this Breath Weapon deals can be @Damage[12d12[acid]]{acid}, @Damage[12d12[cold]]{cold}, @Damage[12d12[electricity]]{electricity}, @Damage[12d12[fire]]{fire}, or @Damage[12d12[poison]]{poison}, as chosen by the manifestation when it attacks. The manifestation can't use its focused Breath Weapon again for 2 rounds, and the next time it uses its Breath Weapon, it must deal a different type of damage than the previous usage.</p>"
+          "description": "<p>The manifestation breathes a blast of energy that deals 12d12 damage in a @Template[line|distance:90] (@Check[reflex|dc:44|basic] save). The type of damage this Breath Weapon deals can be @Damage[12d12[acid]|options:area-damage]{acid}, @Damage[12d12[cold]|options:area-damage]{cold}, @Damage[12d12[electricity]|options:area-damage]{electricity}, @Damage[12d12[fire]|options:area-damage]{fire}, or @Damage[12d12[poison]|options:area-damage]{poison}, as chosen by the manifestation when it attacks. The manifestation can't use its focused Breath Weapon again for 2 rounds, and the next time it uses its Breath Weapon, it must deal a different type of damage than the previous usage.</p>"
         },
         "action->Improved Grab": {
           "source": "Pathfinder Bestiary"
@@ -4461,7 +4461,7 @@
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",
-          "description": "<p>Mengkare breathes in one of two ways. He can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>\n<ul>\n<li><strong>Flame</strong> (arcane,evocation,fire); Mengkare breathes a blast of flame in a @Template[cone|distance:80] that deals @Damage[24d6[fire]] damage (@Check[reflex|dc:46|basic|name:Breath Weapon (Flame)] save).</li>\n<li><strong>Weakening Gas</strong> (arcane,necromancy); The dragon breathes a blast of weakening gas. Each creature within a @Template[cone|distance:30] must succeed at a @Check[fortitude|dc:46|name:Breath Weapon (Weakening Gas)] save or become @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 4} for 1 minute (or @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 5} on a critical failure).</li>\n</ul>"
+          "description": "<p>Mengkare breathes in one of two ways. He can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>\n<ul>\n<li><strong>Flame</strong> (arcane,evocation,fire); Mengkare breathes a blast of flame in a @Template[cone|distance:80] that deals @Damage[24d6[fire]|options:area-damage] damage (@Check[reflex|dc:46|basic|name:Breath Weapon (Flame)] save).</li>\n<li><strong>Weakening Gas</strong> (arcane,necromancy); The dragon breathes a blast of weakening gas. Each creature within a @Template[cone|distance:30] must succeed at a @Check[fortitude|dc:46|name:Breath Weapon (Weakening Gas)] save or become @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 4} for 1 minute (or @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 5} on a critical failure).</li>\n</ul>"
         },
         "action->Change Shape": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.mEbrInCpag7YThH2]\nChange Shape",
@@ -5044,40 +5044,40 @@
     },
     "Racharak": {
       "name": "Racharak",
-      "blurb": "Female charau-ka guardian",
+      "blurb": "Guardiã charau-ka",
       "source": "Pathfinder #146: Cult of Cinders",
       "items": {
         "strike-melee->Jaws": {
-          "name": "Jaws"
+          "name": "Mandíbulas"
         },
         "strike-melee->Claw": {
-          "name": "Claw"
+          "name": "Garra"
         },
         "strike-melee->Tail": {
-          "name": "Tail"
+          "name": "Cauda"
         },
         "strike-ranged->Thrown Rock": {
-          "name": "Thrown Rock"
+          "name": "Pedra Arremessada"
         },
         "action->Tail Swipe": {
-          "name": "Tail Swipe",
-          "description": "<p><strong>Trigger</strong> A creature within reach of Racharak's tail uses a move action or leaves a square during a move action it's using.</p>\n<hr />\n<p><strong>Effect</strong> Racharak makes a tail Strike at the creature with a -2 penalty. If it hits, she disrupts the creature's action.</p>"
+          "name": "Ataque de Cauda",
+          "description": "<p><strong>Gatilho</strong> Uma criatura ao alcance da cauda de Racharak usa uma ação de movimento ou deixa um quadrado durante uma ação de movimento que está usando.</p>\n<hr />\n<p><strong>Efeito</strong> Racharak faz um ataque de cauda na criatura com uma penalidade de -2. Se acertar, ela interrompe a ação da criatura.</p>"
         },
         "action->Breath Weapon": {
-          "name": "Breath Weapon",
-          "description": "<p>Racharak breathes flames that deals @Damage[9d6[fire]] damage to all creatures in a @Template[cone|distance:30] (@Check[reflex|dc:26|basic] save).</p>\n<p>She can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}</p>"
+          "name": "Arma de Sopro",
+          "description": "<p>Racharak solta chamas que causam @Damage[9d6[fire]|options:area-damage] de dano a todas as criaturas em um @Template[cone|distance:30] (teste de resistência de @Check[reflexos|dc:26|basic]).</p>\n<p>Ela não pode usar Arma de Sopro novamente por [[/gmr 1d4 #Recarregar Arma de Sopro]]{1d4 rodadas}</p>"
         },
         "action->Draconic Frenzy": {
-          "name": "Draconic Frenzy",
-          "description": "<p>Racharak makes two claw Strikes and one bite Strike in any order.</p>"
+          "name": "Frenesi Dracônico",
+          "description": "<p>Racharak faz dois ataques de garra e um ataque de mordida em qualquer ordem.</p>"
         },
         "action->Shrieking Frenzy": {
-          "name": "Shrieking Frenzy",
-          "description": "<p><strong>Trigger</strong> Racharak's turn begins.</p>\n<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> Racharak is @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of her turn, and can use the extra action to Stride or Strike. While in the frenzy, Racharak can't speak and automatically critically fails Stealth checks, due to her loud wailing.</p>"
+          "name": "Frenesi Gritante",
+          "description": "<p><strong>Gatilho</strong> O turno de Racharak começa.</p>\n<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Racharak fica @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Acelerada} até o final de seu turno e pode usar a ação extra para Andar ou Atacar. Enquanto estiver em frenesi, Racharak não pode falar e falha criticamente em todos os testes de Furtividade, devido ao seu grito alto.</p>"
         },
         "action->Thrown Weapon Mastery": {
-          "name": "Thrown Weapon Mastery",
-          "description": "<p>When Racharak throws a weapon, the weapon gains the deadly d6 weapon trait. When she throws an improvised weapon, she doesn't take the -2 penalty for using an improvised weapon, nor does she take the penalty for using that weapon to make a lethal attack instead of a nonlethal attack.</p>"
+          "name": "Maestria em Arma Arremessada",
+          "description": "<p>Quando Racharak arremessa uma arma, a arma ganha a característica de arma mortal d6. Quando ela arremessa uma arma improvisada, ela não sofre a penalidade de -2 por usar uma arma improvisada, nem sofre a penalidade por usar essa arma para fazer um ataque letal em vez de um ataque não letal.</p>"
         }
       }
     },
@@ -6223,7 +6223,7 @@
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",
-          "description": "<p>The spawn breathes flames that deals @Damage[9d6[fire]] damage to all creatures in a @Template[cone|distance:30] (@Check[reflex|dc:26|basic] save).</p>\n<p>They can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}</p>"
+          "description": "<p>The spawn breathes flames that deals @Damage[9d6[fire]|options:area-damage] damage to all creatures in a @Template[cone|distance:30] (@Check[reflex|dc:26|basic] save).</p>\n<p>They can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}</p>"
         },
         "action->Draconic Frenzy": {
           "name": "Draconic Frenzy",
@@ -6989,7 +6989,7 @@
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",
-          "description": "<p>Veshumirix breathes a blast of magma that deals @Damage[9d6[fire],4d12[bludgeoning]]{9d6 fire damage and 4d12 bludgeoning damage} in a @Template[cone|distance:60] (@Check[reflex|dc:42|basic] save).</p>\n<p>He can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>"
+          "description": "<p>Veshumirix breathes a blast of magma that deals @Damage[9d6[fire],4d12[bludgeoning]|options:area-damage]{9d6 fire damage and 4d12 bludgeoning damage} in a @Template[cone|distance:60] (@Check[reflex|dc:42|basic] save).</p>\n<p>He can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>"
         },
         "action->Draconic Frenzy": {
           "name": "Draconic Frenzy",
@@ -7418,7 +7418,7 @@
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",
-          "description": "<p>Xotani breathes a blast of flame that deals @Damage[18d6[fire],4d6[persistent,fire]]{18d6 fire damage plus 4d6 persistent fire damage} to all creatures in a @Template[cone|distance:70] (@Check[reflex|dc:42|basic] save).</p>\n<p>It can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>"
+          "description": "<p>Xotani breathes a blast of flame that deals @Damage[18d6[fire],4d6[persistent,fire]|options:area-damage]{18d6 fire damage plus 4d6 persistent fire damage} to all creatures in a @Template[cone|distance:70] (@Check[reflex|dc:42|basic] save).</p>\n<p>It can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>"
         },
         "action->Swallow Whole": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.uJSseLa57HZYSMUu]\n<p>Huge, @Damage[(8d6+8)[bludgeoning],12d6[fire]], Rupture 35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>",
@@ -7461,7 +7461,7 @@
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",
-          "description": "<p>The Xotanispawn sprays a @Template[cone|distance:60] of magma that deals @Damage[10d10[fire],2d6[persistent,fire]]{10d10 fire damage and 2d6 persistent fire damage} to all creatures in the area (@Check[reflex|dc:39|basic] save).</p>\n<p>The Xotanispawn can't use its Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>"
+          "description": "<p>The Xotanispawn sprays a @Template[cone|distance:60] of magma that deals @Damage[10d10[fire],2d6[persistent,fire]|options:area-damage]{10d10 fire damage and 2d6 persistent fire damage} to all creatures in the area (@Check[reflex|dc:39|basic] save).</p>\n<p>The Xotanispawn can't use its Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>"
         },
         "action->Heat Surge": {
           "name": "Heat Surge",

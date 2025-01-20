@@ -9648,7 +9648,7 @@
           "name": "Tail"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Quill Thrust": {
           "name": "Quill Thrust",
@@ -10098,7 +10098,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Attack of Opportunity": {
           "source": "Pathfinder Bestiary"
@@ -10185,7 +10185,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Regeneration 15 (Deactivated by Unholy)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.lR9R5Vld8Eu2Dha5]\nRegeneration 15 (Deactivated by Unholy)",
@@ -10299,7 +10299,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Hurl Weapon": {
           "name": "Hurl Weapon",
@@ -10591,6 +10591,9 @@
           "name": "Soulsense",
           "description": "<p>A ravener senses the spiritual essence of living and undead creatures within the listed range. Creatures whose material bodies are one unit with their souls, like celestials and fiends, appear brighter to this sense.</p>"
         },
+        "action->+1 Status to All Saves vs. Magic": {
+          "source": "Pathfinder Monster Core"
+        },
         "action->Attack of Opportunity (Jaws Only)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O]\nAttack of Opportunity (Jaws Only)",
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O]\n<p>Jaws only.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>",
@@ -10832,7 +10835,7 @@
           "description": "<p>A velstrac automatically knows whether a creature it sees has any of the @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed}, @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying}, and @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded} conditions, as well as the value of those conditions</p>"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Regeneration 10 (Deactivated by Holy or Silver)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.lR9R5Vld8Eu2Dha5]\nRegeneration 10 (Deactivated by Holy or Silver)",
@@ -10920,7 +10923,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Attack of Opportunity (Hoof Only)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O]\nAttack of Opportunity (Hoof Only)",
@@ -10978,7 +10981,7 @@
           "description": "<p>The sard treats the plane it is located on as its home plane.</p>"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Splintering Death": {
           "name": "Splintering Death",
@@ -11043,7 +11046,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Void Child": {
           "name": "Void Child",
@@ -11230,7 +11233,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Regeneration 10 (Deactivated by Cold Iron)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.lR9R5Vld8Eu2Dha5]\nRegeneration 10 (Deactivated by Cold Iron)",
@@ -11546,7 +11549,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Regeneration 20 (Deactivated by Unholy)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.lR9R5Vld8Eu2Dha5]\nRegeneration 20 (Deactivated by Unholy)",
@@ -12051,7 +12054,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Blinding Soul": {
           "name": "Blinding Soul",
@@ -12176,6 +12179,9 @@
         "action->Gemsight": {
           "name": "Gemsight",
           "description": "<p>As long as the stygira holds a gemstone, they can see through the gem with @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.qCCLZhnp2HhP3Ex6]{Darkvision} and the effects of @UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{Truesight}. The stygira is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} when they are not holding a gem in a hand.</p>"
+        },
+        "action->+1 Status to All Saves vs. Magic": {
+          "source": "Pathfinder Monster Core"
         },
         "action->Light Sickness": {
           "name": "Light Sickness",
@@ -12380,7 +12386,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Regeneration 15 (Deactivated by Cold Iron)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.lR9R5Vld8Eu2Dha5]\nRegeneration 15 (Deactivated by Cold Iron)",
@@ -12528,7 +12534,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Terrifying Gaze": {
           "name": "Terrifying Gaze",
@@ -12588,7 +12594,7 @@
           "description": "<p>When a theletos conveys information, it does so wordlessly through psychic projections. This acts as @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.kdhbPaBMK1d1fpbA]{Telepathy} with a range of 100 feet but is understandable to all creatures regardless of whether they have a language. The meaning to non-aeons can be vague and is often mysterious. A theletos can use this ability to communicate flawlessly with any other aeon on the same plane.</p>"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Fate Drain": {
           "name": "Fate Drain",
@@ -12639,7 +12645,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Regeneration 25 (Deactivated by Acid or Cold)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.lR9R5Vld8Eu2Dha5]\nRegeneration 25 (Deactivated by Acid or Cold)",
@@ -12886,7 +12892,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Retributive Strike": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.IQtb58p4EaeUzTN1]\n<p><strong>Damage Reduction</strong> 16</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
@@ -12997,7 +13003,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Frightful Presence": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.etMnv73EIdEZrYYu]\n<p>90 feet. @Check[will|dc:34]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>",
@@ -13141,7 +13147,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Frightful Presence": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.etMnv73EIdEZrYYu]\n<p>90 feet. @Check[will|dc:34]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>",
@@ -13203,7 +13209,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Frightful Presence": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.etMnv73EIdEZrYYu]\n<p>90 feet. @Check[will|dc:40]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>",
@@ -13394,7 +13400,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Frightful Presence": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.etMnv73EIdEZrYYu]\n<p>90 feet. @Check[will|dc:40]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>",
@@ -13804,7 +13810,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Magic-Warping Aura": {
           "name": "Magic-Warping Aura",
@@ -14954,6 +14960,9 @@
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.kdhbPaBMK1d1fpbA]\nTelepathy 100 feet",
           "source": "Pathfinder Bestiary"
         },
+        "action->+1 Status to All Saves vs. Magic": {
+          "source": "Pathfinder Monster Core"
+        },
         "action->Cocytan Filth": {
           "name": "Cocytan Filth",
           "description": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:18]</p>\n<p><strong>Onset</strong> [[/gmr 1d4 #days]]{1d4 days}</p>\n<hr />\n<p><strong>Stage 1</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 day)</p>\n<p><strong>Stage 2</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 day)</p>\n<p><strong>Stage 3</strong> @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 3} (1 day)</p>"
@@ -15004,7 +15013,7 @@
           "source": "Pathfinder Bestiary"
         },
         "action->+1 Status to All Saves vs. Magic": {
-          "name": "+1 Status to All Saves vs. Magic"
+          "source": "Pathfinder Monster Core"
         },
         "action->Attack of Opportunity": {
           "source": "Pathfinder Bestiary"

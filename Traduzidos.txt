@@ -36,6 +36,8 @@ Traduza para o português do Brasil os textos que eu colar aqui, seguindo estas 
 
 * **Traduzir 'boost' como 'melhoria'.**
 
+* **Mantenha a formatação json. **
+
 
 
 Actors
