@@ -1,7 +1,7 @@
 {
   "id": "lang-pt-BR-pf2e",
   "title": "Brazilian Portuguese [Pathfinder 2e]",
-  "version": "6.8.3.0",
+  "version": "6.8.4.0",
   "compatibility": {
     "minimum": "12.328",
     "verified": "12.331",
@@ -41,8 +41,8 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "6.8.3",
-          "verified": "6.8.3"
+          "minimum": "6.8.4",
+          "verified": "6.8.4"
 }
       }
     ],

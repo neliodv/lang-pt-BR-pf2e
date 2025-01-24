@@ -18,6 +18,8 @@ Traduza para o português do Brasil os textos que eu colar aqui, seguindo estas 
 
 * **Manter em inglês tudo que estiver dentro de colchetes **
 
+* **Traduzir 'major' como 'superior'.**
+
 * **Traduzir 'concealed' como 'ocultado'.**
 
 * **Traduzir 'dying' como 'morrendo'.**
@@ -36,7 +38,9 @@ Traduza para o português do Brasil os textos que eu colar aqui, seguindo estas 
 
 * **Traduzir 'boost' como 'melhoria'.**
 
-* **Mantenha a formatação json. **
+* **Traduzir 'spellheart' como 'âmago de magia'.**
+
+* **Mantenha o resultado com uma formatação de código.**
 
 
 

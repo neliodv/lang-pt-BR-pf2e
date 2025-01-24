@@ -4604,9 +4604,9 @@
       "Mummy": {
         "AccursedTouch": {
           "Note": {
-            "Base": "A criatura recebe @Damage[2d6[persistente,vazio]] de dano. Enquanto a criatura tiver esse dano persistente, ela também fica @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefata 1}.",
-            "FourteenthLevel": "A criatura recebe @Damage[3d6[persistente,vazio]] de dano. Enquanto a criatura tiver esse dano persistente, ela também fica @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefata 1}.",
-            "TwentiethLevel": "A criatura recebe @Damage[4d6[persistente,vazio]] de dano. Enquanto a criatura tiver esse dano persistente, ela também fica @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefata 1}."
+            "Base": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}.",
+            "FourteenthLevel": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}.",
+            "TwentiethLevel": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}."
           }
         },
         "Terrain": {
