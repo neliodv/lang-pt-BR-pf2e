@@ -712,6 +712,7 @@
         "AttacksWaterCreatures": "ataques de criaturas aquáticas",
         "BludgeoningPiercingSlashing": "dano de concussão, perfuração e corte",
         "BludgeoningPiercingSlashingFromFrightenedStrikes": "dano de Golpe de concussão, perfuração e corte de criaturas assustadas",
+        "CalistriasBane": "Calistria's Bane",
         "ColdIronBludgeoning": "concussão de ferro frio",
         "CrystalHazards": "perigos de cristal",
         "DamageFromSwornCreatures": "dano de criaturas juradas",
@@ -882,6 +883,7 @@
           "LeshyMob": "Multidão Leshy",
           "Lizard": "Lagarto",
           "Mantis": "Louva-a-deus",
+          "Miastrilek": "Miastrilek",
           "Moose": "Alce",
           "Morrigna": "Morrigna",
           "Mushroom": "Cogumelo",
@@ -4604,9 +4606,9 @@
       "Mummy": {
         "AccursedTouch": {
           "Note": {
-            "Base": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}.",
-            "FourteenthLevel": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}.",
-            "TwentiethLevel": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}."
+            "Base": "Enquanto a criatura estiver sofrendo este dano persistente, ela também estará @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Atordoada 1}.",
+            "FourteenthLevel": "Enquanto a criatura estiver sofrendo este dano persistente, ela também estará @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Atordoada 1}.",
+            "TwentiethLevel": "Enquanto a criatura estiver sofrendo este dano persistente, ela também estará @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Atordoada 1}."
           }
         },
         "Terrain": {

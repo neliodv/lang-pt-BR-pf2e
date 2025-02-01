@@ -712,6 +712,7 @@
         "AttacksWaterCreatures": "attacks by water creatures",
         "BludgeoningPiercingSlashing": "bludgeoning, piercing and slashing damage",
         "BludgeoningPiercingSlashingFromFrightenedStrikes": "bludgeoning, piercing and slashing Strike damage from frightened creatures",
+        "CalistriasBane": "Calistria's Bane",
         "ColdIronBludgeoning": "cold iron bludgeoning",
         "CrystalHazards": "crystal hazards",
         "DamageFromSwornCreatures": "damage from sworn creature kind",
@@ -882,6 +883,7 @@
           "LeshyMob": "Leshy Mob",
           "Lizard": "Lizard",
           "Mantis": "Mantis",
+          "Miastrilek": "Miastrilek",
           "Moose": "Moose",
           "Morrigna": "Morrigna",
           "Mushroom": "Mushroom",
@@ -4604,9 +4606,9 @@
       "Mummy": {
         "AccursedTouch": {
           "Note": {
-            "Base": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}.",
-            "FourteenthLevel": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}.",
-            "TwentiethLevel": "<*>While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}."
+            "Base": "While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}.",
+            "FourteenthLevel": "While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}.",
+            "TwentiethLevel": "While the creature is taking this persistent damage, it's also @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1}."
           }
         },
         "Terrain": {

@@ -69,21 +69,11 @@
     "Constructed": {
       "name": "Construído",
       "description": "<p>Seu corpo sintético resiste a doenças melhor do que aqueles de organismos puramente biológicos. Você ganha um bônus de circunstância +1 em testes de resistência contra doenças, venenos e radiação.</p>",
-      "rules": {
-        "0": {
-          "label": "Construído (contra doenças, venenos e radiação)"
-        }
-      },
       "source": "Pathfinder Lost Omens: Ancestry Guide"
     },
     "Constructed (Poppet)": {
       "name": "Construído (Poppet)",
       "description": "<p>Os materiais do seu corpo resistem a doenças que atacam a carne. Você ganha um bônus de circunstância +1 em testes de resistência contra efeitos de morte, doença e veneno, bem como em testes de resistência contra efeitos que lhe dariam as condições drenado, paralisado ou enjoado. Sua centelha de vida significa que você é uma criatura viva e pode ser curado por energia vital e ferido por energia do vazio normalmente.</p>",
-      "rules": {
-        "0": {
-          "label": "Construído (contra doenças, venenos, efeitos de morte, paralisia, drenado e enjoado)"
-        }
-      },
       "source": "Pathfinder Lost Omens: The Grand Bazaar"
     },
     "Constructed Body": {

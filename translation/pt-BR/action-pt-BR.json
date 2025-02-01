@@ -116,6 +116,9 @@
       },
       "Climb": {
         "Description": "<p><strong>Requerimentos</strong> Você está com as duas mãos livres.</p><hr><p> Você faz um teste de Atletismo para se mover até uma distância máxima de 5 pés para cima, para baixo ou através de uma inclinação. Você fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido}Enquanto estiver escalando, a menos que você tenha uma velocidade de escalada. O MJ determina a CD com base na natureza da inclinação e nas circunstâncias ambientais; você pode obter um sucesso crítico automático em uma inclinação que seja trivial para escalar. Se sua velocidade terrestre for de 40 pés ou mais, aumente a distância máxima em 5 pés para cada 20 pés de velocidade acima de 20 pés.</p><p><strong>Sucesso Crítico</strong> Você se move ao longo da inclinação, aumentando a distância máxima em 5 pés.<br><strong>Sucesso</strong> Você se move ao longo da inclinação.<br><strong>Falha Crítica</strong> Você cai. Se começou a escalada em terreno estável, você cai e termina caindo @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado}.</p>",
+        "Modifier": {
+          "ClimbSpeed": "Climb Speed"
+        },
         "Notes": {
           "criticalFailure": "<strong>Falha Crítica</strong> Você cai. Se começou a escalar em solo estável, você cai e fica @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado}.",
           "criticalSuccess": "<strong>Sucesso Crítico</strong> Você se move ao longo da inclinação, aumentando a distância máxima em 5 pés.",
@@ -880,6 +883,9 @@
       },
       "Swim": {
         "Description": "<p>Você realiza um teste de Atletismo para se mover uma distância máxima de 10 pés através da água. O Mestre determina a CD [Classe de Dificuldade] com base na turbulência ou perigo da água; na maioria dos casos de águas calmas, você obtém automaticamente um sucesso crítico. Se o seu Deslocamento em terra for 40 pés ou superior, aumente a distância máxima possível em 5 pés para cada 20 pés de Deslocamento acima de 20 pés.</p><p>Se você terminar seu turno na água e não tiver realizado com sucesso uma ação de Nado naquele turno, você afunda 10 pés ou é movido pela correnteza, conforme determinado pelo Mestre. Isso não se aplica se a sua última ação no turno foi entrar na água.</p><p><strong>Sucesso Crítico</strong> Você se move através da água, aumentando a distância máxima em 5 pés.<br><strong>Sucesso</strong> Você se move através da água.<br><strong>Falha Crítica</strong> Você não avança. Se estiver segurando a respiração, perde 1 rodada de ar.</p>",
+        "Modifier": {
+          "SwimSpeed": "Swim Speed"
+        },
         "Notes": {
           "criticalFailure": "<strong>Falha Crítica</strong> Você não faz qualquer progresso e, se estiver prendendo sua respiração, perde 1 rodada de ar.",
           "criticalSuccess": "<strong>Sucesso Crítico</strong> Você se move através da água, incrementando a distância máxima em 5 pés.",

@@ -81,7 +81,7 @@ OK   criticaldeck.json
 --   equipment.json                        
      fall-of-plaguestone.json             
      familiar-abilities.json               
-     feat-effects.json                     
+OK   feat-effects.json                     
      feats.json                           
      gatewalkers-bestiary.json             
      hazards.json                         
