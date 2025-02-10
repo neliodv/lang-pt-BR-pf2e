@@ -2085,7 +2085,7 @@
         },
         "action->Quick Recovery": {
           "name": "Quick Recovery",
-          "description": "<p>The bandersnatch recovers with frightening speed. At the end of its turn, it reduces the value of one debilitating condition it suffers (with the exception of dying) by 1. If it's @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}, @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}, @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}, @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}, @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing}, or petrified, it can instead succeed at a @Check[flat|dc:16] to end one of these conditions of its choice; it can't use quick recovery on other conditions that lack values.</p>",
+          "description": "<p>The bandersnatch recovers with frightening speed. At the end of its turn, it reduces the value of one debilitating condition it suffers (with the exception of @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying}) by 1. If it's @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}, @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}, @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}, @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued}, @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing}, or @UUID[Compendium.pf2e.conditionitems.Item.dTwPJuKgBQCMxixg]{Petrified}, it can instead succeed at a @Check[flat|dc:16] to end one of these conditions of its choice; it can't use quick recovery on other conditions that lack values.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Reactive Strike (Tail Only)": {
@@ -2100,11 +2100,6 @@
         "action->Frumious Charge": {
           "name": "Frumious Charge",
           "description": "<p>The bandersnatch Strides, ignoring difficult terrain, then makes two claw Strikes at the end of its movement.</p>",
-          "source": "Pathfinder Monster Core"
-        },
-        "action->Lash Out": {
-          "name": "Lash Out",
-          "description": "<p>At the start of its turn, the bandersnatch gains an additional reaction that can be used only to attempt an Attack of Opportunity.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Pain": {
@@ -2317,15 +2312,15 @@
       }
     },
     "Boggard Scout": {
-      "name": "Boggard Scout",
-      "publicNotes": "<p>Often tasked with patrolling the borders of their lands, boggard scouts learn to speak another language (typically Common) to deal with trespassers.</p>\n<hr />\n<p>Boggards are aggressive humanoid amphibians who thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develop arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare—everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
+      "name": "Batedor Boggard",
+      "publicNotes": "<p>Frequentemente encarregado de patrulhar as fronteiras de suas terras, os batedores boggards aprendem a falar outra língua (normalmente Comum) para lidar com invasores.</p>\n<hr />\n<p>Boggards são anfíbios humanoides agressivos que prosperam em pântanos, brejos e até mesmo em algumas florestas tropicais. Os boggards eclodem de ovos em girinos, competindo ferozmente por comida e até consumindo seus irmãos nessa luta. Ao longo de 3 anos, os boggards sobreviventes desenvolvem braços, pernas e pulmões enquanto aprendem os rudimentos da caça, artesanato e guerra - tudo o que é necessário para sobreviver em sua sociedade onde a força faz o direito. No topo da maioria das hierarquias boggard está um enorme vidente do pântano imbuído de magia divina sinistra.</p>",
       "skillSpecialStealth": {
         "0": {
-          "label": "in water"
+          "label": "em água"
         }
       },
       "source": "Pathfinder Monster Core",
-      "speed": "swamp passage",
+      "speed": "movimentação no pântano",
       "items": {
         "weapon->Morningstar": {
           "source": "Pathfinder Player Core"
@@ -2344,7 +2339,7 @@
           "source": "Pathfinder Monster Core"
         },
         "strike-melee->Tongue": {
-          "name": "Tongue",
+          "name": "Língua",
           "source": "Pathfinder Monster Core"
         },
         "strike-ranged->Sling": {
@@ -2352,30 +2347,30 @@
           "source": "Pathfinder Monster Core"
         },
         "action->Swamp Passage": {
-          "name": "Swamp Passage",
-          "description": "<p>A boggard scout ignores difficult terrain caused by swamp terrain features.</p>",
+          "name": "Movimentação no Pântano",
+          "description": "<p>Um batedor boggard ignora terreno difícil causado por características de terreno de pântano.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Terrifying Croak": {
-          "name": "Terrifying Croak",
-          "description": "<p>The boggard scout unleashes a terrifying croak. Any non-boggard within @Template[emanation|distance:30]{30 feet} becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} unless they succeed at a @Check[will|dc:17] save; those who critically succeed are temporarily immune for 1 minute.</p>",
+          "name": "Coaxar Aterrador",
+          "description": "<p>O batedor boggard solta um coaxar aterrorizante. Qualquer não-boggard em um raio de @Template[emanation|distance:30]{30 pés} se torna @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 1}, a menos que seja bem-sucedido em um teste de resistência @Check[will|dc:17]; aqueles que obtiverem sucesso crítico ficam temporariamente imunes por 1 minuto.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Tongue Grab": {
-          "name": "Tongue Grab",
-          "description": "<p>If the boggard scout hits a creature with their tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the boggard. Unlike with a normal Grab, the creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 13 and dealing at least 2 slashing damage. Though this doesn't deal any damage to the boggard, it prevents them from using their tongue Strike until they regrow their tongue, which takes a week.</p>",
+          "name": "Agarrar com a Língua",
+          "description": "<p>Se o batedor boggard atingir uma criatura com sua língua, essa criatura se torna @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Agarrada} pelo boggard. Ao contrário de um Agarrar normal, a criatura não fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizada}, mas não pode se mover além do alcance da língua do boggard. Uma criatura pode cortar a língua atingindo CA 13 e causando pelo menos 2 de dano cortante. Embora isso não cause nenhum dano ao boggard, impede que ele use seu Ataque de língua até que ele regenere sua língua, o que leva uma semana.</p>",
           "source": "Pathfinder Monster Core"
         }
       }
     },
     "Boggard Swampseer": {
-      "name": "Boggard Swampseer",
-      "publicNotes": "<p>The boggard swampseer has been gifted with magic through their worship of the demon lord Gogunta, and they use their power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.</p>\n<hr />\n<p>Boggards are aggressive humanoid amphibians who thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develop arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare—everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
+      "name": "Vidente do Pântano Boggard",
+      "publicNotes": "<p>O vidente do pântano boggard foi presenteado com magia por meio de sua adoração ao senhor demônio Gogunta, e eles usam seu poder para governar uma vila boggard, mantendo o resto da vila na linha e planejando ataques a comunidades próximas.</p>\n<hr />\n<p>Boggards são anfíbios humanoides agressivos que prosperam em pântanos, brejos e até mesmo em algumas florestas tropicais. Os boggards eclodem de ovos em girinos, competindo ferozmente por comida e até consumindo seus irmãos nessa luta. Ao longo de 3 anos, os boggards sobreviventes desenvolvem braços, pernas e pulmões enquanto aprendem os rudimentos da caça, artesanato e guerra - tudo o que é necessário para sobreviver em sua sociedade onde a força faz o direito. No topo da maioria das hierarquias boggard está um enorme vidente do pântano imbuído de magia divina sinistra.</p>",
       "source": "Pathfinder Monster Core",
-      "speed": "swamp passage",
+      "speed": "movimentação no pântano",
       "items": {
         "spellcastingEntry->Primal Prepared Spells": {
-          "name": "Primal Prepared Spells",
+          "name": "Magias Primais Preparadas",
           "source": "Pathfinder Monster Core"
         },
         "spell->Acid Grip": {
@@ -2406,50 +2401,50 @@
           "source": "Pathfinder Player Core"
         },
         "strike-melee->Staff": {
-          "name": "Staff",
+          "name": "Cajado",
           "source": "Pathfinder Monster Core"
         },
         "strike-melee->Tongue": {
-          "name": "Tongue",
+          "name": "Língua",
           "source": "Pathfinder Monster Core"
         },
         "action->Destructive Croak": {
-          "name": "Destructive Croak",
-          "description": "<p>The swampseer utters a powerful croak that deals @Damage[4d6[sonic]] damage to any non-boggard within a @Template[emanation|distance:15] (@Check[fortitude|dc:19|basic] save); any creature with the frightened condition takes additional sonic damage equal to twice the value of its frightened condition.</p>\n<p>The boggard can't use Destructive Croak again for [[/gmr 1d4 #Recharge use Destructive Croak]]{1d4 rounds}.</p>",
+          "name": "Coaxar Destrutivo",
+          "description": "<p>O vidente do pântano solta um coaxar poderoso que causa @Damage[4d6[sonic]] de dano a qualquer não-boggard em uma @Template[emanation|distance:15] (@Check[fortitude|dc:19|basic] teste de resistência); qualquer criatura com a condição assustado recebe dano sônico adicional igual ao dobro do valor de sua condição assustado.</p>\n<p>O boggard não pode usar Coaxar Destrutivo novamente por [[/gmr 1d4 #Recharge use Destructive Croak]]{1d4 rodadas}.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Drowning Drone": {
-          "name": "Drowning Drone",
-          "description": "<p><strong>Trigger</strong> The boggard swampseer or one of their allies within 60 feet attempts a saving throw against an auditory or sonic effect</p>\n<hr />\n<p><strong>Effect</strong> The swampseer releases a croak that drowns out other sounds. They roll a @Check[performance] check. They and boggard allies in the area can use the higher result between the swampseer's Performance check and their saves to resolve the effects against the auditory or sonic effect.</p>",
+          "name": "Zumbido Afogador",
+          "description": "<p><strong>Gatilho</strong> O vidente do pântano boggard ou um de seus aliados em um raio de 60 pés tenta um teste de resistência contra um efeito auditivo ou sônico</p>\n<hr />\n<p><strong>Efeito</strong> O vidente do pântano libera um coaxar que abafa outros sons. Ele rola um teste de @Check[performance]. Ele e os aliados boggards na área podem usar o resultado mais alto entre o teste de Performance do vidente do pântano e seus testes de resistência para resolver os efeitos contra o efeito auditivo ou sônico.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Swamp Passage": {
-          "name": "Swamp Passage",
-          "description": "<p>A boggard swampseer ignores difficult terrain caused by swamp terrain features.</p>",
+          "name": "Movimentação no Pântano",
+          "description": "<p>Um vidente do pântano boggard ignora terreno difícil causado por características de terreno de pântano.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Terrifying Croak": {
-          "name": "Terrifying Croak",
-          "description": "<p>The boggard swampseer unleashes a terrifying croak. Any non-boggard within @Template[emanation|distance:30]{30 feet} becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} unless they succeed at a @Check[will|dc:19] save; those who critically succeed are temporarily immune for 1 minute.</p>",
+          "name": "Coaxar Aterrador",
+          "description": "<p>O vidente do pântano boggard solta um coaxar aterrorizante. Qualquer não-boggard em um raio de @Template[emanation|distance:30]{30 pés} se torna @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 1}, a menos que seja bem-sucedido em um teste de resistência @Check[will|dc:19]; aqueles que obtiverem sucesso crítico ficam temporariamente imunes por 1 minuto.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Tongue Grab": {
-          "name": "Tongue Grab",
-          "description": "<p>If the boggard swampseer hits a creature with their tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the boggard. Unlike with a normal Grab, the creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 4 slashing damage. Though this doesn't deal any damage to the boggard, it prevents them from using their tongue Strike until they regrow their tongue, which takes a week.</p>",
+          "name": "Agarrar com a Língua",
+          "description": "<p>Se o vidente do pântano boggard atingir uma criatura com sua língua, essa criatura se torna @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Agarrada} pelo boggard. Ao contrário de um Agarrar normal, a criatura não fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizada}, mas não pode se mover além do alcance da língua do boggard. Uma criatura pode cortar a língua atingindo CA 15 e causando pelo menos 4 de dano cortante. Embora isso não cause nenhum dano ao boggard, impede que ele use seu Ataque de língua até que ele regenere sua língua, o que leva uma semana.</p>",
           "source": "Pathfinder Monster Core"
         }
       }
     },
     "Boggard Warrior": {
-      "name": "Boggard Warrior",
-      "publicNotes": "<p>Boggard warriors exalt single combat and prefer to fight alone so that no one can contest their kills. They have been known to pursue enemies who flee combat with a single-mindedness that seems almost supernatural.</p>\n<hr />\n<p>Boggards are aggressive humanoid amphibians who thrive in swamps, marshes, and even some rain forests. Boggards hatch from eggs into tadpoles, fiercely competing for food and even consuming their siblings in that struggle. Over 3 years, the surviving boggards develop arms, legs, and lungs while learning the rudiments of hunting, crafts, and warfare—everything needed to survive in their might-makes-right society. At the top of most boggard hierarchies lords a hulking swampseer imbued with sinister divine magic.</p>",
+      "name": "Guerreiro Boggard",
+      "publicNotes": "<p>Guerreiros boggards exaltam o combate individual e preferem lutar sozinhos para que ninguém possa contestar suas mortes. Eles são conhecidos por perseguir inimigos que fogem do combate com uma teimosia que parece quase sobrenatural.</p>\n<hr />\n<p>Boggards são anfíbios humanoides agressivos que prosperam em pântanos, brejos e até mesmo em algumas florestas tropicais. Os boggards eclodem de ovos em girinos, competindo ferozmente por comida e até consumindo seus irmãos nessa luta. Ao longo de 3 anos, os boggards sobreviventes desenvolvem braços, pernas e pulmões enquanto aprendem os rudimentos da caça, artesanato e guerra - tudo o que é necessário para sobreviver em sua sociedade onde a força faz o direito. No topo da maioria das hierarquias boggard está um enorme vidente do pântano imbuído de magia divina sinistra.</p>",
       "skillSpecialStealth": {
         "0": {
-          "label": "in water"
+          "label": "em água"
         }
       },
       "source": "Pathfinder Monster Core",
-      "speed": "swamp passage",
+      "speed": "movimentação no pântano",
       "items": {
         "weapon->Club": {
           "source": "Pathfinder Player Core"
@@ -2461,11 +2456,11 @@
           "source": "Pathfinder Player Core"
         },
         "strike-melee->Club": {
-          "name": "Club",
+          "name": "Clava",
           "source": "Pathfinder Monster Core"
         },
         "strike-melee->Tongue": {
-          "name": "Tongue",
+          "name": "Língua",
           "source": "Pathfinder Monster Core"
         },
         "strike-ranged->Javelin": {
@@ -2473,22 +2468,22 @@
           "source": "Pathfinder Monster Core"
         },
         "strike-ranged->Club": {
-          "name": "Club",
+          "name": "Clava",
           "source": "Pathfinder Monster Core"
         },
         "action->Swamp Passage": {
-          "name": "Swamp Passage",
-          "description": "<p>A boggard warrior ignores difficult terrain caused by swamp terrain features.</p>",
+          "name": "Movimentação no Pântano",
+          "description": "<p>Um guerreiro boggard ignora terreno difícil causado por características de terreno de pântano.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Terrifying Croak": {
-          "name": "Terrifying Croak",
-          "description": "<p>The boggard warrior unleashes a terrifying croak. Any non-boggard within @Template[emanation|distance:30]{30 feet} becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} unless they succeed at a @Check[will|dc:18] save; those who critically succeed are temporarily immune for 1 minute.</p>",
+          "name": "Coaxar Aterrador",
+          "description": "<p>O guerreiro boggard solta um coaxar aterrorizante. Qualquer não-boggard em um raio de @Template[emanation|distance:30]{30 pés} se torna @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 1}, a menos que seja bem-sucedido em um teste de resistência @Check[will|dc:18]; aqueles que obtiverem sucesso crítico ficam temporariamente imunes por 1 minuto.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Tongue Grab": {
-          "name": "Tongue Grab",
-          "description": "<p>If the boggard warrior hits a creature with their tongue, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} by the boggard. Unlike with a normal Grab, the creature isn't @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}, but it can't move beyond the reach of the boggard's tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 3 slashing damage. Though this doesn't deal any damage to the boggard, it prevents them from using their tongue Strike until they regrow their tongue, which takes a week.</p>",
+          "name": "Agarrar com a Língua",
+          "description": "<p>Se o guerreiro boggard atingir uma criatura com sua língua, essa criatura se torna @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Agarrada} pelo boggard. Ao contrário de um Agarrar normal, a criatura não fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizada}, mas não pode se mover além do alcance da língua do boggard. Uma criatura pode cortar a língua atingindo CA 15 e causando pelo menos 3 de dano cortante. Embora isso não cause nenhum dano ao boggard, impede que ele use seu Ataque de língua até que ele regenere sua língua, o que leva uma semana.</p>",
           "source": "Pathfinder Monster Core"
         }
       }
@@ -12843,6 +12838,10 @@
           "name": "Burning Grasp",
           "description": "<p>When the ifrit @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabs} or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrains} a creature, that creature takes @Damage[2d6[fire]] damage, and takes 2d6 fire damage at the end of each of its turns until freed.</p>"
         },
+        "action->Change Shape": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]\n<p>The ifrit transforms into a Small or Medium fire elemental or reptile, such as a snake. This doesn’t affect their statistics but could change the damage type of their Strikes.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>",
+          "source": "Pathfinder Monster Core"
+        },
         "action->Combat Grab": {
           "name": "Combat Grab",
           "description": "<p><strong>Requirements</strong> The ifrit has a hand free</p>\n<hr />\n<p><strong>Effect</strong> The ifrit makes a melee Strike. If the Strike hits, the target is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} in the ifrit's free hand.</p>"
@@ -19679,6 +19678,9 @@
         "action->Swallow Whole": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.uJSseLa57HZYSMUu]\n<p>Medium, @Damage[(2d12+6)[bludgeoning]], Rupture 15</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>",
           "source": "Pathfinder Monster Core"
+        },
+        "action->Grab": {
+          "source": "Pathfinder Monster Core"
         }
       }
     },
@@ -24570,25 +24572,25 @@
       }
     },
     "Voidworm": {
-      "name": "Voidworm",
-      "hpDetails": "fast healing 1",
-      "publicNotes": "<p>Other proteans don't consider the flying, iridescent beings known as voidworms to be part of a protean caste at all, but instead merely a shameful side effect of the Maelstrom's constantly churning energy. To call a voidworm a protean in the presence of a more powerful protean is a sure a way to instigate combat.</p>\n<p>Voidworms themselves have little interest in whether anyone sees them as proteans. They maintain a thriving ecology in the Maelstrom, frolicking in schools of up to 20 and playing in the chaos of constantly shifting realities. Elsewhere (such as in the Universe), voidworms are mesmerized by the principle of object permanence; many latch onto specific features of a region (such as a hillside or pond) and flit through the air around it for months or even years as they wait for the object of their curiosity to change. Minor changes—such as a tree's change of color in the fall, a corpse's slow decay, or periodic venting of steam from a geyser—all fascinate voidworms. A voidworm is about 2 feet long and weighs 2 pounds.</p>\n<hr />\n<p>Guardians of disorder and natives of the primal plane of chaos known as the Maelstrom, proteans consider it their calling to spread bedlam and hasten entropic ends. The most powerful proteans are demigods known collectively as the protean lords, although they are mysterious entities whose cults in the Universe tend to be obscure and secretive.</p>\n<p>Proteans divide themselves into a loose caste system and possess a dizzying variety of powers. Most proteans have a serpentine body with the head of a primeval beast. Scholars have long been intrigued by this fact—that scions of dissolution and disorder would share so many features—pointing out that there is some semblance of order even in the purest chaos. Others note that the serpentine form is one of the most primeval shapes, perhaps suggesting that in a reality at the dawn of time, such shapes were all that could exist. The proteans themselves have little to say on the matter, which, perhaps ironically, only adds to the confusion and lack of consensus surrounding their kind. After all, if even chaos cannot be trusted to be chaotic, would that not be the purest form of entropy?</p>",
-      "senses": "entropy sense (imprecise) 30 feet",
+      "name": "Verme do Vazio",
+      "hpDetails": "cura rápida 1",
+      "publicNotes": "<p>Outros proteus não consideram os seres voadores e iridescentes conhecidos como vermes do vazio como parte de uma casta proteica, mas sim apenas um efeito colateral vergonhoso da energia em constante agitação do Maelstrom. Chamar um verme do vazio de proteu na presença de um proteu mais poderoso é uma maneira certa de instigar o combate.</p>\n<p>Os próprios vermes do vazio têm pouco interesse em saber se alguém os vê como proteus. Eles mantêm uma ecologia próspera no Maelstrom, brincando em cardumes de até 20 e jogando no caos de realidades em constante mudança. Em outros lugares (como no Universo), os vermes do vazio são hipnotizados pelo princípio da permanência do objeto; muitos se apegam a características específicas de uma região (como uma encosta ou lagoa) e voam pelo ar ao redor dela por meses ou até anos enquanto esperam que o objeto de sua curiosidade mude. Mudanças menores - como a mudança de cor de uma árvore no outono, a lenta decomposição de um cadáver ou a liberação periódica de vapor de um gêiser - fascinam os vermes do vazio. Um verme do vazio tem cerca de 2 pés de comprimento e pesa 2 libras.</p>\n<hr />\n<p>Guardiões da desordem e nativos do plano primal do caos conhecido como Maelstrom, os proteus consideram seu chamado espalhar o caos e acelerar os fins entrópicos. Os proteus mais poderosos são semideuses conhecidos coletivamente como os senhores proteus, embora sejam entidades misteriosas cujos cultos no Universo tendem a ser obscuros e secretos.</p>\n<p>Os proteus se dividem em um sistema de castas frouxo e possuem uma variedade estonteante de poderes. A maioria dos proteus tem um corpo serpentino com a cabeça de uma besta primeva. Os estudiosos há muito se intrigam com esse fato - que os descendentes da dissolução e da desordem compartilhariam tantas características - apontando que há alguma aparência de ordem mesmo no caos mais puro. Outros observam que a forma serpentina é uma das formas mais primevas, talvez sugerindo que em uma realidade no início dos tempos, tais formas eram tudo o que podia existir. Os próprios proteus têm pouco a dizer sobre o assunto, o que, talvez ironicamente, só aumenta a confusão e a falta de consenso em torno de sua espécie. Afinal, se nem mesmo o caos pode ser confiável para ser caótico, essa não seria a forma mais pura de entropia?</p>",
+      "senses": "sentido de entropia (impreciso) 30 pés",
       "source": "Pathfinder Monster Core",
-      "speed": "unfettered movement",
+      "speed": "movimento livre",
       "items": {
         "spellcastingEntry->Divine Innate Spells": {
-          "name": "Divine Innate Spells"
+          "name": "Magias Inatas Divinas"
         },
         "spell->Read Omens": {
           "source": "Pathfinder Player Core"
         },
         "spell->Unfettered Movement (Constant)": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]\nUnfettered Movement (Constant)",
+          "name": "<Compendium> tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]\nMovimento Desenfreado (Constante)",
           "source": "Pathfinder Player Core"
         },
         "spell->Blur (Self only)": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.3JG1t3T4mWn6vTke]\nBlur (Self only)",
+          "name": "<Compendium> tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.spells-srd.Item.3JG1t3T4mWn6vTke]\nBorrão (apenas em si mesmo)",
           "source": "Pathfinder Player Core"
         },
         "spell->Mist": {
@@ -24604,34 +24606,34 @@
           "source": "Pathfinder Player Core"
         },
         "strike-melee->Jaws": {
-          "name": "Jaws"
+          "name": "Mandíbulas"
         },
         "strike-melee->Tail": {
-          "name": "Tail"
+          "name": "Cauda"
         },
         "action->Entropy Sense (Imprecise) 30 feet": {
-          "name": "Entropy Sense (Imprecise) 30 feet",
-          "description": "<p>A voidworm can anticipate the most likely presence of a creature through a supernatural insight into chaotic probabilities and chance. This grants them the ability to sense creatures within the listed range. @UUID[Compendium.pf2e.spells-srd.Item.EoKBlgf6Smt8opaU]{Veil of Privacy} prevents a creature from being detected via entropy sense automatically (without a counteract check).</p>"
+          "name": "Sentido de Entropia (impreciso) 30 pés",
+          "description": "<p>Um verme do vazio pode antecipar a presença mais provável de uma criatura por meio de um insight sobrenatural sobre probabilidades caóticas e chances. Isso concede a eles a habilidade de sentir criaturas dentro do alcance listado. @UUID[Compendium.pf2e.spells-srd.Item.EoKBlgf6Smt8opaU]{Véu de Privacidade} impede que uma criatura seja detectada por meio do sentido de entropia automaticamente (sem um teste de neutralização).</p>"
         },
         "action->Constant Spells": {
           "source": "Pathfinder Monster Core"
         },
         "action->Fast Healing 1": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.fJSNOw4zHGbIm4bZ]\nFast Healing 1",
+          "name": "<Compendium> tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.fJSNOw4zHGbIm4bZ]\nCura Rápida 1",
           "source": "Pathfinder Monster Core"
         },
         "action->Protean Anatomy": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL]\nProtean Anatomy",
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL]\n<p>A voidworm's vital organs shift and change shape and position constantly. Immediately after the voidworm takes acid, electricity, or sonic damage, they gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the voidworm takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.</p>\n<p>The voidworm is immune to polymorph effects unless it is a willing target. If @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} or @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}, the voidworm automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.c6SiBB3mzV8lZUQr]{Effect: Protean Anatomy}</p>",
+          "name": "<Compendium> tag será substituída pelo texto da entrada do glossário de habilidades da família do bestiário @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL]\nAnatomia Proteica",
+          "description": "<Compendium> tag será substituída pelo texto da entrada do glossário de habilidades da família do bestiário @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL]\n<p>Os órgãos vitais de um verme do vazio mudam e mudam de forma e posição constantemente. Imediatamente após o verme do vazio receber dano de ácido, eletricidade ou sônico, ele ganha a quantidade listada de resistência a esse tipo de dano. Isso dura por 1 hora ou até a próxima vez que o verme do vazio receber dano de um dos outros tipos (nesse caso, sua resistência muda para corresponder àquele tipo), o que ocorrer primeiro.</p>\n<p>O verme do vazio é imune a efeitos de polimorfo, a menos que seja um alvo voluntário. Se @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} ou @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Surdo}, o verme do vazio se recupera automaticamente no final de seu próximo turno conforme novos órgãos sensoriais crescem para substituir os comprometidos.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.c6SiBB3mzV8lZUQr]{Efeito: Anatomia Proteica}</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Change Shape": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]\n<p>The voidworm takes on the appearance of a Tiny animal. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>",
+          "description": "<Compendium> tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]\n<p>O verme do vazio assume a aparência de um animal Minúsculo. Isso não muda sua Velocidade ou seus bônus de ataque e dano com seus Ataques, mas pode mudar o tipo de dano que seus Ataques causam.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Confounding Lash": {
-          "name": "Confounding Lash",
-          "description": "<p>A creature hit by the voidworm's tail Strike is @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round (@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} on a critical hit). A successful @Check[will|dc:16] save negates this effect and grants temporary immunity to confounding lash for 1 minute.</p>"
+          "name": "Chicoteada Confusa",
+          "description": "<p>Uma criatura atingida pelo Ataque de cauda do verme do vazio fica @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefata 1} por 1 rodada (@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefata 2} em um acerto crítico). Um teste de resistência @Check[will|dc:16] bem-sucedido nega este efeito e concede imunidade temporária a chicoteada confusa por 1 minuto.</p>"
         }
       }
     },

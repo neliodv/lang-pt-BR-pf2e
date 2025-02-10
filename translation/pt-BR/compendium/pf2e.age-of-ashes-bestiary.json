@@ -907,21 +907,21 @@
           "source": "Pathfinder Core Rulebook"
         },
         "strike-melee->Sickle": {
-          "name": "Foice"
+          "name": "Sickle"
         },
         "strike-melee->Whip": {
-          "name": "Chicote"
+          "name": "Whip"
         },
         "strike-ranged->Thrown Debris": {
-          "name": "Detritos Arremessados"
+          "name": "Thrown Debris"
         },
         "action->Shrieking Frenzy": {
-          "name": "Frenesi Gritante",
-          "description": "<p><strong>Gatilho</strong> O turno do charau-ka começa.</p>\n<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> O charau-ka fica @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Acelerado} até o final de seu turno e pode usar a ação extra para Andar ou Atacar. Devido ao seu grito alto enquanto está em um frenesi gritante, o charau-ka não pode falar e falha criticamente em todos os testes de Furtividade.</p>"
+          "name": "Shrieking Frenzy",
+          "description": "<p><strong>Trigger</strong> The charau-ka's turn begins.</p>\n<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> The charau-ka is @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} until the end of its turn, and can use the extra action to Stride or Strike. Due to its loud wailing while in a shrieking frenzy, the charau-ka can't speak and automatically critically fails all Stealth checks.</p>"
         },
         "action->Thrown Weapon Mastery": {
-          "name": "Maestria em Arma Arremessada",
-          "description": "<p>Quando um charau-ka arremessa uma arma, a arma ganha a característica de arma mortal d6. Quando ele arremessa uma arma improvisada, ele não sofre a penalidade de -2 por usar uma arma improvisada, nem sofre a penalidade por usar essa arma para fazer um ataque letal em vez de um ataque não letal.</p>"
+          "name": "Thrown Weapon Mastery",
+          "description": "<p>When a charau-ka throws a weapon, the weapon gains the deadly d6 weapon trait. When it throws an improvised weapon, it doesn't take the -2 penalty for using an improvised weapon, nor does it take the penalty for using that weapon to make a lethal attack instead of a nonlethal attack.</p>"
         }
       }
     },
@@ -2642,7 +2642,7 @@
         },
         "action->Smoky Retreat": {
           "name": "Smoky Retreat",
-          "description": "<p><strong>Cost</strong> 1 batch of infused reagents.</p>\n<p><strong>Requirements</strong> Hezle must be adjacent to at least one enemy.</p>\n<hr />\n<p><strong>Effect</strong> Hezle throws a mix of special powders centered on a corner of her space, creating a plume of smoke filling a @Template[burst|distance:5] until the end of her turn that causes her to be @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden}. She then immediately @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneaks}, but must end her movement in a space that's not adjacent to any enemies.</p>\n<p>All creatures other than Hezle in the smoke cloud must attempt a @Check[fortitude|dc:26] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}.</p>\n<p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3} and @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>"
+          "description": "<p><strong>Cost</strong> 1 batch of infused reagents.</p>\n<hr />\n<p><strong>Requirements</strong> Hezle must be adjacent to at least one enemy.</p>\n<hr />\n<p><strong>Effect</strong> Hezle throws a mix of special powders centered on a corner of her space, creating a plume of smoke filling a @Template[burst|distance:5] until the end of her turn that causes her to be @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden}. She then immediately @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneaks}, but must end her movement in a space that's not adjacent to any enemies.</p>\n<p>All creatures other than Hezle in the smoke cloud must attempt a @Check[fortitude|dc:26] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}.</p>\n<p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 3} and @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>"
         },
         "action->Sneak Attack": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.AWvNPE4U0kEJSL1T]\n<p>Hezle deals an extra 2d6 precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>",
@@ -4646,32 +4646,32 @@
       }
     },
     "Mud Spider": {
-      "name": "Mud Spider",
-      "blurb": "Variant giant tarantula",
-      "publicNotes": "<p>Tarantulas are ambush predators, but will attack prey in the open.</p>",
+      "name": "Aranha da Lama",
+      "blurb": "Variante de tarântula gigante",
+      "publicNotes": "<p>Tarântulas são predadoras de emboscada, mas atacarão presas em campo aberto.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
       "speed": "mudwalking",
       "items": {
         "strike-melee->Fangs": {
-          "name": "Fangs"
+          "name": "Presas"
         },
         "strike-melee->Leg": {
-          "name": "Leg"
+          "name": "Perna"
         },
         "action->Mudwalking": {
-          "name": "Mudwalking",
-          "description": "<p>The mud spiders ignore difficult terrain from mud.</p>"
+          "name": "Caminhada na Lama",
+          "description": "<p>As aranhas da lama ignoram terreno difícil de lama.</p>"
         },
         "action->Giant Tarantula Venom": {
-          "name": "Giant Tarantula Venom",
-          "description": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:23]</p>\n<p><strong>Maximum Duration</strong> 8 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d6[poison]] (1 round)</p>\n<p><strong>Stage 2</strong> 1d6 poison, @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}, and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} (1 round)</p>\n<p><strong>Stage 3</strong> 1d6 poison, off-guard, and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2} (1 round)</p>\n<p><strong>Stage 4</strong> 1d6 poison and @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} (1 round).</p>"
+          "name": "Veneno de Tarântula Gigante",
+          "description": "<p><strong>Teste de Resistência</strong> @Check[fortitude|dc:23]</p>\n<p><strong>Duração Máxima</strong> 8 rodadas</p>\n<p><strong>Estágio 1</strong> @Damage[1d6[poison]] (1 rodada)</p>\n<p><strong>Estágio 2</strong> 1d6 de veneno, @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} e @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Desajeitado 1} (1 rodada)</p>\n<p><strong>Estágio 3</strong> 1d6 de veneno, desprevenido e @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Desajeitado 2} (1 rodada)</p>\n<p><strong>Estágio 4</strong> 1d6 de veneno e @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralisado} (1 rodada).</p>"
         },
         "action->Hair Barrage": {
-          "name": "Hair Barrage",
-          "description": "<p>The tarantula flicks its legs, flinging spiky hairs in a @Template[cone|distance:15]. This deals @Damage[4d6[piercing]|options:area-damage] damage with a @Check[reflex|dc:25|basic|options:area-effect] save.</p>"
+          "name": "Rajada de Pelos",
+          "description": "<p>A tarântula sacode suas pernas, lançando pelos espetados em um @Template[cone|distance:15]. Isso causa @Damage[4d6[piercing]|options:area-damage] de dano com um teste de resistência @Check[reflex|dc:25|basic|options:area-effect].</p>"
         },
         "action->Knockdown": {
-          "name": "Knockdown"
+          "name": "Derrubar"
         }
       }
     },
@@ -7010,21 +7010,21 @@
       }
     },
     "Vision of Dahak": {
-      "name": "Vision of Dahak",
-      "description": "<p>Blasts of fire and smoke pour out of the tunnel walls to coalesce into the burning form of Dahak himself; a PC who succeeds at a @Check[religion|dc:20|name:Recognize Depiction of Dahak|traits:hazard,complex,fire,magical,trap,action:recall-knowledge] check to Recall Knowledge notes that the fiery dragon closely resembles classical depictions of the draconic god of destruction.</p>",
-      "disable": "<p>@Check[religion|dc:26|name:Counteract Dahak With Prayers|traits:complex,fire,magical,trap,hazard] (expert) to utter prayers to a non-evil deity to counteract Dahak's presence (prayers to Apsu allow this check to be made if the character is merely trained in Religion), @Check[thievery|dc:30|name:Divert the Hazard's Energy Back|traits:complex,fire,magical,trap,hazard] (expert) to divert the hazard's energies back upon themselves, or a successful @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (4th level; counteract DC 26).</p>",
-      "reset": "<p>The vision of Dahak deactivates and resets automatically once no creatures remain within the Huntergate way station.</p>",
-      "routine": "<p>(2 actions) The vision of Dahak manifests next to the creature that is closest to the center of the way station, then uses its Breath Weapon in a direction that catches the most possible targets in its area.</p>",
+      "name": "Visão de Dahak",
+      "description": "<p>Rajadas de fogo e fumaça saem das paredes do túnel para se aglutinar na forma ardente do próprio Dahak; um PC que for bem-sucedido em um teste de @Check[religion|dc:20|name:Recognize Depiction of Dahak|traits:hazard,complex,fire,magical,trap,action:recall-knowledge] para Recordar Conhecimento observa que o dragão de fogo se assemelha muito às representações clássicas do deus dracônico da destruição.</p>",
+      "disable": "<p>@Check[religion|dc:26|name:Counteract Dahak With Prayers|traits:complex,fire,magical,trap,hazard] (expert) para proferir orações a uma divindade não maligna para neutralizar a presença de Dahak (orações a Apsu permitem que este teste seja feito se o personagem for meramente treinado em Religião), @Check[thievery|dc:30|name:Divert the Hazard's Energy Back|traits:complex,fire,magical,trap,hazard] (expert) para desviar as energias do perigo de volta para si mesmas, ou um @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia} bem-sucedido (4º nível; CD para neutralizar 26).</p>",
+      "reset": "<p>A visão de Dahak se desativa e redefine automaticamente quando nenhuma criatura permanece dentro da estação Huntergate.</p>",
+      "routine": "<p>(2 ações) A visão de Dahak se manifesta ao lado da criatura que está mais próxima do centro da estação, então usa sua Arma de Sopro em uma direção que atinge o maior número possível de alvos em sua área.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
       "stealth": "<p>(expert)</p>",
       "items": {
         "action->Manifest": {
-          "name": "Manifest",
-          "description": "<p><strong>Trigger</strong> A creature is within the way station.</p>\n<hr />\n<p><strong>Effect</strong> The vision of Dahak appears in a 15-foot space adjacent to that creature and rolls initiative.</p>"
+          "name": "Manifestar",
+          "description": "<p><strong>Gatilho</strong> Uma criatura está dentro da estação.</p>\n<hr />\n<p><strong>Efeito</strong> A visão de Dahak aparece em um espaço de 15 pés adjacente àquela criatura e rola iniciativa.</p>"
         },
         "action->Breath Weapon": {
-          "name": "Breath Weapon",
-          "description": "<p>The vision of Dahak unleashes a blast of fire from its burning maw, creating a @Template[cone|distance:60] that deals @Damage[6d6[fire]] damage to all creatures within (@Check[reflex|dc:26|basic|traits:magical,trap,hazard] save).</p>"
+          "name": "Arma de Sopro",
+          "description": "<p>A visão de Dahak libera uma rajada de fogo de suas fauces ardentes, criando um @Template[cone|distance:60] que causa @Damage[6d6[fire]] de dano a todas as criaturas dentro (@Check[reflex|dc:26|basic|traits:magical,trap,hazard] teste de resistência).</p>"
         }
       }
     },

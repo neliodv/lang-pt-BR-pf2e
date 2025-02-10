@@ -118,8 +118,8 @@
     },
     "Automaton Aim": {
       "name": "Mira do Autômato",
-      "description": "<p>Você firma seu corpo e observa os eventos do campo de batalha para maximizar o alcance do seu próximo tiro. Você reduz a penalidade por atirar no segundo incremento de alcance da sua arma de -2 para 0 para o próximo ataque à distância que você fizer neste turno. Você pode usar esta ação uma segunda vez no mesmo turno para reduzir a penalidade por atirar no terceiro incremento de alcance da sua arma de -4 para 0 para o próximo ataque à distância que você fizer neste turno.</p>",
-      "source": "Pathfinder Guns & Gears"
+"description": "<p>Você firma seu corpo e observa os eventos do campo de batalha para maximizar o alcance do seu próximo disparo. Você reduz a penalidade por disparar no segundo incremento de alcance da sua arma de -2 para 0 para o próximo ataque à distância que você fizer neste turno. Você pode usar esta ação uma segunda vez no mesmo turno para reduzir a penalidade por disparar no terceiro incremento de alcance da sua arma de -4 para 0 para o próximo ataque à distância que você fizer neste turno.</p>",      
+"source": "Pathfinder Guns & Gears"
     },
     "Avert Gaze": {
       "name": "Desviar o Olhar",
@@ -143,7 +143,7 @@
     },
     "Banshee Cry": {
       "name": "Grito da Banshee",
-      "description": "<p><strong>Acionamento</strong> Uma criatura a até 30 pés Conjura uma Magia que tem um componente verbal ou Ativa um Item usando um Acionamento de comando</p>\n<hr />\n<p><strong>Efeito</strong> Você aciona um fogo de artifício para explodir com um grito estridente perto da criatura. A criatura deve tentar um teste de Vontade.</p>\n<hr />\n<p><strong>Sucesso</strong> A criatura não é afetada.</p>\n<p><strong>Falha</strong> A criatura deve usar uma ação adicional na ação ou atividade de acionamento, ou ela é interrompida.</p>\n<p><strong>Falha Crítica</strong> A ação de acionamento é interrompida.</p>",
+      "description": "<p><strong>Gatilho</strong> Uma criatura dentro de 30 feet Conjura uma Magia ou Ativa um Item usando uma Ativação de concentração</p>\n<hr />\n<p><strong>Efeito</strong> Você gasta 1 exibição de fogos de artifício ou 3 frascos versáteis para disparar um fogo de artifício que explode com um guincho alto perto da criatura. A criatura deve realizar um teste de @Check[will|against:class-spell].</p>\n<hr />\n<p><strong>Sucesso</strong> A criatura não é afetada.</p>\n<p><strong>Falha</strong> A criatura deve usar uma ação adicional na ação ou atividade desencadeadora, ou ela é interrompida.</p>\n<p><strong>Falha Crítica</strong> A ação desencadeadora é interrompida.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Barbed Quills": {
@@ -268,8 +268,8 @@
     },
     "Bullet Dancer Stance": {
       "name": "Postura do Dançarino de Bala",
-      "description": "<p><strong>Requerimentos</strong> Você está sem armadura e empunhando uma arma de fogo simples, baioneta ou coronha reforçada</p>\n<hr />\n<p><strong>Efeito</strong> Você entra em uma postura especializada para uma arte marcial única centrada no uso de armas de fogo simples. Enquanto estiver nesta postura, os únicos Golpes que você pode fazer são aqueles que usam baionetas, coronhas reforçadas e armas de fogo simples. Você pode usar Rajada de Golpes com essas armas. Você pode usar seus outros talentos de monge ou habilidades de monge que normalmente exigem ataques desarmados com baionetas e coronhas reforçadas, desde que o talento ou habilidade não exija um único Golpe específico. Você também pode usá-los com armas de fogo simples ao atacar dentro da metade do primeiro incremento de alcance.</p>",
-      "source": "Pathfinder Guns & Gears"
+"description": "<p><strong>Requisitos</strong> Você está sem armadura e empunhando uma arma de fogo simples ou uma arma de combinação simples</p>\n<hr />\n<p><strong>Efeito</strong> Você entra em uma postura especializada para uma arte marcial única centrada no uso de armas de fogo simples. Enquanto estiver nesta postura, os únicos Golpes que você pode fazer são aqueles usando baionetas, coronhas reforçadas, armas de fogo simples e armas de combinação simples. Você pode usar @UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{Flurry of Blows} com estas armas. Você pode usar outros talentos de monge ou habilidades de monge que você tenha que normalmente exigem ataques desarmados com baionetas, coronhas reforçadas e o componente corpo a corpo de armas de combinação simples, desde que o talento ou habilidade não exija um Golpe único e específico. Você também pode usá-los com armas de fogo simples ao atacar dentro da metade do primeiro incremento de alcance.</p>",      
+"source": "Pathfinder Guns & Gears"
     },
     "Bullying Press": {
       "name": "Pressão Intimidadora",
@@ -368,7 +368,7 @@
     },
     "Clear a Path": {
       "name": "Abrir Caminho",
-      "description": "<p><strong>Requerimentos</strong> Você está empunhando uma arma de fogo de duas mãos ou uma besta de duas mãos.</p>\n<hr />\n<p>Você empurra para fora com sua arma para abrir espaço antes de recarregar rapidamente um novo projétil. Você faz um teste de Atletismo para @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Empurrar} um oponente dentro do seu alcance usando sua arma, depois Interagir para recarregar. Para este Empurrão, você não precisa de uma mão livre e você adiciona o bônus de item da arma em testes de ataque (se houver) ao teste de Atletismo. Se sua última ação foi um Golpe à distância com a arma, use a mesma penalidade de ataque múltiplo daquele Golpe para o Empurrão; o Empurrão ainda conta para sua penalidade de ataque múltiplo em ataques futuros como de costume.</p>",
+      "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo de duas mãos ou uma besta de duas mãos.</p>\n<hr />\n<p>Você empurra para fora com sua arma para abrir algum espaço antes de recarregar rapidamente uma nova munição. Você faz um teste de Atletismo para @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} um oponente dentro do seu alcance usando sua arma, e então Interage para recarregar. Para este Empurrão, você não precisa de uma mão livre e adiciona o bônus de item da arma em jogadas de ataque (se houver) ao teste de Atletismo. Se sua última ação ou atividade neste turno incluiu um Golpe à distância com a arma, use a mesma penalidade de ataque múltiplo do último Golpe que você tentou com a arma para o Empurrão; o Empurrão ainda conta para sua penalidade de ataque múltiplo em ataques posteriores.</p>",      
       "source": "Pathfinder Guns & Gears"
     },
     "Climb": {
@@ -438,8 +438,8 @@
     },
     "Coughing Dragon": {
       "name": "Dragão Tossivo",
-      "description": "<p><strong>Custo</strong> 2 lotes de reagentes infundidos</p>\n<hr />\n<p><strong>Efeito</strong> Escolha efeitos auditivos ou visuais. A exibição ganha essa característica e você tenta neutralizar um ou mais efeitos a até 60 pés que tenham essa característica. Em um sucesso, o efeito é suprimido até o início do seu próximo turno, em vez de terminar completamente. Use seu modificador de Conhecimento de Fogos de Artifício como seu modificador de neutralizar magia e seu círculo de neutralizar magia é igual à metade do seu nível de alquimia avançada (arredondado para cima). Um dragão tossivo custa 2 lotes de reagentes infundidos em vez de 1, mas você pode aumentar o custo para 3 lotes e gastar uma ação adicional para criar uma exibição de dragão tossivo ainda maior que tenta neutralizar efeitos auditivos e visuais ao mesmo tempo.</p>",
-      "source": "Pathfinder Guns & Gears"
+"description": "<p><strong>Custo</strong> 1 exibição de fogos de artifício</p>\n<hr />\n<p><strong>Efeito</strong> Escolha efeitos auditivos ou visuais.</p>\n<hr />\n<p>A exibição ganha esse traço, e você tenta neutralizar um ou mais efeitos dentro de 60 feet que tenham esse traço. Em um sucesso, o efeito é suprimido até o início do seu próximo turno, em vez de terminar completamente. Use seu modificador de Conhecimento de Fogos de Artifício como seu modificador de neutralização, e seu nível de neutralização é igual à metade do seu nível (arredondado para cima). Um dragão tossindo custa 2 exibições de fogos de artifício em vez de 1, mas você pode aumentar o custo para 3 exibições de fogos de artifício e gastar uma ação adicional para criar uma exibição de dragão tossindo ainda maior que tenta neutralizar os efeitos auditivos e visuais ao mesmo tempo.</p>",      
+"source": "Pathfinder Guns & Gears"
     },
     "Cover Tracks": {
       "name": "Cobrir Rastros",
@@ -613,7 +613,7 @@
     },
     "Dispelling Bullet": {
       "name": "Bala de Dissipação",
-      "description": "<p>Você imprime em uma bala um campo de abjuração construído sobre sua assinatura mágica, interrompendo a magia de qualquer coisa que ela atinja. Faça um Golpe com arma de fogo ou besta contra um inimigo que você possa ver. Se você acertar, você tenta neutralizar um efeito de magia ativo no alvo (sua escolha, ou o efeito de nível mais alto se você não escolher). Seu círculo de neutralizar é igual à metade do seu nível (arredondado para cima) e seu modificador de teste de neutralizar é igual à sua CD de classe - 10.</p>",
+      "description": "<p>Você imprime em uma bala um campo de energia disruptiva construído sobre sua assinatura mágica, interrompendo a magia de qualquer coisa que ela atinja. Faça um Golpe com arma de fogo ou besta contra um inimigo que você possa ver. Se você acertar, você tenta neutralizar um efeito de magia ativo no alvo (sua escolha, ou o efeito de nível mais alto se você não escolher). Seu nível de neutralização é igual à metade do seu nível (arredondado para cima), e seu modificador de verificação de neutralização é igual à sua CD de classe - 10.</p>",      
       "source": "Pathfinder Guns & Gears"
     },
     "Divert Lightning": {
@@ -711,12 +711,12 @@
       "description": "<p><span class=\"action-glyph\">1</span> ou <span class=\"action-glyph\">2</span></p>\n<hr />\n<p>Com um movimento de sua mão, você coleta matéria elemental de sua aura e a arremessa ou a golpeia. Escolha um dos seus elementos cinéticos e um tipo de dano listado para aquele elemento, então faça um ataque de impulso corpo a corpo ou à distância contra a CA de uma criatura. Adicione seu modificador de Força à rolagem de dano para uma Explosão Elemental corpo a corpo. Se você fizer uma Explosão Elemental de 2 ações, você ganha um bônus de status à rolagem de dano igual ao seu modificador de Constituição. O elemento determina o dado de dano, o tipo de dano e o alcance (para uma explosão à distância). Um tipo de dano que não seja um dano físico adiciona sua característica à explosão.</p>\n<ul>\n<li><strong>Ar</strong> 1d6 de eletricidade ou cortante, 60 pés</li>\n<li><strong>Terra</strong> 1d8 de concussão ou perfurante, 30 pés</li>\n<li><strong>Fogo</strong> 1d6 de fogo, alcance de 60 pés</li>\n<li><strong>Metal</strong> 1d8 de perfurante ou cortante, 30 pés</li>\n<li><strong>Água</strong> 1d8 de concussão ou frio, 30 pés</li>\n<li><strong>Madeira</strong> 1d8 de concussão ou vitalidade, 30 pés</li>\n</ul>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo recebe o dobro do dano.</p>\n<p><strong>Sucesso</strong> O alvo recebe o dano total.</p>\n<hr />\n<p><strong>Nível (+4)</strong> O dano aumenta em um dado.</p>",
       "source": "Pathfinder Rage of Elements"
     },
-    "Embrace of Destiny": {
-      "name": "Embrace of Destiny",
-      "description": "<p>Choose an enemy within 20 feet of you. It must succeed at a @Check[will|against:exemplar] save against your class DC or be pulled directly toward you into a square adjacent to you.</p>",
-      "source": "Pathfinder War of Immortals"
+"Embrace of Destiny": {
+        "name": "Abraço do Destino",
+        "description": "<p>Escolha um inimigo dentro de 20 feet de você. Ele deve ser bem-sucedido em um teste de @Check[will|against:exemplar] contra sua CD de classe ou ser puxado diretamente em sua direção para um quadrado adjacente a você.</p>",
+        "source": "Pathfinder War of Immortals"
     },
-    "Empty Vessel": {
+        "Empty Vessel": {
       "name": "Vaso Vazio",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você receberia dano mental ou seria afetado por um efeito mental</p>\n<hr />\n<p><strong>Efeito</strong> Você ganha um bônus de circunstância +2 em testes de Vontade e resistência a dano mental igual ao seu nível contra o efeito de acionamento. Isso se aplica apenas ao efeito inicial, não a testes de resistência sucessivos, dano mental persistente ou outros efeitos repetidos.</p>",
       "source": "Pathfinder Dark Archive"
@@ -748,8 +748,8 @@
     },
     "Enter Spirit Trance": {
       "name": "Enter Spirit Trance",
-      "description": "<p>You enter a self-imposed trance that helps you push the physical limits of your body. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. The trance lasts for 1 minute, until you fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, or until you Dismiss it, whichever comes first.</p>\n<p>While in this trance, you gain a +1 status bonus to Fortitude and Will saving throws and your melee Strikes deal 1 additional spirit damage. Other abilities may require you to be in a spirit trance. When the trace ends, you lose any remaining temporary Hit Points from Enter Spirit Trance, and you can't Enter a Spirit Trance for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+"description": "<p>Você entra em um transe autoimposto que o ajuda a superar os limites físicos do seu corpo. Você ganha um número de Pontos de Vida temporários igual ao seu nível mais seu modificador de Constituição. O transe dura 1 minuto, até você cair @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, ou até você Dispensá-lo, o que ocorrer primeiro.</p>\n<p>Enquanto estiver neste transe, você ganha um bônus de status de +1 nos testes de resistência de Fortitude e Vontade e seus Golpes corpo a corpo causam 1 de dano espiritual adicional. Outras habilidades podem exigir que você esteja em um transe espiritual. Quando o transe termina, você perde quaisquer Pontos de Vida temporários restantes de Entrar em Transe Espiritual, e você não pode Entrar em Transe Espiritual por 1 minuto.</p>",      
+"source": "Pathfinder Lost Omens: Divine Mysteries"
     },
     "Entity's Resurgence": {
       "name": "Ressurgimento da Entidade",
@@ -807,11 +807,11 @@
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
     "Feed the Masses": {
-      "name": "Feed the Masses",
-      "description": "<p>The @UUID[Compendium.pf2e.classfeatures.Item.gjZXHLjezR0mkMnc]{Horn of Plenty} allows you to transfer the effects of potions and elixirs to your allies. You Interact to draw a consumable from the horn and then Interact to drink it. Rather than nourishing yourself, the item's effects are transferred to a willing ally within 60 feet, as if they had consumed it themself.</p>\n<p>If the consumable restores Hit Points, you can choose to divide the amount it restores between you and the ally freely (after rolling dice to determine the amount).</p>",
+      "name": "Alimentar as Massas",
+      "description": "<p>O @UUID[Compendium.pf2e.classfeatures.Item.gjZXHLjezR0mkMnc]{Horn of Plenty} permite que você transfira os efeitos de poções e elixires para seus aliados. Você Interage para retirar um consumível do chifre e, em seguida, Interage para bebê-lo. Em vez de nutrir a si mesmo, os efeitos do item são transferidos para um aliado voluntário dentro de 60 feet, como se ele mesmo o tivesse consumido.</p>\n<p>Se o consumível restaurar Pontos de Vida, você pode escolher dividir a quantidade que ele restaura entre você e o aliado livremente (após rolar os dados para determinar a quantidade).</p>",
       "source": "Pathfinder War of Immortals"
-    },
-    "Feint": {
+  },
+      "Feint": {
       "name": "Fintar",
       "description": "<p><strong>Requerimentos</strong> Você está dentro do alcance corpo a corpo do alvo que você tenta Fintar.</p>\n<hr />\n<p>Com um floreio enganoso, você deixa um oponente despreparado para seu ataque real. Faça um teste de [[/act feint]]{Enganação} contra a CD de Percepção do seu alvo.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você desequilibra completamente as defesas do seu inimigo contra você. O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} contra ataques corpo a corpo que você tentar contra ele até o final do seu próximo turno.</p>\n<p><strong>Sucesso</strong> Seu inimigo é enganado, mas apenas momentaneamente. O alvo fica desprevenido contra o próximo ataque corpo a corpo que você tentar contra ele antes do final do seu turno atual.</p>\n<p><strong>Falha Crítica</strong> Sua finta sai pela culatra. Você fica desprevenido contra ataques corpo a corpo que o alvo tentar contra você até o final do seu próximo turno.</p>",
       "source": "Pathfinder Player Core"
@@ -948,15 +948,15 @@
     },
     "Ghost Shot": {
       "name": "Disparo Fantasma",
-      "description": "<p>Faça um Golpe com arma de fogo ou besta. Se você estiver @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondido} ou não detectado pelo alvo, o Golpe adiciona o dano de precisão adicional de Um Tiro, Uma Morte; se você já receberia esse dano adicional no Golpe, os efeitos não são cumulativos. Se você estava não detectado ou não notado por qualquer criatura, você agora está escondido delas, já que a origem do ataque é clara.</p>",
+      "description": "<p>Faça um Golpe com arma de fogo ou besta. Se você estiver @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} ou @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} pelo alvo, o Golpe adiciona o dano de precisão adicional de @UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{One Shot, One Kill}; se você já receberia esse dano adicional no Golpe, os efeitos não são cumulativos. Se você estava indetectado ou @UUID[Compendium.pf2e.conditionitems.Item.9evPzg9E6muFcoSk]{Unnoticed} por quaisquer criaturas, você agora está oculto delas, ou indetectado se o disparo foi feito com um silenciador.</p>",      
       "source": "Pathfinder Guns & Gears"
     },
     "Giant-Felling Comet": {
-      "name": "Giant-Felling Comet",
-      "description": "<p>You shoot the @UUID[Compendium.pf2e.classfeatures.Item.LC8i3ZJjhhKEHSLI]{Starshot}, causing a detonation in a @Template[type:burst|distance:5] within 60 feet. Each creature in the area must succeed at a @Check[reflex|against:exemplar|basic|options:area-effect] save against your class DC or take spirit damage equal to your normal Strike damage with the starshot. Creatures larger than you take a –2 circumstance penalty to their saving throws. This shot requires any ammunition that would normally be required for the weapon.</p>",
+      "name": "Cometa Derruba-Gigantes",
+      "description": "<p>Você dispara o @UUID[Compendium.pf2e.classfeatures.Item.LC8i3ZJjhhKEHSLI]{Starshot}, causando uma detonação em uma @Template[type:burst|distance:5] dentro de 60 feet. Cada criatura na área deve ser bem-sucedida em um teste de @Check[reflex|against:exemplar|basic|options:area-effect] contra sua CD de classe ou sofrer dano espiritual igual ao seu dano de Golpe normal com o 'starshot'. Criaturas maiores que você sofrem uma penalidade de circunstância de -2 em seus testes de resistência. Este disparo requer qualquer munição que normalmente seria necessária para a arma.</p>",
       "source": "Pathfinder War of Immortals"
-    },
-    "Glimpse Vulnerability": {
+  },
+      "Glimpse Vulnerability": {
       "name": "Vislumbrar Vulnerabilidade",
       "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<p><strong>Requerimento</strong> Você está segurando seu implemento;</p>\n<hr />\n<p><strong>Efeito</strong> Você vislumbra uma vulnerabilidade oculta e então a fortalece para te ajudar. Selecione uma criatura que você possa ver. Até que você Vislumbre Vulnerabilidade novamente, esse alvo ganha fraqueza 2 contra seus Golpes desarmados e com armas.</p>",
       "source": "Pathfinder Dark Archive"
@@ -968,7 +968,7 @@
     },
     "Goblin Jubilee": {
       "name": "Júbilo Goblin",
-      "description": "<p><strong>Custo</strong> 3 lotes de reagentes infundidos</p>\n<hr />\n<p><strong>Efeito</strong> O caos preenche uma @Template[burst|distance:20] dentro de 120 feet. Todas as criaturas na área sofrem @Damage[3d6[fire],3d6[sonic]|options:area-damage]{3d6 de dano de fogo e 3d6 de dano sônico} e devem tentar um teste de resistência de @Check[fortitude|against:class-spell|options:area-effect,damaging-effect]. Uma exibição de jubileu goblin custa 3 lotes de reagentes infundidos, em vez de 1.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura não é afetada.</p>\n<p><strong>Sucesso</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscada} e @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Ensurdecida} até o final do seu próximo turno e sofre metade do dano.</p>\n<p><strong>Falha</strong> A criatura fica ofuscada e ensurdecida por 1 minuto e sofre dano total.</p>\n<p><strong>Falha Crítica</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cegada} por 1 rodada, ofuscada e ensurdecida por 1 minuto e sofre dano dobrado.</p>",
+      "description": "<p><strong>Custo</strong> 1 exibição de fogos de artifício</p>\n<hr />\n<p><strong>Efeito</strong> O caos preenche uma @Template[type:burst|distance:20] dentro de 120 feet. Todas as criaturas na área sofrem @Damage[3d6[fire],3d6[sonic]|options:area-damage]{3d6 de dano de fogo e 3d6 de dano sônico} e devem realizar um teste de @Check[fortitude|against:class-spell|options:area-effect,damaging-effect]. Você pode gastar frascos versáteis para aumentar a potência deste efeito; para cada frasco versátil que você gastar como parte desta exibição, aumente o dano de fogo e sônico em 1d6 cada.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura não é afetada.</p>\n<p><strong>Sucesso</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} e @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} até o final do seu próximo turno e sofre metade do dano.</p>\n<p><strong>Falha</strong> A criatura fica deslumbrada e ensurdecida por 1 minuto e sofre dano total.</p>\n<p><strong>Falha Crítica</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} por 1 rodada, deslumbrada e ensurdecida por 1 minuto, e sofre o dobro do dano.</p>",      
       "source": "Pathfinder Guns & Gears"
     },
     "Gossip": {
@@ -988,8 +988,8 @@
     },
     "Grim Swagger": {
       "name": "Fanfarronice Sombria",
-      "description": "<p><strong>Requerimentos</strong> Você tem uma arma de fogo de uma mão ou uma besta de uma mão visivelmente usada ou empunhada.</p>\n<hr />\n<p>Você tenta limpar a sala prometendo um destino sombrio para qualquer um que não faça o que você diz, e rápido. Faça um teste de @Check[deception] Enganação ou @Check[intimidation] Intimidação contra as CDs de Vontade de cada criatura a até 30 pés, exceto seus aliados. Independentemente de você ter sucesso ou falhar, cada alvo fica temporariamente imune à sua Fanfarronice Sombria por 10 minutos. Por exemplo, se você tentar um teste de Enganação, você mente e se gaba de suas proezas ou do grande grupo de amigos a caminho para te apoiar. Se você tentar um teste de Intimidação, você promete a todos na sala que você será a última coisa que eles verão.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustada 3}. Se ela for de nível inferior ao seu, ela também fica @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fugindo} por 1 rodada.</p>\n<p><strong>Sucesso</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustada 2}.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Requisitos</strong> Você tem uma arma de fogo de uma mão ou uma besta de uma mão visivelmente portada ou empunhada.</p>\n<hr />\n<p>Você tenta limpar a sala prometendo um destino sombrio para qualquer um que não faça o que você diz, e rapidamente. Tente um teste de @Check[deception] ou @Check[intimidation] contra as CDs de Vontade de cada criatura dentro de 30 feet, exceto seus aliados. Independentemente de você ter sucesso ou falhar, cada sujeito fica temporariamente imune à sua Arrogância Sombria por 10 minutos.</p>\n<p>Por exemplo, se você tentar um teste de Enganação, você mente e se gaba de sua proeza ou do grande grupo de amigos a caminho para apoiá-lo. Se você tentar um teste de Intimidação, você promete a todos na sala que você será a última coisa que eles verão.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3}. Se for de nível inferior a você, também fica @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} por 1 rodada.</p>\n<p><strong>Sucesso</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Grow": {
       "name": "Cultivar",
@@ -1168,8 +1168,8 @@
     },
     "Jumping Jenny": {
       "name": "Jenny Saltitante",
-      "description": "<p><strong>Custo</strong> 2 lotes de reagentes infundidos</p>\n<hr />\n<p><strong>Efeito</strong> Mire em uma criatura voadora a até 60 pés. Até o início do seu próximo turno, cada vez que essa criatura tentar Voar, ela deve ter sucesso em um teste de Acrobacia para Manobrar em Voo contra a CD da sua exibição de fogos de artifício, ou a ação Voar é interrompida. Se todas as tentativas da criatura de Voar forem interrompidas, no final do seu turno, ela cai inofensivamente no chão abaixo. Uma Jenny Saltitante custa 2 lotes de reagentes infundidos, em vez de 1.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Custo</strong> 1 exibição de fogos de artifício</p>\n<hr />\n<p><strong>Efeito</strong> Alveje uma criatura voadora dentro de 60 feet. Até o início do seu próximo turno, cada vez que a criatura tentar Voar, ela deve ser bem-sucedida em um teste de @Check[acrobatics|against:class-spell|rollerRole:target] para Manobrar em Voo contra a CD da sua exibição de fogos de artifício, ou a ação de Voar é interrompida. Se todas as tentativas da criatura de Voar forem interrompidas, no final do seu turno, ela cai inofensivamente no chão abaixo. Uma 'jumping jenny' custa 2 exibições de fogos de artifício, em vez de 1.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Lantern Beam": {
       "name": "Feixe da Lanterna",
@@ -1181,9 +1181,9 @@
       "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Ao pulsar sua lanterna, seus emissores piscam erraticamente, desorientando seus oponentes que a veem. Cada oponente em um @Template[cone|distance:15] cone de 15 pés deve tentar um teste de @Check[fortitude|against:class-spell] Fortitude contra sua CD de classe ou CD de magia (o que for maior). Em uma falha, a criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscada} por 1 rodada. Em uma falha crítica, a criatura fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cegada} por 1 rodada e ofuscada na rodada seguinte.</p>",
       "source": "Pathfinder Howl of the Wild"
     },
-    "Launch Fireworks Display": {
-      "name": "Lançar Exibição de Fogos de Artifício",
-      "description": "<p><strong>Custo</strong> 1 ou mais lotes de reagentes infundidos</p>\n<p><strong>Requerimentos</strong> Você tem uma mão livre</p>\n<hr />\n<p><strong>Efeito</strong> Você inicia uma exibição de fogos de artifício. Você pode lançar um fogo de artifício normal para simplesmente criar um sinal visual ou audível a até 20 pés ou pode escolher um dos seguintes efeitos especiais. Uma exibição de fogos de artifício tem as características listadas e, se custar mais de 1 lote de reagentes infundidos, isso é observado em sua entrada de Custo.</p>\n<p><strong>Cometa</strong> <span class=\"action-glyph\">1</span> (visual) Você dispara um rastro de luz brilhante em uma @Template[line|distance:60] linha de 60 pés. Todos os espaços nessa linha são iluminados com luz brilhante até o início do seu próximo turno. Como parte desta ação, você também pode Apontar para uma única criatura na linha, e seus aliados não precisam te ouvir ou entender.</p>\n<p><strong>Flor</strong> <span class=\"action-glyph\">1</span> (visual) Você acende um anel de faíscas, criando uma forma que pode lembrar uma flor desabrochando no céu. Cada inimigo a até 20 pés de você deve tentar um teste de Fortitude. Em uma falha, o inimigo fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscado} por 1 rodada e, em uma falha crítica, eles ficam ofuscados por 2 rodadas.</p>\n<p><strong>Salute</strong> <span class=\"action-glyph\">1</span> (auditivo) Você cria um estrondo ou assobio surpreendente, adicionando um componente auditivo à sua exibição de fogos de artifício. Ao lançar uma exibição de saudação, você pode escolher um aliado @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confuso} ou @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinado} a até 60 pés. Se o aliado que você escolheu estiver fascinado, o barulho é tão violento que atua como um efeito hostil para a condição fascinado dele (embora não tenha repercussões negativas), encerrando automaticamente a maioria das aplicações da condição fascinado. Se ele estiver confuso, o som é tão alto e violento que pode tirá-lo da confusão. Ele pode tentar imediatamente o teste fixo para remover a condição confuso que normalmente ocorre quando uma criatura é danificada. Se a condição confuso tiver regras especiais que removem o teste fixo ao receber dano ou tornam o teste fixo mais difícil, essas regras também se aplicam à saudação.</p>",
+    "Launch Fireworks": {
+      "name": "Launch Fireworks",
+      "description": "<p><strong>Cost</strong> 1 versatile vial</p>\n<p><strong>Requirements</strong> You have a free hand</p>\n<hr />\n<p><strong>Effect</strong> You set off a fireworks display. You can launch a normal firework to simply create a visual or audible signal within 20 feet or you can choose one of the following special effects. A firework display has the listed traits, and if it costs more than 1 batch of infused reagents, it is noted in its Cost entry.</p>\n<p><strong>Comet</strong> <span class=\"action-glyph\">1</span> (visual) You shoot a streak of shining light in a @Template[type:line|distance:60]. All spaces in that line are lit with bright light until the start of your next turn. As part of this action, you can also @UUID[Compendium.pf2e.actionspf2e.Item.sn2hIy1iIJX9Vpgj]{Point Out} a single creature in the line, and your allies do not need to hear or understand you.</p>\n<p><strong>Flower</strong> <span class=\"action-glyph\">1</span> (visual) You ignite a ring of sparks, creating a shape that might be reminiscent of a flower blooming in the sky. Each enemy with 20 feet of you must attempt a @Check[fortitude|against:class-spell|traits:visual] save. On a failure, the enemy is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round, and on a critical failure they are dazzled for 2 rounds.</p>\n<p><strong>Salute</strong> <span class=\"action-glyph\">1</span> (auditory) You create a startling bang or whistle, adding an auditory component to your fireworks display. When you launch a salute display, you can choose a @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} or @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated} ally within 60 feet. If the ally you chose is fascinated, the noise is so violent that it acts as a hostile effect for the purpose of their fascinated condition (though it has no negative repercussions) automatically ending most applications of the fascinated condition. If they're confused, the sound is so loud and violent that it might snap the ally out of confusion. They can immediately attempt the flat check to remove the confused condition which normally occurs when a creature is damaged. If the confused condition has special rules that remove the flat check when taking damage or make the flat check harder, those rules also apply to the salute.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Lay Down Arms": {
@@ -1228,8 +1228,8 @@
     },
     "Living Fortification": {
       "name": "Fortificação Viva",
-      "description": "<p><strong>Acionamento</strong> Você rola a iniciativa.</p>\n<hr />\n<p>Você pode assumir uma postura defensiva com armas de fogo ou bestas, agindo como uma torre ambulante. Interaja para sacar uma arma de fogo ou besta. Você então posiciona essa arma defensivamente, ganhando um bônus de circunstância +1 na CA até o início do seu primeiro turno, ou um bônus de circunstância +2 se a arma escolhida tiver a característica aparar.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fRlvmul3LbLo2xvR]{Efeito: Fortificação Viva}</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.WxE5S3KY1DR5Nbxm]{Efeito: Fortificação Viva (Característica Aparar)}</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Gatilho</strong> Você rola iniciativa.</p>\n<hr />\n<p>Você se posiciona defensivamente com armas de fogo ou bestas, agindo como uma torre ambulante. Interaja para sacar uma arma de fogo ou besta. Você então posiciona essa arma defensivamente, como o traço 'parry', ganhando um bônus de circunstância de +1 na CA até o final do seu primeiro turno, ou um bônus de circunstância de +2 se a arma escolhida tiver o traço 'parry'.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fRlvmul3LbLo2xvR]{Effect: Living Fortification}</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.WxE5S3KY1DR5Nbxm]{Effect: Living Fortification (Parry Trait)}</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Long Jump": {
       "name": "Salto em Distância",
@@ -1363,8 +1363,8 @@
     },
     "One Shot, One Kill": {
       "name": "Um Tiro, Uma Morte",
-      "description": "<p><strong>Acionamento</strong> Você rola Furtividade para iniciativa.</p>\n<hr />\n<p>Seu primeiro tiro é o mais mortal. Interaja para sacar uma arma de fogo ou besta. No seu primeiro turno, seu primeiro Golpe com essa arma causa um adicional de 1d6 de dano de precisão. Esse dano de precisão aumenta para 2d6 no 9º nível e 3d6 no 15º nível.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Gatilho</strong> Você rola Furtividade para iniciativa.</p>\n<hr />\n<p>Seu primeiro tiro é o mais mortal. Interaja para sacar uma arma de fogo ou besta. Seu primeiro Golpe bem-sucedido com essa arma durante este encontro causa 1d6 de dano de precisão adicional. Este dano de precisão aumenta para 2d6 no 9º nível e 3d6 no 15º nível.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Only You and I": {
       "name": "Só Você e Eu",
@@ -1388,8 +1388,8 @@
     },
     "Overdrive": {
       "name": "Sobrecarga",
-      "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<hr />\n<p>Acionando temporariamente os dispositivos em seu corpo em sobrecarga, você tenta adicionar maior poder aos seus ataques. Faça um teste de @Check[crafting|dc:@self.level] Fabricação com uma CD padrão para o seu nível.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.1XlJ9xLzL19GHoOL]{Efeito: Sobrecarga}</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Seus dispositivos entram em um estado de incrível eficiência chamado sobrecarga crítica, adicionando grande poder aos seus ataques. Seus Golpes causam dano adicional igual ao seu modificador de Inteligência por 1 minuto. Após o término da Sobrecarga, seus dispositivos ficam inutilizáveis enquanto esfriam ou reiniciam e você não pode usar Sobrecarga por 1 minuto.</p>\n<p><strong>Sucesso</strong> Seus dispositivos entram em sobrecarga, adicionando poder aos seus ataques. Como no sucesso crítico, exceto que o dano adicional é igual à metade do seu modificador de Inteligência.</p>\n<p><strong>Falha</strong> Você faz um cálculo errado e nada acontece.</p>\n<p><strong>Falha Crítica</strong> Opa! Algo explode. Você recebe dano de fogo igual ao seu nível e não pode usar Sobrecarga novamente por 1 minuto enquanto seus dispositivos esfriam e reiniciam.</p>\n<hr />\n<p><strong>Especial</strong> Quando sob os efeitos de Sobrecarga, você ainda pode usar a ação Sobrecarga. Você não pode estender a duração da sua Sobrecarga dessa maneira, mas você pode transformar uma sobrecarga em uma sobrecarga crítica se você tiver um sucesso crítico. Uma falha não tem efeito na sua Sobrecarga atual e você encerra sua Sobrecarga em uma falha crítica.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<hr />\n<p>Girando temporariamente os mecanismos em seu corpo para sobrecarga, você tenta adicionar maior potência aos seus ataques. Tente um teste de @Check[crafting|dc:@self.level] que tenha uma CD padrão para o seu nível.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.1XlJ9xLzL19GHoOL]{Effect: Overdrive}</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Seus mecanismos entram em um estado de eficiência incrível chamado sobrecarga crítica, adicionando grande potência aos seus ataques. Seus Golpes causam dano adicional igual ao seu modificador de Inteligência por 1 minuto. Depois que a Sobrecarga termina, seus mecanismos se tornam inutilizáveis enquanto esfriam ou reiniciam, e você não pode usar Sobrecarga por 1 minuto.</p>\n<p><strong>Sucesso</strong> Seus mecanismos entram em sobrecarga, adicionando potência aos seus ataques. Como no sucesso crítico, exceto que o dano adicional é igual à metade do seu modificador de Inteligência.</p>\n<p><strong>Falha</strong> Seus mecanismos chiam de forma preocupante e começam a fumegar. Seus Golpes causam 1 de dano de fogo adicional.</p>\n<p><strong>Falha Crítica</strong> Opa! Algo explode. Você sofre dano de fogo igual à metade do seu nível (arredondado para cima) e não pode usar Sobrecarga novamente por [[/r 1d4 #Recharge Overdrive]] rodadas enquanto seus mecanismos reiniciam.</p>\n<hr />\n<p><strong>Especial</strong> Quando sob os efeitos de Sobrecarga, você ainda pode usar a ação Sobrecarga. Você não pode estender a duração da sua Sobrecarga desta forma, mas você pode transformar uma sobrecarga em uma sobrecarga crítica se obtiver um sucesso crítico. Uma falha não tem efeito sobre sua Sobrecarga atual, e você termina sua Sobrecarga em uma falha crítica.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Overload Vision": {
       "name": "Sobrecarga Visual",
@@ -1593,8 +1593,8 @@
     },
     "Recall Ammunition": {
       "name": "Recuperar Munição",
-      "description": "<p><strong>Acionamento</strong> Você erra com um Golpe de arma de fogo ou besta enquanto usa um projétil ou bala comum de nível 0</p>\n<hr />\n<p>Você amplifica a conexão entre bala e arma de fogo, chamando seu tiro perdido de volta para sua arma. A munição que você acabou de disparar é recarregada de volta em sua arma e imediatamente pronta para disparar novamente.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Gatilho</strong> Você erra um Golpe com arma de fogo ou besta.</p>\n<hr />\n<p>Você cria um vínculo com sua munição, chamando seu tiro errado de volta. A munição que você acabou de disparar é recarregada de volta em sua arma. Se a munição era uma peça de munição mágica ou alquímica que normalmente requer uma ou mais ações para ativar, você deve reativá-la antes de disparar novamente.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Recall Knowledge": {
       "name": "Recordar Conhecimento",
@@ -1643,8 +1643,8 @@
     },
     "Reloading Strike": {
       "name": "Golpe de Recarga",
-      "description": "<p><strong>Requerimentos</strong> Você está empunhando uma arma de fogo ou besta em uma mão, e sua outra mão está empunhando uma arma corpo a corpo de uma mão ou está vazia.</p>\n<hr />\n<p>Você faz um ataque corpo a corpo e depois recarrega sua arma em um movimento fluido. Golpeie um oponente dentro do seu alcance com sua arma corpo a corpo de uma mão (ou, se sua outra mão estiver vazia, com um ataque desarmado) e, em seguida, Interaja para recarregar. Você não precisa de uma mão livre para recarregar desta forma.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo ou besta em uma mão, e sua outra mão empunha uma arma corpo a corpo de uma mão ou está vazia.</p>\n<hr />\n<p>Você faz um ataque corpo a corpo e recarrega em um movimento fluido. Golpeie um oponente ao alcance com sua arma corpo a corpo de uma mão (ou, se sua outra mão estiver vazia, com um ataque desarmado) e, em seguida, Interaja para recarregar. Você não precisa de uma mão livre para recarregar desta forma e esta recarga não aciona reações.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Repair": {
       "name": "Reparar",
@@ -1793,8 +1793,8 @@
     },
     "Set Explosives": {
       "name": "Colocar Explosivos",
-      "description": "<p><strong>Requerimentos</strong> Você tem 1 ou 2 bombas na mão</p>\n<hr />\n<p><strong>Efeito</strong> Você prende as bombas a um objeto inanimado ao seu alcance, como uma porta, parede ou coluna, e as prepara para detonar em um momento definido. As bombas explodem em um momento específico que você determina (como após sua próxima ação ou no início do seu próximo turno, até um máximo de 1 minuto), causando seu dano e dano de respingo ao objeto inanimado. Combine este dano para fins de resistências e fraquezas, e este dano ignora uma quantidade de Dureza do objeto igual ao seu nível. Quaisquer criaturas adjacentes ao perigo recebem o dano de respingo das bombas, também combinado para fins de resistências e fraquezas. Como um lembrete, já que você não jogou as bombas, Respingo Calculado e efeitos semelhantes não se aplicam. Garantir que o seu tempo esteja correto requer concentração, então você não pode Colocar Explosivos novamente enquanto estiver esperando uma bomba previamente colocada detonar.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Requisitos</strong> Você tem 1 ou 2 bombas na mão</p>\n<hr />\n<p><strong>Efeito</strong> Você prende as bombas a um objeto inanimado dentro do seu alcance, como uma porta, parede ou coluna, e as prepara para detonar em um determinado momento. As bombas explodem em um momento específico que você determinar (como após sua próxima ação ou no início do seu próximo turno, até um máximo de 1 minuto), causando seu dano e dano de área ao objeto inanimado. Combine este dano para fins de resistências e fraquezas, e este dano ignora uma quantidade da Dureza do objeto igual ao seu nível. Quaisquer criaturas adjacentes ao perigo sofrem o dano de área das bombas, também combinado para fins de resistências e fraquezas. Como lembrete, como você não jogou as bombas, @UUID[Compendium.pf2e.feats-srd.Item.UjWLK86BgHxz3Itd]{Calculated Splash} e efeitos similares não se aplicam. Garantir que seu tempo esteja correto requer concentração, então você não pode Preparar Explosivos novamente enquanto estiver esperando que uma bomba previamente preparada detone.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Set Free": {
       "name": "Libertar",
@@ -1868,8 +1868,8 @@
     },
     "Siegebreaker": {
       "name": "Quebra-cerco",
-      "description": "<p><strong>Requerimentos</strong> Você está empunhando uma arma de fogo que tem a característica coice ou dispersão, ou uma besta de duas mãos.</p>\n<hr />\n<p>Com uma força inacreditável, você avança e esmaga sua arma contra um alvo antes de fincar os pés no chão e puxar o gatilho. Salte ou Ande, então faça um Golpe com a arma de fogo ou besta requerida contra um alvo adjacente. Este Golpe causa um dano adicional de @Damage[3d8[bludgeoning]] concussão e ignora 10 pontos da Dureza do alvo (se houver), ou da Dureza de seu escudo se o alvo usar Bloqueio de Escudo.</p>\n<p>Após o Golpe, você fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizado} e posiciona a arma requerida defensivamente, ganhando um bônus de circunstância +1 na CA, ou um bônus de circunstância +2 se a arma escolhida tiver a característica aparar. Ambos os efeitos duram até o início do seu próximo turno. Se uma força tentar te mover enquanto você estiver imobilizado dessa forma, ela deve ter sucesso em um teste apropriado contra sua CD de classe.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo que tenha o traço 'kickback' ou 'scatter', ou uma besta de duas mãos.</p>\n<hr />\n<p>Com uma força inacreditável, você avança e golpeia seu alvo com a arma antes de fincar os calcanhares e puxar o gatilho. @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} ou Caminhe, então faça um Golpe com a arma de fogo ou besta necessária contra um alvo adjacente. Este Golpe causa @Damage[3d8[bludgeoning]] de dano adicional e ignora 10 pontos da Dureza do alvo (se houver), ou da Dureza do escudo se o alvo usar Bloqueio com Escudo.</p>\n<p>Após o Golpe, você fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} e posiciona a arma necessária defensivamente, como o traço 'parry', ganhando um bônus de circunstância de +1 na CA, ou um bônus de circunstância de +2 se a arma escolhida tiver o traço 'parry'. Ambos os efeitos duram até o início do seu próximo turno. Se uma força o mover enquanto você estiver imobilizado desta forma, ela deve ser bem-sucedida em um teste apropriado contra sua CD de classe.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Skirt the Underworld": {
       "name": "Skirt the Underworld",
@@ -1897,19 +1897,24 @@
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Spasm of the Berserker": {
-      "name": "Spasm of the Berserker",
-      "description": "<p>Your body warps beyond recognition into a powerful, one-eyed form. You're affected by a 4th-rank @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Enlarge} spell and a 6th-rank @UUID[Compendium.pf2e.spells-srd.Item.YtesyvfAIwXOqISq]{Moon Frenzy} spell, which both last until the end of your next turn. You can't attempt to end the moon frenzy early.</p>\n<p>If this ikon becomes empowered again, you can extend Spasm of the Berserker's duration until the end of your next turn. While you're already affected by Spasm of the Berserker, the transcend action becomes a free action to extend its duration until the end of your next turn.</p>",
+      "name": "Espasmo do Berserker",
+      "description": "<p>Seu corpo se deforma além do reconhecimento em uma forma poderosa de um olho só. Você é afetado por uma magia @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Enlarge} de 4º nível e uma magia @UUID[Compendium.pf2e.spells-srd.Item.YtesyvfAIwXOqISq]{Moon Frenzy} de 6º nível, que duram até o final do seu próximo turno. Você não pode tentar terminar o frenesi lunar antecipadamente.</p>\n<p>Se este ícone se tornar fortalecido novamente, você pode estender a duração do Espasmo do Berserker até o final do seu próximo turno. Enquanto você já estiver afetado pelo Espasmo do Berserker, a ação de transcender se torna uma ação livre para estender sua duração até o final do seu próximo turno.</p>",
       "source": "Pathfinder War of Immortals"
-    },
-    "Speed of Arms": {
-      "name": "Speed of Arms",
-      "description": "<p><strong>Trigger</strong> Your turn begins</p>\n<hr />\n<p><strong>Effect</strong> You make a Strike against one opponent within your reach, or Stride directly towards an opponent. If this is the first time you've struck that opponent during this encounter, the Strike is made at mythic proficiency.</p>",
+  },
+  "Speed of Arms": {
+      "name": "Velocidade das Armas",
+      "description": "<p><strong>Gatilho</strong> Seu turno começa</p>\n<hr />\n<p><strong>Efeito</strong> Você faz um Golpe contra um oponente dentro do seu alcance, ou Caminha diretamente em direção a um oponente. Se esta for a primeira vez que você golpeia esse oponente durante este encontro, o Golpe é feito com proficiência mítica.</p>",
       "source": "Pathfinder War of Immortals"
-    },
-    "Spellsling": {
-      "name": "Disparo de Magia",
-      "description": "<p><strong>Requerimentos</strong> Você está empunhando sua arma de alma ligada</p>\n<hr />\n<p><strong>Efeito</strong> Você Conjura uma Magia que leva 1 ou 2 ações para ser conjurada e requer um teste de ataque de magia. Os efeitos da magia não ocorrem imediatamente, mas são imbuídos na arma de alma ligada que você está empunhando. Faça um Golpe com essa arma de alma ligada. Sua magia voa com a munição, usando o resultado do seu teste de ataque para determinar os efeitos tanto do Golpe quanto da magia. Isso conta como dois ataques para os propósitos de determinar sua penalidade de ataque múltiplo, mas você não aplica a penalidade até depois de ter terminado de resolver o ataque e a magia.</p>",
+  },
+  "Spell-Woven Shot": {
+      "name": "Disparo Tecido com Magia",
+      "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo mágica carregada ou uma besta mágica carregada</p>\n<hr />\n<p><strong>Efeito</strong> Você Conjura uma Magia que leva 1 ou 2 ações para conjurar e requer uma jogada de ataque mágico. Os efeitos da magia não ocorrem imediatamente, mas são imbuídos na arma requerida. Faça um Golpe com essa arma. Sua magia voa com a munição, usando o resultado da sua jogada de ataque para determinar os efeitos tanto do Golpe quanto da magia. Isso conta como dois ataques para sua penalidade de ataque múltiplo, mas você não aplica a penalidade até depois de ter completado o Disparo Tecido com Magia.</p>",
       "source": "Pathfinder Guns & Gears"
+  },
+      "Spellsling": {
+      "name": "Disparo de Magia",
+      "description": "<p><strong>Requisitos</strong> Você está empunhando sua 'beast gun' vinculada ou outra arma de fogo mágica</p>\n<hr />\n<p><strong>Efeito</strong> Você Conjura uma Magia que leva 1 ou 2 ações para conjurar e requer uma jogada de ataque mágico. Os efeitos da magia não ocorrem imediatamente, mas são imbuídos na 'beast gun' que você está empunhando. Faça um Golpe com essa 'beast gun'. Sua magia voa com a munição, usando o resultado da sua jogada de ataque para determinar os efeitos tanto do Golpe quanto da magia. Isso conta como dois ataques para os fins de determinar sua penalidade de ataque múltiplo, mas você não aplica a penalidade até depois de ter terminado de resolver o ataque e a magia.</p>\n<hr />\n<p><strong>Especial</strong> Se você também tiver a ação @UUID[Compendium.pf2e.actionspf2e.Item.3MiV0maH8imtnVwS]{Spell-Woven Shot}, você pode carregar e ativar uma peça de munição mágica como uma ação livre antes de fazer um ataque 'Spellsling' uma vez a cada 10 minutos.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Spellstrike": {
       "name": "Golpe Mágico",
@@ -1923,8 +1928,8 @@
     },
     "Spinning Crush": {
       "name": "Golpe Giratório",
-      "description": "<p><strong>Requerimentos</strong> Você está empunhando uma arma de fogo carregada ou uma besta carregada.</p>\n<hr />\n<p>Você entra em um giro violento, esmagando sua arma contra aqueles que estão próximos e aumentando seu impulso ao disparar. Todas as criaturas adjacentes a você recebem @Damage[(4d6+@actor.abilities.str.mod)[bludgeoning]]{4d6 de dano de concussão mais seu modificador de Força}; isso aumenta para @Damage[(6d6+@actor.abilities.str.mod)[bludgeoning]]{6d6} se sua arma de fogo tiver uma runa de impacto, @Damage[(8d6+@actor.abilities.str.mod)[bludgeoning]]{8d6} se ela tiver uma runa de impacto maior e @Damage[(10d6+@actor.abilities.str.mod)[bludgeoning]]{10d6} se ela tiver uma runa de impacto superior. Esta habilidade não aplica outros efeitos que aumentam o dano com seus Golpes de arma de fogo, como a especialização em armas. Criaturas afetadas por este ataque devem tentar um teste de @Check[reflex|against:gunslinger|basic] Reflexos contra sua CD de pistoleiro. Uma criatura que falha em seu teste de resistência também é empurrada 10 pés diretamente para longe de você.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo carregada ou uma besta carregada.</p>\n<hr />\n<p>Você entra em um giro violento, golpeando aqueles próximos com sua arma e aumentando seu impulso ao disparar. Todas as criaturas adjacentes a você sofrem @Damage[(4d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{4d6 de dano de concussão mais seu modificador de Força}; isso aumenta para @Damage[(6d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{6d6} se sua arma de fogo tiver uma runa 'striking', @Damage[(8d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{8d6} se tiver uma runa 'greater striking', e @Damage[(10d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{10d6} se tiver uma runa 'major striking'. Esta habilidade não aplica outros efeitos que aumentam o dano com seus Golpes com arma de fogo, como especialização em armas. As criaturas afetadas por este ataque devem realizar um teste de @Check[reflex|against:gunslinger|basic|options:area-effect]. Uma criatura que falhar em seu teste de resistência também é empurrada 10 feet diretamente para longe de você.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Spirit's Mercy": {
       "name": "Misericórdia do Espírito",
@@ -1942,11 +1947,11 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Spread Realm": {
-      "name": "Spread Realm",
-      "description": "<p><strong>Trigger</strong> Your previous action was to Sustain your manifested realm</p>\n<hr />\n<p><strong>Effect</strong> Your manifested realm further corrupts more of your surroundings. Increase your manifested realm's radius by 10 feet.</p>",
+      "name": "Expandir Reino",
+      "description": "<p><strong>Gatilho</strong> Sua ação anterior foi Sustentar seu reino manifestado</p>\n<hr />\n<p><strong>Efeito</strong> Seu reino manifestado corrompe ainda mais seus arredores. Aumente o raio do seu reino manifestado em 10 feet.</p>",
       "source": "Pathfinder War of Immortals"
-    },
-    "Spring the Trap": {
+  },
+      "Spring the Trap": {
       "name": "Disparar a Armadilha",
       "description": "<p><strong>Acionamento</strong> Você rola a iniciativa.</p>\n<hr />\n<p>Você pode Interagir para sacar uma arma combinada e colocá-la no modo corpo a corpo ou à distância. No seu primeiro turno, seu movimento e ataques à distância não acionam reações que normalmente são acionadas por movimento ou um ataque à distância (como Ataque de Oportunidade).</p>",
       "source": "Pathfinder Lost Omens: Impossible Lands"
@@ -2156,17 +2161,17 @@
       "description": "<p>O alvo libera uma vocalização poderosa. Cada inimigo em uma @Template[type:emanation|distance:10] sofre @Damage[4d8[sonic]|options:area-damage] de dano com um teste de resistência de @Check[will|basic|against:spell|options:area-effect] contra a CD da sua magia. Uma criatura que falhe em seu teste de Vontade também fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustada 1}.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
-    "Timely Dodge": {
-      "name": "Timely Dodge",
-      "description": "<p><strong>Trigger</strong> You are targeted by a Strike</p>\n<hr />\n<p><strong>Effect</strong> You dart aside, gaining a +1 circumstance bonus to AC, then Step after the Strike resolves.</p>",
-      "source": "Pathfinder #194: Cult of the Cave Worm"
+"Timely Dodge": {
+        "name": "Esquiva Oportuna",
+        "description": "<p><strong>Gatilho</strong> Você é alvo de um Golpe</p>\n<hr />\n<p><strong>Efeito</strong> Você se esquiva para o lado, ganhando um bônus de circunstância de +1 na CA, e então dá um Passo após o Golpe ser resolvido.</p>",
+        "source": "Pathfinder #194: Cult of the Cave Worm"
     },
     "Topple the Pillar of Heaven": {
-      "name": "Topple the Pillar of Heaven",
-      "description": "<p>Your ikon extends to an impossible length, striking all in its way. You deal @Damage[(max(6,floor(@actor.level / 2)))d8[untyped]|options:area-damage] damage to all creatures in a @Template[type:line|distance:60], with a @Check[reflex|against:exemplar|basic|options:area-effect] save against your class DC. The damage type matches that of your weapon. At 14th level and every two levels thereafter, the damage increases by 1d8.</p>",
-      "source": "Pathfinder War of Immortals"
+        "name": "Derrubar o Pilar do Céu",
+        "description": "<p>Seu ícone se estende a um comprimento impossível, atingindo todos em seu caminho. Você causa @Damage[(max(6,floor(@actor.level / 2)))d8[untyped]|options:area-damage] de dano a todas as criaturas em uma @Template[type:line|distance:60], com um teste de @Check[reflex|against:exemplar|basic|options:area-effect] contra sua CD de classe. O tipo de dano corresponde ao da sua arma. No 14º nível e a cada dois níveis depois disso, o dano aumenta em 1d8.</p>",
+        "source": "Pathfinder War of Immortals"
     },
-    "Touch and Go": {
+        "Touch and Go": {
       "name": "Tocar e Partir",
       "description": "<p><strong>Requerimentos</strong> Você está empunhando uma arma combinada.</p>\n<hr />\n<p>As sombras do seu corpo mascaram o aço de suas mãos. Você pode Dar um Passo em direção a um inimigo, pode Interagir para mudar sua arma entre os modos corpo a corpo ou à distância e, em seguida, Interagir para recarregar.</p>",
       "source": "Pathfinder Lost Omens: Impossible Lands"
@@ -2278,8 +2283,8 @@
     },
     "Vital Shot": {
       "name": "Tiro Vital",
-      "description": "<p>Seu tiro cuidadoso contra um oponente desprevenido perfura uma artéria ou órgão vital. Faça um Golpe à distância. Se o alvo estiver @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido}, o Golpe causa um dado extra de dano de arma e o inimigo recebe dano persistente de sangramento igual à quantidade de dano de precisão do seu Um Tiro, Uma Morte.</p>",
-      "source": "Pathfinder Guns & Gears"
+      "description": "<p>Seu tiro cuidadoso contra um oponente desavisado perfura uma artéria ou órgão vital. Faça um Golpe à distância. Se o alvo estiver @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}, o Golpe causa um dado extra de dano da arma, e o inimigo sofre dano de sangramento persistente igual à quantidade de dano de precisão de seu @UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{One Shot, One Kill}.</p>",
+            "source": "Pathfinder Guns & Gears"
     },
     "Warding Sign": {
       "name": "Sinal de Proteção",

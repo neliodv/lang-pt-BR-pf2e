@@ -51,6 +51,16 @@
       "description": "<p>Concedido por @UUID[Compendium.pf2e.spells-srd.Item.KPGGkyBFbKse7KpK]{Espiral de Horrores}</p>\n<p>Inimigos na área ficam amedrontados 1 e incapazes de reduzir a condição.</p>",
       "source": "Pathfinder Player Core"
     },
+    "Effect: Bone Flense (Damage)": {
+      "name": "Effect: Bone Flense (Damage)",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.V4IpjSlefultlOuY]{Bone Flense}</p>\n<p>The target takes an additional d6 persistent bleed damage from the Strike of the imbued weapon.</p>",
+      "source": "Pathfinder Adventure: Prey for Death"
+    },
+    "Effect: Bone Flense (Reaction)": {
+      "name": "Effect: Bone Flense (Reaction)",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.V4IpjSlefultlOuY]{Bone Flense}</p>\n<p>You can use the @UUID[Compendium.pf2e.actionspf2e.Item.wfUIsKBxCBfXi1TF]{Erupting Spurs} reaction.</p>",
+      "source": "Pathfinder Adventure: Prey for Death"
+    },
     "Effect: Guidance Immunity": {
       "name": "Efeito: Imunidade à Orientação",
       "description": "<p>Concedido quando alguém usa @UUID[Compendium.pf2e.spells-srd.Item.izcxFQFwf3woCnFs]{Guidance} em você, tornando-o imune ao efeito da magia pela duração.</p>",
@@ -198,7 +208,7 @@
     },
     "Spell Effect: Angelic Halo": {
       "name": "Efeito de Magia: Auréola Angelical",
-      "description": "<p>Concedido por @UUID[Compendium.pf2e.spell-effects.Item.jPZXZjetdauqYuEH]{Aura: Auréola Angelical}.</p>\n<p>Se você for curado por uma magia de cura, você ganha um bônus de status aos Pontos de Vida recuperados igual ao dobro do rank da magia de cura.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spell-effects.Item.jPZXZjetdauqYuEH]{Aura: Angelic Halo}</p>\n<p>If you are healed by a <em>heal</em> spell, you gain a status bonus to Hit Points regained equal to double the <em>heal</em> spell's rank.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Spell Effect: Angelic Wings": {
@@ -2114,6 +2124,11 @@
           "label": "Schadenfreude"
         }
       },
+      "source": "Pathfinder Player Core 2"
+    },
+    "Spell Effect: Scintillating Safeguard": {
+      "name": "Spell Effect: Scintillating Safeguard",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.9W2Qv0wXLg6tQg3y]{Scintillating Safeguard}</p>\n<p>You gain resistance to a physical or energy damage type.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Spell Effect: Seal Fate": {
