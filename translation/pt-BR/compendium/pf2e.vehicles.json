@@ -107,7 +107,7 @@
       "crew": "1 pilot, 8 rowers",
       "description": "<p>The structure of these gargantuan vessels is fully covered by iron. These vessels are akin to floating fortresses rather than true warships, and are typically used in coastal actions and for river blockades. They use oars for propulsion, as their full iron cladding, as well as their bulk, impedes propulsion via sails.</p>\n<p>Many of these vessels are beautifully gilded with red and gold inlays across their iron cladding. This added weight only further contributes to their suspect stability.</p>",
       "pilotingCheck": "Sailing Lore (DC 27), Diplomacy (DC 29), or Intimidation (DC 29)",
-      "source": "Pathfinder Lost Omens: Tian Xia World Guide",
+      "source": "Pathfinder Lost Omens Tian Xia World Guide",
       "speed": "30 feet (rowed)",
       "items": {
         "action->Sluggish": {
@@ -139,7 +139,7 @@
       "crew": "1 pilot, 200 crew",
       "description": "<p>The keel of these vessels consists of wooden beams bound together with iron hoops to provide added stability during ocean transits. In stormy weather, holes in the prow partially fill with water when the ship pitches forward, lessening the violent turbulence caused by waves. Renowned for their seaworthiness, Baochuan were often chosen for transporting valuable treasure or important emissaries during stormy seasons. As such, they're often referred to as \"treasure ships\" and highly sought prizes by pirates.</p>",
       "pilotingCheck": "Sailing Lore (DC 31) or Nature (DC 33)",
-      "source": "Pathfinder Lost Omens: Tian Xia World Guide",
+      "source": "Pathfinder Lost Omens Tian Xia World Guide",
       "speed": "swim 30 feet (wind)",
       "items": {
         "action->Weakness 10 fire until broken": {
@@ -272,7 +272,7 @@
       "name": "Cliff Crawler",
       "crew": "1 pilot, 2 crew",
       "pilotingCheck": "Arcana (DC 29), Engineering Lore (DC 27), Piloting Lore (DC 27), or Nature (DC 29)",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar",
+      "source": "Pathfinder Lost Omens The Grand Bazaar",
       "speed": "climb 40 feet (magical)",
       "items": {
         "action->Mountain Traverser": {
@@ -312,7 +312,7 @@
       "crew": "1 pilot, 2 crew",
       "description": "<p>This whimsical vehicle carries a small number of passengers and crew. It's capable of short bursts of flight, but the weight of the clockwork mechanisms prevents sustained use. The pilot, crew, and passenger all ride on the back, straddling the hull on built-in saddles.</p>",
       "pilotingCheck": "Crafting (DC 28) or Driving Lore (DC 26)",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar",
+      "source": "Pathfinder Lost Omens The Grand Bazaar",
       "speed": "fly 30 feet (clockwork)",
       "items": {
         "action->Wind Up": {
@@ -439,7 +439,7 @@
       "crew": "1 pilot, 400 rowers",
       "description": "<p>Djongs are immense multi-decked outriggers used by the Tian-Sing for transit within the Minata archipelago. Similar in design to the smaller karakoa, djongs have an open hull design that makes them very fast and exceptionally stable, capable of carrying hundreds of rowers on their decks, as well as a large woven triangular sail on a mast. The broad platforms on the djongs made them excellent for ferrying cargo, and their size and stability enabled them to host hundreds of warriors and their gear for transport. During peacetime, djongs are often used to host major celebrations and important weddings, with dignitaries bringing large entourages on their own djongs and then rafting up with other celebrants to form a floating village.</p>\n<p>The size of the djongs is limited by the availability of the large timber required to form each of its twin hulls. Many of the giant trees suitable to build djongs have been harvested, making the surviving djongs even more valuable, with their overall length becoming a metric of status for their owners.</p>",
       "pilotingCheck": "Sailing Lore (DC 34), Diplomacy (DC 36), or Intimidation (DC 36)",
-      "source": "Pathfinder Lost Omens: Tian Xia World Guide",
+      "source": "Pathfinder Lost Omens Tian Xia World Guide",
       "speed": "swim 50 feet (rowed, wind)",
       "items": {
         "action->Sluggish": {
@@ -474,7 +474,7 @@
       "name": "Firework Pogo",
       "crew": "1 pilot",
       "pilotingCheck": "Crafting (DC 21) or Piloting Lore (DC 19)",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar",
+      "source": "Pathfinder Lost Omens The Grand Bazaar",
       "speed": "Jump Jet (Alchemical)",
       "items": {
         "action->Jump Jet": {
@@ -505,7 +505,7 @@
       "crew": "1 pilot, 80 rowers",
       "description": "<p>These squat vessels are built with a protective shelllike covering on their deck rather than the open main deck design of most sailing vessels. The fully covered deck protects the vessel's 80 rowers and complement of 50 soldiers from arrows and incendiary weapons. In addition, this armored deck is covered with iron spikes to discourage enemies from attempting to board.</p>\n<p>On the bow of the vessel is mounted a dragon head which can emit sulfur smoke to effectively hide its movement in close combat. Below the dragon head is mounted a large anchor with a wooden crest shaped like a face, and these can be used to ram into enemy ships.</p>",
       "pilotingCheck": "Sailing Lore (DC 30), Diplomacy (DC 32), or Intimidation (DC 32)",
-      "source": "Pathfinder Lost Omens: Tian Xia World Guide",
+      "source": "Pathfinder Lost Omens Tian Xia World Guide",
       "speed": "swim 30 feet (rowed)",
       "items": {
         "action->Smoking Breath": {
@@ -585,7 +585,7 @@
       "crew": "1 pilot, 20 rowers",
       "description": "<p>Karakoa are large twin-hulled outriggers used by the Tian-Sing for transit within the massive Minata archipelago. Fast and sturdy, karakoa are distinct from other Tian vessels in that they're equipped with platforms for transporting warriors and fighting at sea. During peacetime, they're also used as trading ships, able to carry goods and passengers. While capable of crossing oceans, their open hull design may perform poorly during rough seas as breaking whitecaps could swamp the craft.</p>",
       "pilotingCheck": "Sailing Lore (DC 20) or Athletics (DC 22)",
-      "source": "Pathfinder Lost Omens: Tian Xia World Guide",
+      "source": "Pathfinder Lost Omens Tian Xia World Guide",
       "speed": "swim 40 feet (rowed, wind)",
       "items": {
         "action->Weakness 10 fire until broken": {
@@ -657,7 +657,7 @@
       "name": "Sand Barge",
       "crew": "1 pilot, 2 crew",
       "pilotingCheck": "Diplomacy (DC 24), Intimidation (DC 24), or Sailing Lore (DC 22)",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar",
+      "source": "Pathfinder Lost Omens The Grand Bazaar",
       "speed": "40 feet (rowed, wind)",
       "items": {
         "action->Sand Skimmer": {
@@ -730,7 +730,7 @@
       "name": "Shark Diver",
       "crew": "1 pilot, 4 crew",
       "pilotingCheck": "Crafting (DC 30) or Piloting Lore (DC 28)",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar",
+      "source": "Pathfinder Lost Omens The Grand Bazaar",
       "speed": "Swim 40 feet (alchemical)",
       "items": {
         "action->Electrify": {
@@ -757,7 +757,7 @@
         },
         "action->Tiered": {
           "name": "Tiered",
-          "description": "<p>A siege tower has five levels. The bottom level houses the crew, and each higher level carries up to 10 passengers. The tiers are specifically meant to be protective and give those within the siege tower greater cover (or standard cover if the siege tower is broken). Each tier is connected to the one above it by a 7-foot ladder.<br />The siege tower has a corvus at its highest tier: a vertical bridge that can be lowered to allow creatures to cross gaps. Lowering the corvus takes a total of 3 Interact actions. Moving the siege tower while the corvus is lowered is highly dangerous, especially for anyone on the corvus. When it's open, creatures in the top tier don't have cover from the side with the corvus, and creatures on the lowered corvus don't have cover except from below.</p>"
+          "description": "<p>A siege tower has five levels. The bottom level houses the crew, and each higher level carries up to 10 passengers. The tiers are specifically meant to be protective and give those within the siege tower greater cover (or standard cover if the siege tower is broken). Each tier is connected to the one above it by a 7-foot ladder.</p>\n<p>The siege tower has a corvus at its highest tier: a vertical bridge that can be lowered to allow creatures to cross gaps. Lowering the corvus takes a total of 3 Interact actions. Moving the siege tower while the corvus is lowered is highly dangerous, especially for anyone on the corvus. When it's open, creatures in the top tier don't have cover from the side with the corvus, and creatures on the lowered corvus don't have cover except from below.</p>"
         }
       }
     },

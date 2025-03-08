@@ -9,7 +9,7 @@
     "Adaptive Anadi": {
       "name": "Adaptive Anadi",
       "description": "<p>You descend from a line of anadi who worked to perfect their transformation magic, allowing them to integrate into a wider variety of cultures. Choose a common, Medium humanoid ancestry. Your human form is replaced with a form that matches this choice. You also gain the @UUID[Compendium.pf2e.feats-srd.Item.ihN8gkHSdPG9Trte]{Adopted Ancestry} feat for your chosen humanoid ancestry.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Aiuvarin": {
       "name": "Aiuvarin",
@@ -19,7 +19,7 @@
     "Ancient Ash": {
       "name": "Ancient Ash",
       "description": "<p>Your memory is sharp and clear, and you remember so much. You remember the calm before the storm and the soil after the rain, the acrid tang of magic and the whisper of a song. You remember it all. You become trained in one skill of your choice. At 5th level, you become an expert in that skill.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Ancient Elf": {
       "name": "Ancient Elf",
@@ -29,7 +29,7 @@
     "Ancient Scale Azarketi": {
       "name": "Ancient Scale Azarketi",
       "description": "<p>Your lineage stems from azarketis who remain dedicated to their deep-sea roots. Divorced from land society, you're a foreigner to any world above a thousand fathoms deep. You gain darkvision.</p>\n<p>Your body is dotted with phosphorescent spots that emit a guiding light and help you communicate. The spots - located primarily on your face, arms, and hands - illuminate a 10-foot radius around you with dim light. You can activate, deactivate, or change the arrangement of lights as an action, which has the concentration trait.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Ancient-Blooded Dwarf": {
       "name": "Ancient-Blooded Dwarf",
@@ -44,7 +44,7 @@
     "Anvil Dwarf": {
       "name": "Anvil Dwarf",
       "description": "<p>You are a descendant of a famed crafter and have your own amazing talent. Other dwarves might consider this a blessing from your ancestors or from the Forgefather himself, depending on where you grew up. You become trained in Crafting (or another skill if you were already trained in Crafting) and gain the @UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{Specialty Crafting} skill feat, but you can pick two different specialties instead of one.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Arctic Elf": {
       "name": "Arctic Elf",
@@ -59,17 +59,17 @@
     "Artisan Android": {
       "name": "Artisan Android",
       "description": "<p>Your body was originally designed to create works of art, complex tools, or maintain advanced machinery. You become trained in Crafting (or another skill if you're already trained in Crafting), and you gain the @UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]{Specialty Crafting} skill feat in a specialty of your choice.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Ascetic Tanuki": {
       "name": "Ascetic Tanuki",
       "description": "<p>It's said your round form is the result of calmness and restraint, not indulgence. You gain scent as an imprecise sense with a range of 30 feet. The GM will usually double the range if you're downwind from something you're trying to smell or halve the range if you're upwind. In addition, you gain a +2 circumstance bonus to Perception checks whenever you're trying to locate food, drink, or a consumable item that's ingested (such as a potion or elixir) using your scent.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Athamasi": {
       "name": "Athamasi",
       "description": "<p>You have a set of small secondary arms adapted for climbing and hanging from trees. You can't hold or retrieve objects with these limbs, but you can Climb or @UUID[Compendium.pf2e.actionspf2e.Item.3yoajuKjwHZ9ApUY]{Grab an Edge} even if one or both of your primary hands are full. You aren't @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} while Climbing.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Badlands Orc": {
       "name": "Badlands Orc",
@@ -79,12 +79,12 @@
     "Bakuwa Lizardfolk": {
       "name": "Bakuwa Lizardfolk",
       "description": "<p>Your body is covered in bony plates. Your plates are medium armor in the plate armor group that grant a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a Speed penalty of –5 feet, a Strength value of +3, and have the aquadynamic and comfort traits. You can never wear other armor or remove your plates. You can etch armor runes onto your plates.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Bandaagee Vanara": {
       "name": "Bandaagee Vanara",
       "description": "<p>Your family is one of many who claims to be descended from the regal vanara peacekeeping family called the Bandaagee. Bandaagee are the most common kind of vanaras. You're very familiar with the trappings of civilization and move easily through the most crowded communities. You ignore difficult terrain from crowds.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Battle-Ready Orc": {
       "name": "Battle-Ready Orc",
@@ -99,12 +99,12 @@
     "Beastkin": {
       "name": "Beastkin",
       "description": "<p>The blood of a beast flows through your veins, granting you the ferocity and might of animals. Only creatures with the humanoid trait can take the beastkin versatile heritage. Choose a type of animal such as bat, eagle, shark, spider, tyrannosaurus, wasp, or wolf. This is the type of animal tied to your heritage and is known as your inherent animal. A beastkin's hybrid form is their natural shape. You gain the beast and beastkin traits, in addition to the traits from your ancestry.</p>\n<p>You gain the @UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{Change Shape} ability. You can choose from beastkin feats and feats from your ancestry whenever you gain an ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Benthic Azarketi": {
       "name": "Benthic Azarketi",
       "description": "<p>Your heritage traces to azarketis living deep beneath the sea, and you can handle the chilling depths more easily than most. You gain resistance to cold equal to half your level, and you don't treat environmental cold as one degree more severe when you are wet. You adapt to pressure changes from being deep underwater automatically without ill effect.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Bloodhound Shoony": {
       "name": "Bloodhound Shoony",
@@ -119,27 +119,27 @@
     "Born of Animal": {
       "name": "Born of Animal",
       "description": "<p>You were a simple animal until the sun enlightened you.</p>\n<ul>\n<li><strong>Humanoid Form</strong> Animals can sense the power of your presence. You gain a +1 circumstance bonus to Intimidation checks against animals and beasts and don't take a penalty for attempting to Intimidate animals or beasts you don't share a language with.</li>\n<li><strong>Yaoguai Form</strong> You can dash like an animal. If you have both hands free, you can increase your Speed to 30 feet as you run on all fours.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Born of Celestial": {
       "name": "Born of Celestial",
       "description": "<p>You were once a powerful celestial before an escape or great punishment left you trapped in a mortal shell, with only vague memories and limited power. Due to your residual divine power, the tradition of any spells or magical abilities you gain from a yaoguai heritage or ancestry feat is divine instead of its normal tradition (usually occult).</p>\n<ul>\n<li><strong>Humanoid Form</strong> Fragments of divine memory still litter your mind. You gain a +1 circumstance bonus to Religion checks.</li>\n<li><strong>Yaoguai Form</strong> Celestial power flows through you. Choose one cantrip from the divine spell list. You can cast this spell as an innate divine cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Born of Elements": {
       "name": "Born of Elements",
       "description": "<p>You were an aspect of nature—the rain, the wind, a ray of light—until the wild essences gave you a soul. Due to your natural connection, the tradition of any spells or magical abilities you gain from a yaoguai heritage or ancestry feat is primal instead of its normal tradition (usually occult).</p>\n<ul>\n<li><strong>Humanoid Form</strong> You remain attuned to the natural world. You gain a +1 circumstance bonus to Survival checks to @UUID[Compendium.pf2e.actionspf2e.Item.fJImDBQfqfjKJOhk]{Sense Direction}, and you don't take a penalty if you don't have a compass.</li>\n<li><strong>Yaoguai Form</strong> The power of nature flows through you, ready to lash out. Choose @UUID[Compendium.pf2e.spells-srd.Item.kBhaPuzLUSwS6vVf]{Electric Arc}, @UUID[Compendium.pf2e.spells-srd.Item.IxhGEKl63R4QBvkj]{Frostbite}, @UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{Ignition}, @UUID[Compendium.pf2e.spells-srd.Item.iYRDFxeVpJ5KIjmr]{Needle Darts}, @UUID[Compendium.pf2e.spells-srd.Item.9I8mp7RkjeXbkYfx]{Timber}, @UUID[Compendium.pf2e.spells-srd.Item.zA0jNIBRgLsyTpbm]{Scatter Scree}, @UUID[Compendium.pf2e.spells-srd.Item.1Yoipc5jNcMehtEW]{Slashing Gust}, or @UUID[Compendium.pf2e.spells-srd.Item.eSL5hVT9gXrnRLtd]{Spout}. You can cast this spell as an innate primal cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Born of Item": {
       "name": "Born of Item",
       "description": "<p>You were an object until the moon breathed life into you. Choose one Lore skill related to what kind of tool you were; for instance, Cooking Lore for a cleaver or Farming Lore for a rake. You become trained in this skill.</p>\n<ul>\n<li><strong>Humanoid Form</strong> You retain memories of the tasks you performed as an object. You gain a +1 circumstance bonus to the Lore skill you obtained through this heritage.</li>\n<li><strong>Yaoguai Form</strong> Your time as a mindless object makes it harder to affect you mentally. If you roll a success on a mental effect, you gain a critical success instead.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Born of Vegetation": {
       "name": "Born of Vegetation",
       "description": "<p>You were a plant or fungi until the rain gifted you a mind. You gain your choice of the plant or fungus trait.</p>\n<ul>\n<li><strong>Humanoid Form</strong> With fresh vegetation, you can better aid those in need. You gain a +1 circumstance bonus to Medicine checks to @UUID[Compendium.pf2e.actionspf2e.Item.MHLuKy4nQO2Z4Am1]{Administer First Aid}.</li>\n<li><strong>Yaoguai Form</strong> When anyone uses the Medicine skill to @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat your Wounds}, add your level to the Hit Points you regain from that treatment. Additionally, the creature attempting the check gains a +1 circumstance bonus if you have the plant trait and are in bright light, or the fungus trait and are in darkness.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Breaker Surki": {
       "name": "Breaker Surki",
@@ -149,7 +149,7 @@
     "Bright Fetchling": {
       "name": "Bright Fetchling",
       "description": "<p>Your body proves that shadow can't exist without light. Perhaps your eyes glow brighter or your veins occasionally pulse with light. You emit dim light within 5 feet of you. You can activate or suppress this ability as an action, which has the concentrate trait. Additionally, you can force fragments of your shadow to glow and cast @UUID[Compendium.pf2e.spells-srd.Item.WBmvzNDfpwka3qT4]{Light} as an occult innate cantrip. Cantrips are heightened to a spell rank equal to half your level rounded up.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Budding Speaker Centaur": {
       "name": "Budding Speaker Centaur",
@@ -169,7 +169,7 @@
     "Cataphract Fleshwarp": {
       "name": "Cataphract Fleshwarp",
       "description": "<p>Your battle-hardened skeleton is laced with additional cartilage and muscle to help bear armor across vast areas of operation, and your skin is bedecked with tiny spurs of pliable, resilient keratin to optimize the grip and weight distribution of your armor. You gain the @UUID[Compendium.pf2e.feats-srd.Item.BStw1cANwx5baL6d]{Armor Proficiency} feat.</p>\n<p>If your class makes you trained in all types of armor, you instead become trained in Athletics (or a skill of your choice if you're already trained in Athletics) and gain the @UUID[Compendium.pf2e.feats-srd.Item.Lc4dJZivRwU3QEmT]{Armor Assist} skill feat.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Cave Kholo": {
       "name": "Cave Kholo",
@@ -184,7 +184,7 @@
           "text": "When you roll a success to Climb, you get a critical success instead."
         }
       },
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Cavern Elf": {
       "name": "Cavern Elf",
@@ -207,7 +207,7 @@
     "Celestial Envoy Kitsune": {
       "name": "Celestial Envoy Kitsune",
       "description": "<p>Whether due to Daikitsu's grace or faithful forebears, you have a strong connection to the divine, affording you certain protections. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.Aq2mXT2hLlstFL5C]{Invoke Celestial Privilege} reaction. Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human), called a tailless form.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Chameleon Gnome": {
       "name": "Chameleon Gnome",
@@ -227,7 +227,7 @@
     "Chrysanthemum Leshy": {
       "name": "Chrysanthemum Leshy",
       "description": "<p>You look like a human child, though with a grand crown of chrysanthemums growing from your head, ornate as an emperor's. These petals have medicinal properties, granting you a +1 circumstance bonus to saving throws against poison.</p>\n<p>Furthermore, during your daily preparations, you can harmlessly pluck a few petals from your head and steep them in fresh water to create a single @UUID[Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z]{Lesser Antidote}, which takes the form of a tea. At level 6, you instead create a @UUID[Compendium.pf2e.equipment-srd.Item.AJ1dC7EtTIfBey0M]{Moderate Antidote}; at level 10, a @UUID[Compendium.pf2e.equipment-srd.Item.XWkeL34yJK6t5qUE]{Greater Antidote}; and at level 14, a @UUID[Compendium.pf2e.equipment-srd.Item.ANzB9WzlGQXDn76G]{Major Antidote}. The tea loses its effectiveness if not consumed before your next daily preparations.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Clawed Catfolk": {
       "name": "Clawed Catfolk",
@@ -262,17 +262,17 @@
     "Courageous Tanuki": {
       "name": "Courageous Tanuki",
       "description": "<p>Your heart beats with the courage of those who came before you, giving you the kind of bravery only a tanuki can demonstrate. Whenever you gain the @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} condition, you also gain a +10-foot circumstance bonus to your Speeds that lasts as long as you're fleeing. When you have the fleeing condition, instead of having to spend all your actions trying to escape, you can act normally for one action but must still spend the remainder of your actions fleeing. You also gain the @UUID[Compendium.pf2e.actionspf2e.Item.KInVpdfrxg0AqjRt]{Tactical Retreat} ability.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Created Fleshwarp": {
       "name": "Created Fleshwarp",
       "description": "<p>You were created through occult or alchemical processes, such as being grown in a vat or stitched together from the body parts of other creatures by a scientist in Ustalav. Your manufactured body is durable; you don't need to eat and can't starve. You gain a +2 circumstance bonus to saving throws against diseases.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Dark Fields Kitsune": {
       "name": "Dark Fields Kitsune",
       "description": "<p>You can exert your unsettling presence to subtly Demoralize others. When you do, Demoralize loses the auditory trait and gains the visual trait, and you don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language. You also gain the @UUID[Compendium.pf2e.actionspf2e.Item.Ul4I0ER6pj3U5eAk]{Invigorating Fear} reaction. Your alternate form is a fox, which has the statistics of 1st-rank @UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{Pest Form}.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Death Warden Dwarf": {
       "name": "Death Warden Dwarf",
@@ -282,7 +282,7 @@
     "Deep Fetchling": {
       "name": "Deep Fetchling",
       "description": "<p>Your predecessors dwelled in the Shadow Plane's deepest, most treacherous regions. You might cast a denser shadow, have a slower pulse, or find comfort in the embrace of darkness. You gain cold or void resistance equal to half your level (minimum 1), chosen when you gain this heritage.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Deep Orc": {
       "name": "Deep Orc",
@@ -297,22 +297,22 @@
     "Deny Lady Nanbyo's Charity": {
       "name": "Deny Lady Nanbyo's Charity",
       "description": "<p>You swore a vow to release others from natural calamities. Your vow grants you the strength to carry 1 more Bulk than normal before becoming encumbered and up to a maximum of 2 more Bulk, as well as a +1 circumstance bonus to Athletics checks to @UUID[Compendium.pf2e.actionspf2e.Item.SjmKHgI7a5Z9JzBx]{Force Open} or @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}.</p>\n<hr />\n<p><strong>Additional Edict</strong> do your utmost to aid or rescue those trapped or affected by natural disasters</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Deny the Firstborn Pursuit": {
       "name": "Deny the Firstborn Pursuit",
       "description": "<p>You swore a vow to shelter others from the First World's cruelties. Wise to fey's mind-affecting abilities, your vow grants mental resistance equal to half your level (minimum 1), and a +2 circumstance bonus to Nature checks to Recall Knowledge about fey.</p>\n<hr />\n<p><strong>Additional Edict</strong> confront cruel fey you encounter (as long as you have a reasonable chance of success)</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Deny the Traitor's Rebirth": {
       "name": "Deny the Traitor's Rebirth",
       "description": "<p>You swore a vow to deliver others from rakshasas and asuras, whom yaksha legends have condemned as corrupted kin. To counter their shadowy schemes, your vow grants you darkvision and a +1 circumstance bonus to Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} or @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense the Motives} of rakshasas and asuras.</p>\n<hr />\n<p><strong>Additional Edict</strong> confront rakshasas and asuras you come across (as long as you have a reasonable chance of success); in the unlikely event you find a benevolent rakshasa or asura, you don't have to confront them</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Desert Elf": {
       "name": "Desert Elf",
       "description": "<p>You live under the desert's blazing heat, gaining incredible resilience to warm environments. You gain fire resistance equal to half your level (minimum 1), and environmental heat effects are one step less extreme for you (incredible heat becomes extreme, extreme heat becomes severe, and so on).</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Desert Rat": {
       "name": "Desert Rat",
@@ -327,12 +327,12 @@
     "Dijiang": {
       "name": "Dijiang",
       "description": "<p>You have the form of a faceless, leathery ball with short fur, six legs, and a connection to primordial chaos. While you have no face, head, mouth, eyes, or ears, you can somehow hear, speak, see, eat, and breathe just fine (though it's unclear exactly how). Your erratic nature means you often react to stimuli in unpredictable ways.</p>\n<p>When you roll a failure (though not a critical failure) on a saving throw against an emotion effect, you get a success instead.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Discarded Fleshwarp": {
       "name": "Discarded Fleshwarp",
       "description": "<p>The biomancers and mutagenists who warped your form labeled you a \"discard on discovery\"—a euphemism for destroying you on sight. An anomaly among anomalies, your body stubbornly repudiates the efforts of fleshcrafters seeking to mold you to their grandiose visions, and your immune responses blunt the worst effects of unwanted fleshwarping attempts. If you roll a success on a saving throw against a transmutation effect, you get a critical success instead.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Dog Kholo": {
       "name": "Dog Kholo",
@@ -347,7 +347,7 @@
     "Dokkaebi Goblin": {
       "name": "Dokkaebi Goblin",
       "description": "<p>Your ancestors mastered illusion-based magic, giving you an innate understanding of it. You can cast @UUID[Compendium.pf2e.spells-srd.Item.0zU8CPejjQFnhZFI]{Figment} as an innate occult cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up. You also gain a +1 circumstance bonus to Will saves against illusions.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Dragonblood": {
       "name": "Dragonblood",
@@ -362,7 +362,7 @@
     "Draxie": {
       "name": "Draxie",
       "description": "<p>You are kin to faerie dragons, tracing your heritage back to the death of the mightiest faerie dragon in the First World. You gain touch telepathy, allowing you to communicate silently and purely mentally with any creature you're touching, as long as you share a language.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Dromaar": {
       "name": "Dromaar",
@@ -377,12 +377,12 @@
     "Earthly Wilds Kitsune": {
       "name": "Earthly Wilds Kitsune",
       "description": "<p>You are a creature of the material world, with an affinity closer to the wilds than urban society. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group and have the finesse and unarmed traits. Your alternate form is a fox, which has the statistics of 1st-rank @UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{Pest Form}.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Elemental Heart Dwarf": {
       "name": "Elemental Heart Dwarf",
       "description": "<p>Whether through a connection to @UUID[Compendium.pf2e.deities.Item.sZrdzh0ANQnZGXJb]{Torag's} forge, the azers of the Plane of Fire, or another source, you can exude a burst of energy. Mbe'ke and Taralu dwarves of the Mwangi Expanse believe this heritage is a gift from dragons or elemental spirits. Choose one of the following damage types: acid, cold, electricity, or fire. Once chosen, this can't be changed. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.7qjfYsLNTr17Aftf]{Energy Emanation} activity.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Elementheart Kobold": {
       "name": "Elementheart Kobold",
@@ -397,7 +397,7 @@
     "Elusive Vishkanya": {
       "name": "Elusive Vishkanya",
       "description": "<p>Your flexible body seems unnaturally fluid to some, though they can rarely put a finger on what seems strange about you. You can escape foes with ease. You gain a +1 circumstance bonus to checks to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape}. Additionally, you move twice as fast when Squeezing.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Elytron Surki": {
       "name": "Elytron Surki",
@@ -407,22 +407,22 @@
     "Empty Sky Kitsune": {
       "name": "Empty Sky Kitsune",
       "description": "<p>Your spirit is open to the secrets of beyond, granting you greater access to kitsune magic. You gain the @UUID[Compendium.pf2e.feats-srd.Item.Zz7isE8Td2xDWqR8]{Kitsune Spell Familiarity} ancestry feat. Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human), called a tailless form.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Enchanting Lily": {
       "name": "Enchanting Lily",
       "description": "<p>You smell ever so sweet—a delicate, floral scent like the intoxicating fragrance of lilies and the soft scent of lilacs. You're trained in Diplomacy (or another skill if you were already trained in Diplomacy). You also gain a +1 circumstance bonus to checks to @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} if the target can smell your fragrance.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Even-Tempered Tanuki": {
       "name": "Even-Tempered Tanuki",
       "description": "<p>You're possessed of a serenity uncommon to other tanuki, who always seem to be flying off the handle. You gain a +1 circumstance bonus to saving throws against emotion effects. If you roll a success at a saving throw against an emotion effect, you get a critical success instead, but when you roll a failure at a saving throw against an emotion effect, you get a critical failure instead.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Farsight Goloma": {
       "name": "Farsight Goloma",
       "description": "<p>Your eyes have adapted to see more in less than favorable conditions. You gain low-light vision.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Fey-Touched Gnome": {
       "name": "Fey-Touched Gnome",
@@ -447,7 +447,7 @@
           "label": "To Escape (Flexible Catfolk)"
         }
       },
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Flying Animal": {
       "name": "Flying Animal",
@@ -467,12 +467,12 @@
     "Forge-Blessed Dwarf": {
       "name": "Forge-Blessed Dwarf",
       "description": "<p>You are from a family in Highhelm that venerates a particular dwarven deity above all others. Your birth was blessed by your family's patron deity, granting you a fraction of their power. Choose one deity from the dwarven pantheon. You can cast the 1st-rank spell they grant clerics (such as @UUID[Compendium.pf2e.spells-srd.Item.szIyEsvihc5e1w8n]{Soothe} if your family's patron is Bolka) as an innate divine spell once per week.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Frightful Goloma": {
       "name": "Frightful Goloma",
       "description": "<p>Your face has a particularly off-putting appearance. You are trained in Intimidation (or another skill of your choice if you were already trained in Intimidation) and gain the @UUID[Compendium.pf2e.feats-srd.Item.xQMz6eDgX75WX2ce]{Intimidating Glare} skill feat as a bonus feat.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill.</em></p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Frilled Lizardfolk": {
       "name": "Frilled Lizardfolk",
@@ -482,7 +482,7 @@
     "Frozen Wind Kitsune": {
       "name": "Frozen Wind Kitsune",
       "description": "<p>Your ancestors crossed the Crown of the World or resided on snowy peaks. You gain cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on). Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human), called a tailless form.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Fruit Leshy": {
       "name": "Fruit Leshy",
@@ -492,7 +492,7 @@
     "Full Moon Sarangay": {
       "name": "Full Moon Sarangay",
       "description": "<p>You were raised in a shamanic tradition transcending a single sarangay community or heritage. You spent your youth under the guidance of a shaman elder, who taught you to commune with spirits in the hope that you'll one day use that knowledge to advise and guide your people. Those from your tradition are priests or shamans who channel the spirits and see things others can't. You gain an ancestry attribute boost to Wisdom instead of Strength, and you gain an attribute flaw in Constitution instead of Wisdom. You gain the @UUID[Compendium.pf2e.feats-srd.Item.ua0O6tQ3D5099mmH]{Folk Healer} ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Fungus Leshy": {
       "name": "Fungus Leshy",
@@ -502,7 +502,7 @@
     "Gandharva": {
       "name": "Gandharva",
       "description": "<p>You're descended from the self-proclaimed musicians, poets, and dancers of the gods, with a body that's part humanoid and part horse or bird. If you gain wings, they come in many different brilliant colors. Due to your celestial connection, the tradition of any spells or magical abilities you gain from a sprite heritage or ancestry feat is divine instead of its normal tradition.</p>\n<p>You become trained in Performance (or another skill of your choice if you're already trained in Performance), and you can cast @UUID[Compendium.pf2e.spells-srd.Item.yvs1zN5Pai5U4CJX]{Summon Instrument} as a divine innate cantrip.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Ghost Bull Minotaur": {
       "name": "Ghost Bull Minotaur",
@@ -512,7 +512,7 @@
     "Ghost Poppet": {
       "name": "Ghost Poppet",
       "description": "<p>You awakened when a bit of another person's life force and a fragment of their soul-possibly, but not always, at the moment of their death-found its way into your constructed body. You don't remember anything more than vague flashes of your \"before life,\" but that life essence still protects you. You gain resistance to void damage equal to half your level (minimum 1).</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Glacier Cavern Minotaur": {
       "name": "Glacier Cavern Minotaur",
@@ -537,7 +537,7 @@
     "Grig": {
       "name": "Grig",
       "description": "<p>You have the hindquarters of a cricket and adore art and music. Your cricket legs grant you a +2 circumstance bonus on Athletics checks to High Jump or Long Jump, and you gain @UUID[Compendium.pf2e.spells-srd.Item.atlgGNI1E1Ox3O3a]{Ghost Sound} as a primal innate cantrip.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Gutsy Halfling": {
       "name": "Gutsy Halfling",
@@ -547,7 +547,7 @@
     "Half Moon Sarangay": {
       "name": "Half Moon Sarangay",
       "description": "<p>You come from one of many traveling communities that migrate seasonally along Tian Xia's vast rivers and mountains, bringing news and tidings to villages along their path. Your people connect sarangay communities to one another across vast distances and are symbolized by the half moon, which conjoins the light and dark; so too do you conjoin the dark from the bright, the red from the blue, the wind from the sea. Your ancestors were tall and burly with shiny black fur, light spots or markings, and short, tightly curved horns. You become trained in two Lore skills of your choice, and you gain a +1 circumstance bonus to Recall Knowledge checks using those skills.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Hardshell Surki": {
       "name": "Hardshell Surki",
@@ -557,12 +557,12 @@
     "Healer Samsaran": {
       "name": "Healer Samsaran",
       "description": "<p>In seeking enlightenment, your past incarnations have wandered away from the ancestral homelands of Zi Ha, exploring the different nations of Tian Xia and elsewhere in Golarion. Your past incarnations had dangerous encounters while traveling, and you frequently have flashbacks to healing wounds. You become trained in Medicine. If you would automatically become trained in Medicine (from your background or class, for example), you instead become trained in a skill of your choice.</p>\n<p>When you use Medicine to @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Treat Wounds} on yourself, you can use your special techniques to add your level to the Hit Points you regain from the treatment.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Heavenscribe Kobold": {
       "name": "Heavenscribe Kobold",
       "description": "<p>Your connection to wise and celestial imperial dragons has led others to seek your advice. You can speak Draconic. Whenever you critically fail a Diplomacy check to @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} or @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Request}, you get a failure instead.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Hillock Halfling": {
       "name": "Hillock Halfling",
@@ -577,7 +577,7 @@
     "Hooded Nagaji": {
       "name": "Hooded Nagaji",
       "description": "<p>You bear the hooded head of a spitting cobra, and like such cobras, you can shoot streams of venom from your mouth. You gain a venomous spit ranged unarmed attack with a range increment of 10 feet that deals 1d4 poison damage. On a critical hit, the target takes persistent poison damage equal to the number of weapon damage dice. Your spit doesn't have a weapon group or a critical specialization effect.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Hopeful Athamaru": {
       "name": "Hopeful Athamaru",
@@ -587,7 +587,7 @@
     "Hungerseed": {
       "name": "Hungerseed",
       "description": "<p>One of your parents was an oni or a hungerseed. You possess a pair of horns, ranging in size from conical nubs to lengthy protrusions. You might have other signs of your parentage, such as colorful skin, fangs and claws, or a third eye in your forehead. You gain the oni trait. You gain a horns unarmed attack that deals 1d6 piercing damage and is in the brawling group. You can select from hungerseed feats and feats from your other parent's ancestry whenever you gain an ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Hunter Automaton": {
       "name": "Hunter Automaton",
@@ -612,17 +612,17 @@
           "label": "Impersonator Android (to Impersonate a human version of yourself)"
         }
       },
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Insightful Goloma": {
       "name": "Insightful Goloma",
       "description": "<p>You've learned to watch for telltale signs of dangerous sentiments to help you avoid trouble. You gain a +1 circumstance bonus to your Perception DC against attempts to Lie to you and your Perception checks to Sense Motive.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Inured Azarketi": {
       "name": "Inured Azarketi",
       "description": "<p>Your ancestors had to survive in polluted water that made every breath noxious. You gain poison resistance equal to half your level (minimum 1). Furthermore, you can survive outside of water for 72 hours before you begin to suffocate.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Irongut Goblin": {
       "name": "Irongut Goblin",
@@ -665,27 +665,27 @@
     "Kanchil": {
       "name": "Kanchil",
       "description": "<p>You have the head of a mouse deer and hooves instead of feet, with a reputation for being clever and persuasive—able to get yourself out of sticky situations with wordplay and a bit of luck. You become trained in Deception (or another skill if you were already trained in Deception). You gain a +1 circumstance bonus to Deception checks to Lie when specifically attempting to avoid danger or punishment (such as trying to convince a dragon not to eat you), to Deception DCs against @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive} checks to uncover such lies, and to initiative rolls when you roll Deception for initiative.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Keen-Venom Vishkanya": {
       "name": "Keen-Venom Vishkanya",
       "description": "<p>You're practiced with using your venom in combat, allowing you to employ your venom at a moment's notice. Your @UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenom} action doesn't trigger reactions that normally trigger on a manipulate action. Additionally, you gain the @UUID[Compendium.pf2e.actionspf2e.Item.B7wDxyjX66JkiCOV]{Venom Draw} action.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Kijimuna Gnome": {
       "name": "Kijimuna Gnome",
       "description": "<p>Your ancestors lived in the trees and fished in all the waters of Tian Xia. You gain your choice of the following benefits. Once made, this choice can't be changed.</p>\n<ul>\n<li>You can climb any banyan. You gain the @UUID[Compendium.pf2e.feats-srd.Item.09PurtIanNUPfNRq]{Combat Climber} feat, and if you roll a success on the Athletics check to Climb, you get a critical success instead.</li>\n<li>You can catch any fish. You gain a swim Speed of 15 feet.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Laborer Android": {
       "name": "Laborer Android",
       "description": "<p>Your body is adapted to endure physical hardships or perform hard labor for long periods of time. You become trained in Athletics (or another skill if you're already trained in Athletics), and you gain the @UUID[Compendium.pf2e.feats-srd.Item.C0Tcelg3BAPhML6J]{Hefty Hauler} skill feat.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Lahkgyan Vanara": {
       "name": "Lahkgyan Vanara",
       "description": "<p>Your vanara ancestors might have been born in Ragdya's image, but they found survival only in service to his enemy: the red-faced Lahkgya. You have sharp teeth meant for gnashing and ripping into flesh. You can subsist on raw meat alone. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group and have the finesse and unarmed traits.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Lantern Surki": {
       "name": "Lantern Surki",
@@ -700,12 +700,12 @@
     "Lethoci": {
       "name": "Lethoci",
       "description": "<p>You come from a kashrishi family adapted to coastal shores, or inland ponds and lakes. You gain a +2 circumstance bonus to Athletics checks to Swim. If you critically fail an Athletics check to Swim, you get a failure instead.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Leungli": {
       "name": "Leungli",
       "description": "<p>You have the head of a goldfish or carp and scales that come in an auspicious combination of stark white, black, orange, red, and gold. If you gain wings, they appear much like the wispy hairs of a dragon. You gain a swim Speed of 10 feet and the amphibious trait. Like all creatures with the amphibious trait, you can breathe both water and air.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Liminal Catfolk": {
       "name": "Liminal Catfolk",
@@ -720,7 +720,7 @@
           "label": "To Seek undetected within 60 feet (Liminal Fetchling)"
         }
       },
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Littlehorn Minotaur": {
       "name": "Littlehorn Minotaur",
@@ -735,7 +735,7 @@
     "Lorekeeper Shisk": {
       "name": "Lorekeeper Shisk",
       "description": "<p>You grew up surrounded by knowledge and secrets. You become trained in one Lore skill and one other Intelligence- or Wisdom-based skill of your choice. At 5th level, you become expert in the chosen skills.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Lotus Leshy": {
       "name": "Lotus Leshy",
@@ -745,7 +745,7 @@
     "Luminous Sprite": {
       "name": "Luminous Sprite",
       "description": "<p>You glow with magical luminance. You naturally shed light as a @UUID[Compendium.pf2e.equipment-srd.Item.8Jdw4yAzWYylGePS]{Torch}; this light has the evocation, light, and primal traits. You can extinguish, rekindle, or change the color of this light using a single action, which has the concentrate trait.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Mage Automaton": {
       "name": "Mage Automaton",
@@ -755,22 +755,22 @@
     "Makari Lizardfolk": {
       "name": "Makari Lizardfolk",
       "description": "<p>You have a trunk-like snout and a connection to the divine. The tradition of any spells or magical abilities you gain from a lizardfolk heritage or ancestry feat is divine instead of its normal tradition (usually primal).</p>\n<p>You gain your choice of the @UUID[Compendium.pf2e.spells-srd.Item.qwZBXN6zBoB9BHXE]{Divine Lance} or @UUID[Compendium.pf2e.spells-srd.Item.RA7VKcen3p56rVyZ]{Forbidding Ward} cantrips, which you can cast as a divine innate cantrip at will. A cantrip is heightened to a spell rank equal to half your level rounded up. When you cast this cantrip, it loses the manipulate trait, as you cast purely by roaring and flaring your trunk.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Melixie": {
       "name": "Melixie",
       "description": "<p>You have the features of a bee, butterfly, or other insect that loves sweets. You can ask questions of and receive answers from arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals), as well as use Diplomacy to Make an Impression on and Request things of them. Most bees, butterflies, moths, and beetles have an @UUID[Compendium.pf2e.conditionitems.Item.fuG8dgthlDWfWjIA]{Indifferent} or @UUID[Compendium.pf2e.conditionitems.Item.v66R7FdOf11l94im]{Friendly} starting attitude toward you and give you time to make your case, though other arthropods react to you like any other adventurer.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Mightyfall Kobold": {
       "name": "Mightyfall Kobold",
       "description": "<p>Your proximity to a mighty kaiju has caused you to grow strong and hardy. You gain 10 Hit Points from your ancestry instead of 6. Instead of the normal attribute boosts and flaws, you can choose to gain a boost to Strength, a boost to Charisma, and a flaw in Intelligence.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Mistbreath Azarketi": {
       "name": "Mistbreath Azarketi",
       "description": "<p>You descend from azarketis who migrated to land environments that could support their need for water. Over time, your people adapted to life on land culturally and physically, even resulting in azarketis born with human hair like their Azlanti ancestors. You no longer need to be immersed in water every 24 hours to maintain your skin and can instead mist or wipe your skin with water to live comfortably. Your land Speed is 25 feet, but your swim Speed is only 15 feet.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Monstrous Skeleton": {
       "name": "Monstrous Skeleton",
@@ -785,7 +785,7 @@
     "Mountaineer Samsaran": {
       "name": "Mountaineer Samsaran",
       "description": "<p>Your past incarnations dwelled in the caves on the snowcapped mountains of Tian Xia, so your body has become adept at surviving frigid storms. You gain cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Mountainkeeper Tengu": {
       "name": "Mountainkeeper Tengu",
@@ -795,22 +795,22 @@
     "Murkeyed Azarketi": {
       "name": "Murkeyed Azarketi",
       "description": "<p>You live in murky waters and have grown accustomed to life in a low-visibility environment. You need only a successful @Check[flat|dc:3] when targeting a concealed creature and a successful @Check[flat|dc:9] when targeting a hidden creature.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Mutated Fleshwarp": {
       "name": "Mutated Fleshwarp",
       "description": "<p>Transformed by uncontrolled magic, you originated in a the Mana Wastes or another region similarly devastated by uncontrolled magic. Due to your toughened or redundant organs, the DC for your checks to recover from persistent bleed damage is 10 instead of 15, and it's reduced to @Check[flat|dc:5] instead of 10 if you have particularly effective assistance recovering from the persistent damage.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Naari": {
       "name": "Naari",
       "description": "<p>You descend from fire elementals or bear the mark of the Inner Spheres, and your features illustrate the influence that elemental fire has over you. You gain the naari trait, in addition to the traits from your ancestry. You gain resistance to fire equal to half your level (minimum 1), and you treat environmental heat effects as if they were one step less severe (incredible heat becomes extreme, extreme heat becomes severe, and so on). You can choose from naari feats and feats from your ancestry whenever you gain an ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Nascent": {
       "name": "Nascent",
       "description": "<p>While most kashrishi are fully adapted to their environment by the time they reach adulthood, some retain unrealized potential well into adulthood before unlocking it. You gain a 1st-level kashrishi ancestry feat for which you meet the prerequisites, if any.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Nephilim": {
       "name": "Nephilim",
@@ -820,12 +820,12 @@
     "New Moon Sarangay": {
       "name": "New Moon Sarangay",
       "description": "<p>Some people call you a dwarf sarangay and your kind \"hiding ones.\" Others whisper you go out with the moon when the moon \"goes hunting\"—a common folk saying for when the new moon vanishes from the sky. Your elusive ancestors built their lodgings in the shade of bamboo thickets, and your ancestral communities valued caution and independence, passing down the knowledge of walking lightly and moving like smoke through bamboo. Your ancestors had dark brown or gray fur with white markings and a V-shaped pair of flat, triangular horns. Your size is Small instead of Medium. You gain 10 Hit Points from your ancestry instead of 8 and gain a +2 circumstance bonus to Athletics checks to @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Nightglider Strix": {
       "name": "Nightglider Strix",
       "description": "<p>You are a dedicated nocturnal avian, keeping watch and predating in the most lightless environments. You gain darkvision.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Nine Lives Catfolk": {
       "name": "Nine Lives Catfolk",
@@ -845,32 +845,32 @@
           "label": "To seek undetected you can hear within 30 feet (Nyktera)"
         }
       },
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Oathkeeper Dwarf": {
       "name": "Oathkeeper Dwarf",
       "description": "<p>Growing up, you never tried to lie to get what you wanted, and even when necessary, lying makes you uncomfortable. The especially faithful might even have thought that you were blessed by the dwarven god of duty, @UUID[Compendium.pf2e.deities.Item.zhPhYge7VJbIlJvA]{Kols}.</p>\n<p>You gain a +1 circumstance bonus to Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive} and to Perception DCs against attempts to @UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie} to you.</p>\n<p>Furthermore, you gain a +2 circumstance bonus to Diplomacy checks to convince others you speak the truth when you are telling the truth, and you take a -4 circumstance penalty to lie and to your Deception DC against @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive}.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Observant Halfling": {
       "name": "Observant Halfling",
       "description": "<p>Your finely honed senses quickly clue you in to danger or trickery. You gain a +1 circumstance bonus to your Perception DC, though not to your Perception checks.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Old-Blood Vishkanya": {
       "name": "Old-Blood Vishkanya",
       "description": "<p>You have a direct matrilineal line to the original group of vishkanyas upon the Vudrani ships that came to reclaim Jalmeray. Since then, your family has adjusted well to a new life in the Inner Sea. You become trained in Society (or another skill of your choice if you're already trained in Society), and you gain your choice of the @UUID[Compendium.pf2e.feats-srd.Item.JtjnFsOToBLnSRO9]{Courtly Graces} or @UUID[Compendium.pf2e.feats-srd.Item.X2jGFfLU5qI5XVot]{Streetwise} feat.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Oracular Samsaran": {
       "name": "Oracular Samsaran",
       "description": "<p>Your past lives have provided heightened insight to the spiritual world and current and future events, as history repeats itself. Choose arcane, divine, or occult. You gain one cantrip from that magical tradition's spell list. You can Cast this Spell as an innate spell at will, as a spell of your chosen tradition. A cantrip is heightened to a spell rank equal to half your level rounded up.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Oread": {
       "name": "Oread",
       "description": "<p>An earth elemental ancestor has influenced your bloodline, and your features highlight this elemental planar connection. You might have a crystalline or metallic sheen to your skin or hair, rough and stony flesh, or glittering gemstone eyes. You gain the oread trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. You can choose from oread feats and feats from your ancestry whenever you gain an ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Paddler Shoony": {
       "name": "Paddler Shoony",
@@ -885,12 +885,12 @@
     "Palace Echoes Kitsune": {
       "name": "Palace Echoes Kitsune",
       "description": "<p>You descend from kitsune who possessed such compelling powers of persuasion that they could walk into a palace at sunrise and end up as the power behind the throne by nightfall. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.rlGVQku78DGoOl9V]{Nudging Whisper} action.</p>\n<p>Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human) called a tailless form.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Peachchild Leshy": {
       "name": "Peachchild Leshy",
       "description": "<p>Your leshy spirit took hold in a massive peach fruit before your body split forth from it, possibly emulating a past hero who was born in the same manner. You look like a human child, though with a perpetual flush of pink to your complexion and perhaps a few peach leaves growing from your body. The nature spirit inside you puts certain animals at ease.</p>\n<p>You can ask questions of and receive answers from household animals and livestock, such as dogs or pheasants, as well as use Diplomacy to Make an Impression on and Request things of them. Most domesticated animals have an indifferent or friendly starting attitude toward you and give you time to make your case, though other animals react to you like any other adventurer.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Pelagic Merfolk": {
       "name": "Pelagic Merfolk",
@@ -905,7 +905,7 @@
     "Pixie": {
       "name": "Pixie",
       "description": "<p>You are larger than other sprites. Instead of Tiny, your size is Small.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Poisonhide Tripkee": {
       "name": "Poisonhide Tripkee",
@@ -915,12 +915,12 @@
     "Polychromatic Anadi": {
       "name": "Polychromatic Anadi",
       "description": "<p>Your body is covered with exceptionally colorful hairs that create vibrant, eye-catching patterns, some of which might even show in your human form. You become trained in Performance (or another skill if you were already trained in Performance), and you gain the @UUID[Compendium.pf2e.feats-srd.Item.xqAdXRd2gSQcqp5E]{Impressive Performance} feat.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill.</em></p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Polyglot Android": {
       "name": "Polyglot Android",
       "description": "<p>You were preprogrammed with a multitude of linguistic proficiencies, likely to act as a translator. You learn two new languages, chosen from common languages and any uncommon languages you have access to. These languages take the same form (signed or spoken) as your other languages. If you select the @UUID[Compendium.pf2e.feats-srd.Item.P9HCz0uR6xPHuw72]{Multilingual} feat, you learn three new languages instead of two.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Ponygait Centaur": {
       "name": "Ponygait Centaur",
@@ -930,17 +930,17 @@
     "Predator Strix": {
       "name": "Predator Strix",
       "description": "<p>You come from a line of strix with exceptionally broad wings and lengthy talons. You gain a talon melee unarmed attack that deals @Damage[1d4[slashing]] damage. Your talon attack is in the brawling group and has the agile, finesse, and unarmed traits.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Prismatic Vishkanya": {
       "name": "Prismatic Vishkanya",
       "description": "<p>Your scales shimmer and catch the light in an intoxicating display of colors. You become trained in Performance (or another skill of your choice if you're already trained in Performance) and gain the @UUID[Compendium.pf2e.feats-srd.Item.7LB00jkh6JaJr3vS]{Fascinating Performance} feat.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Quillcoat Shisk": {
       "name": "Quillcoat Shisk",
       "description": "<p>Your body has adapted a defensive mechanism to break off your quills in an attacker, allowing you to defend yourself against aggressive predators, though it takes a while for the quills to grow back. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.oAWNluJaMlaGysXA]{Barbed Quills} reaction.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Quilled Athamaru": {
       "name": "Quilled Athamaru",
@@ -950,7 +950,7 @@
     "Ragdyan Vanara": {
       "name": "Ragdyan Vanara",
       "description": "<p>Keepers of traditions and tellers of ancient tales, your family traces its lineage to those born directly from Ragdya's whims. When you speak, others are inclined to listen to you, perhaps due to the divine spark of your connection to Ragdya. You gain one cantrip from the divine spell list; this cantrip can't deal damage or otherwise cause direct harm. You can cast this spell as a divine innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Rainfall Orc": {
       "name": "Rainfall Orc",
@@ -975,47 +975,47 @@
     "Resolute Fetchling": {
       "name": "Resolute Fetchling",
       "description": "<p>Your ancestors have long dealt with the horrific—in the Shadow Plane or elsewhere—and you bear their mental fortitude. When you roll a success on a saving throw against an emotion effect, you get a critical success instead.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Respite of Cloudless Paths": {
       "name": "Respite of Cloudless Paths",
       "description": "<p>You swore a vow to protect the waylaid and the lost. Both environmental heat effects and environmental cold effects are one step less extreme for you (incredible heat becomes extreme, extreme cold becomes severe, and so on), and you gain a + 1 circumstance bonus to saving throws against environmental features or hazards, such as floods, rockslides, and sandstorms.</p>\n<hr />\n<p><strong>Additional Edict</strong> assist lost or incapacitated travelers</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Respite of Loam and Leaf": {
       "name": "Respite of Loam and Leaf",
       "description": "<p>You swore a vow to preserve the very foundation of sanctuary: the great earth and all that grows upon it. Your vow grants you the land's spiritual power; you gain one cantrip from the primal spell list. You can cast this spell as an innate primal spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. Your roots in the world grant you the plant trait.</p>\n<hr />\n<p><strong>Additional Edict</strong> cure or remove blight and pollution from the plants and soil you encounter</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Respite of a Thousand Roofs": {
       "name": "Respite of a Thousand Roofs",
       "description": "<p>You swore a vow to shelter and feed the poor. Your vow grants you adroitness with carpentry, cook pot, and cloth; you become trained in Crafting and Cooking Lore, and you gain the @UUID[Compendium.pf2e.feats-srd.Item.3HChkcD1IRqv4DbA]{Improvise Tool} skill feat.</p>\n<hr />\n<p><strong>Additional Edict</strong> help the impoverished to the extent you're able by repairing their abodes and clothing or by feeding them</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Rite of Invocation": {
       "name": "Rite of Invocation",
       "description": "<p>You augmented your exoskeleton with magic. You gain one cantrip from the arcane or occult spell list. You can cast this spell as an innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Rite of Knowing": {
       "name": "Rite of Knowing",
       "description": "<p>You enhanced your exoskeleton with a connection to Axis, allowing you to tap into the infinite knowledge of the plane. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.k5TASjIxghvGCy7g]{Call to Axis} action.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Rite of Light": {
       "name": "Rite of Light",
       "description": "<p>Your exoskeleton bears small shoots that can share life. When using your @UUID[Compendium.pf2e.ancestryfeatures.Item.BgHrucbZ9TH92RDv]{Sunlight Healing}, you can restore the Hit Points of an adjacent ally instead of yourself. That ally becomes temporarily immune to all uses of Sunlight Healing for 1 day.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Rite of Passage": {
       "name": "Rite of Passage",
       "description": "<p>Your exoskeleton remains connected with the plants that created it. You can ignore difficult terrain and uneven ground caused by undergrowth. In addition, when you use the Acrobatics skill to Balance on narrow surfaces or uneven ground within forests, you aren't off-guard. When you roll a success attempting one of these Acrobatics checks, you get a critical success instead.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Rite of Reinforcement": {
       "name": "Rite of Reinforcement",
       "description": "<p>Your woven exoskeleton rivals the hardest armors that can be found. Your exoskeleton is medium armor in the plate armor group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of -2, a speed penalty of -5 feet, and a Strength value of +3, and has the comfort trait. You can never wear other armor or remove your exoskeleton. You can etch armor runes onto your exoskeleton as normal.</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.0KHgAaDi3tmu32Hq]{Rite of Reinforcement Exoskeleton}</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "River Azarketi": {
       "name": "River Azarketi",
@@ -1025,7 +1025,7 @@
           "text": "When you succeed at an Athletics check to Swim, you get a critical success instead."
         }
       },
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Riverside Tripkee": {
       "name": "Riverside Tripkee",
@@ -1060,7 +1060,7 @@
     "Sacred Nagaji": {
       "name": "Sacred Nagaji",
       "description": "<p>You stand out from most nagaji, with the upper body of a beautiful human and the lower body of a green or white snake. Legends claim your ancestors were faithful snakes uplifted by Nalinivati rather than nagaji created by the goddess. Instead of a fangs unarmed attack, you have a tail attack that deals 1d6 bludgeoning damage, is in the brawling weapon group, and has the finesse and unarmed traits. You gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple} or @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} you. This bonus also applies to saving throws against effects that would @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grab} you, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrain} you, or knock you @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Sailfish Merfolk": {
       "name": "Sailfish Merfolk",
@@ -1070,7 +1070,7 @@
     "Sanctuary Samsaran": {
       "name": "Sanctuary Samsaran",
       "description": "<p>Your past incarnations were reborn in sanctuaries in northern Zi Ha, and you have recollections of being trained to concentrate and focus for long periods of time. Your hazy flashbacks also reveal useful scripture in the books your past lives had eagerly consumed. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.jsEBrm8SPcsokJLw]{Tap the Past} action.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Sandstrider Lizardfolk": {
       "name": "Sandstrider Lizardfolk",
@@ -1080,12 +1080,12 @@
     "Scalekeeper Vishkanya": {
       "name": "Scalekeeper Vishkanya",
       "description": "<p>You are part of the family of vishkanyas in your community tasked with keeping records of the history and experiences of your people. Your scholarly skill affords you a quick mind. Once per day, you can attempt to Recall Knowledge as a free action.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Scavenger Strix": {
       "name": "Scavenger Strix",
       "description": "<p>Your ancestors originated from a land where food was scarce and threats were many. You are trained in Survival. You gain the @UUID[Compendium.pf2e.feats-srd.Item.8qebBeOJsyRIchcu]{Forager} skill feat as a bonus feat. Your thoroughness when gathering food provides you a +1 circumstance bonus to Survival checks to Subsist.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Seaweed Leshy": {
       "name": "Seaweed Leshy",
@@ -1115,32 +1115,32 @@
     "Shadow of the Courtier": {
       "name": "Shadow of the Courtier",
       "description": "<p>Your shadow dances alongside you. You gain the Impressive Performance skill feat, allowing you to @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} using Performance instead of Diplomacy. Once per day, if you fail, but not critically fail, a check to Make an Impression, you can play it off as part of a performance, allowing you to reroll the check; this is a fortune effect.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Shadow of the Hermit": {
       "name": "Shadow of the Hermit",
       "description": "<p>Your shadow seems somehow full of secrets and mysteries—secrets that it shares with you. Choose one cantrip from the occult spell list. You can cast this spell as an occult innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Shadow of the Sailor": {
       "name": "Shadow of the Sailor",
       "description": "<p>Your shadow flits across the surface of the water, and so do you. You can walk on the surface of still water and other non-damaging liquids, moving at half your normal Speed. You can attempt to walk along the surface of flowing water as well, still moving at half Speed, but to do so, you must succeed at an Acrobatics check to @UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{Balance} using the DC of a Swim check to move through the water; on a failure, you fall into the water. This Acrobatics check doesn't use an action.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Shadow of the Smith": {
       "name": "Shadow of the Smith",
       "description": "<p>Your shadow is thick and liquid, like it could quench the finest ore. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.lgpJoFrkzfkjAzeV]{Inscribe Shadow Pamor} action.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Shadow of the Wanderer": {
       "name": "Shadow of the Wanderer",
       "description": "<p>Your shadow blazes out ahead of you, clearing your path. Your Speed increases by 5 feet.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Shapewrought Fleshwarp": {
       "name": "Shapewrought Fleshwarp",
       "description": "<p>A victim of fleshwarping, you likely bear loose flesh, bony spurs, or features of inhuman creatures sprouting from your skin. You have nevertheless turned the psychic toll of your transformation into a strength. You gain resistance to mental damage equal to half your level (minimum 1).</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Sharp-Eared Catfolk": {
       "name": "Sharp-Eared Catfolk",
@@ -1160,12 +1160,12 @@
     "Shimmertongue Nagaji": {
       "name": "Shimmertongue Nagaji",
       "description": "<p>You were born with a keen sense for magic, able to taste its unique effects in the air. You gain magicsense as a vague sense that has a range of 30 feet—like all vague senses, it's only about as precise as an average human's sense of smell, meaning you generally can predict only if magic is present; however, each tradition of magic has a unique taste to you, allowing you to identify the tradition of magic present.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Shoreline Strix": {
       "name": "Shoreline Strix",
       "description": "<p>You're the descendant of strix who traveled to the coasts. Your feathers are especially water-repellent and sleekly angled for diving, allowing you to catch fish and other prey in the shallows. You are trained in Athletics, and you gain the @UUID[Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor]{Underwater Marauder} skill feat as a bonus skill feat.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Shortshanks Hobgoblin": {
       "name": "Shortshanks Hobgoblin",
@@ -1200,7 +1200,7 @@
     "Snaring Anadi": {
       "name": "Snaring Anadi",
       "description": "<p>You were hatched with hooked fangs that give you an edge when hunting in your true form. Your fangs attack gains the grapple and trip traits.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Snow Goblin": {
       "name": "Snow Goblin",
@@ -1215,7 +1215,7 @@
     "Songbird Strix": {
       "name": "Songbird Strix",
       "description": "<p>You descend from a talented line of strix storytellers. From the highest mountains and purest landscapes where your lungs fill with glorious clean air, you trill, whistle, and croon sweet songs. While natural sounds make you predisposed to sing, voices make you predisposed to mimicry. You receive a +1 circumstance bonus on Deception checks to Impersonate a mimicked voice, where the sound of the voice is the only factor; if you are a master in Deception, you gain a +2 circumstance bonus instead. You also gain a +1 circumstance bonus on Performance checks to sing; if you are a master in Performance, you gain a +2 circumstance bonus instead.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Spellhorn Kobold": {
       "name": "Spellhorn Kobold",
@@ -1225,17 +1225,17 @@
     "Spellkeeper Shisk": {
       "name": "Spellkeeper Shisk",
       "description": "<p>Your magical knowledge allows you to cast simple spells. Choose occult or primal. You gain one cantrip from that magical tradition's spell list. You can cast this spell as an innate spell at will, as a spell of your chosen tradition. A cantrip is heightened to a spell rank equal to half your level rounded up.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Spindly Anadi": {
       "name": "Spindly Anadi",
       "description": "<p>Your limbs are exceptionally long in both forms, allowing you to skitter about with surprising agility. Your Speed increases from 25 to 30 feet.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Spined Azarketi": {
       "name": "Spined Azarketi",
       "description": "<p>Your fins conceal launchable toxic spines. You have a spine ranged unarmed attack with the unarmed trait that deals @Damage[1d4[poison]] damage, has a range increment of 10 feet, and is in the dart weapon group.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Stalker Minotaur": {
       "name": "Stalker Minotaur",
@@ -1245,12 +1245,12 @@
     "Steadfast Tanuki": {
       "name": "Steadfast Tanuki",
       "description": "<p>Your pride in your true tanuki form knows no bounds. You gain your choice of @UUID[Compendium.pf2e.feats-srd.Item.fsovjV7yFMGiVs6z]{Everyday Form} or @UUID[Compendium.pf2e.feats-srd.Item.U8rjCtUuk6qhFyZs]{Teakettle Form} as a bonus ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Steelskin Hobgoblin": {
       "name": "Steelskin Hobgoblin",
       "description": "<p>When you are cut or burned, your body responds by forming tough but flexible callouses over the site of the injury. Over time, this makes the most vulnerable sections of your body harder and more resistant to damage. Many steelskin hobgoblins intentionally use blades and flame to scar themselves in intricate patterns, though this isn't universal. Your flat check to recover from persistent physical (including bleed), energy, or poison damage is DC 13 (rather than DC 15), or @Check[flat|dc:8] when provided particularly effective assistance.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Stickytoe Tripkee": {
       "name": "Stickytoe Tripkee",
@@ -1260,7 +1260,7 @@
     "Stonestep Shisk": {
       "name": "Stonestep Shisk",
       "description": "<p>Navigating mountains and other rocky terrain is second nature to you. You can ignore non-magical difficult terrain caused by rubble and uneven ground made of stone and earth.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Stormtossed Tengu": {
       "name": "Stormtossed Tengu",
@@ -1275,7 +1275,7 @@
     "Strong Oak": {
       "name": "Strong Oak",
       "description": "<p>Most ghorans have bodies of pliable vines and tough stems, but you're covered in sturdy, rough bark and your legs are stable as roots. You gain a +2 circumstance bonus on your Fortitude or Reflex DC against attempts to @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple} or @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} you. This bonus also applies to saving throws against effects that would @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grab} you, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrain} you, or knock you @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. You also gain a +2 circumstance bonus on Acrobatics checks to @UUID[Compendium.pf2e.actionspf2e.Item.M76ycLAqHoAgbcej]{Balance}.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Strong-Blooded Dwarf": {
       "name": "Strong-Blooded Dwarf",
@@ -1285,7 +1285,7 @@
     "Stronggut Shisk": {
       "name": "Stronggut Shisk",
       "description": "<p>Your metabolism is slow, allowing you to go for days without food and process maladies at a slower rate. You can go for 1 week without food before you begin to starve Additionally, the onset times and lengths of stages for all diseases and poisons that affect you are increased by 50%. If the onset time or stage is instant or lasts only 1 round, this ability has no effect.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Strongjaw Kobold": {
       "name": "Strongjaw Kobold",
@@ -1295,7 +1295,7 @@
     "Stuffed Poppet": {
       "name": "Stuffed Poppet",
       "description": "<p>You have little inside you other than cotton, sawdust, or dried leaves. You take no damage from falling, regardless of the distance you fall.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Sturdy Skeleton": {
       "name": "Sturdy Skeleton",
@@ -1305,12 +1305,12 @@
     "Suli": {
       "name": "Suli",
       "description": "<p>You are descended from a janni or otherwise embody a dichotomy of opposing elemental planar forces. You gain the suli trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. You can choose from suli feats and feats from your ancestry whenever you gain an ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Surgewise Fleshwarp": {
       "name": "Surgewise Fleshwarp",
       "description": "<p>The undulations of your body's cilia are hyper-attuned to wellsprings of magic; they trill and thrum with insights into occult energies, and their vibrations alert you to the presence of secrets. You gain the trained proficiency rank in Occultism. If you're trained in Occultism, you instead become trained in another skill of your choice. You also gain the @UUID[Compendium.pf2e.feats-srd.Item.hDGosy2ZTwnyctEP]{Oddity Identification} skill feat.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Sweetbreath Kholo": {
       "name": "Sweetbreath Kholo",
@@ -1325,7 +1325,7 @@
     "Sylph": {
       "name": "Sylph",
       "description": "<p>You are descended from air elementals or were born under the element's influence. You gain the sylph trait, in addition to the traits from your ancestry. You also gain low-light vision or darkvision if your ancestry already has low-light vision. You can choose from sylph feats and feats from your ancestry whenever you gain an ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Tactile Azarketi": {
       "name": "Tactile Azarketi",
@@ -1335,7 +1335,7 @@
           "label": "Tactile Azarketi (Sense Direction in aquatic environments)"
         }
       },
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Tailed Goblin": {
       "name": "Tailed Goblin",
@@ -1345,7 +1345,7 @@
           "label": "Tailed Goblin (Climb)"
         }
       },
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Taloned Tengu": {
       "name": "Taloned Tengu",
@@ -1360,12 +1360,12 @@
     "Technological Fleshwarp": {
       "name": "Technological Fleshwarp",
       "description": "<p>Your transformation is due to manipulation by advanced technology, like that found in Numeria. Your emotions are dulled and hard to influence. When you roll a success on a saving throw against an emotion effect, you get a critical success instead.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Thalassic Azarketi": {
       "name": "Thalassic Azarketi",
       "description": "<p>You trace your lineage from azarketis who lived their lives among the great oceans and seas of the world. You know how to use the currents and the primal magic of water to guide your attacks. You gain the @UUID[Compendium.pf2e.feats-srd.Item.iOY6YfGBaOvMNAor]{Underwater Marauder} skill feat, and your piercing ranged attacks don't have their range increments halved when fighting underwater targets.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Thickcoat Shoony": {
       "name": "Thickcoat Shoony",
@@ -1380,17 +1380,17 @@
     "Thorned Rose": {
       "name": "Thorned Rose",
       "description": "<p>Your beautiful petals and seemingly smooth skin hide silent barbs to pierce the unwary. Your body is covered with wickedly sharp thorns to discourage those that might prey upon you. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.ncdryKskPwHMgHFh]{Wicked Thorns} reaction.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Titan Nagaji": {
       "name": "Titan Nagaji",
       "description": "<p>You were raised to be a warrior or a bodyguard, and your specialized diet and bulging muscles have made your scales as strong as armored plates. Your scales are medium armor in the plate armor group that grant a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a Speed penalty of –5 feet, a Strength value of +3, and have the comfort trait. You can never wear other armor or remove your scales. You can etch armor runes onto your scales.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Toy Poppet": {
       "name": "Toy Poppet",
       "description": "<p>You have the form of a child's tiny toy or doll, but you don't let your small size impede your joy of life. Instead of Small, your size is Tiny. Like other Tiny creatures, you don't automatically receive lesser cover from being in a larger creature's space, but circumstances might allow you to Take Cover. You can purchase weapons, armor, and other items for your size with the same statistics as normal gear, except that melee weapons have a reach of 0 for you (or a reach 5 feet shorter than normal if they have the reach trait). You can enter another creature's space, which is important because you must usually enter a creature's space to attack it with melee Strikes! Remember to adjust the Bulk of items and your Bulk limit for Tiny size.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Treedweller Goblin": {
       "name": "Treedweller Goblin",
@@ -1403,17 +1403,17 @@
           "label": "Treedweller Goblin (Hide or Sneak)"
         }
       },
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Trogloshi": {
       "name": "Trogloshi",
       "description": "<p>You're adapted to the sunless regions of dense jungle forests and deep caves, with soft flesh lacking pigment and unusually clear crystalline horns. You gain the @UUID[Compendium.pf2e.feats-srd.Item.TLuFqQwvnlJNeEsv]{Crystal Luminescence} ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Tsukumogami Poppet": {
       "name": "Tsukumogami Poppet",
       "description": "<p>You have the form and memories of a common tool. Choose one Lore skill related to what kind of tool you were; for instance, Cooking Lore for a kitchen knife or spoon. You're trained in this skill, and you gain a +2 circumstance bonus to checks to Aid with this skill. If you take the @UUID[Compendium.pf2e.feats-srd.Item.ARBIhYAREcytOIaL]{Helpful Poppet} feat, the bonus increases to +3.</p>\n<p>While most poppets are made of stuffing, cloth, or soft metals, some tsukumogami are made of other materials, changing the poppet weakness to fire. If your body is primarily wood or cloth, you have the normal poppet weakness to fire. If your body is primarily metal, you're instead weak to electricity; if its primarily ceramic, you're instead weak to cold.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Tunnel Rat": {
       "name": "Tunnel Rat",
@@ -1443,7 +1443,7 @@
     "Undine": {
       "name": "Undine",
       "description": "<p>A water elemental ancestor influences your bloodline. You gain the undine trait, in addition to the traits from your ancestry. You gain a swim Speed of 10 feet and the amphibious trait. Like all creatures with the amphibious trait, you can breathe both water and air. You can choose from undine feats and feats from your ancestry whenever you gain an ancestry feat.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Unseen Lizardfolk": {
       "name": "Unseen Lizardfolk",
@@ -1453,17 +1453,17 @@
     "Venom-Resistant Vishkanya": {
       "name": "Venom-Resistant Vishkanya",
       "description": "<p>Your body contains not just venom but numerous antivenoms. You gain poison resistance equal to half your level (minimum 1), and each of your successful saving throws against a poison affliction reduces its stage by 2, or by 1 for a virulent poison. Each critical success against an ongoing poison reduces its stage by 3, or by 2 for a virulent poison.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Venomous Anadi": {
       "name": "Venomous Anadi",
       "description": "<p>Your natural form's fangs are capable of injecting foes with venom. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.8aIe57gXJ94mPpW4]{Anadi Venom} ability.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Venomshield Nagaji": {
       "name": "Venomshield Nagaji",
       "description": "<p>Your intrinsic connection to nagas and mundane serpents grants you an innate resistance to toxins of every sort. You gain resistance to poison equal to half your level (minimum 1 resistance), and you gain a +1 circumstance bonus to all saving throws against poison.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Venomtail Kobold": {
       "name": "Venomtail Kobold",
@@ -1478,12 +1478,12 @@
     "Vicious Goloma": {
       "name": "Vicious Goloma",
       "description": "<p>The chitin on your hands forms powerful claws that allow you to defend yourself. You gain a claw unarmed attack that deals 1d6 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Vigilant Goloma": {
       "name": "Vigilant Goloma",
       "description": "<p>You've learned to be aware of not just obvious physical dangers, but also noticeable magical threats. You can cast the @UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{Detect Magic} cantrip as an arcane innate spell at will. A cantrip is heightened to a spell rank equal to half your level rounded up. In addition, your awareness allows you to notice magical traps easier than others. Your proficiency rank in Perception is considered one step better when attempting to detect magical traps. (Trained is considered expert, expert is considered master, and master is considered legendary).</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Vine Leshy": {
       "name": "Vine Leshy",
@@ -1493,22 +1493,22 @@
     "Virtuous Tanuki": {
       "name": "Virtuous Tanuki",
       "description": "<p>Many tanuki carry a gourd of alcohol to remind themselves to act with virtue, and by these standards, you're quite virtuous indeed. You gain poison resistance equal to half your level (minimum 1). You can eat and drink things when you're @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened}. You can't become incapacitated by conventional alcohol if you don't wish to be.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Vivacious Gnome": {
       "name": "Vivacious Gnome",
       "description": "<p>You have an incredibly strong connection to the vitality energy that flows through the First World, making it harder to attack your life force with void energy. You gain void resistance equal to half your level (minimum 1). When you have the @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed} condition, the condition affects you as if its value was 1 lower than it actually is (doomed 1 has no effect, doomed 2 causes you to die at @UUID[Compendium.pf2e.conditionitems.Item.yZRUzMqrMmfLu0V1]{Dying 3}, and so on).</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Wajaghand Vanara": {
       "name": "Wajaghand Vanara",
       "description": "<p>Your ancestors were forced into labor by the rakshasa immortal Ravana, the First and the Last. Although their cleverness while in captivity saved countless lives, and they're bound no longer, the time marked your family with scars upon the mind that will never truly heal, even across the generations. You gain a +1 circumstance bonus to saving throws against emotion effects, and whenever you roll a success on a saving throw against an emotion effect, you get a critical success instead.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Waning Moon Sarangay": {
       "name": "Waning Moon Sarangay",
       "description": "<p>Your ancestors were named for the moon in transition, ever-changing and ephemeral. They're the keepers of secret arts, just as the waning moon hides its face, and their communities were highly regarded for their storytellers, performers, and artists. You lived among your community on the outskirts of forests or rivers, where many answers came as riddles, and you learned to see the world from different perspectives. Your people are often red or fawn colored, with prominent eyes and flat, compact horns. You become trained in your choice of Acrobatics, Crafting, or Performance.</p>\n<p>Once per day, when you roll a critical failure with the chosen skill, you can reroll the check, taking the new result, even if it's worse. Rerolling in this way is a fortune effect.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Warden Human (BB)": {
       "name": "Warden Human (BB)",
@@ -1528,7 +1528,7 @@
     "Warrior Android": {
       "name": "Warrior Android",
       "description": "<p>Your body was originally created to function as a security officer or soldier. You're a naturally gifted warrior preprogrammed for combat. You're trained in all simple and martial weapons.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Warrior Automaton": {
       "name": "Warrior Automaton",
@@ -1543,7 +1543,7 @@
     "Waxing Moon Sarangay": {
       "name": "Waxing Moon Sarangay",
       "description": "<p>Your ancestors dwelled in the swamps, fens, and flooded forests, where they contended with fierce predators and formed raiding parties to claim scarce resources. Blessed by the growing crescent, you're one of the eviscerators, and you can overcome threats that lurk in murky waters as well as those that hunt on land. You're a powerful swimmer with brown or gray fur and backward- or downward-curving horns. You gain a +2 circumstance bonus to Athletics checks to @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump} or @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Swim}.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Wellspring Gnome": {
       "name": "Wellspring Gnome",
@@ -1558,7 +1558,7 @@
     "Whipfang Nagaji": {
       "name": "Whipfang Nagaji",
       "description": "<p>You have a long, flexible neck that can curl into a striking pose like that of a snake. Your deceptively powerful muscles allow you to bite with surprising distance and speed. You gain the @UUID[Compendium.pf2e.actionspf2e.Item.MLOkyKi1Y3N6y56Q]{Raise Neck} action.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Whisper Elf": {
       "name": "Whisper Elf",
@@ -1568,7 +1568,7 @@
     "Wilderness Samsaran": {
       "name": "Wilderness Samsaran",
       "description": "<p>Your preceding lives have been reborn in various remote environments away from major settlements in Tian Xia and beyond. Your past manifestations have had to learn how to survive on their own, and you recall this will to survive while possessing very little resources. You become trained in Survival. If you would automatically become trained in Survival (from your background or class, for example), you instead become trained in a skill of your choice. You can ignore difficult terrain from trees, foliage, and undergrowth.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Wildwood Halfling": {
       "name": "Wildwood Halfling",
@@ -1578,7 +1578,7 @@
     "Windup Poppet": {
       "name": "Windup Poppet",
       "description": "<p>You're made primarily of soft metals, such as tin or silver, and your life force dwells within an exceptional array of clockworks deep in your body. Provided you wind metal tabs on your body a few times each day, you don't need food or water to survive. You must still breathe to ventilate your internal mechanisms and sleep to give your mechanisms rest, just like other poppets.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Windweb Tripkee": {
       "name": "Windweb Tripkee",
@@ -1603,17 +1603,17 @@
     "Wintertouched Human": {
       "name": "Wintertouched Human",
       "description": "<p>The power of winter flows through you. This heritage is most common among the Jadwiga of Irrisen, due to their descent from Baba Yaga, and certain Erutaki touched by the spirits. You gain cold resistance equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Wishborn Poppet": {
       "name": "Wishborn Poppet",
       "description": "<p>You were wished to life, either by a powerful spellcaster or by the earnest desire of an innocent person who loved you very much. You're living proof that a hopeful spirit can overcome any obstacle. If you roll a success on a saving throw against an emotion or fear effect, you get a critical success instead.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Wisp Fetchling": {
       "name": "Wisp Fetchling",
       "description": "<p>Your ancestors' exposure to the Shadow Plane wrought great physical changes. Your hair or skin sometimes appears insubstantial, and you're slighter and more agile than other fetchlings. You're <strong>Small</strong> instead of <strong>Medium</strong>. You gain the trained proficiency rank in Acrobatics, the @UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{Quick Squeeze} skill feat, and a +1 circumstance bonus to Acrobatics checks to Tumble Through. If you would automatically become trained in Acrobatics (from your background or class, for example), you instead become trained in a skill of your choice.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Witch Kholo": {
       "name": "Witch Kholo",
@@ -1638,7 +1638,7 @@
     "Xyloshi": {
       "name": "Xyloshi",
       "description": "<p>You have prominent neck muscles that allow you to use your facial horn as a tool or weapon. You gain a horn unarmed attack that deals 1d6 piercing damage. Your horn is in the brawling group, and has the finesse and unarmed traits.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     }
   },
   "mapping": {

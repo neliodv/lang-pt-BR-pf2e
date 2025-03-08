@@ -4,12 +4,12 @@
     "Anadi": {
       "name": "Anadi",
       "description": "<p><em>Anadi people are reclusive, sapient spiders who hail from the jungles of southern Garund. Though they act in many ways like natural-born shapeshifters, their twin forms actually stem from carefully developed magic.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.9dpHTBpL3j8ZpqTS]{Anadi}</em></p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Android": {
       "name": "Android",
       "description": "<p><em>Technological wonders from another world, androids have synthetic bodies and living souls. Their dual nature makes them quick-thinking and calm under pressure, but comfortable in stillness and solitude.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.dyusFHHyaQOaQhZ0]{Android}</em></p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Athamaru": {
       "name": "Athamaru",
@@ -29,7 +29,7 @@
     "Azarketi": {
       "name": "Azarketi",
       "description": "<p>Azarketis, inheritors of a shattered empire's legacy, hold their proud traditions close but still surface to interact with the rest of the world.</p>\n<p>The aquatic humanoids of the Inner Sea share a somber and burdened history. Most refer to these aquatic peoples as gillmen or sometimes Low Azlanti, though they typically refer to themselves as azarketi, an Azlanti word that translates roughly to \"people of the seas.\" After Earthfall, these proud humans were mutated into aquatic servants by their alghollthu foes. Feeling like they don't fully belong with their human brethren nor with the sea that binds them, many azarketis struggle for a sense of identity and purpose. Though they remain distrusted by the surface dwellers, azarketis celebrate their unique lineage and their descent from the venerated Azlanti culture.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.SNhp04cirQnnBTbb]{Azarketi}</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Catfolk": {
       "name": "Catfolk",
@@ -44,7 +44,7 @@
     "Conrasu": {
       "name": "Conrasu",
       "description": "<p><em>Conrasus are shards of cosmic force given consciousness who construct intricate exoskeletons to interface with the mortal world. Both an integral part of the underlying processes of the universe and strangely set apart, conrasus look to aeons to understand their existence.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.ufWdokSN5W3Einus]{Conrasu}</em></p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Dwarf": {
       "name": "Dwarf",
@@ -59,17 +59,17 @@
     "Fetchling": {
       "name": "Fetchling",
       "description": "<p><em>Once human and now something apart, fetchlings display the Shadow Plane's ancient influence through monochrome complexions, glowing eyes, and the casting of supernatural shadows.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.RlMgeku1FNJjF7YR]{Fetchling}</em></p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Fleshwarp": {
       "name": "Fleshwarp",
       "description": "<p><em>Fleshwarps are people whose forms were created or radically transformed by magic, alchemy, or unnatural energies. Their unorthodox appearance can make it difficult for them to find a place for themselves in the world.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.vTB1bTYVE4onyyy1]{Fleshwarp}</em></p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Ghoran": {
       "name": "Ghoran",
       "description": "<p>These intelligent plant people, created by a long-dead druid, possess a sort of immortality through their seeds—unless these are destroyed by external events other than merely the ravages of time.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.kRjkrWAqQNXj3LLP]{Ghoran}</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Gnome": {
       "name": "Gnome",
@@ -84,7 +84,7 @@
     "Goloma": {
       "name": "Goloma",
       "description": "<p><em>Golomas fear most other people and deliberately use their unusual biology to frighten off those they consider to be dangerous predators. Rarely seen and poorly understood, golomas' many-eyed and wooden faced visages instill terror in most they meet.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.jKglnHBFvzI80tIe]{Goloma}</em></p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Halfling": {
       "name": "Halfling",
@@ -104,7 +104,7 @@
     "Kashrishi": {
       "name": "Kashrishi",
       "description": "<p>Kashrishi make their homes in remote areas of the world. These quiet beings have stout, durable frames and distinctive crystalline horns. Their inherent psychic abilities make them natural empaths but also occasionally burden them with the unceasing thoughts of their neighbors.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.IJOH7nk0w1IybAhp]{Kashrishi}</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Kholo": {
       "name": "Kholo",
@@ -114,7 +114,7 @@
     "Kitsune": {
       "name": "Kitsune",
       "description": "<p><em>Kitsune are a charismatic and witty people with a connection to the spiritual that grants them many magical abilities, chiefly the power to shapechange into other forms. Whether they pass unseen among other peoples or hold their tails high, kitsune are clever observers of the societies around them.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.26YL1jOPQQS6k7A9]{Kitsune}</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Kobold": {
       "name": "Kobold",
@@ -144,7 +144,7 @@
     "Nagaji": {
       "name": "Nagaji",
       "description": "<p>With humanoid figures and serpentine heads, nagaji are heralds, companions, and servitors of powerful nagas. They hold a deep reverence for holy areas and spiritual truths, an aspect many others find as intimidating as a nagaji's appearance.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.TlTIwW61zK0dk95v]{Nagaji}</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Orc": {
       "name": "Orc",
@@ -154,7 +154,7 @@
     "Poppet": {
       "name": "Poppet",
       "description": "<p><em>Poppets are small, basic constructs that typically help their owners with simple tasks. Occasionally, poppets gain sapience, independence, and a spark of life. Elevated beyond mere helpers or playthings, these poppets are free to chart their own destinies.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.Ck8L9livQph1GFal]{Poppet}</em></p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Ratfolk": {
       "name": "Ratfolk",
@@ -164,17 +164,17 @@
     "Samsaran": {
       "name": "Samsaran",
       "description": "<p><em>Samsarans, as the tale goes, originated with a group of scholars in Zi Ha who ventured into the mountains to find the cure for an illness ravaging their village. After weeks of peril, they found a freshwater spring filled with pure magical life essence. This water brought the scholars back from the brink of death and cured the villagers. Given a new chance at life, everyone who drank the water devoted the rest of their life to learning and experiencing the world fully. Upon death, this devotion, combined with the magical essence now infused in their bodies, transformed these people into the first samsarans.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.pwrptby8NB54A6HQ]{Samsaran}</em></p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Sarangay": {
       "name": "Sarangay",
       "description": "<p><em>Sarangay are carabao-headed people who have long survived deep in the forests across Tian Xia. Many adventurers have thought them to be monsters at first, but sarangay are nothing more than a thriving society who value their community and their souls above all else. Their cultures are built upon the intense desire to protect their communities and their chosen leader. Their horns are said to be a crescent moon, and their towering statures are said to have come from their ancestors being stretched so far up to reach their Father Moon while their Mother Earth kept them close to her bosom. They revere the great Father Moon, their First Ancestor, and endeavor to protect and exalt nature above all else, for they understand that they're part of it.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.oTRP3yJNZp5KRoHK]{Sarangay}</em></p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Shisk": {
       "name": "Shisk",
       "description": "<p><em>Shisks are secretive mountain-dwellers, bone-feathered humanoids who lurk underground in dark tunnels and caverns. Their fascination with collecting and protecting esoteric knowledge is one of the few things that can persuade them to explore the outside world.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.qsbc1ZLCWzfl1sfZ]{Shisk}</em></p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Shoony": {
       "name": "Shoony",
@@ -189,12 +189,12 @@
     "Sprite": {
       "name": "Sprite",
       "description": "<p><em>Sprites are diminutive, whimsical, and exuberant creatures from the fey realm known as the First World. They love playing pranks, exploring new things, and embracing everything to do with magic.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.rvbMGyBr6y5K7HDP]{Sprite}</em></p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Strix": {
       "name": "Strix",
       "description": "<p><em>Known as itarii in their own language, strix are reclusive avian humanoids devoted to their homelands and their tribes. They defend their precious communities with broad wingspans and razor talons.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.N8aShsDuf3ur0vZ2]{Strix}</em></p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Surki": {
       "name": "Surki",
@@ -204,7 +204,7 @@
     "Tanuki": {
       "name": "Tanuki",
       "description": "<p><em>Tian Xia is replete with magically gifted ancestries—such as tengu, kitsune, yakshas, and yaoguai—whose powers bring them high regard and who, in turn, use their gifts for responsible ends. Tanuki aren't one of these ancestries. Instead, the shapeshifting raccoon dog–like humanoids use their powers of illusion and transformation in ways more people should: for fun! Tanuki delight in pranks and practical jokes, especially those that allow them to take the high and mighty down a notch and show them what life is like for everyone else. Where other peoples take pride in their storied histories, noble traditions, or intricate ceremonies, tanuki take pride in their simplicity and disregard for the world's many rules. Though some might claim this outlook reduces tanuki to uncouth rubes, tanuki feel it makes them more cultured; after all, one must know a rule to bend it, and one must understand a norm to break it.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.I1uEGrIhe4zLs8Ei]{Tanuki}</em></p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Tengu": {
       "name": "Tengu",
@@ -219,27 +219,27 @@
     "Vanara": {
       "name": "Vanara",
       "description": "<p>Vanaras are inquisitive and mischievous monkey-like humanoids with short, soft fur, expressive eyes, and long, prehensile tails. Their handlike feet and agile builds serve them well in the jungle realms where most vanaras live.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.40koksC576nYV2Tf]{Vanara}</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Vishkanya": {
       "name": "Vishkanya",
       "description": "<p>Vishkanyas are ophidian humanoids who carry potent venom within their blood and saliva. Largely misunderstood due to old tales of their toxicity and natural finesse, vishkanyas work to grow into more than just what stories paint them to be.</p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.1lCAkGgIYYkczZ28]{Vishkanya}</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Wayang": {
       "name": "Wayang",
       "description": "<p><em>Wayangs are diasporic sojourners from the Netherworld where they lived and worked alongside their allies, lightweaving d'ziriaks. Both peoples shared affinities for artistic expression and spiritual introspection, inspiring each other's sensitivities to color, form, and function; they also bolstered each other's defense against rampaging dragons, oni, and undead. This idyll collapsed from divine meddling; some say when Abadar sentenced Zon-Kuthon to exile in the Netherworld, the Midnight Lord's deific presence distorted the plane into a nightmarish domain, while others accounts ascribe fiendish sources to this doom.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.lLXEwzxawJ3Q0tpg]{Wayang}</em></p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Yaksha": {
       "name": "Yaksha",
       "description": "<p><em>Away from shining citadels and opulent palaces, reticent yakshas shelter Tian Xia's rural hinterlands from natural disasters and otherworldly depredations. Famed for resolute vows and prowess with primal magic, yakshas shield the indigent and protect the wilderness, punishing those who threaten either with bone-crushing fury. Yaksha legends recall their origins as divine spirits, overseeing the safety of roads and abodes in a primeval world of vast storm forests and titanic flame floods—the First World, a realm of boundless potentiality. During the Great Abandonment, when the gods left the First World, many yakshas rejected this exodus, instead staying to perform their duties as caretakers. Despite the realm's sudden dearth of divine power, the remaining yakshas swore primordial vows, allowing them to channel power from the nearby Creation's Forge into primal magic and transform swathes of the metamorphic First World into stable regions to provide refuge for destitute fey.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.f6IU2EGcJUzVZ4nD]{Yaksha}</em></p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Yaoguai": {
       "name": "Yaoguai",
       "description": "<p><em>Yaoguai usually begin as simple animals, plants, or objects before finding a way to awaken to sapience, becoming strange shapeshifting creatures in the process. Often originating from an infusion of ambient energy into their original form, yaoguai attain their powers through training their innate magic. Taking care not to expose their true appearance and nature, yaoguai of the same origins or species sometimes form enclaves in which they dedicate their lives to honing their powers or engaging in hedonistic pursuits—though the two aren't mutually exclusive. Yaoguai who lack a solid community, meanwhile, feel compelled to cultivate themselves until they transcend their origin, which might allow them to join society and experience a new kind of freedom.</em></p>\n<p><em>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.OlqTCYZK9sBDeuKf]{Yaoguai}</em></p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     }
   },
   "mapping": {

@@ -34,6 +34,10 @@
       "name": "Agarrar Rocha",
       "source": "Pathfinder Bestiary"
     },
+    "Change Formation": {
+      "name": "Change Formation",
+      "source": "Pathfinder NPC Core"
+    },
     "Change Shape": {
       "name": "Mudar de Forma",
       "source": "Pathfinder Monster Core"
@@ -212,7 +216,11 @@
     },
     "Troop Defenses": {
       "name": "Defesas de Tropa",
-      "source": "Pathfinder Bestiary 3"
+      "source": "Pathfinder NPC Core"
+    },
+    "Troop Movement": {
+      "name": "Troop Movement",
+      "source": "Pathfinder NPC Core"
     },
     "Void Healing": {
       "name": "Cura do Vazio",

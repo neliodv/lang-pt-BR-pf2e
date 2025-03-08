@@ -104,17 +104,17 @@
     "Spell Effect: Adapt Self (Darkvision)": {
       "name": "Spell Effect: Adapt Self (Darkvision)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.GUnw9YXaW3YyaCAU]{Adapt Self}.</p>\n<p>You gain Darkvision.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Adapt Self (Swim)": {
       "name": "Spell Effect: Adapt Self (Swim)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.GUnw9YXaW3YyaCAU]{Adapt Self}.</p>\n<p>You gain a Swim Speed equal to half your Speed.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Adaptive Ablation": {
       "name": "Spell Effect: Adaptive Ablation",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.GoKkejPj5yWJPIPK]{Adaptive Ablation}</p>\n<p>You gain resistance the triggering energy type; you gain this resistance after you take the triggering damage, so it applies only to future damage you take during the duration.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Aerial Form (Bat)": {
       "name": "Spell Effect: Aerial Form (Bat)",
@@ -309,7 +309,7 @@
     "Spell Effect: Anticipate Peril": {
       "name": "Spell Effect: Anticipate Peril",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.EUMjrJJwSgsqNidi]{Anticipate Peril}</p>\n<p>You gain a status bonus to your next initiative roll.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Apex Companion": {
       "name": "Spell Effect: Apex Companion",
@@ -376,7 +376,12 @@
         "105 ft."
       ],
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.HGSCofGACf1TVH55]{Benediction}</p>\n<p>You and your allies gain a +1 status bonus to AC while within the emanation.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
+    },
+    "Spell Effect: Beseech the Sphinx": {
+      "name": "Spell Effect: Beseech the Sphinx",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.7GZVTtzN7H4Jujc1]{Beseech the Sphinx}</p>\n<p>You gain a status bonus to one skill and one type of saving throw.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Bestial Curse (Critical Failure)": {
       "name": "Spell Effect: Bestial Curse (Critical Failure)",
@@ -431,12 +436,17 @@
     "Spell Effect: Bottle the Storm": {
       "name": "Spell Effect: Bottle the Storm",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.VUwpDY4Z91s9QCg0]{Bottle the Storm}</p>\n<p>You gain electricity resistance against the triggering effect.</p>",
-      "source": "Pathfinder Lost Omens: Gods & Magic"
+      "source": "Pathfinder Lost Omens Gods & Magic"
     },
     "Spell Effect: Bullhorn": {
       "name": "Spell Effect: Bullhorn",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.W02bHXylIpoXbO4e]{Bullhorn}</p>\n<p>You gain a +1 status bonus to checks to @UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{Coerce} and auditory Performance checks to Perform at a large venue.</p>",
       "source": "Pathfinder Player Core 2"
+    },
+    "Spell Effect: Call the Ten": {
+      "name": "Spell Effect: Call the Ten",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.REBo9wSxDDx7Qdcc]{Call the Ten}</p>\n<p>You gain resistance to physical and spirit damage.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Call to Arms": {
       "name": "Spell Effect: Call to Arms",
@@ -471,12 +481,12 @@
     "Spell Effect: Charged Javelin": {
       "name": "Spell Effect: Charged Javelin",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.g1eY1vN44mgluE33]{Charged Javelin}</p>\n<p>Others gain a +1 status bonus to attack rolls with metal weapons or electricity effects against you, and you take a -1 status penalty to saves against electricity effects.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Charged Javelin (Attacker)": {
       "name": "Spell Effect: Charged Javelin (Attacker)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.g1eY1vN44mgluE33]{Charged Javelin}</p>\n<p>You gain a +1 status bonus to attack rolls with metal weapons or electricity effects against the origin.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Chromatic Armor": {
       "name": "Spell Effect: Chromatic Armor",
@@ -512,7 +522,12 @@
     "Spell Effect: Cloak of Light": {
       "name": "Spell Effect: Cloak of Light",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.ba1RyDpwq6tfW8VM]{Cloak of Light}</p>\n<p>You glow with bright light in a 30-foot radius and dim light to the next 30 feet.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
+    },
+    "Spell Effect: Coiling Dance": {
+      "name": "Spell Effect: Coiling Dance",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.RcZbmSZf2bFYQtTj]{Coiling Dance}</p>\n<p>Your attacks and spells gain the holy trait.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Community Repair": {
       "name": "Spell Effect: Community Repair",
@@ -564,6 +579,11 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.IAjvwqgiDr3qGYxY]{Courageous Anthem}</p>\n<p>You gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.</p>",
       "source": "Pathfinder Player Core"
     },
+    "Spell Effect: Cutting Eye": {
+      "name": "Spell Effect: Cutting Eye",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.mMyMOxYzMxADdO5M]{Cutting Eye}</p>\n<p>You gain a +2 circumstance bonus to AC or a saving throw.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Spell Effect: Daemon Form (Ceustodaemon)": {
       "name": "Spell Effect: Daemon Form (Ceustodaemon)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.aSDfGcUOUVGU5m1g]{Daemon Form}</p>\n<p>You transform into a Medium daemon battle form. While in this form, you gain the daemon and fiend traits. You have hands in this battle form and can use manipulate actions. You gain the following statistics and abilities regardless of the form that you choose:</p>\n<ul>\n<li>AC = 21 + your level. Ignore your armor check's penalty and Speed reduction.</li>\n<li>15 temporary Hit Points and weakness 5 to holy.</li>\n<li>A +2 status bonus to all saving throws against death effects.</li>\n<li>Resistance 10 to poison.</li>\n<li>Darkvision.</li>\n<li>One or more attacks specific to the battle form you use. You're trained with them. Your attack modifier is +21, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n</ul>\n<p>You also gain specific abilities based on the type of Daemon you choose:</p>\n<ul>\n<li>\n<p><strong>Ceustodaemon</strong> Speed 25 feet;</p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws (reach 10 feet), <strong>Damage</strong> 2d10+10 piercing plus 1d6 spirit;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile, reach 10 feet), <strong>Damage</strong> 2d6 slashing plus 1d6 spirit;</li>\n<li>any successful jaws or claw Strike deals an additional 1d6 damage, and you take the same amount of damage.</li>\n</ul>\n</li>\n</ul>",
@@ -597,7 +617,7 @@
     "Spell Effect: Dancing Shield": {
       "name": "Spell Effect: Dancing Shield",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.8Hw3P6eurX1MYm7L]{Dancing Shield}</p>\n<p>The touched shield uses the Raise a Shield action to protect the target creature.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Spell Effect: Darkened Sight": {
       "name": "Spell Effect: Darkened Sight",
@@ -779,6 +799,11 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.hiVL8qsnTJtpouw0]{Divine Vessel}</p>\n<p>You accept otherworldly energies into your body; while you are still recognizably yourself, you gain the features of one of your deity's servitors. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose.</p>\n<p>If you were Medium or smaller, you become Large, as the effects of @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Enlarge}. You must have space to expand into, or the spell is lost. You also gain the following benefits.</p>\n<ul>\n<li>60 temporary Hit Points.</li>\n<li>A fly Speed equal to your Speed.</li>\n<li>Weakness 15 to lawful.</li>\n<li>A +1 status bonus to saves against spells.</li>\n<li>Darkvision.</li>\n<li>Your unarmed attacks and weapons deal 1 additional spirit damage.</li>\n<li>You gain a bite unarmed attack that deals 2d10 piercing damage.</li>\n</ul>",
       "source": "Pathfinder Core Rulebook"
     },
+    "Spell Effect: Domora's Defense": {
+      "name": "Spell Effect: Domora's Defense",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.PIdXUPtE6ZGpFpXV]{Domora's Defense}</p>\n<p>You gain a +1 circumstance bonus to AC and fire resistance 5.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Spell Effect: Downpour": {
       "name": "Spell Effect: Downpour",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.K4LXpaBWrGy6jIER]{Downpour}</p>\n<p>You gain fire resistance.</p>",
@@ -787,7 +812,7 @@
     "Spell Effect: Draconic Barrage": {
       "name": "Spell Effect: Draconic Barrage",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.S6Kkk15MWGqzC00a]{Draconic Barrage}</p>\n<p>Your Strikes with weapons or unarmed attacks deal additional damage of the chosen type.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Dragon Claws": {
       "name": "Spell Effect: Dragon Claws",
@@ -811,12 +836,12 @@
     },
     "Spell Effect: Dragon Form (Empyreal)": {
       "name": "Spell Effect: Dragon Form (Empyreal)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{Dragon Form}</p>\n<p>You transform into a Large dragon battle form. You must have space to expand or the spell is lost. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Speed 40 feet, fly Speed 100 feet.</li>\n<li>Resistance 10 against the damage type of your breath weapon (see below).</li>\n<li>Darkvision and imprecise scent 60 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n<li><strong>Breath Weapon</strong> <span class=\"action-glyph\">2</span> (divine, spirit) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a @Check[reflex|against:spell|basic] save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/r 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.</li>\n</ul>\n<p>You also gain specific abilities based on the type of dragon you choose:</p>\n<ul>\n<li>\n<p><strong>Empyreal</strong><br /></p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 spirit;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li>breath weapon 30-foot cone, @Damage[10d6[spirit]|options:area-damage]</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (@Damage[(6d10+14)[spirit]] damage).</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{Dragon Form}</p>\n<p>You transform into a Large dragon battle form. You must have space to expand or the spell is lost. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Speed 40 feet, fly Speed 100 feet.</li>\n<li>Resistance 10 against the damage type of your breath weapon (see below).</li>\n<li>Darkvision and imprecise scent 60 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n<li><strong>Breath Weapon</strong> <span class=\"action-glyph\">2</span> (divine, spirit) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a @Check[reflex|against:spell|basic] save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/r 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.</li>\n</ul>\n<p>You also gain specific abilities based on the type of dragon you choose:</p>\n<ul>\n<li>\n<p><strong>Empyreal</strong></p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 spirit;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li>breath weapon 30-foot cone, @Damage[10d6[spirit]|options:area-damage]</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (@Damage[(6d10+14)[spirit]] damage).</p>",
       "source": "Pathfinder Player Core"
     },
     "Spell Effect: Dragon Form (Fortune)": {
       "name": "Spell Effect: Dragon Form (Fortune)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{Dragon Form}</p>\n<p>You transform into a Large dragon battle form. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Speed 40 feet, fly Speed 100 feet.</li>\n<li>Resistance 10 against the damage type of your breath weapon (see below).</li>\n<li>Darkvision and imprecise scent 60 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n<li><strong>Breath Weapon</strong> <span class=\"action-glyph\">2</span> (arcane, force) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a @Check[reflex|against:spell|basic] save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/r 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.</li>\n</ul>\n<p>You also gain specific abilities based on the type of dragon you choose:</p>\n<ul>\n<li>\n<p><strong>Fortune</strong><br /></p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 force;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li>breath weapon 30-foot cone, @Damage[10d6[force]]</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (@Damage[(6d10+14)[force]] damage).</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{Dragon Form}</p>\n<p>You transform into a Large dragon battle form. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Speed 40 feet, fly Speed 100 feet.</li>\n<li>Resistance 10 against the damage type of your breath weapon (see below).</li>\n<li>Darkvision and imprecise scent 60 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n<li><strong>Breath Weapon</strong> <span class=\"action-glyph\">2</span> (arcane, force) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a @Check[reflex|against:spell|basic] save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/r 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.</li>\n</ul>\n<p>You also gain specific abilities based on the type of dragon you choose:</p>\n<ul>\n<li>\n<p><strong>Fortune</strong></p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 force;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li>breath weapon 30-foot cone, @Damage[10d6[force]]</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (@Damage[(6d10+14)[force]] damage).</p>",
       "source": "Pathfinder Player Core"
     },
     "Spell Effect: Dragon Form (Horned)": {
@@ -826,12 +851,12 @@
     },
     "Spell Effect: Dragon Form (Mirage)": {
       "name": "Spell Effect: Dragon Form (Mirage)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{Dragon Form}</p>\n<p>You transform into a Large dragon battle form. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Speed 40 feet, fly Speed 100 feet.</li>\n<li>Resistance 10 against the damage type of your breath weapon (see below).</li>\n<li>Darkvision and imprecise scent 60 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n<li><strong>Breath Weapon</strong> <span class=\"action-glyph\">2</span> (arcane, mental) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a @Check[reflex|against:spell|basic] save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/r 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.</li>\n</ul>\n<p>You also gain specific abilities based on the type of dragon you choose:</p>\n<ul>\n<li>\n<p><strong>Mirage</strong><br /></p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 mental;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li>breath weapon 30-foot cone, @Damage[10d6[mental]|options:area-damage]</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (@Damage[(6d10+14)[mental]] damage).</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{Dragon Form}</p>\n<p>You transform into a Large dragon battle form. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Speed 40 feet, fly Speed 100 feet.</li>\n<li>Resistance 10 against the damage type of your breath weapon (see below).</li>\n<li>Darkvision and imprecise scent 60 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n<li><strong>Breath Weapon</strong> <span class=\"action-glyph\">2</span> (arcane, mental) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a @Check[reflex|against:spell|basic] save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/r 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.</li>\n</ul>\n<p>You also gain specific abilities based on the type of dragon you choose:</p>\n<ul>\n<li>\n<p><strong>Mirage</strong></p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 mental;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li>breath weapon 30-foot cone, @Damage[10d6[mental]|options:area-damage]</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (@Damage[(6d10+14)[mental]] damage).</p>",
       "source": "Pathfinder Player Core"
     },
     "Spell Effect: Dragon Form (Omen)": {
       "name": "Spell Effect: Dragon Form (Omen)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{Dragon Form}</p>\n<p>You transform into a Large dragon battle form. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Speed 40 feet, fly Speed 100 feet.</li>\n<li>Resistance 10 against the damage type of your breath weapon (see below).</li>\n<li>Darkvision and imprecise scent 60 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n<li><strong>Breath Weapon</strong> <span class=\"action-glyph\">2</span> (mental, occult) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a @Check[reflex|against:spell|basic] save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/r 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.</li>\n</ul>\n<p>You also gain specific abilities based on the type of dragon you choose:</p>\n<ul>\n<li>\n<p><strong>Omen</strong><br /></p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 mental;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li>breath weapon 30-foot cone, @Damage[10d6[mental]|options:area-damage]</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (@Damage[(6d10+14)[mental]] damage).</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.5c692cCcTDXjSEzk]{Dragon Form}</p>\n<p>You transform into a Large dragon battle form. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>10 temporary Hit Points.</li>\n<li>Speed 40 feet, fly Speed 100 feet.</li>\n<li>Resistance 10 against the damage type of your breath weapon (see below).</li>\n<li>Darkvision and imprecise scent 60 feet.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +22, and your damage bonus is +6. These attacks are Strength based (for the purpose of the @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled} condition, for example). If your unarmed attack modifier is higher, you can use it instead. See below for more on these attacks.</li>\n<li>Athletics modifier of +23, unless your own modifier is higher.</li>\n<li><strong>Breath Weapon</strong> <span class=\"action-glyph\">2</span> (mental, occult) The shape, damage, and damage type of your breath weapon depend on your specific dragon form (see below). A creature in the area attempts a @Check[reflex|against:spell|basic] save against your spell DC. This is a Reflex save unless stated otherwise in the special ability description for your specific dragon form. Once activated, your breath weapon can't be used again for [[/r 1d4 #rounds]]{1d4 rounds}. Your breath weapon has the trait corresponding to the type of damage it deals.</li>\n</ul>\n<p>You also gain specific abilities based on the type of dragon you choose:</p>\n<ul>\n<li>\n<p><strong>Omen</strong></p>\n<ul>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> jaws, <strong>Damage</strong> 2d12 piercing plus 2d6 mental;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"action-glyph\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li>breath weapon 30-foot cone, @Damage[10d6[mental]|options:area-damage]</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Heightened (8th)</strong> Your battle form is Huge, you gain a +20-foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage (@Damage[(6d10+14)[mental]] damage).</p>",
       "source": "Pathfinder Player Core"
     },
     "Spell Effect: Dragon Wings": {
@@ -862,7 +887,7 @@
     "Spell Effect: Dutiful Challenge": {
       "name": "Spell Effect: Dutiful Challenge",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.caehfpQz7yp9yNzz]{Dutiful Challenge}</p>\n<p>You take a -1 status penalty to attack rolls, damage rolls, and skill checks against creatures other than the marked creature.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Earthquake (Shaking Ground)": {
       "name": "Spell Effect: Earthquake (Shaking Ground)",
@@ -952,7 +977,7 @@
     "Spell Effect: Endure": {
       "name": "Spell Effect: Endure",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.4c1c6eNzU1PFGkAy]{Endure}</p>\n<p>You gain temporary Hit Points.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Enduring Might": {
       "name": "Spell Effect: Enduring Might",
@@ -1000,7 +1025,7 @@
     "Spell Effect: Entreat Spirit": {
       "name": "Spell Effect: Entreat Spirit",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.Yph1UqZU8vMc9bJG]{Entreat Spirit}</p>\n<p>You gain a status bonus to an Intelligence-, Wisdom-, or Charisma-based skill, and to saving throws against curse, death, emotion, and fear effects.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Entropic Wheel": {
       "name": "Spell Effect: Entropic Wheel",
@@ -1146,7 +1171,7 @@
     "Spell Effect: Flashy Disappearance": {
       "name": "Spell Effect: Flashy Disappearance",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.YgbYvkLvnWJ4WfEA]{Flashy Disappearance}</p>\n<p>You become undetected to all creatures unless they can see invisible creatures. You Stride. At the end of your movement, if you have cover, greater cover, or concealment, attempt a Stealth check to Hide. You gain a +2 status bonus to this Stealth check. The invisibility then ends, and you either become observed or hidden to creatures as determined by your check to Hide, if you made one.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Spell Effect: Fleet Step": {
       "name": "Spell Effect: Fleet Step",
@@ -1171,7 +1196,7 @@
           "label": "Font of Serenity (vs. emotion)"
         }
       },
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Forbidding Ward": {
       "name": "Spell Effect: Forbidding Ward",
@@ -1186,7 +1211,7 @@
     "Spell Effect: Forge (Critical Failure)": {
       "name": "Spell Effect: Forge (Critical Failure)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.FTR8m4qrhYzTRyrD]{Forge}</p>\n<p>You gain weakness to physical damage.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Spell Effect: Fortify Summoning": {
       "name": "Spell Effect: Fortify Summoning",
@@ -1296,7 +1321,12 @@
     "Spell Effect: Guided Introspection": {
       "name": "Spell Effect: Guided Introspection",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.R569jdqpNry8m0TJ]{Guided Introspection}</p>\n<p>You gain a status bonus to saving throws against emotion and fear.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
+    },
+    "Spell Effect: Halcyon Mists": {
+      "name": "Spell Effect: Halcyon Mists",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.IERHT6v4o5ISvuJG]{Halcyon Mists}</p>\n<p>You gain temporary Hit Points and become concealed.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Hallowed Ground": {
       "name": "Spell Effect: Hallowed Ground",
@@ -1356,7 +1386,11 @@
           "label": "Hyperfocus (Precise senses)"
         }
       },
-      "source": "Pathfinder Lost Omens: Gods & Magic"
+      "source": "Pathfinder Lost Omens Gods & Magic"
+    },
+    "Spell Effect: Ibex's Harvests": {
+      "name": "Spell Effect: Ibex's Harvests",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.P7AToTm0ulueRk63]{Ibex's Harvest}</p>\n<p>You gain temporary Hit Points.</p>"
     },
     "Spell Effect: Ill Omen": {
       "name": "Spell Effect: Ill Omen",
@@ -1371,7 +1405,7 @@
     "Spell Effect: Illusory Shroud": {
       "name": "Spell Effect: Illusory Shroud",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.kLyyJayja75K9rXX]{Illusory Shroud}</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Spell Effect: Imitate Fauna": {
       "name": "Spell Effect: Imitate Fauna",
@@ -1386,12 +1420,12 @@
     "Spell Effect: Incendiary Ashes (Failure)": {
       "name": "Spell Effect: Incendiary Ashes (Failure)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.OTd17oXwJH9qb1cS]{Incendiary Ashes}</p>\n<p>You have weakness to fire.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Incendiary Ashes (Success)": {
       "name": "Spell Effect: Incendiary Ashes (Success)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.OTd17oXwJH9qb1cS]{Incendiary Ashes}</p>\n<p>You have weakness to fire.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Incendiary Aura": {
       "name": "Spell Effect: Incendiary Aura",
@@ -1532,7 +1566,7 @@
     "Spell Effect: Iron Gut": {
       "name": "Spell Effect: Iron Gut",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.IhwREVWG0OzzrbWA]{Iron Gut}</p>\n<p>You gain a +4 circumstance bonus to your Stealth checks to Conceal the Object unless the searcher specifically searches your mouth and stomach.</p>",
-      "source": "Pathfinder Lost Omens: Gods & Magic"
+      "source": "Pathfinder Lost Omens Gods & Magic"
     },
     "Spell Effect: Iron Gut (3rd Level)": {
       "name": "Spell Effect: Iron Gut (3rd Level)",
@@ -1542,7 +1576,7 @@
           "label": "Iron Gut"
         }
       },
-      "source": "Pathfinder Lost Omens: Gods & Magic"
+      "source": "Pathfinder Lost Omens Gods & Magic"
     },
     "Spell Effect: Juvenile Companion": {
       "name": "Spell Effect: Juvenile Companion",
@@ -1553,6 +1587,11 @@
       "name": "Spell Effect: Keen Smell",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.SXmEI4kVWVSagK4H]{Keen Smell}</p>\n<p>For the spell's duration, you gain scent as an imprecise sense.</p>",
       "source": "Pathfinder Howl of the Wild"
+    },
+    "Spell Effect: Kgalaserke's Axes": {
+      "name": "Spell Effect: Kgalaserke's Axes",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.yo1eB5Xz21AYfWCI]{Kgalaserke's Axes}</p>\n<p>You gain a +1 status bonus to attack rolls or a +2 circumstance bonus to damage against a creature that damaged you.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Knock": {
       "name": "Spell Effect: Knock",
@@ -1612,7 +1651,7 @@
     "Spell Effect: Lift Nature's Caul (Bonus)": {
       "name": "Spell Effect: Lift Nature's Caul (Bonus)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.6GjJtLJnwC18Y0aZ]{Lift Nature's Caul}</p>\n<p>You gain a +1 status bonus to Will saving throws and attack rolls.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Light": {
       "name": "Spell Effect: Light",
@@ -1667,7 +1706,7 @@
     "Spell Effect: Malediction": {
       "name": "Spell Effect: Malediction",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.AdZ2rWJStZ5unxzq]{Malediction}</p>\n<p>You take a -1 status penalty to AC.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Malignant Sustenance": {
       "name": "Spell Effect: Malignant Sustenance",
@@ -1693,6 +1732,11 @@
       "name": "Spell Effect: Mantle of the Unwavering Heart",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.3526YUgCvB5ZsKuX]{Mantle of the Unwavering Heart}</p>\n<p>Pick two of the options below. As a single action, which has the concentrate trait, you can change one of your chosen abilities to a different option from the list.</p>\n<ul>\n<li><strong>Evergreen Vitality</strong> You gain fast healing 3 and a +2 bonus to saves against poison and disease. This effect has the healing and vitality traits.</li>\n<li><strong>Overwhelming Perfume</strong> (aura, olfactory) A cloud of potent floral scent surrounds you in a 15-foot emanation. Creatures in the aura can't benefit from the scent ability and are sickened 1 as long as they remain in the aura. The sickness is a disease effect.</li>\n<li><strong>Towering Trunk</strong> You grow to your size to Large. You're clumsy 1. Your reach increases by 5 feet (or by 10 feet if you started out Tiny), and you gain a grasping branch unarmed attack; this attack is in the brawling weapon group and deals 2d8 bludgeoning damage plus Grab.</li>\n<li><strong>Unyielding Will</strong> You're immune to being fascinated, and you get a +1 bonus to saves and DCs against mental effects.</li>\n</ul>",
       "source": "Pathfinder Rage of Elements"
+    },
+    "Spell Effect: Mental Map": {
+      "name": "Spell Effect: Mental Map",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.PEGECeEtEmXEzwBT]{Mental Map}</p>\n<p>You gain a +2 circumstance bonus to Survival checks while in the location, and any skill checks to Recall Knowledge about the location.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Mimic Undead": {
       "name": "Spell Effect: Mimic Undead",
@@ -1757,7 +1801,7 @@
     "Spell Effect: Musical Accompaniment": {
       "name": "Spell Effect: Musical Accompaniment",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.mnhuvqTIELcpJOFX]{Musical Accompaniment}</p>\n<p>This music provides a +1 status bonus to Performance checks. You take a –4 penalty to Stealth checks while the music is playing.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Spell Effect: Musical Shift": {
       "name": "Spell Effect: Musical Shift",
@@ -1812,7 +1856,7 @@
     "Spell Effect: Object Memory (Weapon)": {
       "name": "Spell Effect: Object Memory (Weapon)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.RztmhJrLLQWoGVdB]{Object Memory}.</p>\n<p>Your proficiency rank with a chosen weapon temporarily increases to trained (if it is not already higher).</p>\n<hr />\n<p><strong>Heightened (6th)</strong> Your proficiency rank increases to expert instead of trained.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: One with the Land": {
       "name": "Spell Effect: One with the Land",
@@ -1862,12 +1906,17 @@
     "Spell Effect: Pact Broker": {
       "name": "Spell Effect: Pact Broker",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.YNAthsgsJjQIXbc8]{Pact Broker}</p>\n<p>You take a penalty to attack and damage rolls against the origin and their allies.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Penumbral Disguise": {
       "name": "Spell Effect: Penumbral Disguise",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.QZ7OHptO1xnwaruq]{Penumbral Disguise}</p>\n<p>You gain a status bonus to Stealth checks to Hide while in dim light or darkness.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
+    },
+    "Spell Effect: Personal Runewell": {
+      "name": "Spell Effect: Personal Runewell",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.N91EI7H1p7YXKX0o]{Personal Runewell}</p>\n<p>You gain a status bonus to spell damage equal to the spell's rank.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Pest Form": {
       "name": "Spell Effect: Pest Form",
@@ -1912,12 +1961,17 @@
     "Spell Effect: Pocket Library": {
       "name": "Spell Effect: Pocket Library",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.TjWHgXqPv5jywMti]{Pocket Library}</p>\n<p>You gain a +1 status bonus on Recall Knowledge checks using your chosen skill. If you roll a critical failure on this check, you get a failure instead.</p>",
-      "source": "Pathfinder Secrets of Magic"
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Practice Makes Perfect": {
       "name": "Spell Effect: Practice Makes Perfect",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.HOj2YsTpkoMpYJH9]{Practice Makes Perfect}.</p>\n<p>You gain a +2 status bonus to the triggering check, or a +3 bonus if you have master or better proficiency in the skill.</p>",
       "source": "Pathfinder #148: Fires of the Haunted City"
+    },
+    "Spell Effect: Precious Gleam": {
+      "name": "Spell Effect: Precious Gleam",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.v14zLiiSc4sl9RrK]{Precious Gleam}</p>\n<p>Your next attack deals additional precision damage, and it gains the effects of cold iron, silver, or steel.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Precious Metals": {
       "name": "Spell Effect: Precious Metals",
@@ -1969,6 +2023,11 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.DH9Y3RQGWO0GzXGU]{Protector's Sphere}</p>\n<p>You gain resistance to all damage.</p>",
       "source": "Pathfinder Player Core"
     },
+    "Spell Effect: Purify Tanglebriar": {
+      "name": "Spell Effect: Purify Tanglebriar",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.ZVdKM0HkgpWykrqf]{Purify Tanglebriar}</p>\n<p>You take a –2 status penalty to Initiative checks.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
+    },
     "Spell Effect: Qi Form": {
       "name": "Spell Effect: Qi Form",
       "badges": [
@@ -1992,6 +2051,11 @@
       "name": "Spell Effect: Ray of Frost",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.gYjPm7YwGtEa1oxh]{Ray of Frost}</p>\n<p>You take a -10-foot status penalty to your Speeds.</p>",
       "source": "Pathfinder Core Rulebook"
+    },
+    "Spell Effect: Read Aura": {
+      "name": "Spell Effect: Read Aura",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.OhD2Z6rIGGD5ocZA]{Read Aura}</p>\n<p>You gain a +2 circumstance bonus to Identify Magic.</p>",
+      "source": "Pathfinder Player Core"
     },
     "Spell Effect: Read the Air": {
       "name": "Spell Effect: Read the Air",
@@ -2021,7 +2085,7 @@
     "Spell Effect: Repel Metal": {
       "name": "Spell Effect: Repel Metal",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.pZBovpzdBNLQQQmE]{Repel Metal}</p>\n<p>You gain a +2 circumstance bonus to AC against the triggering attack.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Resilient Touch": {
       "name": "Spell Effect: Resilient Touch",
@@ -2064,7 +2128,7 @@
     "Spell Effect: Roar of the Dragon": {
       "name": "Spell Effect: Roar of the Dragon",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.FSu6ZKxr3xdS75wq]{Roar of the Dragon}.</p>\n<p>You gain a +2 circumstance bonus to Diplomacy checks for 10 minutes against dragons that were in the area at the time of casting.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Rousing Splash": {
       "name": "Spell Effect: Rousing Splash",
@@ -2144,12 +2208,12 @@
     "Spell Effect: Serrate": {
       "name": "Spell Effect: Serrate",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.YKexU7BkwNq4ESCc]{Serrate}</p>\n<p>Strikes with the target weapon deal additional slashing damage.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Share Vision": {
       "name": "Spell Effect: Share Vision",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.TRlI5zAbNW2hDiH9]{Share Vision}</p>\n<p>You gain a +2 status bonus to Perception checks.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Shield": {
       "name": "Spell Effect: Shield",
@@ -2168,7 +2232,7 @@
     },
     "Spell Effect: Shields of the Spirit": {
       "name": "Spell Effect: Shields of the Spirit",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.ZL97DcoJ8us6EwAF]{Shields of the Spirit}</p>\n<p>You gain a +1 status bonus to AC.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.ZL97DcoJ8us6EwAF]{Shields of the Spirit}</p>\n<p><strong>Champion:</strong> You Raise your Shield.</p>\n<p><strong>Ally:</strong> You gain a +1 status bonus to AC while in the Champion's aura.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Spell Effect: Shields of the Spirit (Security)": {
@@ -2234,7 +2298,7 @@
     "Spell Effect: Speaking Sky": {
       "name": "Spell Effect: Speaking Sky",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.Zvg0FWzClGbzucFd]{Speaking Sky}</p>\n<p>You gain precise motion sense within 60 feet.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Spell Effect: Spectral Advance": {
       "name": "Spell Effect: Spectral Advance",
@@ -2299,7 +2363,7 @@
     "Spell Effect: Summon Healing Servitor": {
       "name": "Spell Effect: Summon Healing Servitor",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.3r897dYO8oYvuyn5]{Summon Healing Servitor}</p>\n<p>You gain temporary Hit Points.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Spell Effect: Summoner's Visage": {
       "name": "Spell Effect: Summoner's Visage",
@@ -2309,7 +2373,7 @@
     "Spell Effect: Sun's Fury": {
       "name": "Spell Effect: Sun's Fury",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.LrFUj76CHDBV0vHW]{Sun's Fury}</p>\n<p>The weapon deals an additional 1d4 fire and 1 spirit damage on a successful Strike. In addition, the flame causes the weapon to glow as bright as a torch.</p>",
-      "source": "Pathfinder Lost Omens: Legends"
+      "source": "Pathfinder Lost Omens Legends"
     },
     "Spell Effect: Sure Strike": {
       "name": "Spell Effect: Sure Strike",
@@ -2324,12 +2388,12 @@
     "Spell Effect: Swarm Form": {
       "name": "Spell Effect: Swarm Form",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.Pd2M1XY8EXrSfWgJ]{Swarm Form}</p>\n<p>While in swarm form, you have the swarm trait and you gain resistance to slashing and piercing damage and weakness to area and splash damage.</p>",
-      "source": "Pathfinder Lost Omens: Gods & Magic"
+      "source": "Pathfinder Lost Omens Gods & Magic"
     },
     "Spell Effect: Swear Oath": {
       "name": "Spell Effect: Swear Oath",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.AYN0UihkU8Fa8yC6]{Swear Oath}</p>\n<p>You gain a +1 status bonus to the readied attack roll or skill check.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Sweet Dream": {
       "name": "Spell Effect: Sweet Dream",
@@ -2371,6 +2435,11 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.uZK2BYzPnxUBnDjr]{Tangle Vine}</p>\n<p>You take a -10-foot circumstance penalty to your Speeds.</p>",
       "source": "Pathfinder Player Core"
     },
+    "Spell Effect: Tangling Creepers": {
+      "name": "Spell Effect: Tangling Creepers",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.JbAcSLu62TU1OgNF]{Tangling Creepers}</p>\n<p>You take a -10 circumstance penalty to your land, climb or swim speeds while in the area.</p>",
+      "source": "Pathfinder Player Core"
+    },
     "Spell Effect: Tempest Cloak": {
       "name": "Spell Effect: Tempest Cloak",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.70BjbNRVc4OTLAgN]{Tempest Cloak}</p>\n<p>The twisting shield of wind creates difficult terrain in a 5-foot burst surrounding you. You gain a +2 circumstance bonus to your AC against physical ranged attacks. You also gain a +2 circumstance bonus to all defenses against auditory effects.</p>",
@@ -2390,6 +2459,11 @@
       "name": "Spell Effect: Tempt Fate",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.GqvKSxzN7A7kuFk4]{Tempt Fate}</p>\n<p>You gain a status bonus to the triggering saving throw. If the saving throw's result is a success, it becomes a critical success. If it's a failure, it becomes a critical failure, and the critical failure can't be reduced by abilities that usually reduce critical failure.</p>",
       "source": "Pathfinder Player Core"
+    },
+    "Spell Effect: The Four Hunters": {
+      "name": "Spell Effect: The Four Hunters",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.EdRYr7HmLm9wr71X]{The Four Hunters}</p>\n<ul>\n<li><strong>East</strong> You gain 5 temporary Hit Points and a +1 status bonus to Athletics.</li>\n<li><strong>North</strong> You gain a +1 status bonus to Survival.</li>\n<li><strong>South</strong> You become concealed and gain a +1 status bonus to Stealth.</li>\n<li><strong>West</strong> You gain a +10-foot status bonus to their land Speed and a +1 status bonus to Acrobatics.</li>\n</ul>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Thermal Remedy": {
       "name": "Spell Effect: Thermal Remedy",
@@ -2413,6 +2487,11 @@
         }
       },
       "source": "Pathfinder Secrets of Magic"
+    },
+    "Spell Effect: Threefold Limb (Ice)": {
+      "name": "Spell Effect: Threefold Limb (Ice)",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.3DY4vbXj0BYSWA7z]{Threefold Limb}</p>\n<p>You take a –10-foot status penalty to your Speeds.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Thundering Dominance": {
       "name": "Spell Effect: Thundering Dominance",
@@ -2443,7 +2522,7 @@
     "Spell Effect: Trade Death for Life": {
       "name": "Spell Effect: Trade Death for Life",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.4U2ZV1v38D0y2CRl]{Trade Death for Life}</p>\n<p>You gain fast healing equal to the rank of the spell.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Spell Effect: Transmigrate (Encounter)": {
       "name": "Spell Effect: Transmigrate (Encounter)",
@@ -2478,27 +2557,32 @@
     "Spell Effect: Unblinking Flame Aura": {
       "name": "Spell Effect: Unblinking Flame Aura",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.floDCUOSzT0F6r77]{Unblinking Flame Aura}</p>\n<p>You gain a +2 status bonus on Perception checks and resistance 10 to cold.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Spell Effect: Unblinking Flame Ignition": {
       "name": "Spell Effect: Unblinking Flame Ignition",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.aFd00WT266VYPqOG]{Unblinking Flame Ignition}</p>\n<p>You gain greater darkvision, low‐light vision, and the ability to see invisible creatures. You gain a fly Speed equal to your land Speed as you launch flame from your aura to soar through the sky. You become quickened, and you can use the extra action each round only to Strike or Fly using your flames.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Spell Effect: Unbreaking Wave Barrier": {
       "name": "Spell Effect: Unbreaking Wave Barrier",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.YtJXpiu4ijkB6nP2]{Unbreaking Wave Barrier}</p>\n<p>You gain a +1 status bonus to AC.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Spell Effect: Unbreaking Wave Vapor": {
       "name": "Spell Effect: Unbreaking Wave Vapor",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.ZQk2cGBCkATO25w0]{Unbreaking Wave Vapor}</p>\n<p>You're concealed against the triggering attack and gain a +2 circumstance bonus to AC against it.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Spell Effect: Unfettered Movement": {
       "name": "Spell Effect: Unfettered Movement",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]{Unfettered Movement}</p>\n<p>You ignore circumstance penalties to your Speed.</p>",
       "source": "Pathfinder Player Core"
+    },
+    "Spell Effect: Unravel Knowledge": {
+      "name": "Spell Effect: Unravel Knowledge",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.EFLXGyIz2HZVSmll]{Unravel Knowledge}</p>\n<p>You take a –2 status penalty to any check or DC for the affected ability the first time you use it each round.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Spell Effect: Untamed Form": {
       "name": "Spell Effect: Untamed Form",
@@ -2513,12 +2597,12 @@
     "Spell Effect: Untwisting Iron Augmentation": {
       "name": "Spell Effect: Untwisting Iron Augmentation",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.8eOMAIvT7S1CJSit]{Untwisting Iron Augmentation}</p>\n<p>Your unarmed attacks are treated as cold iron and silver, they gain the earth trait, and they gain a +1 status bonus to damage rolls per damage die.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Spell Effect: Untwisting Iron Pillar": {
       "name": "Spell Effect: Untwisting Iron Pillar",
       "description": "<p>Granted by @UUID[Compendium.pf2e.spells-srd.Item.9DtuMEyHhtHFRp5a]{Untwisting Iron Pillar}</p>\n<p>You gain 50 temporary Hit Points that last for the duration or until you lose them, as well as resistance 5 to all physical damage (except adamantine).</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Spell Effect: Unusual Anatomy": {
       "name": "Spell Effect: Unusual Anatomy",

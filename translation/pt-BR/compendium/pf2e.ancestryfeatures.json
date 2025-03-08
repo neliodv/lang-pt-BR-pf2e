@@ -54,7 +54,7 @@
     "Change Shape": {
       "name": "Mudar de Forma",
       "description": "<p>Como um kitsune, você ganha a habilidade @UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{Mudar de Forma}.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Clan Dagger": {
       "name": "Adaga do Clã",
@@ -69,12 +69,12 @@
     "Constructed": {
       "name": "Construído",
       "description": "<p>Seu corpo sintético resiste a doenças melhor do que aqueles de organismos puramente biológicos. Você ganha um bônus de circunstância +1 em testes de resistência contra doenças, venenos e radiação.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Constructed (Poppet)": {
       "name": "Construído (Poppet)",
       "description": "<p>Os materiais do seu corpo resistem a doenças que atacam a carne. Você ganha um bônus de circunstância +1 em testes de resistência contra efeitos de morte, doença e veneno, bem como em testes de resistência contra efeitos que lhe dariam as condições drenado, paralisado ou enjoado. Sua centelha de vida significa que você é uma criatura viva e pode ser curado por energia vital e ferido por energia do vazio normalmente.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Constructed Body": {
       "name": "Corpo Construído",
@@ -84,7 +84,7 @@
     "Cryptomnesia": {
       "name": "Criptomnésia",
       "description": "<p>Você retém fragmentos de conhecimento de suas vidas anteriores. Você ganha um bônus de circunstância +1 em testes de perícia não treinados.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Draconic Exemplar": {
       "name": "Exemplar Dracônico",
@@ -94,37 +94,37 @@
     "Emotionally Unaware": {
       "name": "Emocionalmente Inconsciente",
       "description": "<p>Você tem dificuldade para entender e expressar emoções complexas. Você recebe uma penalidade de circunstância -1 em testes de Diplomacia e Performance, e em testes de Percepção para @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sentido de Motivação}.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Empathic Sense": {
       "name": "Sentido Empático",
       "description": "<p>Os kashrishi são capazes de ter uma vaga noção do estado emocional atual de outras pessoas em um raio de 15 pés deles. Isso se manifesta como um sentimento geral de felicidade, raiva ou medo, sem nenhum detalhe específico. Para aqueles com quem os kashrishi têm uma conexão emocional, o toque físico pode aumentar esse sentido para maiores graus de detalhe e compreensão, aumentando com a força de seu vínculo. Isso também funciona como um sentido impreciso, alertando você sobre a presença, mas não a localização precisa, de criaturas não irracionais dentro da área. Você ganha um bônus de circunstância +2 em testes de Percepção para @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sentir Motivação} contra criaturas não irracionais dentro da área do seu sentido empático.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Eyes in Back": {
       "name": "Olhos Atrás",
       "description": "<p>Você tem olhos que apontam em várias direções diferentes e instintivamente percebe o movimento nas periferias da sua visão. Quando você usa a ação básica Procurar, você pode procurar criaturas em duas áreas em vez de uma. Se a precisão for necessária, você pode selecionar dois @Template[cone|distance:30]s ou @Template[burst|distance:15]s dentro da linha de visão em vez de um.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Fangs": {
       "name": "Presas",
       "description": "<p>Você nasceu com um meio natural de caça e autodefesa. Você ganha um ataque desarmado de presas que causa 1d6 de dano perfurante. Suas presas estão no grupo de combate e têm os traços finesse e desarmado.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Fangs (Nagaji)": {
       "name": "Presas (Nagaji)",
       "description": "<p>Sua boca contém fileiras de dentes em forma de gancho, afiados como agulhas, ou um par de presas de serpente cruéis. Você ganha um ataque desarmado de presas que causa 1d6 de dano perfurante. Suas presas estão no grupo de combate e têm os traços finesse e desarmado.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Flammable": {
       "name": "Inflamável",
       "description": "<p>Você tem fraqueza a dano de fogo igual a um terço do seu nível (mínimo 1).</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Glowing Horn": {
       "name": "Chifre Brilhante",
       "description": "<p>Seu chifre reage à energia psíquica brilhando suavemente. O chifre emite luz fraca em um @Template[emanation|distance:10] até o início do seu próximo turno sempre que você usar uma ação oculta que ganhou de um talento de ancestralidade, lançar uma magia oculta inata ou Lançar uma Magia que tenha o traço mental.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Greater Darkvision": {
       "name": "Visão no Escuro Maior",
@@ -134,7 +134,7 @@
     "Head Gem": {
       "name": "Gema da Cabeça",
       "description": "<p>Em sua testa há uma gema que abriga sua alma. Ao lançar qualquer magia ou ritual para trazê-lo de volta à vida, sua @UUID[Compendium.pf2e.equipment-srd.Item.FA1mAc7rEyC9vzZa]{Gema da Cabeça} intacta pode ser substituída por seu corpo. Embora você possa remover livremente a gema da sua cabeça, normalmente é impossível para outra criatura remover ou destruir à força a gema da sua cabeça, a menos que você seja morto ou permanentemente incapacitado primeiro; a critério do Mestre, magia ou habilidades poderosas podem contornar essa restrição. Se a gema da sua cabeça for removida ou destruída, ela pode ser regenerada usando um ritual de um dia. Quando isso ocorre, quaisquer restos da gema anterior imediatamente se desfazem em pó.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Horns (Minotaur)": {
       "name": "Chifres (Minotauro)",
@@ -144,12 +144,12 @@
     "Horns (Sarangay)": {
       "name": "Chifres (Sarangay)",
       "description": "<p>Seus chifres poderosos são armas formidáveis. Você tem um ataque desarmado de chifres que causa 1d6 de dano perfurante e tem o traço empurrar. Seus chifres estão no grupo de combate.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Hydration": {
       "name": "Hidratação",
       "description": "<p>Embora você seja um ser anfíbio tão capaz em terra quanto na água, seu corpo exige que você retorne aos ambientes aquáticos pelo menos uma vez em um período de 24 horas. Você deve submergir na água para reidratar sua pele aclimatada à água.</p>\n<p>Se você não fizer isso, sua pele começa a rachar e suas guelras doem. Após as primeiras 24 horas fora da água, você sofre uma penalidade de status -1 em testes de resistência de Fortitude. Após 48 horas, você luta para respirar ar e começa a sufocar até retornar à água.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Q5FUu7yhWPJlcXei]{Efeito: Desidratado}</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Hydration (Merfolk)": {
       "name": "Hidratação (Merfolk)",
@@ -159,7 +159,7 @@
     "Innate Venom": {
       "name": "Veneno Inato",
       "description": "<p>Seu sangue carrega toxinas mortais para todos, exceto você. Você ganha a ação @UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenenar}, que pode liberar veneno vishkanya menor. O CD de teste de resistência para o seu veneno é igual ao maior entre seu CD de classe ou CD de magia.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Keen Eyes": {
       "name": "Olhos Aguçados",
@@ -174,7 +174,7 @@
     "Magical Strikes": {
       "name": "Golpes Mágicos",
       "description": "<p>Sua magia inerente permeia todo o seu ser. Todos os seus Golpes são mágicos, sejam com ataques desarmados ou com armas.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Magiphage": {
       "name": "Magifago",
@@ -194,7 +194,7 @@
     "Photosynthesis": {
       "name": "Fotossíntese",
       "description": "<p>Você obtém nutrição da fotossíntese. Você normalmente não precisa pagar por comida. Se você ficar sem luz solar por 1 semana, você começa a morrer de fome. Você pode obter nutrição de frascos especialmente formulados de luz solar alquímica em vez de luz solar natural, mas esses frascos custam 10 vezes mais do que as rações padrão (40 sp).</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Plant Nourishment": {
       "name": "Nutrição Vegetal",
@@ -204,7 +204,7 @@
     "Prehensile Tail": {
       "name": "Cauda Preênsil",
       "description": "<p>Você pode usar sua cauda longa e flexível para realizar ações Interagir que exigem uma mão livre, mesmo que ambas as mãos estejam ocupadas. Sua cauda não pode realizar ações que exigem dedos ou destreza manual significativa, incluindo qualquer ação que exigiria um teste para realizar, e você não pode usá-la para segurar itens.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Revulsion": {
       "name": "Repulsa",
@@ -234,27 +234,27 @@
     "Sunlight Healing": {
       "name": "Cura da Luz Solar",
       "description": "<p>Um conrasu pode entrar em um estado meditativo de cura como uma atividade de 10 minutos quando exposto à luz solar direta, caso em que ele recupera @Damage[(max(1,(ceil(@actor.level/2))))d8[healing]] Pontos de Vida. No nível 3 e a cada 2 níveis depois disso, essa cura aumenta em 1d8.</p>\n<p>Uma vez que um conrasu tenha recuperado Pontos de Vida dessa forma, ele fica temporariamente imune a outros usos de Cura da Luz Solar por 1 dia.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Swim": {
       "name": "Nadar",
       "description": "<p>Os azarketi têm um deslocamento de Natação base de 30.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Unusual Anatomy": {
       "name": "Anatomia Incomum",
       "description": "<p>Seu corpo não ortodoxo resiste a aflições físicas destinadas a outras criaturas. Você ganha um bônus de circunstância +1 em salvamentos contra doenças e venenos.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Wanderer's Soul": {
       "name": "Alma Errante",
       "description": "<p>Sua alma é especialmente capaz de retornar ao ciclo de reencarnação. Quando você é o alvo de @UUID[Compendium.pf2e.spells-srd.Item.IkGYwHRLhkuoGReG]{Levantar Morto}, @UUID[Compendium.pf2e.spells-srd.Item.gIVaSCrLhhBzGHQY]{Reencarnar} ou um ritual semelhante que o traria de volta à vida, o conjurador principal usa o resultado um grau de sucesso melhor do que sua rolagem. Você sempre retorna à vida como um samsarano, mesmo que o ritual o reencarne em um corpo de uma ancestralidade diferente.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Wings": {
       "name": "Asas",
       "description": "<p>Todos os strix possuem asas poderosas. Embora nem todos os strix se concentrem em aprimorar suas habilidades de voo, um forte bater de suas asas permite que os strix viajem distâncias maiores ao pular.</p>\n<p>Ao @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Saltar} horizontalmente, você se move 5 pés adicionais. Você não falha automaticamente em seus testes para @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{Salto em Altura} ou @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Salto em Distância} se você não Andar pelo menos 10 pés primeiro. Além disso, quando você faz um Salto em Distância, você pode pular uma distância de até 10 pés a mais do que o resultado do seu teste de Atletismo, embora ainda com o máximo normal do seu Deslocamento. Além disso, você não sofre dano de queda, não importa a distância que você caia.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     }
   },
   "mapping": {

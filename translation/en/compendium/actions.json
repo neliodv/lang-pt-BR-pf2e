@@ -19,7 +19,7 @@
     "Absorb into the Aegis": {
       "name": "Absorb into the Aegis",
       "description": "<p><strong>Trigger</strong> An enemy casts a spell that targets you or an ally within 15 feet of you</p>\n<hr />\n<p>You interpose your shield's ward against the spell. Attempt a counteract check, using your Religion modifier as your counteract modifier. On a success, the spell is counteracted and your shield takes damage equal to four times the spell rank as it absorbs and disperses the magical energy. On a failure, the shield takes damage equal to twice the spell's rank.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Accept Echo": {
       "name": "Accept Echo",
@@ -69,7 +69,7 @@
     "Airy Step": {
       "name": "Airy Step",
       "description": "<p><strong>Frequency</strong> Once per day</p>\n<p><strong>Trigger</strong> A creature targets you with an attack or other targeted effect, and you can see the attacker.</p>\n<hr />\n<p>You create a blanket of fog in a 5-foot burst centered on one corner of your space. All creatures within that area are concealed, and all others are concealed to them. This concealment applies to the triggering effect, and the fog lasts for 1 minute or until dispersed by a strong wind. After resolving the triggering effect, you Step. If an effect prevents you from Stepping, you attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} the effect and Step if you succeed.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Amassed Assault": {
       "name": "Amassed Assault",
@@ -84,7 +84,7 @@
     "Anadi Venom": {
       "name": "Anadi Venom",
       "description": "<p><strong>Frequency</strong> a number of times per day equal to your level</p>\n<hr />\n<p>You envenom your fangs. If the next fangs Strike you make before the end of your turn hits and deals damage, the Strike deals an additional 1d6 poison damage. On a critical failure, the poison is wasted as normal. At 12th level, this poison damage increases to 2d6.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Anchor": {
       "name": "Anchor",
@@ -149,7 +149,7 @@
     "Barbed Quills": {
       "name": "Barbed Quills",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You are hit with an unarmed strike or a strike with a non-reach melee weapon.</p>\n<hr />\n<p>You break off quills in your attacker's flesh. You deal @Damage[ceil(@actor.level/2)d8[piercing]] damage to the triggering creature (@Check[reflex|against:class-spell|basic] save using your class DC or spell DC, whichever is higher.) On a critical failure, the creature also takes @Damage[(1d4+ceil(@actor.level/2)-1)[bleed]] as your quills hook into its flesh. At 3rd level, and every 2 levels thereafter, this damage increases by 1d8 and the persistent piercing damage increases by 1.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Base Kinesis": {
       "name": "Base Kinesis",
@@ -179,7 +179,7 @@
     "Bestial Clarity": {
       "name": "Bestial Clarity",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You fail a saving throw against an enchantment effect</p>\n<hr />\n<p><strong>Effect</strong> Your bestial manifestation becomes more pronounced, and your mind gains a flash of clarity as your instincts take over. You can reroll the triggering saving throw with a +2 circumstance bonus, but you must use the new result. This is a fortune effect.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Binding Vow": {
       "name": "Binding Vow",
@@ -194,7 +194,7 @@
     "Blazing Conflagration": {
       "name": "Blazing Conflagration",
       "description": "<p><strong>Requirements</strong> You're transformed into phoenix form by the monstrosity form spell granted by this feat</p>\n<hr />\n<p><strong>Effect</strong> You dismiss phoenix form while a fiery corona erupts from you as searing light. Each creature in a @Template[type:burst|distance:10] takes @Damage[max(16,(2*(floor(@actor.level/2))))d6[fire]|options:area-damage] damage with a @Check[fortitude|against:spell|basic|options:area-effect] save against your spell DC; creatures that critically fail are @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 round. You gain 8d6 temporary Hit Points. At 18th level and again at 20th level, the burst deals an additional 2d6 fire damage, and you gain an additional 1d6 temporary Hit Points.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Bless Ally": {
       "name": "Bless Ally",
@@ -209,7 +209,7 @@
     "Blizzard Evasion": {
       "name": "Blizzard Evasion",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You take 40 or more physical damage from a single attack</p>\n<hr />\n<p><strong>Effect</strong> You discorporate into a whirling blizzard for up to 3 rounds. During this time, you gain resistance 10 to physical damage and weakness 10 to force damage. You gain a fly speed of 40 feet, but the only action you can take is to @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Fly}. The first time each round you enter another creature's space while discorporated, or the first time a creature enters your space, that creature takes @Damage[4d8[cold]] damage and must succeed at a @Check[fortitude|against:class-spell] saving throw against your class DC or spell DC, whichever is higher, or else be @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}. At the start of your turn, you can end this effect as a free action.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Blood Feast": {
       "name": "Blood Feast",
@@ -229,7 +229,7 @@
     "Bond with Spirit": {
       "name": "Bond with Spirit",
       "description": "<p>You can forge a spiritual bond with a creature that is at least friendly toward you or with a terrain that you're currently in. Forming this bond takes 10 minutes, during which time you must remain adjacent to the creature or within that terrain. If the creature is intelligent, this also requires that creature's consent, and that intelligent creature can choose to sever this bond with you at any time as a free action, which has the concentrate trait. This bond lasts as long as you are within a mile of the creature or terrain, until you use Bond with Spirit again, or until you make your daily preparations.</p>\n<p>You must be Bonded with a Spirit to cast the @UUID[Compendium.pf2e.spells-srd.Item.Yph1UqZU8vMc9bJG]{Entreat Spirit} focus spell.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Borrow an Arcane Spell": {
       "name": "Borrow an Arcane Spell",
@@ -244,7 +244,7 @@
     "Break Them Down": {
       "name": "Break Them Down",
       "description": "<p>Your foes are but dross from which you carve and shoot your legend. Make a melee Strike and then a ranged Strike with a combination weapon, both against the same enemy; you don't need to change modes to do so. If the melee Strike hits, you gain a +1 circumstance bonus to the attack roll with the ranged Strike. Each attack counts toward your multiple attack penalty, but your multiple attack penalty doesn't increase until you've made both attacks. If both Strikes hit, you deal an additional @Damage[2d6[bleed]] damage to the enemy, and they're @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until this persistent bleed damage ends.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Break the Sun's Legs": {
       "name": "Break the Sun's Legs",
@@ -304,7 +304,7 @@
     "Call Upon the Brightness": {
       "name": "Call Upon the Brightness",
       "description": "<p><strong>Trigger</strong> You attempt an attack roll, skill check, or saving throw while performing the course of action from your @UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{Augury}, but you haven't rolled yet</p>\n<hr />\n<p>You gain a +1 status bonus to the triggering check, or a +2 status bonus if the result of the augury was \"woe\" and you proceeded anyway.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xPg5wzzKNxJy18rU]{Effect: Brightness Seeker}</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Call on Ancient Blood": {
       "name": "Call on Ancient Blood",
@@ -314,7 +314,7 @@
     "Call to Axis": {
       "name": "Call to Axis",
       "description": "<p>Given by Rite of Knowing</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Requirements</strong> You are about to attempt a check to Recall Knowledge. You call upon the knowledge of Axis to ensure the accuracy of your information. You roll a second time and use the higher result. If you roll a critical failure, you get a failure instead. If you roll a success, you get a critical success instead.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Captivating Charm": {
       "name": "Captivating Charm",
@@ -334,7 +334,7 @@
     "Change Shape": {
       "name": "Change Shape",
       "description": "<p>You return to your natural shape or adopt a new shape as described by the source of this action.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Change Tradition Focus": {
       "name": "Change Tradition Focus",
@@ -419,7 +419,7 @@
     "Conduct Energy": {
       "name": "Conduct Energy",
       "description": "<p><strong>Requirements</strong> Your last action or spell this turn had the acid, cold, electricity, fire, or sonic trait.</p>\n<hr />\n<p>You channel energy into your weapon. The weapon deals 1 additional damage per weapon damage die until the start of your next turn. This damage type matches the trait of the triggering action or spell. If your triggering action or spell had multiple eligible traits, you select one of those traits.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lU8IO9FIGK1DXVMy]{Effect: Conduct Energy}</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Confident Finisher": {
       "name": "Confident Finisher",
@@ -459,7 +459,7 @@
     "Craft Disharmonic Instrument": {
       "name": "Craft Disharmonic Instrument",
       "description": "<p><strong>Requirements</strong> Legendary in Crafting</p>\n<hr />\n<p>You use legendary Vudran techniques to craft a disharmonic instrument that incorporates pieces of Kothogaz's heart. This is likely a tanpura, but legends mention other instruments and even voice enhancers. A disharmonic instrument is a virtuoso musical instrument.</p>\n<p>This activity requires seven disharmonic heartslivers, the formula for a disharmonic instrument, 55,000 gp worth of rare materials, and 7 days of work. At the end of the 7 days, attempt a @Check[crafting|dc:40|traits:action:craft] check to Craft.</p>\n<hr />\n<p><strong>Critical Success</strong> You masterfully complete the disharmonic instrument. Holding the instrument grants immunity to Kothogaz's tympanic heartbeat and many-eyed blight.</p>\n<p><strong>Success</strong> You complete the disharmonic instrument.</p>\n<p><strong>Failure</strong> You don't complete the disharmonic instrument, and you contract many-eyed blight from the heartslivers.</p>\n<p><strong>Critical Failure</strong> As failure, and whenever you're on the same plane as Kothogaz, it can immediately teleport to you with its Disharmonic Door ability.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Cram": {
       "name": "Cram",
@@ -479,7 +479,7 @@
     "Create Familiar Fulu": {
       "name": "Create Familiar Fulu",
       "description": "<p><strong>Frequency</strong> once per day or greater (see @UUID[Compendium.pf2e.feats-srd.Item.BcYmYMUU8HDwGthh]{Fulu Familiar});</p>\n<p><strong>Requirements</strong> Your familiar is within 30 feet, and you have one hand free;</p>\n<hr />\n<p><strong>Effect</strong> You make a pinching motion, and your familiar dissolves into magical energy that re-forms between your fingers as a fulu magical item. The fulu must be at least two levels lower than your level, and you don't need to spend the normal monetary cost in magical components or attempt a Crafting check. You can then choose to @UUID[Compendium.pf2e.actionspf2e.Item.UAaQk93a30nx0nYY]{Affix a Talisman} as part of this activity to affix your familiar fulu. While transformed, your familiar doesn't grant its normal benefits, and it remains transformed until your next daily preparations or until you Activate the fulu, at which point your familiar reappears in an unoccupied space adjacent to you.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Create Forgery": {
       "name": "Create Forgery",
@@ -494,7 +494,7 @@
     "Cycle Elemental Stance": {
       "name": "Cycle Elemental Stance",
       "description": "<p><strong>Requirements</strong> You're in one of the elemental stances</p>\n<hr />\n<p><strong>Effect</strong> Stride or Step, and then enter a different elemental stance from the one you're currently in.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Dampening Harmonics": {
       "name": "Dampening Harmonics",
@@ -599,7 +599,7 @@
     "Disarming Interception": {
       "name": "Disarming Interception",
       "description": "<p><strong>Requirements</strong> You have your fist positioned to parry</p>\n<p><strong>Trigger</strong> An enemy within your reach targets you or an ally with a weapon Strike</p>\n<hr />\n<p><strong>Effect</strong> You attempt to @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm} the weapon the enemy is attacking with. You gain a +2 status bonus to this Disarm check, and if the check is successful, the triggering attack is disrupted. If the Disarm attempt is a critical success and you have a hand free, you can catch the disarmed weapon in your hand instead of it falling to the ground in the target's space.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Discover": {
       "name": "Discover",
@@ -729,7 +729,7 @@
     "Energy Emanation": {
       "name": "Energy Emanation",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>Energy bursts forth from your body. You deal @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.elementalHeartDwarf.damageType]|options:area-damage] damage to all adjacent creatures (@Check[reflex|against:class-spell|basic|options:area-effect] save using your class DC or spell DC, whichever is higher). At 3rd level, and every 2 levels thereafter, this damage increases by 1d6 damage.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Energy Shot": {
       "name": "Energy Shot",
@@ -739,7 +739,7 @@
     "Enlightenment in Adversity": {
       "name": "Enlightenment in Adversity",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You critically fail a skill check with a skill you gained from the banished celestial background</p>\n<hr />\n<p><strong>Effect</strong> The next time you attempt a skill check using the skill that triggered this ability within the next minute, roll twice and take the higher result.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Enter Seat Of Power": {
       "name": "Enter Seat Of Power",
@@ -749,17 +749,22 @@
     "Enter Spirit Trance": {
       "name": "Enter Spirit Trance",
       "description": "<p>You enter a self-imposed trance that helps you push the physical limits of your body. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. The trance lasts for 1 minute, until you fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, or until you Dismiss it, whichever comes first.</p>\n<p>While in this trance, you gain a +1 status bonus to Fortitude and Will saving throws and your melee Strikes deal 1 additional spirit damage. Other abilities may require you to be in a spirit trance. When the trance ends, you lose any remaining temporary Hit Points from Enter Spirit Trance, and you can't Enter a Spirit Trance for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Entity's Resurgence": {
       "name": "Entity's Resurgence",
       "description": "<p><strong>Trigger</strong> You would be reduced to 0 Hit Points but not immediately killed</p>\n<hr />\n<p><strong>Effect</strong> Instead of letting you fall unconscious, your entity takes control. You remain at 1 Hit Point and gain temporary Hit Points equal to your level + your key ability modifier that last for 1 minute. However, the entity is in control for 1 minute or until you fall unconscious, whichever comes first.</p>\n<p>While the entity is in control, you gain a +1 status bonus to attack rolls and damage rolls, and the GM usually controls your character, roleplaying the entity. The GM might decide to have you roleplay the entity instead, but they retain final say over any decisions you make. No matter the entity's nature, the entity is sure to wreak vengeance upon the foe who jeopardized the life of their vessel-even an evil entity won't change allegiances or ignore danger except in the most extreme circumstances.</p>",
       "source": "Pathfinder Dark Archive"
     },
+    "Entreat Pact": {
+      "name": "Entreat Pact",
+      "description": "<p><strong>Trigger</strong> You attempt a skill check directly related to the conditions of the pact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You call upon the occult energies powering your pact to help you fulfill your promise. Roll twice on the triggering check and take the better result.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Envenom": {
       "name": "Envenom",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>Through use of either saliva or blood, you use your innate toxins to apply vishkanyan venom to your weapon or a piece of ammunition. To use your blood, you must be injured, or you can deal @Damage[1[slashing]] damage to yourself as part of the action. The vishkanyan venom remains potent until the end of your next turn, or until you expend it as normal for an injury poison by either hitting a target or critically failing an attack roll.</p>\n<p><strong>Minor Vishkanyan Venom</strong> (injury, poison)</p>\n<hr />\n<p><strong>Saving Throw</strong> @Check[fortitude|against:class-spell|traits:injury,poison,damaging-effect]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d4[poison]] damage (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[1d4[poison]] damage (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[1d4[poison]] damage (1 round)</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Erupting Spurs": {
       "name": "Erupting Spurs",
@@ -820,6 +825,11 @@
       "name": "Feral Swing",
       "description": "<p>You lash out with both arms, rending all before you. Each creature in a @Template[type:cone|distance:15] must succeed at a @Check[reflex|against:exemplar|basic] save against your class DC or take spirit damage equal to your normal Strike damage with your @UUID[Compendium.pf2e.classfeatures.Item.MhM6u4Stl0jV6CF2]{Hands of the Wildling}.</p>\n<p>You can choose to swing with abandon, which imposes a –2 circumstance bonus to enemies' saving throws, but causes you to become @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the start of your next turn.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.raZ8SIBYyFux8L3U]{Effect: Feral Swing}</p>",
       "source": "Pathfinder War of Immortals"
+    },
+    "Fey Jump": {
+      "name": "Fey Jump",
+      "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You jump through the First World for a brief second, teleporting up 60 feet away to an empty space you can see. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the action is lost.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Fey's Fortune": {
       "name": "Fey's Fortune",
@@ -905,6 +915,11 @@
       "name": "Force Open",
       "description": "<p>Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls. Without a crowbar, prying something open takes a –2 item penalty to the [[/act force-open]]{Athletics} check to Force Open.</p>\n<hr />\n<p><strong>Critical Success</strong> You open the door, window, container, or gate and can avoid damaging it in the process.</p>\n<p><strong>Success</strong> You break the door, window, container, or gate open, and it gains the broken condition. If it's especially sturdy, the GM might have it take damage but not be broken.</p>\n<p><strong>Critical Failure</strong> Your attempt jams the door, window, container, or gate shut, imposing a –2 circumstance penalty on future attempts to Force it Open.</p>\n<h2>Sample Force Open Tasks</h2>\n<ul>\n<li><strong>Untrained</strong> fabric, flimsy glass</li>\n<li><strong>Trained</strong> ice, sturdy glass</li>\n<li><strong>Expert</strong> flimsy wooden door, wooden portcullis</li>\n<li><strong>Master</strong> sturdy wooden door, iron portcullis, metal bar</li>\n<li><strong>Legendary</strong> stone or iron door</li>\n</ul>",
       "source": "Pathfinder Player Core"
+    },
+    "Forced Pact": {
+      "name": "Forced Pact",
+      "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You force a temporary pact on both yourself and another creature you can see within 60 feet. Choose attack, move, manipulate, or concentrate. The target must attempt a Will saving throw.</p>\n<hr />\n<p><strong>Success</strong> The target is unaffected.</p>\n<p><strong>Failure</strong> If you or the target uses an action with the chosen trait within the next minute, they take @Damage[10d6[mental]] damage, and this pact ends for both of you.</p>\n<p><strong>Critical Failure</strong> As failure, except your target takes the damage if either of you uses an action with the chosen trait.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Foresight": {
       "name": "Foresight",
@@ -1009,7 +1024,7 @@
     "Harvest Heartsliver": {
       "name": "Harvest Heartsliver",
       "description": "<p><strong>Requirements</strong> You're inside Kothogaz's body.</p>\n<hr />\n<p>You attempt to steal a section of Kothogaz's heart. Attempt an attack roll or a @Check[acrobatics|dc:40], @Check[athletics|dc:40], @Check[medicine|dc:40], @Check[nature|dc:40], @Check[occultism|dc:40], or @Check[religion|dc:40] check.</p>\n<hr />\n<p><strong>Critical Success</strong> You steal a small disharmonic heartsliver, stow it on your person, and can exit Kothogaz's body.</p>\n<p><strong>Success</strong> As critical success, but you can't exit.</p>\n<p><strong>Failure</strong> You take Kothogaz's Swallow Whole damage.</p>\n<p><strong>Critical Failure</strong> You take double Kothogaz's Swallow Whole damage and are @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} by its heartbeat for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Heaven Rains an Ending": {
       "name": "Heaven Rains an Ending",
@@ -1084,7 +1099,7 @@
     "Indomitable Act": {
       "name": "Indomitable Act",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You are about to attempt a check</p>\n<p><strong>Requirements</strong> You are @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened}</p>\n<hr />\n<p><strong>Effect</strong> You lean into your fear, using it to embolden you. You can roll the triggering check twice and take the higher result. This is a fortune effect.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Influence": {
       "name": "Influence",
@@ -1099,7 +1114,7 @@
     "Inscribe Shadow Pamor": {
       "name": "Inscribe Shadow Pamor",
       "description": "<p><strong>Frequency</strong> once per minute</p>\n<hr />\n<p><strong>Effect</strong> You plunge your fist or weapon into your shadow, enveloping it in a rippling, damask-like pattern of darkness. If your next action is to Strike, the shadows cling to your foe with your attack, obscuring its vision. On a hit, the target of your Strike becomes @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until the start of your next turn. The target can use an Interact action to tear away the clinging shadows and remove the dazzled condition. On a critical hit, the shadows are particularly stubborn and can't be torn away.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Inspired Stratagem": {
       "name": "Inspired Stratagem",
@@ -1149,12 +1164,12 @@
     "Invigorating Fear": {
       "name": "Invigorating Fear",
       "description": "<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Trigger</strong> A creature within 60 feet gains the @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened} condition.</p>\n<hr />\n<p>You are invigorated by the shock of a prank or the thrum of terror. You gain temporary Hit Points equal to the creature's level or 3, whichever is higher. You lose any temporary Hit Points after 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Invoke Celestial Privilege": {
       "name": "Invoke Celestial Privilege",
       "description": "<p><strong>Trigger</strong> You attempt a saving throw against a divine effect, but you haven't rolled yet.</p>\n<hr />\n<p>You rise above the triggering effect, refusing to be harmed by it. You gain a +1 circumstance bonus to the triggering saving throw and to any other saving throws you attempt against divine effects until the start of your next turn.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Iron Command": {
       "name": "Iron Command",
@@ -1314,7 +1329,7 @@
     "Mist Blending": {
       "name": "Mist Blending",
       "description": "<p><strong>Trigger</strong> A creature attempts a flat check to target you because you're @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} or @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} due to fog, haze, mist, or smoke</p>\n<hr />\n<p><strong>Effect</strong> You shroud yourself in mist, making it harder for your foe to hit you. If you're concealed, the DC of the flat check increases from 5 to @Check[flat|dc:7]; if you're hidden, it increases from 11 to @Check[flat|dc:13].</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Mount": {
       "name": "Mount",
@@ -1329,12 +1344,12 @@
     "Mystic Aegis": {
       "name": "Mystic Aegis",
       "description": "<p><strong>Trigger</strong> A creature you have successfully Recalled Knowledge about would damage you</p>\n<p><strong>Requirements</strong> You have a free hand</p>\n<hr />\n<p><strong>Effect</strong> You brandish your charm, channeling and shaping the forces within it to protect you against harm. You gain resistance to all damage equal to 2 + half your level rounded up against the triggering effect.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Name Drop": {
       "name": "Name Drop",
       "description": "<p><strong>Frequency</strong> once per day;</p>\n<p><strong>Trigger</strong> You fail or critically fail a Deception, Diplomacy, Intimidation, or Society check</p>\n<hr />\n<p><strong>Effect</strong> Reroll the skill check. You must use the second result, even if it's worse.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "No Scar but This": {
       "name": "No Scar but This",
@@ -1344,12 +1359,17 @@
     "Nudging Whisper": {
       "name": "Nudging Whisper",
       "description": "<p>You lace your words with echoes of your ancestors' magic. If your next action is to @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Request}, you gain the effects of the @UUID[Compendium.pf2e.feats-srd.Item.KIK2Eza9TK47MEb2]{Shameless Request} feat, and if your next action is to @UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie}, you gain the effects of the @UUID[Compendium.pf2e.feats-srd.Item.6Z4e3B9vePYpibcy]{Confabulator} feat. If you critically fail at either check, the target and anyone who witnessed you fail becomes immune to your Nudging Whisper for one day, though this doesn't necessarily let them know that you attempted to charm them.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Objection": {
       "name": "Objection",
       "description": "<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Trigger</strong> You're about to attempt a saving throw against a linguistic effect</p>\n<hr />\n<p><strong>Effect</strong> Your devil's eye crackles with infernal glee as you discover a loophole in the wording of the triggering effect. You roll your saving throw twice, taking the higher result.</p>",
       "source": "Pathfinder Dark Archive"
+    },
+    "Offer Story": {
+      "name": "Offer Story",
+      "description": "<p>You share a story of your travels with a creature within 30 feet. You gain the blessing of Isthralei as a +1 status bonus to AC and Will saves until the end of your next turn. On their next turn, the creature you shared a story with can take a single action, which has the auditory, concentrate, linguistic, and mental traits, to respond with their own story to gain the same benefits until the end of the following turn.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Once Bitten": {
       "name": "Once Bitten",
@@ -1399,7 +1419,7 @@
     "Overwhelming Combination": {
       "name": "Overwhelming Combination",
       "description": "<p><strong>Requirements</strong> You're wielding a one-handed melee weapon or a melee weapon with the agile or finesse trait</p>\n<hr />\n<p><strong>Effect</strong> Make two Strikes against a target within your reach, one with the required weapon and one with your fist unarmed attack. If both hit the same target, combine their damage for the purposes of its resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Pacifying Infusion": {
       "name": "Pacifying Infusion",
@@ -1539,7 +1559,7 @@
     "Raise Neck": {
       "name": "Raise Neck",
       "description": "<p>You raise your head into a striking position. The fangs Strike granted by your nagaji ancestry gains a reach of 10 feet until the end of your turn.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Raise Slabs": {
       "name": "Raise Slabs",
@@ -1619,7 +1639,7 @@
     "Reclaim Destiny": {
       "name": "Reclaim Destiny",
       "description": "<p><strong>Frequency</strong> once per day;</p>\n<p><strong>Trigger</strong> You are about to attempt a check and are affected by a fortune or misfortune effect that modifies the triggering check;</p>\n<p><strong>Effect</strong> You break the influence over your fortunes and claim a stable hold over your fate. You ignore the fortune or misfortune effect and can roll the triggering roll normally.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide"
+      "source": "Pathfinder Lost Omens Travel Guide"
     },
     "Reconnoiter": {
       "name": "Reconnoiter",
@@ -1734,7 +1754,7 @@
     "Salt Wound": {
       "name": "Salt Wound",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> A creature that has blood and is not at its maximum Hit Points hits you with a melee Strike</p>\n<hr />\n<p><strong>Effect</strong> You channel salt and brine from your blood into the creature's wounds. The creature must attempt a @Check[fortitude|against:class-spell] using your class DC or spell DC, whichever is higher. On a failure, the creature takes @Damage[1d6[persistent,acid]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} by the pain. On a critical failure, it instead takes @Damage[2d6[persistent,acid]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Scout": {
       "name": "Scout",
@@ -1884,7 +1904,7 @@
     "Smoke Blending": {
       "name": "Smoke Blending",
       "description": "<p><strong>Trigger</strong> A creature attempts a flat check to target you because you're @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} or @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} due to fog, haze, mist, or smoke</p>\n<hr />\n<p><strong>Effect</strong> You shroud yourself in smoke, making it harder for your foe to hit you. If you're concealed, the DC of the flat check increases from 5 to @Check[flat|dc:7]; if you're hidden, it increases from 11 to @Check[flat|dc:13].</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Sneak": {
       "name": "Sneak",
@@ -1954,7 +1974,7 @@
     "Spring the Trap": {
       "name": "Spring the Trap",
       "description": "<p><strong>Trigger</strong> You roll initiative.</p>\n<hr />\n<p>You can Interact to draw a combination weapon and set it to melee or ranged mode. On your first turn, your movement and ranged attacks don't trigger reactions that are normally triggered by movement or a ranged attack (such as Attack of Opportunity).</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Squeeze": {
       "name": "Squeeze",
@@ -1969,7 +1989,7 @@
     "Starlit Transformation": {
       "name": "Starlit Transformation",
       "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> Light swirls around you, transforming your armor, clothing, and a single weapon in your possession into a specific alternate outfit. While your equipment might look dramatically different, it functions as normal. If someone attempts to discern your identity, they must use a @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} action to attempt a Perception check against your Deception DC, as if you were using the @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Impersonate} action. Your Deception DC against such attempts is 20 + your proficiency modifier instead of the normal DC. Unlike with Impersonate, you don't have to attempt a Deception check to interact with someone to conceal your identity—a check happens only if someone else specifically tries to uncover it. You remain in your sentinel form for 10 minutes or until you use Starlit Transformation again to change back to your normal form.</p>\n<p>While you're in sentinel form, your transformed weapon shines with starlight and gains a +1 status bonus to damage rolls with the weapon. You can fling bolts of starlight from your weapon with a Strike action, using your melee attack modifier with the weapon. These bolts deal 1d4 force damage, have a range of 60 feet, are affected by your weapon runes, and have the arcane and force traits.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Steal": {
       "name": "Steal",
@@ -1984,7 +2004,7 @@
     "Stellar Misfortune": {
       "name": "Stellar Misfortune",
       "description": "<p><strong>Frequency</strong> once per day;</p>\n<p><strong>Trigger</strong> A creature you can see is about to attempt a saving throw, attack roll, or skill check;</p>\n<p><strong>Requirements</strong> You must be under the night sky with the stars visible;</p>\n<p><strong>Effect</strong> You call upon the power of a dooming star, exacerbating the target's bad luck. The target must roll the triggering check twice and take the worse result.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide"
+      "source": "Pathfinder Lost Omens Travel Guide"
     },
     "Step": {
       "name": "Step",
@@ -2074,7 +2094,7 @@
     "Tactical Retreat": {
       "name": "Tactical Retreat",
       "description": "<p><strong>Trigger</strong> You gain the frightened condition</p>\n<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> Realizing that discretion is the better part of valor, you opt to put some distance between you and a threat. You gain the @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} condition until the beginning of your next turn, and you Stride.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Tail Toxin": {
       "name": "Tail Toxin",
@@ -2114,7 +2134,7 @@
     "Tap the Past": {
       "name": "Tap the Past",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You're about to attempt a check to Recall Knowledge</p>\n<hr />\n<p><strong>Effect</strong> You concentrate on the glimpses of a previous life to find a memory of a tome or an applicable lesson from your past. You roll a second time and use the higher result. If you roll a critical failure, you get a failure instead. If you roll a success, you get a critical success instead.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Telekinetic Assault": {
       "name": "Telekinetic Assault",
@@ -2129,7 +2149,7 @@
     "Tenacious Stance": {
       "name": "Tenacious Stance",
       "description": "<p><strong>Requirements</strong> You are wearing armor</p>\n<hr />\n<p><strong>Effect</strong> You steady yourself, as tough and immutable as stone. You gain a number of temporary Hit Points equal to half your level (minimum 1) and a +2 circumstance bonus to DCs against being Shoved and Tripped. However, you no longer negate your armor check penalty or Speed penalty for having a high Strength while in this stance. After you leave Tenacious Stance, you lose any remaining temporary Hit Points from the stance, and you become temporarily immune to gaining temporary Hit Points from Tenacious Stance for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Tendril Strike": {
       "name": "Tendril Strike",
@@ -2174,7 +2194,7 @@
     "Touch and Go": {
       "name": "Touch and Go",
       "description": "<p><strong>Requirements</strong> You're wielding a combination weapon.</p>\n<hr />\n<p>Your body's shadows mask your hands' steel. You can Step toward an enemy, you can Interact to change your weapon between melee or ranged modes, and you then Interact to reload.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Toxic Skin": {
       "name": "Toxic Skin",
@@ -2269,7 +2289,7 @@
     "Venom Draw": {
       "name": "Venom Draw",
       "description": "<p><strong>Requirements</strong> Your @UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenom} action hasn't been expended.</p>\n<hr />\n<p>You quickly envenom poisonous saliva on your weapon as you draw it. Interact to draw a weapon, and then Envenom it. This uses up your daily use of Envenom.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Verdant Rest": {
       "name": "Verdant Rest",
@@ -2304,12 +2324,12 @@
     "Wicked Thorns": {
       "name": "Wicked Thorns",
       "description": "<p><strong>Trigger</strong> You're hit with an unarmed Strike or a Strike with a non-reach melee weapon.</p>\n<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>Several of your thorns break off and hook into your attacker's body. You deal @Damage[(ceil(@actor.level/2)d8)[piercing]] damage to the triggering creature. It attempts a @Check[reflex|against:class-spell|basic] save against the higher of your class DC or spell DC. On a critical failure, the creature also takes @Damage[(1d4+ceil(@actor.level/2)-1)[bleed]] damage as your thorns embed in its flesh.</p>\n<p>At 3rd level, and every 2 levels thereafter, this damage increases by 1d8, and the persistent bleed damage increases by 1.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Wind Them Up": {
       "name": "Wind Them Up",
       "description": "<p>Should foes parry your blade or dodge your bullets? Neither—they should be watching their purse. Make a melee Strike with your combination weapon, and then attempt a Thievery check with a –5 penalty to @UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{Steal} from your target; you can't Steal closely guarded objects or objects that would take a long time to pilfer. You don't need a free hand to attempt to Steal something in this manner. If your Thievery check succeeds, the target is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} against your ranged attacks until the start of your next turn, and you don't trigger reactions that are normally triggered by movement or a ranged attack. These effects occur even if your target has no objects to Steal.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Wish for Luck": {
       "name": "Wish for Luck",

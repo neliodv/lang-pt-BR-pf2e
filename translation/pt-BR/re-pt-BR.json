@@ -298,52 +298,56 @@
       },
       "DreadAmpoule": {
         "Greater": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (3[splash])[mental]]]{3 de dano de respingo mental} e o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 2} em um crítico)."
+          "success": "<strong>Effect</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical)."
         },
         "Lesser": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (1[splash])[mental]]]{1 de dano de respingo mental} e o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 2} em um crítico)."
+          "success": "<strong>Effect</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical)."
         },
         "Major": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (4[splash])[mental]]]{4 de dano de respingo mental} e o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 2} em um crítico)."
+          "success": "<strong>Effect</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical)."
         },
         "Moderate": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (2[splash])[mental]]]{2 de dano de respingo mental} e o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado 2} em um crítico)."
+          "success": "<strong>Effect</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical)."
+        },
+        "Note": {
+          "criticalSuccess": "On a hit, The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}",
+          "success": "On a hit, The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}"
         }
       },
       "DwarvenDaisy": {
         "Lesser": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (1[splash])[fire]]]{1 de dano de respingo de fogo} e o alvo deve obter sucesso em um teste de @Check[type:fortitude|dc:16|traits:damaging-effect|showDC:all] ou ficará @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscado} por 1 rodada."
+          "success": "The target must succeed at a @Check[fortitude|dc:16|traits:damaging-effect|showDC:all] save or become @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round."
         },
         "Moderate": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (2[splash])[fire]]]{2 de dano de respingo de fogo} e o alvo deve obter sucesso em um teste de @Check[type:fortitude|dc:18|traits:damaging-effect|showDC:all] ou ficará @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscado} por 1 rodada."
+          "success": "The target must succeed at a @Check[fortitude|dc:18|traits:damaging-effect|showDC:all] save or become @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round."
         }
       },
       "FrostVial": {
         "Greater": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (3[splash])[cold]]]{3 de dano de respingo de frio} e o alvo sofre uma penalidade de -3 m/-10 pés a sua Velocidade até o final do seu próximo turno (@UUID[Compendium.pf2e.equipment-effects.Item.nJRoiSyd67eQ1dYj]{Efeito: Frasco Congelante (Maior)})."
+          "success": "<strong>Effect</strong> The target takes a -10-foot penalty to its Speeds until the end of its next turn (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
         },
         "Lesser": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (1[splash])[cold]]]{1 de dano de respingo de frio} e o alvo sofre uma penalidade de -1,5 m/-5 pés a sua Velocidade até o final do seu próximo turno (@UUID[Compendium.pf2e.equipment-effects.Item.nJRoiSyd67eQ1dYj]{Efeito: Frasco Congelante (Menor)})."
+          "success": "<strong>Effect</strong> The target takes a -5-foot penalty to its Speeds until the end of its next turn (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
         },
         "Major": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (4[splash])[cold]]]{4 de dano de respingo de frio} e o alvo sofre uma penalidade de -4,5 m/-15 pés a sua Velocidade até o final do seu próximo turno (@UUID[Compendium.pf2e.equipment-effects.Item.nJRoiSyd67eQ1dYj]{Efeito: Frasco Congelante (Superior)})."
+          "success": "<strong>Effect</strong> The target takes a -15-foot penalty to its Speeds until the end of its next turn (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
         },
         "Moderate": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (2[splash])[cold]]]{2 de dano de respingo de frio} e o alvo sofre uma penalidade de -3 m/-10 pés a sua Velocidade até o final do seu próximo turno (@UUID[Compendium.pf2e.equipment-effects.Item.nJRoiSyd67eQ1dYj]{Efeito: Frasco Congelante (Moderado)})."
+          "success": "<strong>Effect</strong> The target takes a -10-foot penalty to its Speeds until the end of its next turn (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
         }
       },
       "GhostCharge": {
         "Greater": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (3[splash])[vitality]]]{3 de dano de respingo de vitalidade} e o alvo que tomar o dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 2} até o final do seu próximo turno."
+          "success": "The target that takes damage becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} until the start of your next turn."
         },
         "Lesser": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (1[splash])[vitality]]]{1 de dano de respingo de vitalidade} e o alvo que tomar o dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 1} até o final do seu próximo turno."
+          "success": "The target that takes damage becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} until the start of your next turn."
         },
         "Major": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (4[splash])[vitality]]]{4 de dano de respingo de vitalidade} e o alvo que tomar o dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 2} até o final do seu próximo turno."
+          "success": "The target that takes damage becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} until the start of your next turn."
         },
         "Moderate": {
-          "success": "<strong>Efeito</strong> A bomba também causa [[/r (2[splash])[vitality]]]{2 de dano de respingo de vitalidade} e o alvo que tomar o dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 1} até o final do seu próximo turno."
+          "success": "The target that takes damage becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} until the start of your next turn."
         }
       },
       "GooGrenade": {
@@ -702,6 +706,7 @@
       "Custom": {
         "AcidAndSpellsThatCauseRust": "ácido e magias que causam ferrugem",
         "AdamantineBludgeoning": "concussão adamantina",
+        "AlchemicalItems": "alchemical items",
         "AllDamageFromArcaneSpells": "todo o dano de magias arcanas",
         "AllDamageFromFungus": "todo o dano de fungos",
         "AllDamageFromSpells": "todo o dano de magias",
@@ -720,6 +725,7 @@
         "DraconicBreathWeapons": "armas de sopro dracônicas",
         "EnemyStrikes": "Golpes inimigos",
         "FallDamage": "dano de queda",
+        "GasInhaled": "gases and other inhaled effects",
         "HolyBludgeoningPiercingSlashing": "dano sagrado de concussão, perfuração e corte",
         "ImpulseFireFrom": "fogo impulsivo de {origin}",
         "IncorporealCreatures": "criaturas incorpóreas",
@@ -735,6 +741,7 @@
         "PhysicalRangedAttacks": "ataques físicos à distância",
         "RangedWeaponAttacks": "ataques com armas à distância",
         "Spirits": "espíritos",
+        "Treerazer": "Treerazer",
         "UnholyBludgeoningPiercingSlashing": "dano profano de concussão, perfuração e corte",
         "VoidZonKuthonFollowers": "vazio de seguidores de Zon-Kuthon"
       }
@@ -759,6 +766,9 @@
       },
       "AlchemicalGolem": {
         "Sickness": "Doença"
+      },
+      "AlchemicalGrenades": {
+        "Label": "Alchemical Grenade"
       },
       "AncientWisp": {
         "PinpointLight": "Luz Pontual"
@@ -996,6 +1006,9 @@
       "Falrok": {
         "LazuriteTerrainSwitch": "Em terreno infundido com lazulita"
       },
+      "FatedDoom": {
+        "RollOptionLabel": "First encounter of the day"
+      },
       "FiveColorOrchidMantis": {
         "ColorShift": {
           "Black": "Preto - Água",
@@ -1067,6 +1080,9 @@
         "DisguisedAsChild": "Disfarçado de Criança",
         "LyingAboutLoathsomeStench": "Mentindo sobre Fedor Repugnante"
       },
+      "KeepUpWithMe": {
+        "RollOptionLabel": "Keep Up With Me! — Increase DC of an ability"
+      },
       "KrampusPunishTheNaughty": "Krampus rola testes contra Alvo Travesso",
       "LegionArchon": {
         "FlameOfJustice": "Chama da Justiça - Acerto Crítico"
@@ -1092,6 +1108,11 @@
       "MinotaurHuntedFear": {
         "Demoralize": "O alvo está em um labirinto ou estrutura similarmente difícil de navegar",
         "Survival": "Para Evitar se Perder"
+      },
+      "ModularProstheses": {
+        "GaffHook": "Gaff Hook",
+        "ImpactDriver": "Impact Driver",
+        "SpinningBlade": "Spinning Blade"
       },
       "Necrohulk": {
         "AlchemicalCartridgeRuptured": "Cartucho Alquímico Rompido"
@@ -1258,6 +1279,9 @@
           "Secretive": "Secreto",
           "Suspicious": "Suspeito"
         }
+      },
+      "TongueOfFlame": {
+        "DescriptionAddendum": "When the despot casts <em>charm</em>, <em>diabolic edict</em>, <em>enthrall</em>, or <em>floating flame</em>, either a target takes @Damage[(@item.rank)[fire]] damage, or the despot gains a +2 status bonus to Deception checks for 1 round."
       },
       "TreerazerPlantAttack": "Atacar uma Planta",
       "Tyrafdir": {
@@ -2641,7 +2665,7 @@
         },
         "RetributiveStrike": "Ataque Retributivo",
         "Security": {
-          "Description": "Você pode conjurar _escudos do espírito_ usando 2 ações em vez de 1. Se você fizer isso, você pode escolher um aliado na aura do seu campeão para ganhar um escudo espiritual que o acompanha. Por 1 minuto, esse aliado ganha os benefícios de escudos do espírito, mesmo quando o aliado não está na aura do seu campeão e mesmo se seu escudo não estiver levantado. Se você criar outro escudo companheiro, qualquer escudo anterior termina."
+          "Description": "You can cast _shields of the spirit_ using 2 actions instead of 1. If you do, you can choose one ally in your champion's aura to gain a spirit shield that accompanies it. For 1 minute, that ally gains the benefits of _shields of the spirit_, even while the ally isn't in your champion's aura and even if your shield isn't raised. If you create another companion shield, any previous one ends."
         },
         "TargetReaction": "O alvo desencadeou sua reação de campeão",
         "UnimpededStep": {
@@ -3488,6 +3512,12 @@
         "TacticiansHelm": {
           "ReactiveStrikeNote": "Em um @UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Contra-Ataque} bem-sucedido, adicione uma carga: @UUID[Compendium.pf2e.equipment-effects.Item.nLwtvyLZZTZgFmKq]{Efeito: Cargas de Elmo de Tático}"
         },
+        "TalentedTapShoes": {
+          "Note": "When you succeed or critically succeed at a Reflex save to avoid a damaging effect, you can Stride half your Speed as a reaction."
+        },
+        "ThreePillaredYangNa": {
+          "ToggleLabel": "Three-Pillared Yang Na — Third Blessing"
+        },
         "UnholyPlate": {
           "Note": "Em um acerto crítico com os chifres, o alvo deve obter sucesso em um @Check[fortitude|dc:30] ou ficar @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Esgotado 1} (ou @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Esgotado 2} em um falha crítica)."
         },
@@ -3705,6 +3735,9 @@
         "SevenColoredCosmicBridge": {
           "Label": "Ponte Cósmica de Sete Cores",
           "Note": "Quando você atingir um inimigo com sucesso, você pode escolher se teletransportar para um local desocupado a 3 metros como uma ação livre."
+        },
+        "ShiftImmanence": {
+          "Note": "You can also Shift Immanence as a free action triggered when you roll initiative."
         },
         "Sunwrecker": {
           "Label": "Destruidor do Sol",
@@ -4207,11 +4240,11 @@
         "Unstable": {
           "FailureNote": "Você não pode usar mais ações instáveis. Como criador da inovação, você pode gastar 10 minutos ajustando sua inovação e fazendo ajustes para retorná-la à funcionalidade, ponto em que você pode usar ações instáveis com essa inovação novamente.",
           "FlatCheck": {
-            "CriticalFailure": "A inovação se torna incapaz de ser usada para novas ações instáveis e você também recebe @Damage[@actor.level[@actor.flags.pf2e.inventor.explode]|immutable|name:PF2E.SpecificRule.Inventor.Innovation.MalfunctionDamage] de dano. @UUID[Compendium.pf2e.feat-effects.Item.olpkQDGDzmYZCvQH]{Efeito: Falha no Teste Instável}",
+            "CriticalFailure": "The innovation becomes incapable of being used for further unstable actions, and you also take @Damage[(floor(@actor.level / 2))[@actor.flags.pf2e.inventor.explode]|immutable|name:PF2E.SpecificRule.Inventor.Innovation.MalfunctionDamage] damage. @UUID[Compendium.pf2e.feat-effects.Item.olpkQDGDzmYZCvQH]{Effect: Unstable Check Failure}",
             "Failure": "A inovação se torna incapaz de ser usada para novas ações instáveis. @UUID[Compendium.pf2e.feat-effects.Item.olpkQDGDzmYZCvQH]{Efeito: Falha no Teste Instável}",
             "Label": "Teste Instável"
           },
-          "Note": "Quando você realizar uma ação instável, tente um @Check[flat|dc:15|options:unstable-check|name:PF2E.SpecificRule.Inventor.Unstable.FlatCheck.Label]{teste fixo} imediatamente após aplicar seus efeitos.",
+          "Note": "When you take an unstable action, attempt a @Check[flat|dc:resolve(ternary(lt(@actor.skills.crafting.rank,4),15,13))|options:unstable-check|name:PF2E.SpecificRule.Inventor.Unstable.FlatCheck.Label|showDC:all] immediately after applying its effects.",
           "Stable": "Estável",
           "UnstableFunction": {
             "Label": "Habilitar Funções Instáveis"
@@ -4532,6 +4565,7 @@
         "MartialMerfolkWeapons": "Armas de Sereia Marciais",
         "MartialOniWeapons": "Armas Oni Marciais",
         "MartialOrcWeapons": "Armas Orc Marciais",
+        "MartialPolearmsAndSpears": "Martial Polearms & Spears",
         "MartialSamsaranWeapons": "Armas Samsaran Marciais",
         "MartialStudentOfArchery": "Arma de Estudante de Arco e Flecha Marcial",
         "MartialSurkiWeapons": "Armas Surki Marciais",
@@ -4806,6 +4840,7 @@
         "ConsciousMind": "Selecione uma mente consciente.",
         "CreatureSize": "Selecione um tamanho de criatura.",
         "DamageType": "Selecione um tipo de dano.",
+        "Defense": "Select a defense.",
         "DegreeOfSuccess": "Selecione o grau de sucesso.",
         "Deity": "Selecione uma divindade.",
         "DeitysDomain": "Selecione um domínio de divindade.",
@@ -5231,6 +5266,9 @@
           "Note": "Se você obtiver um sucesso em uma tentativa de Agarrar uma Borda, você obtém um sucesso crítico em vez disso; se você obtiver uma falha crítica, você obtém uma falha em vez disso."
         }
       },
+      "ShroudMoss": {
+        "AssumeShapeTargetLabel": "Attacking the creature it stole this shape from"
+      },
       "SixthPillar": {
         "SixthPillarMastery": {
           "AttackNote": "Sempre que você for bem-sucedido em um Ataque desarmado contra um oponente, ele tem uma penalidade de status -1 em testes de resistência contra suas magias até o início do seu próximo turno. @UUID[Compendium.pf2e.feat-effects.Item.DX6v0lcI2uA99Yjv]{Efeito: Maestria do Sexto Pilar}",
@@ -5370,6 +5408,9 @@
       "SpellEffectGluttonsJaw": {
         "Text": "Se você acertar com suas mandíbulas e causar dano, você ganha [[/r (ceil(@item.level/2))d6 #Pontos de Vida Temporários]] Pontos de Vida Temporários."
       },
+      "SpellEffectKgalaserkesAxes": {
+        "ToggleLabel": "Kgalaserke's Axes — Damaged by target"
+      },
       "SpellEffectMantle": {
         "FrozenHeart": {
           "Label": {
@@ -5397,6 +5438,9 @@
           }
         }
       },
+      "SpellEffectMentalMap": {
+        "ToggleLabel": "Mental Map — Enable Survival and Recall Knowledge bonus"
+      },
       "SpellEffectPreciousMetals": {
         "Copper": "Cobre",
         "Gold": "Ouro",
@@ -5415,12 +5459,21 @@
       "SpellEffectTemptFate": {
         "Note": "Se o resultado do teste de resistência for um sucesso, ele se torna um sucesso crítico. Se for uma falha, ele se torna uma falha crítica e a falha crítica não pode ser reduzida por habilidades que normalmente reduzem falhas críticas."
       },
+      "SpellEffectTheFourHunters": {
+        "East": "East",
+        "North": "North",
+        "South": "South",
+        "West": "West"
+      },
       "SpellEffectThermalRemedy": {
         "BonusVsDisease": "Bônus contra Doença",
         "FireResistance": "Resistência a Fogo",
         "Prompt": "Selecione um benefício.",
         "PromptTwo": "Selecione um 2º benefício.",
         "TempHP": "Pontos de Vida Temporários"
+      },
+      "SpellEffectUnravelKnowledge": {
+        "ToggleLabel": "Unravel Knowledge — Apply penalty to check or DC"
       },
       "SpellHeightened": {
         "HeightenedEighth": "Aumentado (8º)",
@@ -5543,6 +5596,12 @@
       "Spellheart": {
         "BeastmastersSigil": {
           "AdjacentLabel": "Alvo adjacente à invocação do sigilo do mestre das feras"
+        },
+        "PhantasmalDoorknob": {
+          "CriticalHitNote": {
+            "GreaterOrMajor": "The target is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} until the end of its next turn.",
+            "Weapon": "The target is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until the end of its next turn."
+          }
         }
       },
       "SpellmastersResilience": {
@@ -5612,6 +5671,7 @@
         "ScintillatingSpell": "Se sua próxima ação for lançar uma magia que não tem a característica escuridão, não tem duração e exige que as criaturas tentem um teste de resistência de Reflexos, a magia explode em um spray de luzes cintilantes, além de seus outros efeitos. Cada criatura que falhou em seu teste de resistência de Reflexos contra a magia fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscada} por 1 rodada, e aquelas que falharam criticamente ficam, em vez disso, @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cegas} por 1 rodada.",
         "SecondaryDetonationArray": "Se sua próxima ação for lançar uma magia que causa dano, não tem duração e afeta uma área, um círculo mágico brilhante aparece em um @Template[explosão|distância:5] dentro dessa área. No início do seu próximo turno, o círculo detona, causando @Damage[(@item.level)d6[força]] de dano a todas as criaturas dentro do círculo, com um @Check[reflexos|against:spell]. Se a magia causou um tipo diferente de dano, o círculo causa @Damage[(@item.level)d6[@actor.flags.pf2e.spellshape.arrayDamage]]{este tipo de dano} (ou um tipo de sua escolha se a magia puder causar vários tipos de dano)",
         "SeneschalSpell": "Se sua próxima ação for lançar uma magia e sua carga estiver a 9 metros, você pode fazer com que a magia se origine de sua carga. Essa criatura pode usar sua reação para completar aproximadamente o encantamento da magia, o que dá à magia a característica sutil para você (mas não para ela), pois a manifestação aparece apenas ao redor de sua carga.",
+        "SinbladedSpell": "If you either succeed on your attack roll or the target fails its saving throw against the spell, you deal @Damage[(@item.rank)[bleed]] damage to the target.",
         "SnowdriftSpell": "Selecione uma criatura afetada pela magia no chão. Cada quadrado no chão sob ou adjacente à criatura se enche de neve até os tornozelos. Esses quadrados são terreno difícil até o início do seu próximo turno. Uma criatura pode Interagir para limpar um quadrado de neve, e a neve em um quadrado derrete se esse quadrado for exposto a um efeito de fogo.",
         "SowSpell": "Se sua próxima ação for lançar uma magia usando 1 ação ou 2 ações, a magia, em vez disso, se planta em um quadrado adjacente. Você deve tomar todas as decisões sobre a magia no momento em que a lançar. Nos próximos 10 minutos, você pode direcionar sua magia semeada para brotar e produzir os efeitos da magia como uma reação, que é desencadeada quando uma criatura entra no espaço da magia semeada ou em um quadrado adjacente a ele. Você pode ter apenas uma magia semeada por vez e, se você não ativar a magia em 10 minutos, ela se dissipa e a magia é perdida. Uma criatura pode notar a magia semeada com um teste de Percepção bem-sucedido contra sua CD de magia.",
         "SpellShroud": "Se sua próxima ação for lançar uma magia que tenha você como alvo, você se cerca em um @Template[emanation|distance:15] de névoa mágica densa que dura até o início do seu próximo turno. Todas as criaturas dentro da nuvem ficam @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Ocultas} e todas as criaturas fora da nuvem ficam ocultas para criaturas dentro dela.",
@@ -5672,6 +5732,7 @@
           "FallingStone": "Pedra Caindo",
           "FireTalon": "Garra de Fogo",
           "FlashingSpark": "Faísca Piscando",
+          "FloodedRiver": "Flooded River",
           "FlowingWave": "Onda Fluindo",
           "GaleBlossom": "Flor de Vento",
           "GorillaSlam": "Pancada de Gorila",
@@ -5687,6 +5748,13 @@
           "TigerClaw": "Garra de Tigre",
           "WindCrash": "Batida de Vento",
           "WolfJaws": "Mandíbulas de Lobo"
+        },
+        "Note": {
+          "CraneStance": "Reduce the DC for High Jump and Long Jump by 5, and when you Leap, you can move an additional 5 feet horizontally or 2 feet vertically.",
+          "GorillaStance": "If you roll a success on an Athletics check to Climb, you get a critical success instead.",
+          "StokedFlameStance": "If you have access to the flashing sparks' critical specialization effect, you can take an alternate effect instead: if your critical Strike dealt damage, the target takes @Damage[1d6[persistent,fire]] damage.",
+          "WaterfowlStance": "You can deal that creature @Damage[1d6[slashing]] damage. This damage is increased to @Damage[2d6[slashing]] if the weapon has a greater striking rune and @Damage[3d6[slashing]] if it has a major striking rune.",
+          "WildWindStance": "Wind crash strikes ignore concealment and all cover."
         }
       },
       "StarlitSentinel": {
@@ -6110,6 +6178,9 @@
               "Description": "Seu familiar é frio ao toque, sua respiração sempre visível. Quando você lança ou sustenta um hexágono, você pode fazer com que o gelo se forme em um @Template[explosão|distância:5] centralizado em um quadrado do espaço do seu familiar. Esses quadrados são terreno difícil até o início do seu próximo turno.",
               "Title": "Familiar da Geada Congelante"
             },
+            "InsightfulObservation": {
+              "Title": "Familiar of Insightful Observation"
+            },
             "KeenSenses": {
               "Description": "Quando você lança ou sustenta um hexágono, seu familiar ganha sua escolha de um olfato impreciso, tremor sentido ou sentido de ondas, com um alcance de 18 metros até o início do seu próximo turno, e ele pode imediatamente @UUID[Compendium.pf2e.actionspf2e.Item.sn2hIy1iIJX9Vpgj]{Apontar} como uma ação livre.",
               "Title": "Familiar dos Sentidos Aguçados"
@@ -6188,6 +6259,11 @@
         "ExplosiveArrival": {
           "Label": "Explosive Arrival: Creature Trait"
         },
+        "Runelord": {
+          "Sin": {
+            "Prompt": "Select a sin to specialize in."
+          }
+        },
         "Spellshape1": {
           "Prompt": "Selecione um talento de forma de magia de mago de 1º nível."
         },
@@ -6198,6 +6274,11 @@
       "ZephyrGuard": {
         "KnowTheBeat": {
           "RollOptionLabel": "Conhecer a Batida — Investigando crimes"
+        }
+      },
+      "Yaoguai": {
+        "AwakenedYaoguai": {
+          "Prompt": "Select a yaoguai heritage."
         }
       },
       "Zombie": {

@@ -152,7 +152,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "equipment->Cage": {
-          "source": "Pathfinder Lost Omens: Travel Guide"
+          "source": "Pathfinder Lost Omens Travel Guide"
         },
         "strike-melee->Broken Spear": {
           "name": "Broken Spear"
@@ -523,5 +523,11 @@
       "converter": "translateTokenName",
       "path": "prototypeToken.name"
     }
+  },
+  "folders": {
+    "Book 1 - The Summer That Never Was": "Book 1 - The Summer That Never Was",
+    "Book 2 - Let the Leaves Fall": "Book 2 - Let the Leaves Fall",
+    "Book 3 - No Breath to Cry": "Book 3 - No Breath to Cry",
+    "Book 4 - To Bloom Below the Web": "Book 4 - To Bloom Below the Web"
   }
 }

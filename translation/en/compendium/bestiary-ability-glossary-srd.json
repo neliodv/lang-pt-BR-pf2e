@@ -34,6 +34,10 @@
       "name": "Catch Rock",
       "source": "Pathfinder Bestiary"
     },
+    "Change Formation": {
+      "name": "Change Formation",
+      "source": "Pathfinder NPC Core"
+    },
     "Change Shape": {
       "name": "Change Shape",
       "source": "Pathfinder Monster Core"
@@ -212,7 +216,11 @@
     },
     "Troop Defenses": {
       "name": "Troop Defenses",
-      "source": "Pathfinder Bestiary 3"
+      "source": "Pathfinder NPC Core"
+    },
+    "Troop Movement": {
+      "name": "Troop Movement",
+      "source": "Pathfinder NPC Core"
     },
     "Void Healing": {
       "name": "Void Healing",

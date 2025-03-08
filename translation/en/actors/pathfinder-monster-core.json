@@ -16463,7 +16463,7 @@
           "source": "Pathfinder Player Core"
         },
         "weapon->Tetsubo": {
-          "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+          "source": "Pathfinder Lost Omens Tian Xia Character Guide"
         },
         "strike-melee->Jaws": {
           "name": "Jaws"
@@ -22733,7 +22733,7 @@
           "source": "Pathfinder Player Core"
         },
         "equipment->Tengu Feather Fan": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "consumable->Arrows": {
           "source": "Pathfinder Player Core"
@@ -23181,10 +23181,6 @@
           "name": "Jaws",
           "source": "Pathfinder Monster Core"
         },
-        "action->Telepathy 300 feet": {
-          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.kdhbPaBMK1d1fpbA]\nTelepathy 300 feet",
-          "source": "Pathfinder Monster Core"
-        },
         "action->Constant Spells": {
           "source": "Pathfinder Monster Core"
         },
@@ -23192,7 +23188,8 @@
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.kquBnQ0kObZztnBc]\n+2 Status to All Saves vs. Magic",
           "source": "Pathfinder Monster Core"
         },
-        "action->Regeneration": {
+        "action->Regeneration 50 (Deactivated by Holy)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.lR9R5Vld8Eu2Dha5]\nRegeneration 50 (Deactivated by Holy)",
           "source": "Pathfinder Monster Core"
         },
         "action->Aura of Corruption": {
@@ -23899,6 +23896,7 @@
         },
         "action->Dominate": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.AjTkksppymqzCivT]\nDominate",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.AjTkksppymqzCivT]\n<p>The vampire can cast @UUID[Compendium.pf2e.spells-srd.Item.OsOhx3TGIZ7AhD0P]{Dominate} at will as a divine innate spell. Casting it requires staring into the target's eyes, giving the spell the visual trait (@Check[will|dc:26]). A creature that succeeds is temporarily immune to that vampire's Dominate for 24 hours.</p>\n<p>Fully destroying the vampire ends the domination, but merely reducing the vampire to 0 HP is insufficient to break the spell.</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Drain Bonded Item": {

@@ -5,7 +5,7 @@
       "name": "Baccali Alpaca",
       "blurb": "Variant riding pony",
       "publicNotes": "<p>A Druman breed of alpaca, the baccali alpaca is prized for its exceptionally soft wool.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide",
+      "source": "Pathfinder Lost Omens Travel Guide",
       "items": {
         "strike-melee->Hoof": {
           "name": "Hoof"
@@ -27,7 +27,7 @@
       "name": "Irriseni Owlbear",
       "blurb": "Variant elite owlbear",
       "publicNotes": "<p>A cultural symbol for Irrisen, the Irriseni owlbear is particularly well adapted to frosty conditions. These owlbears are larger than their temperate zone counterparts.</p>\n<hr />\n<p>With the body of a powerful brown bear and the keen senses of an owl, the owlbear is a dangerous territorial predator, fearlessly attacking any creature that strays into its domain. Those who run afoul of an owlbear hear its terrifying screech only seconds before the massive creature is upon them, ripping them apart with deadly talons and a powerful beak.</p>\n<p>Although their origin is lost to time, owlbears are assumed to be the result of a magical experiment to make a more cunning predator. According to the legend, the wizard was too successful and ended up being the flrst victim of the beast. Today, owlbears can be found around the world, with a variety of features. While the most common subspecies looks like a brown bear with the features of a great horned owl, owlbears from the frozen north might resemble polar bears mixed with snowy owls, and in temperate rain forests they might resemble black bears with the heads of barn owls.</p>\n<p>Most owlbears live solitary lives, gathering only to mate and raise cubs, which are hatched from eggs. An owlbear's territory usually extends to around 5 miles from its lair, with clear signs of its habitat appearing with 1 mile (clawed up trees, gigantic feathers, and shredded carcasses). The lair of an owlbear rarely holds anything of value, but some adventurers have found trinkets, coins, and even jewelry in the massive pellets of undigested bones these monsters leave behind.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide",
+      "source": "Pathfinder Lost Omens Travel Guide",
       "items": {
         "strike-melee->Talon": {
           "name": "Talon"
@@ -56,7 +56,7 @@
       "name": "Sarkorian Wolf",
       "blurb": "Variant wolf",
       "publicNotes": "<p>To survive living in the Worldwound, Sarkorian wolves developed defenses against the Abyss. They've become symbols for Mendevian crusaders who struggled to adapt to the world after the war ended.</p>\n<hr />\n<p>Wolves roam forests, hills, and other wild lands, where they hunt in packs to beleaguer and surround their prey before going in for the kill. Like most predatory animals, wolves prefer to attack the weakest or most vulnerable prey they can find.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide",
+      "source": "Pathfinder Lost Omens Travel Guide",
       "items": {
         "strike-melee->Jaws": {
           "name": "Jaws"
@@ -79,7 +79,7 @@
           "label": "to Climb or Swim"
         }
       },
-      "source": "Pathfinder Lost Omens: Travel Guide",
+      "source": "Pathfinder Lost Omens Travel Guide",
       "items": {
         "strike-melee->Jaws": {
           "name": "Jaws"
@@ -94,7 +94,7 @@
       "name": "Whalesteed",
       "blurb": "Variant bottlenose dolphin",
       "publicNotes": "<p>Whalesteeds were first tamed in the Shackles as part of an ambush between rival pirate captains. Whalesteed riders are still an unusual sight, as learning to master the skill takes years of training.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide",
+      "source": "Pathfinder Lost Omens Travel Guide",
       "items": {
         "strike-melee->Snout": {
           "name": "Snout"

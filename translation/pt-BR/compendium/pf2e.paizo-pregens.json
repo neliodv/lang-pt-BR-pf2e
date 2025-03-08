@@ -137,7 +137,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Leshy Lore": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Enhanced Familiar": {
           "source": "Pathfinder Advanced Player's Guide"
@@ -269,10 +269,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Plant Nourishment": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         }
       }
     },
@@ -372,7 +372,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Leshy Lore": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "spellcastingEntry->Druid Order Spells": {
           "name": "Druid Order Spells"
@@ -443,10 +443,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Plant Nourishment": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         }
       }
     },
@@ -455,7 +455,7 @@
       "gender": "Nonbinary",
       "items": {
         "ancestry->Poppet": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Constructed (Poppet)": {
           "rules": {
@@ -463,13 +463,13 @@
               "label": "Constructed (vs. disease, poisons, death effects, paralysis, drained, and sickened)"
             }
           },
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Flammable": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "heritage->Stuffed Poppet": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "background->Martial Disciple": {
           "source": "Pathfinder Player Core"
@@ -502,7 +502,7 @@
           "source": "Pathfinder Player Core 2"
         },
         "feat->Wash Out": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Furious Finish": {
           "source": "Pathfinder Player Core 2"
@@ -1310,7 +1310,7 @@
           "source": "Pathfinder Player Core"
         },
         "deity->Achaekek": {
-          "source": "Pathfinder Lost Omens: Divine Mysteries"
+          "source": "Pathfinder Lost Omens Divine Mysteries"
         },
         "feat->Cloistered Cleric": {
           "source": "Pathfinder Player Core"
@@ -1521,7 +1521,7 @@
           "name": "Labor Lore"
         },
         "heritage->Leaf Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "background->Servant": {
           "source": "Pathfinder Advanced Player's Guide"
@@ -1530,13 +1530,13 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Harmlessly Cute": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Shameless Request": {
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Lion Blade Dedication": {
-          "source": "Pathfinder Lost Omens: World Guide"
+          "source": "Pathfinder Lost Omens World Guide"
         },
         "feat->Multilingual": {
           "source": "Pathfinder Core Rulebook"
@@ -1674,10 +1674,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Plant Nourishment": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         }
       }
     },
@@ -1687,7 +1687,7 @@
       "tokenName": "Fluff Fang",
       "items": {
         "heritage->Leaf Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "background->Servant": {
           "source": "Pathfinder Advanced Player's Guide"
@@ -1696,13 +1696,13 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Harmlessly Cute": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Shameless Request": {
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Lion Blade Dedication": {
-          "source": "Pathfinder Lost Omens: World Guide"
+          "source": "Pathfinder Lost Omens World Guide"
         },
         "feat->Feather Step": {
           "source": "Pathfinder Core Rulebook"
@@ -1872,10 +1872,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Plant Nourishment": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         }
       }
     },
@@ -2039,7 +2039,7 @@
       "gender": "Nonbinary",
       "items": {
         "ancestry->Poppet": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Constructed (Poppet)": {
           "rules": {
@@ -2047,10 +2047,10 @@
               "label": "Constructed (vs. disease, poisons, death effects, paralysis, drained, and sickened)"
             }
           },
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Flammable": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "class->Witch": {
           "source": "Pathfinder Player Core"
@@ -2083,7 +2083,7 @@
           "source": "Pathfinder Player Core"
         },
         "heritage->Wishborn Poppet": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "background->Hermit": {
           "source": "Pathfinder Player Core"
@@ -2168,7 +2168,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Quadruped": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         }
       }
     },
@@ -2486,7 +2486,7 @@
           "name": "Fortune-Telling Lore"
         },
         "heritage->Shapewrought Fleshwarp": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "background->Fortune Teller": {
           "source": "Pathfinder Core Rulebook"
@@ -2501,7 +2501,7 @@
         },
         "feat->Living Weapon (Jaws)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.feats-srd.Item.zi84Xt4dTsLeJ3uD]\nLiving Weapon (Jaws)",
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "feat->Dangerous Sorcery": {
           "name": "Dangerous Sorcery",
@@ -2617,10 +2617,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Fleshwarp": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "feat->Unusual Anatomy": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "feat->Spell Repertoire (Sorcerer)": {
           "source": "Pathfinder Core Rulebook"
@@ -3067,7 +3067,7 @@
         "heritage->Ganzi": {
           "name": "Ganzi",
           "description": "<p>Your blood is touched by primal chaos. You gain the ganzi trait in addition to the traits from your ancestry. You gain resistance to a single damage type equal to half your level; at the beginning of each day, determine randomly whether this resistance applies to acid, electricity, or sonic damage. You also gain a +1 circumstance bonus to saving throws against effects that would cause you to gain the @UUID[Compendium.pf2e.conditionitems.Item.9qGBRpbX9NEwtAAr]{Controlled} condition. You can choose from ganzi feats and feats from your ancestry whenever you gain an ancestry feat.</p>",
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "background->Artist": {
           "source": "Pathfinder Core Rulebook"
@@ -3077,7 +3077,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Vestigial Wings": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "feat->Steady Balance": {
           "rules": {
@@ -3231,7 +3231,7 @@
         },
         "deity->Nocticula": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.deities.Item.jL1qiVOZBKXETtVD]\n<p>For most of her existence, Nocticula was a patron of assassins and succubi, a demon lord feared by other demon lords for her skill at assassinating the competition. Those days are behind Nocticula, for she has risen to the role of the Redeemer Queen, a patron of marginalized artists and protector of those cast out from society. She is now feared among her former peers for her persuasive words that tempt them away from their place in the Abyss and toward redemption. Her faith is strongest in the eastern reaches of New Thassilon, where her most powerful exile, Queen Sorshen, seeks to build a nation that welcomes those whom others have cast out.</p>\n<p><strong>Edicts</strong> create art true to yourself, protect marginalized artists, punish those who take advantage of offered trust and shelter</p>\n<p><strong>Anathema</strong> deny shelter to the desperate, destroy harmless art you dislike, finish a work of art during daylight hours</p>\n<p><strong>Areas of Concern</strong> artists, exiles, midnight</p>",
-          "source": "Pathfinder Lost Omens: Gods & Magic"
+          "source": "Pathfinder Lost Omens Gods & Magic"
         },
         "feat->Cloistered Cleric": {
           "source": "Pathfinder Core Rulebook"
@@ -3438,7 +3438,7 @@
           "name": "Sailing Lore"
         },
         "heritage->Undine": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "background->Merchant": {
           "source": "Pathfinder Core Rulebook"
@@ -3455,7 +3455,7 @@
               "text": "When you roll a success on a save against a cold or water effect, you get a critical success instead."
             }
           },
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "feat->Healing Hands": {
           "source": "Pathfinder Core Rulebook"
@@ -3678,7 +3678,7 @@
       "gender": "Female",
       "items": {
         "ancestry->Poppet": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Constructed (Poppet)": {
           "rules": {
@@ -3686,10 +3686,10 @@
               "label": "Constructed (vs. disease, poisons, death effects, paralysis, drained, and sickened)"
             }
           },
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Flammable": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "background->Criminal": {
           "source": "Pathfinder Player Core"
@@ -3698,7 +3698,7 @@
           "source": "Pathfinder Player Core"
         },
         "heritage->Ghost Poppet": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "class->Rogue": {
           "source": "Pathfinder Player Core"
@@ -3755,7 +3755,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Harmless Doll": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Nimble Dodge": {
           "source": "Pathfinder Player Core"
@@ -4129,7 +4129,7 @@
         },
         "heritage->Snaptongue Grippli": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.heritages.Item.2kSzKDtwbcILZTIe]\nSnaptongue Grippli",
-          "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+          "source": "Pathfinder Lost Omens The Mwangi Expanse"
         },
         "background->Scout": {
           "source": "Pathfinder Core Rulebook"
@@ -4144,7 +4144,7 @@
         },
         "feat->Grippli Weapon Familiarity": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.feats-srd.Item.CvtJ98EZvBGSCLOX]\nGrippli Weapon Familiarity",
-          "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+          "source": "Pathfinder Lost Omens The Mwangi Expanse"
         },
         "feat->Nimble Dodge": {
           "source": "Pathfinder Advanced Player's Guide"
@@ -4157,7 +4157,7 @@
         },
         "weapon->Hand Adze": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.MccX4AlmqYDjAN2J]\n<p>This is a smaller version of an adze, useful for more delicate woodworking or projects in cramped spaces. Gripplis use the hand adze for crafting and as close quarters weapons.</p>",
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "weapon->Hand Crossbow": {
           "source": "Pathfinder Core Rulebook"
@@ -4207,7 +4207,7 @@
         },
         "ancestry->Grippli": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.ancestries.Item.hXM5jXezIki1cMI2]\nGrippli",
-          "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+          "source": "Pathfinder Lost Omens The Mwangi Expanse"
         }
       }
     },
@@ -4422,7 +4422,7 @@
               "text": "When you roll a success to Climb, you get a critical success instead."
             }
           },
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "background->Cook": {
           "source": "Pathfinder Advanced Player's Guide"
@@ -4436,7 +4436,7 @@
           "source": "Pathfinder Advanced Player's Guide"
         },
         "feat->Grasping Reach": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Acute Scent": {
           "source": "Pathfinder Core Rulebook"
@@ -4504,10 +4504,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Plant Nourishment": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         }
       }
     },
@@ -4522,7 +4522,7 @@
               "text": "When you roll a success to Climb, you get a critical success instead."
             }
           },
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "background->Cook": {
           "source": "Pathfinder Advanced Player's Guide"
@@ -4536,7 +4536,7 @@
           "source": "Pathfinder Advanced Player's Guide"
         },
         "feat->Grasping Reach": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Acute Scent": {
           "source": "Pathfinder Core Rulebook"
@@ -4614,10 +4614,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Plant Nourishment": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         }
       }
     },
@@ -4785,13 +4785,13 @@
           "name": "Forest Lore"
         },
         "ancestry->Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Plant Nourishment": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "heritage->Fungus Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "background->Hermit": {
           "source": "Pathfinder Core Rulebook"
@@ -4810,7 +4810,7 @@
               "text": "When you roll a success on a save against an emotion effect, you get a critical success instead."
             }
           },
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Trap Finder": {
           "rules": {
@@ -4923,16 +4923,16 @@
       "tokenName": "Reaching Rings",
       "items": {
         "ancestry->Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Plant Nourishment": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "consumable->Putrid Sack of Rotting Fruit": {
           "source": "Pathfinder Adventure: A Few Flowers More"
         },
         "heritage->Fungus Leshy": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "background->Hermit": {
           "source": "Pathfinder Core Rulebook"
@@ -4951,7 +4951,7 @@
               "text": "When you roll a success on a save against an emotion effect, you get a critical success instead."
             }
           },
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Sabotage": {
           "source": "Pathfinder Core Rulebook"
@@ -5223,15 +5223,15 @@
           "name": "Academia Lore"
         },
         "heritage->Wetlander Lizardfolk": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Tail Whip": {
           "name": "Tail Whip",
           "description": "<p>By birth or through training, your tail is strong enough to make for a powerful melee weapon. You gain a tail unarmed attack that deals 1d6 bludgeoning damage and has the sweep trait.</p>",
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Shed Tail": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Divine Aegis": {
           "source": "Pathfinder Advanced Player's Guide"
@@ -5335,7 +5335,7 @@
           "source": "Pathfinder Advanced Player's Guide"
         },
         "weapon->Frost Vial (Moderate)": {
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]\n<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Strike</p>\n<hr />\n<p>The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.</p>\n<p>You gain a +1 item bonus to attack rolls, the bomb deals 2d6 cold damage and 2 cold splash damage, and the target takes a -10-foot penalty.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.dv0IKm5syOdP759w]{Effect: Frost Vial (Moderate)}</p>",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]\n<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Strike</p>\n<hr />\n<p>The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.</p>\n<p>You gain a +1 item bonus to attack rolls, the bomb deals 2d6 cold damage and 2 cold splash damage, and the target takes a -10-foot penalty.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial}</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "weapon->Crossbow": {
@@ -5431,13 +5431,13 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Lizardfolk": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Aquatic Adaptation": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Claws": {
-          "source": "Pathfinder Lost Omens: Character Guide"
+          "source": "Pathfinder Lost Omens Character Guide"
         },
         "feat->Breath Control": {
           "rules": {
@@ -5587,7 +5587,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Foxfire": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "feat->Twin Takedown": {
           "source": "Pathfinder Core Rulebook"
@@ -5689,17 +5689,17 @@
         "ancestry->Kitsune": {
           "name": "Kitsune",
           "description": "<p><em>Kitsune are a charismatic and witty people with a connection to the spiritual that grants them many magical abilities, chiefly the power to shapechange into other forms. Whether they pass unseen among other peoples or hold their tails high, kitsune are clever observers of the societies around them.</em></p>\n<p>@UUID[Compendium.pf2e.journals.JournalEntry.45SK8rdbbxvEHfMn.JournalEntryPage.26YL1jOPQQS6k7A9]{Kitsune}</p>",
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "action->Change Shape": {
           "name": "Change Shape",
           "description": "<p>You return to your natural shape or adopt a new shape as described in the feature that grants this action.</p>",
-          "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+          "source": "Pathfinder Lost Omens The Mwangi Expanse"
         },
         "heritage->Earthly Wilds Kitsune": {
           "name": "Earthly Wilds Kitsune",
           "description": "<p>You are a creature of the material world, with an affinity closer to the wilds than urban society. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group and have the finesse and unarmed traits. Your alternate form is a fox, which has the statistics of 1st-rank @UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{Pest Form}.</p>",
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         }
       }
     },
@@ -5708,7 +5708,7 @@
       "gender": "Male",
       "items": {
         "ancestry->Poppet": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Constructed (Poppet)": {
           "rules": {
@@ -5716,10 +5716,10 @@
               "label": "Constructed (vs. disease, poisons, death effects, paralysis, drained, and sickened)"
             }
           },
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Flammable": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "class->Wizard": {
           "source": "Pathfinder Player Core"
@@ -5786,7 +5786,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Shiny Button Eyes": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "feat->Canny Acumen (Perception)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.feats-srd.Item.i4yRvVwvXbGZDsD1]\nCanny Acumen (Perception)",
@@ -5847,7 +5847,7 @@
           "name": "Academia Lore"
         },
         "heritage->Windup Poppet": {
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "background->Scholar (Arcana)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.backgrounds.Item.v0WPfxN6G8XFfFZT]\nScholar (Arcana)",
@@ -6003,7 +6003,7 @@
         },
         "deity->Tlehar": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.deities.Item.0R2BjVb7d9tYCIbk]\n<p>The old gods of the threefold sun were all but forgotten under the rule of Walkena, the child god. But Tlehar never despaired, for the dawn must forever represent hope to all good people who gaze upon it. She holds the Bright Lions of Mzali especially dear in her heart, since they were a ray of hope to her people even when she couldn't be. Thanks to them, citizens of Mzali and beyond have been reminded of her loving embrace, and once again awaken with resolve in their hearts.</p>\n<p>Tlehar keeps watch over every birth and new beginning, as there is no greater symbol of hope than new life. Midwives and nurses pray to Tlehar to keep watch over their work and ensure the health of newborns. Those coming to terms with a new gender or sexuality may call on Tlehar's blessing and protection as they learn to better understand themselves. People fleeing from unsafe homes can seek out her followers for safe refuge; these followers of Tlehar wear discrete, iron charms to let others know that they will be ready to fight for them. No matter their needs, Tlehar represents a sanctuary of peace in a sea of fear. It is her hope that the people of Mzali will soon live in fear no longer.</p>\n<p>The dawn goddess is depicted as a human woman with golden skin, the gray-furred head of a lioness, and eyes as black as night. She is often portrayed on Chohar's left side, opposite her sister, with one hand extended in welcome and the other holding an iron morningstar. While Tlehar is not typically as strict in her justice as her counterparts, she shows no mercy to those who hurt the ones they claim to love. She may be willing to forgive those who offer sincere repentance, but the lioness of the dawn has a will of iron. She believes that sometimes, protecting the hope of a better tomorrow means destroying those who cast darkness over the future.</p>\n<p><strong>Edicts</strong> give yourself fully to everything you attempt, always maintain hope that tomorrow will be a better day, treasure every gift you are given by those who matter to you.</p>\n<p><strong>Anathema</strong> lose your motivation to your regrets, spread despair, treat a loved one poorly</p>\n<h2>Avatar</h2>\n<p>When casting the @UUID[Compendium.pf2e.spells-srd.Item.ckUOoqOM7Kg7VqxB]{Avatar} spell, a worshipper of Tlehar gains the following additional abilities.</p>\n<p><strong>Tlehar</strong> Speed 50 feet, Fly speed 70 feet, cannot be @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized}</p>\n<p>Melee <span class=\"action-glyph\">1</span> morningstar (versatile piercing, reach 15 feet), Damage @Damage[(6d6+6)[bludgeoning]]</p>\n<p>Ranged <span class=\"action-glyph\">1</span> morning light (range increment 120 feet), Damage @Damage[(3d6+3)[fire],(3d6+3)[vitality]]</p>",
-          "source": "Pathfinder Lost Omens: Legends"
+          "source": "Pathfinder Lost Omens Legends"
         },
         "feat->Warpriest": {
           "source": "Pathfinder Core Rulebook"
@@ -6169,10 +6169,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Red Mantis Assassin Dedication": {
-          "source": "Pathfinder Lost Omens: World Guide"
+          "source": "Pathfinder Lost Omens World Guide"
         },
         "feat->Crimson Shroud": {
-          "source": "Pathfinder Lost Omens: World Guide"
+          "source": "Pathfinder Lost Omens World Guide"
         },
         "feat->Assurance (Medicine)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.feats-srd.Item.W6Gl9ePmItfDHji0]\nAssurance (Medicine)",
@@ -6251,7 +6251,7 @@
         },
         "deity->Achaekek": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.deities.Item.51kMMWaT6CqpGlGk]\n<p>While Achaekek's divine genesis is heavily debated among scholars, it is believed that he was created-either by the power of a singular deity or a group of them-to eradicate those who would steal a god's divinity, and he has since become the enforcer of divine punishment. Known as He Who Walks in Blood, he slumbers in the blood of heretics and worshippers alike in an immense cleft carved into the base of the Boneyard's spire, a realm known as the Blood Vale. He keeps no formal relationships with any other deities, even his sister, Grandmother Spider, who repeatedly coaxes Achaekek to rebel against the gods and abandon his duties. In response, even though some gods disapprove of Achaekek's methods, few openly defy him.</p>\n<p><strong>Edicts</strong> conduct assassinations, spread the Red Mantis's infamy, wield sawtooth sabers in combat</p>\n<p><strong>Anathema</strong> kill a rightful ruler, become fixated on petty matters such as others' gender or ancestry, abandon an assassination contract you agreed to pursue</p>\n<p><strong>Areas of Concern</strong> assassins, divine punishments, and the Red Mantis</p>",
-          "source": "Pathfinder Lost Omens: Gods & Magic"
+          "source": "Pathfinder Lost Omens Gods & Magic"
         },
         "equipment->Crowbar": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.44F1mfJei4GY8f2X]\n<p>When Forcing Open an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a -2 item penalty to the Athletics check to Force Open (similar to using a shoddy item).</p>",
@@ -6679,7 +6679,7 @@
         },
         "deity->Achaekek": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.deities.Item.51kMMWaT6CqpGlGk]\n<p>While Achaekek's divine genesis is heavily debated among scholars, it is believed that he was created-either by the power of a singular deity or a group of them-to eradicate those who would steal a god's divinity, and he has since become the enforcer of divine punishment. Known as He Who Walks in Blood, he slumbers in the blood of heretics and worshippers alike in an immense cleft carved into the base of the Boneyard's spire, a realm known as the Blood Vale. He keeps no formal relationships with any other deities, even his sister, Grandmother Spider, who repeatedly coaxes Achaekek to rebel against the gods and abandon his duties. In response, even though some gods disapprove of Achaekek's methods, few openly defy him.</p>\n<p><strong>Edicts</strong> conduct assassinations, spread the Red Mantis's infamy, wield sawtooth sabers in combat</p>\n<p><strong>Anathema</strong> kill a rightful ruler, become fixated on petty matters such as others' gender or ancestry, abandon an assassination contract you agreed to pursue</p>\n<p><strong>Areas of Concern</strong> assassins, divine punishments, and the Red Mantis</p>",
-          "source": "Pathfinder Lost Omens: Gods & Magic"
+          "source": "Pathfinder Lost Omens Gods & Magic"
         },
         "feat->Natural Ambition": {
           "source": "Pathfinder Core Rulebook"
@@ -6921,7 +6921,7 @@
           "name": "Korvosa Lore"
         },
         "heritage->Nightglider Strix": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "background->Emissary": {
           "source": "Pathfinder Core Rulebook"
@@ -6932,7 +6932,7 @@
         "feat->Nestling Fall": {
           "name": "Nestling Fall",
           "description": "<p>You trust the strength of your wings and can spread them to glide safely to the ground. As long as you can act, you take no damage from falling, no matter what distance you fall.</p>",
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "feat->Distracting Feint": {
           "source": "Pathfinder Core Rulebook"
@@ -7040,10 +7040,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Strix": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         },
         "feat->Wings": {
-          "source": "Pathfinder Lost Omens: Ancestry Guide"
+          "source": "Pathfinder Lost Omens Ancestry Guide"
         }
       }
     },
@@ -7190,5 +7190,18 @@
       "converter": "translateTokenName",
       "path": "prototypeToken.name"
     }
+  },
+  "folders": {
+    "A Few Flowers More": "A Few Flowers More",
+    "A Fistful of Flowers": "A Fistful of Flowers",
+    "Beginner Box": "Beginner Box",
+    "Dinner at Lionlodge": "Dinner at Lionlodge",
+    "Head-Shot the Rot": "Head-Shot the Rot",
+    "Little Trouble in Big Absalom": "Little Trouble in Big Absalom",
+    "Mark of the Mantis": "Mark of the Mantis",
+    "Sundered Waves": "Sundered Waves",
+    "The Great Toy Heist": "The Great Toy Heist",
+    "The Slithering": "The Slithering",
+    "Threshold of Knowledge": "Threshold of Knowledge"
   }
 }

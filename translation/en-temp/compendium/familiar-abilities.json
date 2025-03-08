@@ -19,7 +19,7 @@
     "Ambassador": {
       "name": "Ambassador",
       "description": "<p>Your familiar knows how to act cute or focused on cue, helping you make a good impression.</p>\n<p>Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aid} you on a Diplomacy check to @UUID[Compendium.pf2e.actionspf2e.Item.OX4fy22hQgUHDr0q]{Make an Impression} (it still has to prepare to help you as normal for the Aid reaction, which requires it to participate throughout the activity).</p>\n<p>It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Amphibious": {
       "name": "Amphibious",
@@ -29,7 +29,7 @@
     "Animated": {
       "name": "Animated",
       "description": "<p>With a bit of magic from your patron, your object familiar can move about on its own. It gains a Speed of 25 feet. You can select this ability only for object familiars.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Augury": {
       "name": "Augury",
@@ -74,7 +74,7 @@
     "Dazzling Show": {
       "name": "Dazzling Show",
       "description": "<p><strong>Frequency</strong> once per minute</p>\n<hr />\n<p><strong>Effect</strong> Your kinnara flashes his brilliant feathers. Each creature within a @Template[type:emanation|distance:30] must attempt a @Check[will|against:class-spell] save against your class DC or spell DC, whichever is higher, or be @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 2 rounds.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Dragon": {
       "name": "Dragon",
@@ -124,7 +124,7 @@
     "Erudite": {
       "name": "Erudite",
       "description": "<p>Your familiar has incredible religious knowledge. Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aid} you on a Religion check (it still has to prepare to help you as normal for the Aid reaction). It automatically succeeds its check to Aid you with Religion checks or automatically critically succeeds if you're a master in Religion.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Extra Alchemy": {
       "name": "Extra Alchemy",
@@ -149,12 +149,12 @@
     "Familiar of Bolstering Aid": {
       "name": "Familiar of Bolstering Aid",
       "description": "<p>Your familiar knows all manner of tricks that can help! When you Cast or Sustain a hex, and your familiar is adjacent to an ally, that ally gains a +2 status bonus to the next non-attack skill check that ally attempts before the start of your next turn.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.IgLMAwovQ9roTsRN]{Effect: Familiar of Bolstering Aid}</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Familiar of Enticing Negotiation": {
       "name": "Familiar of Enticing Negotiation",
       "description": "<p>Your familiar constantly whispers distracting offers of power, wealth, and other temptations to your enemies, even if your familiar normally doesn't have the means of speaking. When you Cast or Sustain a hex and your familiar is within 10 feet of an enemy, the enemy becomes @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the start of your next turn. Your familiar can only distract a single enemy per round in this way.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Familiar of Flowing Script": {
       "name": "Familiar of Flowing Script",
@@ -165,6 +165,10 @@
       "name": "Familiar of Freezing Rime",
       "description": "<p>Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a @Template[burst|distance:5] centered on a square of your familiar's space. Those squares are difficult terrain until the start of your next turn.</p>",
       "source": "Pathfinder Player Core"
+    },
+    "Familiar of Insightful Observation": {
+      "name": "Familiar of Insightful Observation",
+      "description": "<p>Your familiar boasts a third eye upon their head or body, resembling the one set in Cobyslarni's forehead. When you Cast or Sustain a hex, your familiar can attempt a check to Recall Knowledge as a free action with any skill in which you are trained or better, using your bonus, and psychically transmit the information to you.</p>"
     },
     "Familiar of Keen Senses": {
       "name": "Familiar of Keen Senses",
@@ -179,7 +183,7 @@
     "Familiar of Obscuring Snowfall": {
       "name": "Familiar of Obscuring Snowfall",
       "description": "<p>Your familiar is always covered in a thin layer of snow, which it sheds as needed. When you Cast or Sustain a hex, you can cause clinging snow to fall in a @Template[type:burst|distance:5] centered on a square of your familiar's space. This snowfall remains until the start of your next turn, and enemies that enter these squares during that period are @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until the start of your next turn.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Familiar of Ongoing Misery": {
       "name": "Familiar of Ongoing Misery",
@@ -194,7 +198,7 @@
     "Familiar of Paired Perplexity": {
       "name": "Familiar of Paired Perplexity",
       "description": "<p>Your familiar has twice as many of a small feature than a normal creature would have, such a second tail or an extra pair of whiskers. When you Cast or Sustain a hex, your familiar seems to double and be in two places at once. One creature you choose within 20 feet of it is @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} until the start of your next turn; this is a visual effect.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Familiar of Parasitic Might": {
       "name": "Familiar of Parasitic Might",
@@ -214,7 +218,7 @@
     "Familiar of Swarm's Heart": {
       "name": "Familiar of Swarm's Heart",
       "description": "<p>Your familiar is surrounded by a cloud of harmless insects. When you Cast or Sustain a hex, the insects swarm to protect you and your allies. Until the start of your next turn, your familiar grants concealment to you or any ally while sharing the same space.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Fast Movement": {
       "name": "Fast Movement",
@@ -224,7 +228,7 @@
     "Flatten": {
       "name": "Flatten",
       "description": "<p>Your familiar can flatten itself to the width of a sheet of paper, easily fitting through the smallest of cracks and gaps. So long as a door or other obstacle has a gap that can fit a sheet of paper, your familiar can move through it without needing to Squeeze.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Flier": {
       "name": "Flier",
@@ -244,7 +248,7 @@
     "Gills": {
       "name": "Gills",
       "description": "<p>Your familiar grows a set of gills, allowing it to breathe water in addition to air.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Grasping Tendrils": {
       "name": "Grasping Tendrils",
@@ -254,7 +258,7 @@
     "Greater Resistance": {
       "name": "Greater Resistance",
       "description": "<p>Your familiar increases the resistance it gains from its resistance familiar ability to 3 + half your level. Your familiar must have the @UUID[Compendium.pf2e.familiar-abilities.Item.FcQQLMAJMgOLjnSv]{Resistance} ability to select this.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Independent": {
       "name": "Independent",
@@ -279,7 +283,7 @@
     "Kindling": {
       "name": "Kindling",
       "description": "<p>You can immolate your familiar's body for a surge of power. Once per day as a free action, when you Cast a Spell that has the fire trait, deals damage, and doesn't have a duration, you can sacrifice your familiar to empower the spell. Your familiar is immediately slain, and you gain a status bonus to that spell's damage equal to twice the spell rank.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.Pe4qwrE1oU68iW4g]{Effect: Kindling}</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Kinspeech": {
       "name": "Kinspeech",
@@ -304,17 +308,17 @@
     "Lightning Armillary": {
       "name": "Lightning Armillary",
       "description": "<p><strong>Effect</strong> Your familiar flies around and around an adjacent ally's weapon or hand, dissolving into multiple rings of lightning. Until the beginning of your next turn, the affected weapon or unarmed attack deals an additional 1d6 electricity damage, or 1d8 electricity damage if you Cast a Spell with the air or electricity trait this turn. Your familiar remains in lightning ring form, preventing it from being targeted or taking any actions.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.QVk0oRgc1pRwhG7U]{Effect: Lightning Armillary}</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Lightning Needles": {
       "name": "Lightning Needles",
       "description": "<p><strong>Requirements</strong> You Cast a Spell that had the air or electricity traits this turn;</p>\n<hr />\n<p><strong>Effect</strong> Your familiar absorbs excess electrical charge and unleashes a @Template[type:emanation|distance:5] of static electricity that flows into creatures' meridians. Creatures in the emanation that fail a @Check[fortitude] save against your spell DC become @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1} until the end of their next turn. If a creature is soaked or standing over or in water inside the emanation, it also takes @Damage[1d4[persistent,electricity]] damage on a failed save.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Luminous": {
       "name": "Luminous",
       "description": "<p>Your familiar glows with a comforting light. It sheds bright light in a 30-foot radius and dim light for the next 30 feet. It can suppress or resume this light by using an action, which has the concentrate trait.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Major Resistance": {
       "name": "Major Resistance",
@@ -329,12 +333,12 @@
     "Mask Freeze": {
       "name": "Mask Freeze",
       "description": "<p>When in mask form, your familiar can hide its obvious supernatural qualities to pass as a simple, unassuming mask. It doesn't need to Impersonate to fool a passing glance, and it gains a +4 circumstance bonus to its Deception DC against an active observer Seeking or otherwise studying it.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Mass-Produced": {
       "name": "Mass-Produced",
       "description": "<p>If your shikigami dies, you can rebind its spirit to another paper doll during your next daily preparations.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Master's Form": {
       "name": "Master's Form",
@@ -344,7 +348,7 @@
     "Medic": {
       "name": "Medic",
       "description": "<p>Your familiar can draw upon the power of your deity to @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Cast a Spell} once per day. The familiar can cast the 1-action version of @UUID[Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs]{Heal} at a level 2 levels lower than your highest-rank spell slot, which it can cast only on you. You must be able to cast 3rd-rank spells from spell slots to select this ability.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Partner in Crime": {
       "name": "Partner in Crime",
@@ -354,7 +358,7 @@
     "Path of the Tempest": {
       "name": "Path of the Tempest",
       "description": "<p><strong>Frequency</strong> once per 10 minutes;</p>\n<hr />\n<p><strong>Effect</strong> Your familiar summons winds that speed up and protect you. You gain a +10-foot status bonus to your Speed until the end of your turn. When you Stride this turn, you don't trigger reactions. In addition, you don't need to Stride before a @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump} this turn.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.2CJwgnCsYtk4R5sO]{Effect: Path of the Tempest}</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Plant": {
       "name": "Plant",
@@ -369,7 +373,7 @@
     "Play Dead": {
       "name": "Play Dead",
       "description": "<p>Your familiar pretends to be inanimate, hiding its supernatural capabilities. It can Hide without any cover or concealment from creatures that don't realize it's alive, so long as it's in a location where it wouldn't seem out of place. If the familiar succeeds, onlookers still see it, but they mistake it for an inanimate object. After being fooled once, they realize your familiar is alive, and it can't Hide from them in that way again.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Poison Reservoir": {
       "name": "Poison Reservoir",
@@ -379,7 +383,7 @@
     "Pot of Tea": {
       "name": "Pot of Tea",
       "description": "<p>Your tapir sage is trained in the art of herbal medication and can prepare a pot of healing tea. Once per day, your familiar can spend 10 minutes to brew fine tea leaves and herbs. The tapir sage must focus on the tea during this time—if it performs any other action, the tea is ruined, though the tapir sage can start over again. Once the pot of tea is brewed, the tapir sage can serve two cups of tea with each of the below actions; each time, it gives 1 cup to an adjacent ally, and it drinks 1 cup itself. The three infusions must be poured and offered in order (for example, the tapir sage can't serve the second infusion until it has served the first). The tea remains good for 1 hour after brewing; if not drunk by this point, the pot goes cold, and any remaining tea loses its power.</p>\n<ul>\n<li><strong>First Infusion</strong> <span class=\"action-glyph\">2</span> The infusion restores a number of Hit Points equal to 1d8 times half your level (minimum 1d8) and grants a +4 circumstance bonus to the next saving throw against disease or poison attempted within 24 hours.</li>\n<li><strong>Second Infusion</strong> <span class=\"action-glyph\">2</span> The infusion restores a number of Hit Points equal to 1d4 times half your level (minimum 1d4) and grants a +2 circumstance bonus to the next saving throw against disease or poison attempted within 24 hours.</li>\n<li>\n<p><strong>Third Infusion</strong> <span class=\"action-glyph\">2</span> The infusion grants temporary Hit Points equal to your level for 1 hour.</p>\n</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Purify Air": {
       "name": "Purify Air",
@@ -389,7 +393,7 @@
     "Radiant": {
       "name": "Radiant",
       "description": "<p>Your familiar is filled with a divine radiance that makes it resistant to the forces of evil. Your familiar gains resistance to evil and void damage equal to half your level.</p>\n<p><em>Note: As effects placed on one actor cannot reference data from another actor, the resistance of half the PC level is not automatable. Please update the familiars resistances accordingly.</em></p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Recall Familiar": {
       "name": "Recall Familiar",
@@ -414,7 +418,7 @@
     "Seal-Bearer": {
       "name": "Seal-Bearer",
       "description": "<p>During your daily preparations, you can inscribe a symbol or seal upon your shikigami that corresponds to the air, earth, fire, metal, water, or wood element. If you use the shikigami's kindling ability that day, it applies to a spell that deals damage with the relevant trait to the chosen element, instead of only the fire trait.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Second Opinion": {
       "name": "Second Opinion",
@@ -424,7 +428,7 @@
     "Shadow Projection": {
       "name": "Shadow Projection",
       "description": "<p>Your makhluk wayang projects its shadow into a larger silhouette of itself, allowing it to grasp things outside of its obvious reach. It increases its reach to 10 feet for the purposes of taking non-hostile Interact actions until the end of your turn.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Shadow Step": {
       "name": "Shadow Step",
@@ -444,12 +448,12 @@
     "Snoop": {
       "name": "Snoop",
       "description": "<p>Your familiar keeps its eyes and ears open, ready to relay every snippet of gossip it catches, helping you gather information.</p>\n<p>Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to @UUID[Compendium.pf2e.actionspf2e.Item.HCl3pzVefiv9ZKQW]{Aid} you on a Diplomacy check to @UUID[Compendium.pf2e.actionspf2e.Item.plBGdZhqq5JBl1D8]{Gather Information} (it still has to prepare to help you as normal for the Aid reaction, which requires it to participate throughout the activity).</p>\n<p>It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Soul Bond": {
       "name": "Soul Bond",
       "description": "<p>Your kinnars' spirits are intrinsically linked. While they're two beings, they're still considered a single creature, act as a single creature, use normal familiar statistics, and are subject to all of the normal effects that come with being a single creature. Their linked spirits allow them to stave off attacks against their mind. If your kinnars are subjected to a mental effect that allows a saving throw, they roll twice and take the higher result; this is a fortune effect.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Soul Sight": {
       "name": "Soul Sight",
@@ -484,22 +488,22 @@
     "Stunning Flare": {
       "name": "Stunning Flare",
       "description": "<p><strong>Frequency</strong> once per 10 minutes;</p>\n<hr />\n<p><strong>Effect</strong> Your lantern wisp unleashes a large burst of flame, casting an unnaturally bright light. Each creature within a @Template[type:emanation|distance:15] must attempt a @Check[fortitude|against:class-spell] save against your class DC or spell DC, whichever is higher, or be @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 round and then @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 2 rounds after.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Synchronize Spirit": {
       "name": "Synchronize Spirit",
       "description": "<p>You can synchronize your spiritual energy with that of your familiar to temporarily become part spirit yourself. Once per round, you can Sustain to synchronize your spirit with that of your familiar. You remain synchronized with your spirit until the beginning of your next turn. While synchronized, whenever you Strike or Cast a Spell without a duration that deals damage, you deal spirit damage instead of your normal damage.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Tattoo Transformation": {
       "name": "Tattoo Transformation",
       "description": "<p>Your familiar can transform into a tattoo you carry on your flesh. When transformed into a tattoo, the familiar looks like a colorful and stylized version of itself and can't act except to turn back into a familiar. It isn't affected by area effects and must be targeted separately to affect it, which requires knowledge that it's a creature. This means you and your allies can heal or assist the familiar while most enemies stay unaware of its true nature. Creatures must attempt a @Check[perception|dc:20|showDC:all] check to Seek to realize a tattoo is actually a familiar (which few foes will try). Your familiar can still communicate its feelings empathically. Transforming into a tattoo or back to familiar form is a 1-minute activity that has the concentrate trait.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Threat Display": {
       "name": "Threat Display",
       "description": "<p>Your familiar helps you convey wordless threats through body language.</p>\n<p>Whenever you attempt an Intimidation check to @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} a creature, if your familiar is within 30 feet of your target and can act, it accompanies you with snarls, hisses, or raising its hackles.</p>\n<p>If it can do so, you don't take the normal -4 penalty on the Intimidation check if your target doesn't understand the language you're speaking.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Toolbearer": {
       "name": "Toolbearer",
@@ -519,7 +523,7 @@
     "Tremorsense": {
       "name": "Tremorsense",
       "description": "<p>Your familiar is keenly aware of any vibrations traveling through a surface. It gains imprecise tremorsense with a range of 30 feet.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Valet": {
       "name": "Valet",
@@ -534,17 +538,17 @@
     "Versatile Form": {
       "name": "Versatile Form",
       "description": "<p>The crafted body of your familiar allows you to make adjustments to it when required. Once per day, you can spend 10 minutes to change one familiar or master ability your familiar possesses. To select this ability, your familiar must be a construct, and you must be at least trained in Crafting.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Vina Song": {
       "name": "Vina Song",
       "description": "<p><strong>Frequency</strong> once per hour, see below</p>\n<hr />\n<p><strong>Effect</strong> Your kinnari elegantly plays her instrument. Each creature within a @Template[type:emanation|distance:30] must attempt a Will save against your class DC or spell DC, whichever is higher, or be @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated} for 1 round. A kinnar can use this ability again on the next round to continue the song and force affected creatures to attempt another Will save; on a failure, a creature is fascinated for an additional round. Once the kinnar stops playing, they can't use this ability again for 1 hour. A creature that succeeds at any save or has its fascination broken is temporarily immune to that kinnar's Vina Song for 24 hours. Kinnars are immune to this ability.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Wavesense": {
       "name": "Wavesense",
       "description": "<p>Your familiar can sense vibrations in the water. It gains imprecise wavesense with a range of 30 feet.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     }
   },
   "mapping": {

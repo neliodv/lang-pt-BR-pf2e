@@ -41,6 +41,16 @@
       "description": "<p>The drinker is unable to yell or sing for 1 hour.</p>",
       "source": "Pathfinder #178: Punks in a Powder Keg"
     },
+    "Effect: Call Upon the Ancients": {
+      "name": "Effect: Call Upon the Ancients",
+      "description": "<p>You gain resistance 5 to all damage caused by Treerazer.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
+    },
+    "Effect: Call Upon the Sovyrian Stone": {
+      "name": "Effect: Call Upon the Sovyrian Stone",
+      "description": "<p>Decrease the DC of Treerazer's primal innate spells and his Defoliation ability to DC 46, the DC of his aura of corruption to DC 43, and his spell attack modifier to +38.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
+    },
     "Effect: Chthonic Mucus": {
       "name": "Effect: Chthonic Mucus",
       "description": "<p>The creature takes a –5-foot status penalty to their Speed. This reduction ends with the persistent spirit damage.</p>",
@@ -68,7 +78,7 @@
     },
     "Effect: Consecrated Altar to Ydersius": {
       "name": "Effect: Consecrated Altar to Ydersius",
-      "description": "<p>Creatures who worship Ydersius gain a +1 status bonus to attack<br />rolls, skill checks, saving throws, and Perception checks, and their Strikes gain the unholy trait.</p>",
+      "description": "<p>Creatures who worship Ydersius gain a +1 status bonus to attack rolls, skill checks, saving throws, and Perception checks, and their Strikes gain the unholy trait.</p>",
       "source": "Pathfinder #200: Seven Dooms for Sandpoint"
     },
     "Effect: Crownhold Consecration": {
@@ -136,6 +146,11 @@
       "description": "<p>Improved reflexes, giving a +1 item bonus to Reflex saves for 8 hours</p>",
       "source": "Pathfinder #178: Punks in a Powder Keg"
     },
+    "Effect: Invoke the Witchbole's Spirit": {
+      "name": "Effect: Invoke the Witchbole's Spirit",
+      "description": "<p>PCs gain a +4 circumstance bonus to all saving throws against Witchbole Collapse effects. Conversely, Treerazer takes a –4 circumstance penalty to his saving throws against the same effects.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
+    },
     "Effect: Keen insight": {
       "name": "Effect: Keen insight",
       "description": "<p>Keen insight, granting a +1 item bonus to Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense Motive} for 8 hours</p>",
@@ -156,10 +171,20 @@
       "description": "<p>Granted by Magical Mentor</p>\n<p>Your Level Bump modifier bonus to your spell DC that is the same tradition of the mentor increases to 2.</p>",
       "source": "Pathfinder Society Boons"
     },
+    "Effect: Memories of Failure": {
+      "name": "Effect: Memories of Failure",
+      "description": "<p>You take a -1 penalty to all saving throws against emotion effects created by the marked creature.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
+    },
     "Effect: Nexian Researcher": {
       "name": "Effect: Nexian Researcher",
       "description": "<p>Granted by S1-00 - Nexian Researcher</p>\n<p>If you are Untrained in Pathfinder Society Lore, you can add your level to your Intelligence modifier when determining your bonus. If you are at least Trained in Pathfinder Society Lore, you gain a +2 circumstance bonus to this check instead.</p>",
       "source": "Pathfinder Society Scenario #1-00: Origin of the Open Road"
+    },
+    "Effect: Pompous Rage": {
+      "name": "Effect: Pompous Rage",
+      "description": "<p>Foroxicks takes a –2 circumstance penalty to his jaws attack, but each hit deals additional piercing damage.</p>",
+      "source": "Pathfinder Society Quest #23: Lacking Respect"
     },
     "Effect: Practiced Medic": {
       "name": "Effect: Practiced Medic",
@@ -170,6 +195,11 @@
       "name": "Effect: Protective Mentor",
       "description": "<p>Granted by Protective Mentor</p>\n<p>Your maximum Hit Points increases in addition to the bonus provided by the Level Bump.</p>",
       "source": "Pathfinder Society Boons"
+    },
+    "Effect: Recruit the Recent Dead": {
+      "name": "Effect: Recruit the Recent Dead",
+      "description": "<p>Reduce Treerazer's AC to 51, his Blackaxe Strike modifier to +44, and his jaws Strike modifier to +42.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
     },
     "Effect: Reflection of Life (Fast Healing)": {
       "name": "Effect: Reflection of Life (Fast Healing)",
@@ -216,6 +246,11 @@
       "gmNote": "<h2>Soul Degradation (Curse 7)</h2>\n<section class=\"traits\">\n<p>rare</p>\n<p>curse</p>\n<p>magical</p>\n</section>\n<p>The PC's sense of self becomes subsumed by ghostly desires, eventually rendering them a senseless shell. Soul degradation doesn't increase or decrease its stage over the passage of time. Instead, each time a transmigrated PC recovers from the dying condition, they must attempt a new saving throw against this curse. Certain events or effects that the PCs might encounter in Chapter 3 of this adventure can also force them to save against soul degradation. Once the effects of transmigration end for a PC, they immediately and fully recover from soul degradation.</p>\n<p><strong>Saving Throw</strong> @Check[will|dc:23|traits:curse,magical]</p>\n<p><strong>Stage 1</strong> weakness 5 to positive damage</p>\n<p><strong>Stage 2</strong> weakness 10 to positive damage</p>\n<p><strong>Stage 3</strong> weakness 10 to positive damage, and each time the PC critically fails an attack roll or skill check they're @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} as their mind obsesses over the failure</p>\n<p><strong>Stage 4</strong> as stage 3</p>\n<p><strong>Stage 5</strong> as stage 3</p>\n<p><strong>Stage 6</strong> The PC is reduced to an unthinking haunt. Until the curse is removed or the duration of the transmigrate ritual ends, they repeat a short loop of actions and are no longer under the control of the player (unlimited duration).</p>",
       "source": "Pathfinder #198: No Breath to Cry"
     },
+    "Effect: Spore Feedback": {
+      "name": "Effect: Spore Feedback",
+      "description": "<p>Treerazer's maximum Hit Points are reduced to 500 and his regeneration reduces to 30.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
+    },
     "Effect: Stoop": {
       "name": "Effect: Stoop",
       "description": "<p>Medium creatures are forced to stoop and awkwardly adjust the swing of their weapons—as a result, these creatures take a –1 circumstance penalty on attack rolls and are clumsy 1.</p>",
@@ -240,6 +275,11 @@
         }
       },
       "source": "Pathfinder #167: Ready? Fight!"
+    },
+    "Effect: Utter Treerazer's Name": {
+      "name": "Effect: Utter Treerazer's Name",
+      "description": "<p>Decrease Treerazer's saving throw modifiers, Perception check modifiers, and skill check modifiers by 3.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
     },
     "Effect: Wind Barrier": {
       "name": "Effect: Wind Barrier",
@@ -334,6 +374,7 @@
     "Extinction Curse": "Extinction Curse",
     "Malevolence": "Malevolence",
     "Sky King's Tomb": "Sky King's Tomb",
+    "Spore War": "Spore War",
     "Season of Ghosts": "Season of Ghosts",
     "Seven Dooms for Sandpoint": "Seven Dooms for Sandpoint",
     "Pathfinder GM Core": "Pathfinder GM Core",

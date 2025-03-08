@@ -41,6 +41,11 @@
       "description": "<p>The Alchemical Crossbow deals an additional 1d6 damage of the type dealt by the bomb used.</p>",
       "source": "Pathfinder Adventure: The Fall of Plaguestone"
     },
+    "Effect: Alchemical Embalming": {
+      "name": "Effect: Alchemical Embalming",
+      "description": "<p>The target takes a –10-foot status penalty to its Speeds.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Alchemical Strike": {
       "name": "Effect: Alchemical Strike",
       "description": "<p>Choose acid, cold, electricity, or fire damage. The drudge imbues its fist attacks with this damage.</p>\n<p>Each hit deals 1d6 points of damage of the same type as that of the bomb loaded into it. Each bomb has enough fluid in it for 10 successful strikes.</p>",
@@ -59,12 +64,12 @@
     "Effect: Ancestral Response": {
       "name": "Effect: Ancestral Response",
       "description": "<p>The creature gains a +2 circumstance bonus on saving throws.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Artificer's Command": {
       "name": "Effect: Artificer's Command",
       "description": "<p>The creature gains a +1 status bonus to attack rolls, damage rolls, and saving throws.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Effect: Asper's Elemental Aura": {
       "name": "Effect: Asper's Elemental Aura",
@@ -126,6 +131,11 @@
       "description": "<p>Allies in the movanic deva's aura gain a +1 status bonus to all saving throws, resistance 10 to vitality and void damage, and are unharmed by the effects of a plane's vitality and void traits. Animals in the aura of 12th level or lower don't attack the movanic deva or the deva's allies unless they are controlled or otherwise forced to attack.</p>",
       "source": "Pathfinder Bestiary 2"
     },
+    "Effect: Avenge the Fallen": {
+      "name": "Effect: Avenge the Fallen",
+      "description": "<p>You roll the attack roll twice and use the higher result.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Barbed Net": {
       "name": "Effect: Barbed Net",
       "description": "<p>The creature takes a -10-foot circumstance penalty to its Speeds.</p>",
@@ -155,6 +165,16 @@
       "name": "Effect: Beacon of the Rowan Guard",
       "description": "<p>While within the emanation, a creature with the elemental trait and either the plant trait or wood trait gains fast healing 10 and a +2 circumstance bonus to all attack and damage rolls.</p>",
       "source": "Pathfinder Rage of Elements"
+    },
+    "Effect: Beguiling Presence": {
+      "name": "Effect: Beguiling Presence",
+      "description": "<p>Creatures in the area that can observe the courtesan take a –2 status penalty on their Will DC against the courtesan's attempts to make a Request of them.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "Effect: Beseech the Spirits": {
+      "name": "Effect: Beseech the Spirits",
+      "description": "<p>You gain lifesense 60 feet and all-around vision for 10 minutes.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Biggest Fan!": {
       "name": "Effect: Biggest Fan!",
@@ -194,7 +214,7 @@
     "Effect: Blood Fury": {
       "name": "Effect: Blood Fury",
       "description": "<p>The creature gains a +1 status bonus to attack rolls.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Blood Magic": {
       "name": "Effect: Blood Magic",
@@ -244,7 +264,7 @@
     "Effect: Bodyguard's Defense": {
       "name": "Effect: Bodyguard's Defense",
       "description": "<p>The creature gains a +2 circumstance bonus to AC.</p>",
-      "source": "Pathfinder Gamemastery Guide"
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Bogwid Fever": {
       "name": "Effect: Bogwid Fever",
@@ -276,10 +296,10 @@
       "description": "<p>A gargarthezul can't stand to be shown up. The first time each round a creature successfully Demoralizes, Shoves, or Trips a gargarthezul, it takes @Damage[1d6[mental]] damage.</p>",
       "source": "Pathfinder Society Scenario #6-00: Salt of the Ocean"
     },
-    "Effect: Breach the Abyss": {
-      "name": "Effect: Breach the Abyss",
-      "description": "<p>the weapon deals an extra 2d6 damage.</p>\n<p>Roll 1d20 to determine the type:</p>\n<ul>\n<li>1-7 acid</li>\n<li>8-9 cold</li>\n<li>10-11 electricity</li>\n<li>12-18 fire</li>\n<li>19-20 void</li>\n</ul>",
-      "source": "Pathfinder Society Scenario #5-06: Ukuja, the First Wall"
+    "Effect: Breach the Outer Rifts": {
+      "name": "Effect: Breach the Outer Rifts",
+      "description": "<p>The weapon deals an extra 2d6 damage. Roll 1d20 to determine the type: 1–7 acid, 8–9 cold, 10–11 electricity, 12–18 fire, 19–20 void.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Brimstone Blessing": {
       "name": "Effect: Brimstone Blessing",
@@ -289,7 +309,7 @@
     "Effect: Brutal Rally": {
       "name": "Effect: Brutal Rally",
       "description": "<p>The creature gains a +1 circumstance bonus to attack rolls.</p>",
-      "source": "Pathfinder Gamemastery Guide"
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Bully the Departed": {
       "name": "Effect: Bully the Departed",
@@ -304,7 +324,7 @@
     "Effect: Call to Action": {
       "name": "Effect: Call to Action",
       "description": "<p>The creature gains a +1 status bonus to attack and damage rolls.</p>",
-      "source": "Pathfinder Gamemastery Guide"
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Call to Blood": {
       "name": "Effect: Call to Blood",
@@ -345,6 +365,16 @@
       "name": "Effect: Challenge Foe",
       "description": "<p>You gain a circumstance bonus to damage equal to your number of weapon damage dice against your designated foe but take an equivalent circumstance penalty to damage against any other creature.</p>",
       "source": "Pathfinder Bestiary 3"
+    },
+    "Effect: Champion's Aura (Champion of Rovagug)": {
+      "name": "Effect: Champion's Aura (Champion of Rovagug)",
+      "description": "<p>You take a –1 circumstance penalty to saves against fear.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "Effect: Chant of Dominance": {
+      "name": "Effect: Chant of Dominance",
+      "description": "<p>Any creature damaged this turn also takes 1d6 persistent spirit damage.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Chaotic Spawning": {
       "name": "Effect: Chaotic Spawning",
@@ -389,6 +419,11 @@
       "description": "<p>The creature gains a +1 circumstance bonus to attack rolls, damage rolls, AC, saves, and skill checks.</p>",
       "source": "Pathfinder Bestiary"
     },
+    "Effect: Commanding Aura": {
+      "name": "Effect: Commanding Aura",
+      "description": "<p>You gain 8 temporary Hit Points.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Commanding Aura (Quara)": {
       "name": "Effect: Commanding Aura (Quara)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.abomination-vaults-bestiary.Actor.JrowrtDilEG8dN2s]{Quara Orshendiel}</p>\n<p>Drow around Quara are heartened by her presence. Her drow allies in the aura gain a +1 status bonus to attack rolls and skill checks.</p>",
@@ -408,6 +443,11 @@
       "name": "Effect: Conduct",
       "description": "<p>The concert frog and all allies within 60 feet gain one of the following three effects until the beginning of the concert frog's next turn.</p>\n<ul>\n<li><strong>Red</strong> Grants a +10-foot status bonus to their Speeds.</li>\n<li><strong>Blue</strong> Grants a +1 status bonus to AC and Fortitude saving throws.</li>\n<li><strong>Yellow</strong> Allies gain a +1 status bonus to attack rolls and deal an additional 1d4 sonic damage on successful melee Strikes.</li>\n</ul>",
       "source": "Pathfinder Howl of the Wild"
+    },
+    "Effect: Conduct the Experiment": {
+      "name": "Effect: Conduct the Experiment",
+      "description": "<p>Your melee Strikes deal an extra 2d8 precision damage against the marked creature.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Conductive Downpour": {
       "name": "Effect: Conductive Downpour",
@@ -502,7 +542,7 @@
     "Effect: Curse of Stone": {
       "name": "Effect: Curse of Stone",
       "description": "<p>The creature gains a +1 status bonus to its AC.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Effect: Curse of the Baneful Venom": {
       "name": "Effect: Curse of the Baneful Venom",
@@ -589,6 +629,11 @@
       "description": "<p>The creature gains 10 temporary Hit Points and a +2 status bonus to attack and damage rolls.</p>",
       "source": "Pathfinder Monster Core"
     },
+    "Effect: Diplomatic Immunity": {
+      "name": "Effect: Diplomatic Immunity",
+      "description": "<p>The attacker gains weakness 2 to all damage from the envoy's allies while Diplomatic Immunity lasts, whether their attack was disrupted or not.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Dire Warning": {
       "name": "Effect: Dire Warning",
       "description": "<p>The creature gains a +1 status bonus to attack rolls and damage rolls.</p>",
@@ -628,6 +673,16 @@
       "name": "Effect: Divine Aegis",
       "description": "<p>The creature gains a +1 circumstance bonus to saving throws against non-divine magical effects and a -1 circumstance penalty to saves against divine effects.</p>",
       "source": "Pathfinder Bestiary 3"
+    },
+    "Effect: Divine Frenzy": {
+      "name": "Effect: Divine Frenzy",
+      "description": "<p>The sibyl enters into a divine frenzy that lasts 1 minute. The sibyl can't voluntarily stop frenzying. While in a divine frenzy, the sibyl takes a –2 penalty to Perception checks and Will saves and gains a +2 status bonus to their spell DC and spell attack modifier. During a divine frenzy, the sibyl can't use actions with the concentrate trait unless they're Casting a Spell or Seeking.</p>\n<p>The frenzy lasts for 1 minute, until the sibyl falls @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, or the encounter ends, whichever comes first. The sibyl can't voluntarily end the frenzy.</p>",
+      "rules": {
+        "0": {
+          "text": "<p>During a divine frenzy, the sibyl can't use actions with the concentrate trait unless they're Casting a Spell or Seeking.</p>"
+        }
+      },
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Divine Weapon": {
       "name": "Effect: Divine Weapon",
@@ -674,10 +729,20 @@
       "description": "<p>Granted by Drain Luck.</p>\n<p>You must roll twice and take the worse result on all checks.</p>",
       "source": "Pathfinder #190: The Choosing"
     },
+    "Effect: Drain Vigor": {
+      "name": "Effect: Drain Vigor",
+      "description": "<p>The umbral dragon gains 20 temporary hit points.</p>",
+      "source": "Pathfinder Bestiary 2"
+    },
     "Effect: Drink Emotions": {
       "name": "Effect: Drink Emotions",
       "description": "<p>While excited, the unfeeling empath takes a –1 penalty to AC, gains a +1 status bonus to attack rolls, and deals an additional 1d4 mental damage with its melee Strikes.</p>",
       "source": "Pathfinder #193: Mantle of Gold"
+    },
+    "Effect: Drink Life": {
+      "name": "Effect: Drink Life",
+      "description": "<p>You gain 25 temporary HP.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
     },
     "Effect: Droning Wings": {
       "name": "Effect: Droning Wings",
@@ -693,6 +758,11 @@
       "name": "Effect: Dust Eternal",
       "description": "<p>Everything in the aura is @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}.</p>",
       "source": "Pathfinder Rage of Elements"
+    },
+    "Effect: Eat a Pickle": {
+      "name": "Effect: Eat a Pickle",
+      "description": "<p>You gain 4 temporary Hit Points.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Ectoplasmic Form (Physical)": {
       "name": "Effect: Ectoplasmic Form (Physical)",
@@ -748,6 +818,11 @@
       "description": "<p>Creatures with the animal trait gain a +1 status bonus to attack rolls, damage rolls, and saving throws. If the animals have the swarm trait, the saving throw DCs to resist their damaging actions gain a +1 status bonus. This bonus increases to +2 for allies whose level is 2 or lower.</p>",
       "source": "Pathfinder #201: Pactbreaker"
     },
+    "Effect: Extract Bones": {
+      "name": "Effect: Extract Bones",
+      "description": "<p>You gain 50 temporary HP.</p>",
+      "source": "Pathfinder #212: A Voice in the Blight"
+    },
     "Effect: Fan Bolt": {
       "name": "Effect: Fan Bolt",
       "description": "<p>The creature takes a -10-foot status penalty to its swim Speed.</p>",
@@ -755,8 +830,8 @@
     },
     "Effect: Fanatical Frenzy": {
       "name": "Effect: Fanatical Frenzy",
-      "description": "<p>The creature gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and takes a -2 status penalty to AC.</p>",
-      "source": "Pathfinder Gamemastery Guide"
+      "description": "<p>You gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls, and takes a -2 status penalty to AC.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Feast on Illness": {
       "name": "Effect: Feast on Illness",
@@ -800,7 +875,7 @@
     },
     "Effect: Fiddle": {
       "name": "Effect: Fiddle",
-      "description": "<p>A catchy fiddling tune compels the creature to dance about.</p>\n<p><strong>Failure</strong> Off-guard and -10-foot status penalty to Speeds<br /><strong>Critical Failure</strong> As failure, and also slowed 1</p>",
+      "description": "<p>A catchy fiddling tune compels the creature to dance about.</p>\n<p><strong>Failure</strong> Off-guard and -10-foot status penalty to Speeds</p>\n<p><strong>Critical Failure</strong> As failure, and also slowed 1</p>",
       "source": "Pathfinder Bestiary"
     },
     "Effect: Field of Past Regrets": {
@@ -842,6 +917,17 @@
       "description": "<p>While burning, a bakeneko's Strikes inflict an additional 1d6 fire damage.</p>",
       "source": "Pathfinder #197: Let the Leaves Fall"
     },
+    "Effect: Flesh Mutation": {
+      "name": "Effect: Flesh Mutation",
+      "badges": [
+        "Spongy Flesh",
+        "Caustic Blood",
+        "Sprouting Eyes",
+        "Mutated Mind"
+      ],
+      "description": "<p>You are affected by an effect according to the result.</p>\n<p><strong>1 Spongy Flesh</strong> The creature has weakness 5 to physical damage.</p>\n<p><strong>2 Caustic Blood</strong> The creature takes @Damage[2d4[persistent,acid]] damage that can't be removed normally, but ends when the mutation does.</p>\n<p><strong>3 Sprouting Eyes</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}, but also immune to flanking.</p>\n<p><strong>4 Mutated Mind</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused}. It can still recover as noted in the condition, but if it does it remains @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the mutation ends.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Focused Assault": {
       "name": "Effect: Focused Assault",
       "description": "<p>The creature deals additional damage based on the amount of longswords it wields.</p>",
@@ -851,6 +937,11 @@
       "name": "Effect: Fold Form",
       "description": "<p>The kinzaruk swiftly unfolds and refolds its body into a new shape chosen from the options of animal form. This grants it the movement Speeds and Strikes of the chosen form, but none of the other benefits. Its attack bonus is unchanged, and its damage bonus is +3.</p>",
       "source": "Pathfinder Rage of Elements"
+    },
+    "Effect: Follow Me": {
+      "name": "Effect: Follow Me",
+      "description": "<p>You gain a +2 circumstance bonus to Deception and Stealth checks.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Forgiven Defaced Naiad Queen's Thanks": {
       "name": "Effect: Forgiven Defaced Naiad Queen's Thanks",
@@ -952,6 +1043,16 @@
       "description": "<p>The creature's Speed is reduced by 10.</p>",
       "source": "Pathfinder Monster Core"
     },
+    "Effect: Guard's Parry (Guard)": {
+      "name": "Effect: Guard's Parry (Guard)",
+      "description": "<p>The palace guard gains a +2 circumstance bonus to attack and damage rolls until the end of their next turn.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "Effect: Guard's Parry (Liege)": {
+      "name": "Effect: Guard's Parry (Liege)",
+      "description": "<p>The liege gains a +2 circumstance bonus to AC against the triggering attack.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Guardian's Aegis": {
       "name": "Effect: Guardian's Aegis",
       "description": "<p>The creature gains a +1 status bonus to saves against magical effects. The bonus increases to +2 if the effect originated from a demon or other chaotic evil fiend.</p>",
@@ -959,8 +1060,8 @@
     },
     "Effect: Guide's Warning": {
       "name": "Effect: Guide's Warning",
-      "description": "<p>You gain a +1 circumstance bonus to initiative rolls.</p>",
-      "source": "Pathfinder Gamemastery Guide"
+      "description": "<p>You gain a +1 circumstance bonus to your initiative roll (+2 if the guide also benefits from <a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.pf2e.actionspf2e.Item.kV3XM0YJeS2KCSOb\" data-id=\"kV3XM0YJeS2KCSOb\" data-type=\"Item\" data-pack=\"pf2e.actionspf2e\" data-tooltip=\"Ability Item\">Scout</a>).</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Guiding Words": {
       "name": "Effect: Guiding Words",
@@ -1053,6 +1154,11 @@
       "description": "<p>The creature takes a -2 circumstance penalty to Survival checks to avoid getting lost.</p>",
       "source": "Pathfinder Monster Core"
     },
+    "Effect: Hunter's Onslaught": {
+      "name": "Effect: Hunter's Onslaught",
+      "description": "<p>You become fascinated by the marked creature and you gain 10 temporary Hit Points that last as long as the onslaught does. You gain a +8 status bonus to damage rolls against the marked enemy, and allies in a 30-foot aura around the hunter gain half that bonus.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Hurl Net": {
       "name": "Effect: Hurl Net",
       "description": "<p>The creature takes a -10-foot circumstance penalty to its Speeds.</p>",
@@ -1083,6 +1189,26 @@
       "description": "<p>The creature takes a -1 penalty to attack rolls, skill checks, and saving throws while within the ill omen aura and becomes immune to fortune effects for 1 day.</p>",
       "source": "Pathfinder #153: Life's Long Shadows"
     },
+    "Effect: Imbue Righteousness": {
+      "name": "Effect: Imbue Righteousness",
+      "description": "<p>Your strikes with that weapon gain the holy trait and deal an additional 1d6 spirit damage to unholy creatures.</p>",
+      "rules": {
+        "0": {
+          "choices": {
+            "0": {
+              "label": "Cold Iron Elven Branched Spear"
+            },
+            "1": {
+              "label": "Composite Shortbow"
+            },
+            "2": {
+              "label": "Fist"
+            }
+          }
+        }
+      },
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Impaling Chain": {
       "name": "Effect: Impaling Chain",
       "description": "<p>The target is impaled and anchored in place, becoming grabbed by the chain. The creature is unable to recover from persistent bleed damage until it gets free.</p>",
@@ -1111,7 +1237,7 @@
     "Effect: Inspirational Presence": {
       "name": "Effect: Inspirational Presence",
       "description": "<p>Any of the teacher's students in the aura gains a +1 circumstance bonus to @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge}.</p>",
-      "source": "Pathfinder Gamemastery Guide"
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Inspire Courage (Love Siktempora)": {
       "name": "Effect: Inspire Courage (Love Siktempora)",
@@ -1136,12 +1262,17 @@
     "Effect: Inspired Feast": {
       "name": "Effect: Inspired Feast",
       "description": "<p>The creature gains a +1 status bonus to attack rolls and a +2 status bonus to damage rolls.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Inspired Recitation": {
       "name": "Effect: Inspired Recitation",
       "description": "<p>All allies within 60 feet gain a +1 status bonus to saving throws and 10 temporary Hit Points for 1 minute.</p>",
       "source": "Pathfinder Adventure: The Enmity Cycle"
+    },
+    "Effect: Inspiring Aura": {
+      "name": "Effect: Inspiring Aura",
+      "description": "<p>You gain a +1 status bonus to initiative rolls and saves against fear effects.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Inspiring Display": {
       "name": "Effect: Inspiring Display",
@@ -1188,9 +1319,19 @@
       "description": "<p>The target gains 10 temporary Hit Points.</p>",
       "source": "Pathfinder #188: They Watched the Stars"
     },
+    "Effect: Keep Up With Me!": {
+      "name": "Effect: Keep Up With Me!",
+      "description": "<p>You gain a +3 status bonus to their attack roll on the next Strike you make, or to the DC of your next offensive ability if you're a troop.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Kharna's Blessing": {
       "name": "Effect: Kharna's Blessing",
       "source": "Pathfinder #162: Ruins of the Radiant Siege"
+    },
+    "Effect: Kingpin's Presence": {
+      "name": "Effect: Kingpin's Presence",
+      "description": "<p>Allies in the aura gain a +2 status bonus to saving throws against mental effects.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Lantern of Hope": {
       "name": "Effect: Lantern of Hope",
@@ -1282,6 +1423,11 @@
       "description": "<p>The affected creature can roll twice on one d20 roll within the next day and use the higher result.</p>",
       "source": "Pathfinder #182: Graveclaw"
     },
+    "Effect: Mark of Fate": {
+      "name": "Effect: Mark of Fate",
+      "description": "<p>A creature that slays the deific vessel is visibly marked as anathema to Urgathoa. It gains weakness 10 to unholy and takes a –2 circumstance penalty to Charisma-based skill checks against followers of Urgathoa. Creatures attempting to @UUID[Compendium.pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Gather Information} about or @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{Track} the marked creature gain a +2 circumstance bonus to their checks.</p>\n<p>The mark can't be hidden and can be removed only by participating in an atone ritual led by a worshipper of Urgathoa who is 12th level or higher.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Metallify": {
       "name": "Effect: Metallify",
       "description": "<p>The ooze gains resistance 5 to physical damage (except adamantine), it has a -5-foot penalty to its Speed, and its pseudopod Strikes gain the versatile S or P weapon trait.</p>",
@@ -1292,6 +1438,11 @@
       "description": "<p>Creatures in the aura are concealed.</p>",
       "source": "Pathfinder Bestiary 2"
     },
+    "Effect: Monologue": {
+      "name": "Effect: Monologue",
+      "description": "<p>You gain a +1 status bonus to Will saves and a +2 status bonus to damage rolls with their spells. Each time they take this action again, the bonuses increase by 1 and 2 respectively.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Moon Frenzy": {
       "name": "Effect: Moon Frenzy",
       "description": "<p>The creature becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws Strike (or a similar Strike) by 2.</p>",
@@ -1300,7 +1451,7 @@
     "Effect: Mortal Reflection": {
       "name": "Effect: Mortal Reflection",
       "description": "<p>The imperfect automaton draws upon the target's emotions to recall a semblance of mortal feeling, gaining a +5-foot status bonus to its Speed for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Effect: Motivating Assault": {
       "name": "Effect: Motivating Assault",
@@ -1327,6 +1478,11 @@
       "description": "<p>The creature sheds dim light in a 10-foot emanation.</p>",
       "source": "Pathfinder Bestiary 3"
     },
+    "Effect: Natural Disguise": {
+      "name": "Effect: Natural Disguise",
+      "description": "<p>You gain a +2 item bonus to Stealth checks while in a natural environment until your next daily preparations or until its disguise is ruined, whichever comes first.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Nature's Infusion": {
       "name": "Effect: Nature's Infusion",
       "description": "<p>The blodeuwedd gains 15 temporary Hit Points.</p>",
@@ -1346,6 +1502,11 @@
       "name": "Effect: Necrotic Field",
       "description": "<p>Undead within the aura deal an additional @Damage[1d6[void]] damage with their natural attacks.</p>",
       "source": "Pathfinder #148: Fires of the Haunted City"
+    },
+    "Effect: No Fight Fair": {
+      "name": "Effect: No Fight Fair",
+      "description": "<p>You a –5-foot status penalty to its speed (–10-foot on a critical hit) until the creature regains any amount of Hit Points.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: No Quarter!": {
       "name": "Effect: No Quarter!",
@@ -1371,6 +1532,11 @@
       "name": "Effect: Oceanic Armor",
       "description": "<p>The creature gains a +2 circumstance bonus to AC.</p>",
       "source": "Pathfinder Bestiary 3"
+    },
+    "Effect: On Guard": {
+      "name": "Effect: On Guard",
+      "description": "<p>You gain a +2 circumstance bonus to your initiative roll.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Overdrive Engine": {
       "name": "Effect: Overdrive Engine",
@@ -1404,6 +1570,11 @@
       "name": "Effect: Partial Armor",
       "description": "<p>Ephemeral effect</p>\n<p>Strikes made with ranged or reach weapons gain a +1 circumstance bonus to attack rolls against Marguk.</p>",
       "source": "Pathfinder #208: Hoof, Cinder, and Storm"
+    },
+    "Effect: Perfect Formation": {
+      "name": "Effect: Perfect Formation",
+      "description": "<p>The troop gains a +2 item bonus to AC and a +2 status bonus to Reflex saves.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Pest Haven": {
       "name": "Effect: Pest Haven",
@@ -1447,6 +1618,11 @@
     "Effect: Pollution Infusion": {
       "name": "Effect: Pollution Infusion",
       "source": "Pathfinder #162: Ruins of the Radiant Siege"
+    },
+    "Effect: Posse's Edge": {
+      "name": "Effect: Posse's Edge",
+      "description": "<p>You gain a +1 circumstance bonus on initiative rolls.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Powder Burst": {
       "name": "Effect: Powder Burst",
@@ -1507,6 +1683,10 @@
       "description": "<p>The creature takes a -5-foot status penalty to its Speeds.</p>",
       "source": "Pathfinder Bestiary 3"
     },
+    "Effect: Queen's Presence": {
+      "name": "Effect: Queen's Presence",
+      "description": "<p>You gain a +2 status bonus to saving throws against emotion effects.</p>"
+    },
     "Effect: Quicken the Rot": {
       "name": "Effect: Quicken the Rot",
       "description": "<p>You gain 30 Temporary Hit Points.</p>",
@@ -1557,6 +1737,11 @@
       "description": "<p>The creature takes a permanent -4 status penalty to Charisma checks and Charisma-based skill checks. This penalty can be removed only if the victim recovers its face and has a @UUID[Compendium.pf2e.spells-srd.Item.SnaLVgxZ9ryUFmUr]{Restoration} spell cast on it.</p>",
       "source": "Pathfinder #154: Siege of the Dinosaurs"
     },
+    "Effect: Repentant Defiance": {
+      "name": "Effect: Repentant Defiance",
+      "description": "<p>The penitent then gains resistance 3 to physical damage until the start of their next turn.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Replenishment of War (Endlo)": {
       "name": "Effect: Replenishment of War (Endlo)",
       "description": "<p>When Endlo damages a creature with a greatsword Strike, he gains 6 temporary Hit Points until the start of his next turn. If the Strike was a critical hit, he instead gains 12 temporary Hit Points.</p>",
@@ -1592,6 +1777,11 @@
       "description": "<p>The affected creature takes a -10-foot circumstance penalty to its movement speeds for 1 round.</p>",
       "source": "Pathfinder Society Scenario #3-10: Delve the Pallid Depths"
     },
+    "Effect: Root in Place": {
+      "name": "Effect: Root in Place",
+      "description": "<p>You gain a +1 circumstance bonus to AC and 2 temporary Hit Points.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Rope Snare": {
       "name": "Effect: Rope Snare",
       "description": "<p>The creature takes a 10-foot circumstance penalty to Speed.</p>",
@@ -1626,6 +1816,11 @@
       "name": "Effect: Sanguine Rain",
       "description": "<p>A creature that benefits from consuming blood (such as bloodseekers or vampires) gains fast healing 10 while in the area.</p>",
       "source": "Pathfinder #155: Lord of the Black Sands"
+    },
+    "Effect: Scent of Blood": {
+      "name": "Effect: Scent of Blood",
+      "description": "<p>You 10 temporary HP and a +4 status bonus to damage rolls with your unarmed attacks, but become Off-Guard.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Scraping Clamor": {
       "name": "Effect: Scraping Clamor",
@@ -1672,6 +1867,11 @@
       "description": "<p>The creature takes a status penalty to its Speeds based on its save result.</p>",
       "source": "Pathfinder Bestiary 3"
     },
+    "Effect: Shields Up!": {
+      "name": "Effect: Shields Up!",
+      "description": "<p>You gain a +2 circumstance bonus to AC and Reflex saves.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Silent Aura": {
       "name": "Effect: Silent Aura",
       "description": "<p>A silent stalker makes no sound, preventing creatures from noticing them using hearing or a similar sense alone. This silence stops all sound within it or passing through. The silent stalker and all creatures in the aura can't use sonic attacks or actions that have the auditory trait; this prevents creatures from casting spells with verbal components or activating items with command components.</p>",
@@ -1712,6 +1912,11 @@
       },
       "source": "Pathfinder Bestiary"
     },
+    "Effect: Solidarity": {
+      "name": "Effect: Solidarity",
+      "description": "<p>While leading a demonstration, the union organizer grants themself and their allies a +1 circumstance bonus to saving throws against fatigue and mental effects.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Song of Freedom": {
       "name": "Effect: Song of Freedom",
       "description": "<p>The troop's Will saves increase to +29 against all mental effects.</p>",
@@ -1741,6 +1946,16 @@
       "name": "Effect: Soul Siphon",
       "description": "<p>The creature gains 5 temporary Hit Points and a +1 status bonus to attack and damage rolls.</p>",
       "source": "Pathfinder Monster Core"
+    },
+    "Effect: Spear Parry": {
+      "name": "Effect: Spear Parry",
+      "description": "<p>You gain a +1 circumstance bonus to AC until the start of their next turn.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "Effect: Spill Secrets": {
+      "name": "Effect: Spill Secrets",
+      "description": "<p>You gain a +1 circumstance bonus to AC and saving throws against the marked creature.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Spiritual Warden": {
       "name": "Effect: Spiritual Warden",
@@ -1772,10 +1987,24 @@
       "description": "<p>Plant creatures gain 5 temporary Hit Points.</p>",
       "source": "Pathfinder Howl of the Wild"
     },
+    "Effect: Stay Strong!": {
+      "name": "Effect: Stay Strong!",
+      "description": "<p>The allied animal gains a +1 circumstance bonus to the save.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "Effect: Stay in the Fight!": {
+      "name": "Effect: Stay in the Fight!",
+      "description": "<p>You gain 10 temporary Hit Points.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Stench": {
       "name": "Effect: Stench",
       "description": "<p>The creature takes a -2 circumstance penalty to saves against disease and to recover from the @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened} condition.</p>",
       "source": "Pathfinder Bestiary"
+    },
+    "Effect: Steward of the Faithful": {
+      "name": "Effect: Steward of the Faithful",
+      "description": "<p>Each ally in the aura who worships Pharasma gains resistance 5 to void and a +1 status bonus to Will saves, Diplomacy checks, and Medicine checks.</p>"
     },
     "Effect: Stick a Fork in It": {
       "name": "Effect: Stick a Fork in It",
@@ -1786,6 +2015,11 @@
       "name": "Effect: Sticky Spores",
       "description": "<p>The creature takes a -10-foot status penalty to all its Speeds.</p>",
       "source": "Pathfinder Monster Core"
+    },
+    "Effect: Still Got It!": {
+      "name": "Effect: Still Got It!",
+      "description": "<p>The retired creature gains temporary Hit Points equal to its level that last until the end of the encounter. The retired creature also suppresses the effects of being rusty until the end of the encounter.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Sting of the Lash": {
       "name": "Effect: Sting of the Lash",
@@ -1806,6 +2040,11 @@
       "name": "Effect: Stoke the Fervent (High Tormentor)",
       "description": "<p>Each ally that hears the call gains a +4 status bonus to attack rolls and damage rolls, a +2 status bonus to saving throws, and takes a -2 status penalty to AC. Affected allies must use at least one of their actions to Strike each round, if they are able (even if it means attacking an ally, object, or thin air).</p>\n<p><em>The effect duration has been set to the average duration of [[/gmr 2d4 #rounds]]{2d4 rounds}. Set the duration to the correct value when the effect is added.</em></p>",
       "source": "Pathfinder #155: Lord of the Black Sands"
+    },
+    "Effect: Super Qi Blast": {
+      "name": "Effect: Super Qi Blast",
+      "description": "<p>The grandmaster's body expands as it prepares to exude an unfathomable amount of qi. If the grandmaster's next action is to cast the two-action version of qi blast, the size of the cone increases to 120 feet and the damage increases to 16d6. The grandmaster also becomes one size category larger for the next minute, dealing an additional +9 damage with their melee Strikes. Additionally, the grandmaster is permanently @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}. This drained condition is cumulative.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Surge Forward": {
       "name": "Effect: Surge Forward",
@@ -1846,12 +2085,12 @@
     "Effect: Swell": {
       "name": "Effect: Swell",
       "description": "<p>The creature grows to Huge size, and its reach increases to 15 feet. It also gains 12 temporary Hit Points, resistance 5 to bludgeoning, and a +2 status bonus to damage rolls</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Effect: Swig": {
       "name": "Effect: Swig",
-      "description": "<p>The dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear, but they become clumsy 1.</p>",
-      "source": "Pathfinder Gamemastery Guide"
+      "description": "<p>The dockhand gains a +2 item bonus to melee damage rolls and saving throws against fear but is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Sylvan Wine": {
       "name": "Effect: Sylvan Wine",
@@ -1862,6 +2101,15 @@
       "name": "Effect: Sylvan Wine (Horned Hunter)",
       "description": "<p>The creature gains a +3 item bonus to Will saves.</p>",
       "source": "Pathfinder Kingmaker"
+    },
+    "Effect: Symbol of Loyalty": {
+      "name": "Effect: Symbol of Loyalty",
+      "description": "<p>Allies in the aura who are 14th level and lower and are loyal to the grand inquisitor's cause get a +3 status bonus to Will saves.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "Effect: Tactical Command": {
+      "name": "Effect: Tactical Command",
+      "description": "<p>The creature gains a +2 status bonus to their Strike if the veteran noble has dealt with that creature or an organization that creature belongs to before, as the veteran offers hard-earned tactical advice.</p>"
     },
     "Effect: Tail Lash": {
       "name": "Effect: Tail Lash",
@@ -1943,6 +2191,11 @@
       "description": "<p>Living creatures are frightened 2 while in an utter despair aura. They can't naturally recover from this fear while in the area but lose the frightened condition immediately upon leaving the area.</p>",
       "source": "Pathfinder #155: Lord of the Black Sands"
     },
+    "Effect: Vamollaroth Stench": {
+      "name": "Effect: Vamollaroth Stench",
+      "description": "<p>The creature takes a -2 circumstance penalty to saves against poison and to recover from the @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened} condition.</p>",
+      "source": "Pathfinder Bestiary"
+    },
     "Effect: Vengeful Fibers": {
       "name": "Effect: Vengeful Fibers",
       "description": "<p>The target takes a –10-foot circumstance penalty to Speed</p>",
@@ -1952,6 +2205,10 @@
       "name": "Effect: Vent Energy",
       "description": "<p>The hadrinnex's weapon arm strikes deal an extra 2d6 energy damage according to the damage type in the energy gland.</p>",
       "source": "Pathfinder Bestiary 3"
+    },
+    "Effect: Verdant Aria": {
+      "name": "Effect: Verdant Aria",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Vicious Bluster": {
       "name": "Effect: Vicious Bluster",
@@ -1997,6 +2254,11 @@
       "name": "Effect: Wallow",
       "description": "<p>The war pig gains temporary hit points.</p>",
       "source": "Pathfinder #208: Hoof, Cinder, and Storm"
+    },
+    "Effect: War Cry": {
+      "name": "Effect: War Cry",
+      "description": "<p>You gain an additional 1d6 damage with its Strikes.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: War Leader": {
       "name": "Effect: War Leader",
@@ -2068,15 +2330,30 @@
       "description": "<p>The creature takes a -5-foot status penalty to its Speeds.</p>",
       "source": "Pathfinder Bestiary"
     },
+    "Effect: You'll Pay for That": {
+      "name": "Effect: You'll Pay for That",
+      "description": "<p>The kingpin issues a vendetta against the enemy. Each of the kingpin's allies who hears the command gains a +5 status bonus to their next damage roll against that enemy.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "Effect: You'll Pay for That (Damage)": {
+      "name": "Effect: You'll Pay for That (Damage)",
+      "description": "<p>The kingpin issues a vendetta against the enemy. Each of the kingpin's allies who hears the command gains a +5 status bonus to their next damage roll against that enemy.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "Effect: Zinba Restoration": {
       "name": "Effect: Zinba Restoration",
       "description": "<p>The creature gains fast healing 5 for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Spell Effect: Courageous Anthem (Kanya)": {
       "name": "Spell Effect: Courageous Anthem (Kanya)",
       "description": "<p>Granted by a Kanya's @UUID[Compendium.pf2e.spells-srd.Item.IAjvwqgiDr3qGYxY]{Courageous Anthem}</p>\n<p>You gain a +2 status bonus to attack rolls, damage rolls, and saves against fear effects.</p>",
       "source": "Pathfinder Monster Core"
+    },
+    "Stance: Hunter's Precision": {
+      "name": "Stance: Hunter's Precision",
+      "description": "<p>Your Strikes deal an additional 2d8 precision damage, and the range increment for your ranged weapon Strikes is 20 feet longer than normal. On a critical hit, the target also takes 2d6 persistent bleed damage.</p>",
+      "source": "Pathfinder NPC Core"
     }
   },
   "mapping": {

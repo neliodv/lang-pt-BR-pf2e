@@ -1909,7 +1909,7 @@
       "tokenName": "Fumbus",
       "items": {
         "background->Pathfinder Hopeful": {
-          "source": "Pathfinder Lost Omens: World Guide"
+          "source": "Pathfinder Lost Omens World Guide"
         },
         "feat->Additional Lore": {
           "source": "Pathfinder Player Core"
@@ -2031,7 +2031,7 @@
       "tokenName": "Fumbus",
       "items": {
         "background->Pathfinder Hopeful": {
-          "source": "Pathfinder Lost Omens: World Guide"
+          "source": "Pathfinder Lost Omens World Guide"
         },
         "feat->Additional Lore": {
           "source": "Pathfinder Player Core"
@@ -2174,7 +2174,7 @@
       "tokenName": "Fumbus",
       "items": {
         "background->Pathfinder Hopeful": {
-          "source": "Pathfinder Lost Omens: World Guide"
+          "source": "Pathfinder Lost Omens World Guide"
         },
         "feat->Additional Lore": {
           "source": "Pathfinder Player Core"
@@ -2248,6 +2248,7 @@
           "source": "Pathfinder GM Core"
         },
         "weapon->Frost Vial (Moderate)": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]\n<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Strike</p>\n<hr />\n<p>The bright blue liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn.</p>\n<p>You gain a +1 item bonus to attack rolls, the bomb deals 2d6 cold damage and 2 cold splash damage, and the target takes a -10-foot penalty.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial}</p>",
           "source": "Pathfinder Player Core 2"
         },
         "heritage->Charhide Goblin": {
@@ -3788,7 +3789,7 @@
           "source": "Pathfinder Player Core 2"
         },
         "spell->Charged Javelin": {
-          "source": "Pathfinder Lost Omens: Gods & Magic",
+          "source": "Pathfinder Lost Omens Gods & Magic",
           "target": "1 or more creatures"
         }
       }
@@ -6203,6 +6204,7 @@
           "source": "Pathfinder GM Core"
         },
         "consumable->Eagle Eye Elixir (Lesser)": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.7Y2yOr4ltpP2tyuL]\n<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p>\n<hr />\n<p>After you drink this elixir, you notice subtle visual details. For the next hour, you gain a +1 item bonus to Perception checks, or +2 when attempting to find secret doors and traps.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.VOSQ77DV4BnAkP7m]{Effect: Eagle Eye Elixir}</p>",
           "source": "Pathfinder GM Core"
         },
         "treasure->Bowling Stone": {
@@ -6357,6 +6359,7 @@
           "source": "Pathfinder GM Core"
         },
         "consumable->Eagle Eye Elixir (Lesser)": {
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.7Y2yOr4ltpP2tyuL]\n<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p>\n<hr />\n<p>After you drink this elixir, you notice subtle visual details. For the next hour, you gain a +1 item bonus to Perception checks, or +2 when attempting to find secret doors and traps.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.VOSQ77DV4BnAkP7m]{Effect: Eagle Eye Elixir}</p>",
           "source": "Pathfinder GM Core"
         },
         "treasure->Bowling Stone": {
@@ -9486,7 +9489,7 @@
         },
         "equipment->Doll (Gom-Gom)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.ZPFDfWPmWLPUJeW1]\nDoll (Gom-Gom)",
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "equipment->Flint and Steel": {
           "source": "Pathfinder Player Core"
@@ -9603,7 +9606,7 @@
         },
         "equipment->Doll (Gom-Gom)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.ZPFDfWPmWLPUJeW1]\nDoll (Gom-Gom)",
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "equipment->Flint and Steel": {
           "source": "Pathfinder Player Core"
@@ -9744,7 +9747,7 @@
         },
         "equipment->Doll (Gom-Gom)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.ZPFDfWPmWLPUJeW1]\nDoll (Gom-Gom)",
-          "source": "Pathfinder Lost Omens: The Grand Bazaar"
+          "source": "Pathfinder Lost Omens The Grand Bazaar"
         },
         "equipment->Flint and Steel": {
           "source": "Pathfinder Player Core"

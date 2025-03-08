@@ -79,7 +79,7 @@
     "Effect: Aeon Stone Resonance (Pearly White Spindle)": {
       "name": "Effect: Aeon Stone Resonance (Pearly White Spindle)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.4A8SFipG78SMWQEU]{Aeon Stone (Pearly White Spindle)}</p>\n<p>The resonant power grants you resistance 1 to void damage.</p>",
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Alchemist Goggles": {
       "name": "Effect: Alchemist Goggles",
@@ -159,17 +159,17 @@
     "Effect: Applereed Mutagen (Greater)": {
       "name": "Effect: Applereed Mutagen (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.vTEWlRBUD4VzVwxK]{Applereed Mutagen (Greater)}</p>\n<p><strong>Benefit</strong> You gain a +4 item bonus to Athletics checks and you gain a +20 foot status bonus to your Speed. In addition, you grow one size larger, but your larger size does not have any additional effects beyond the potential change in space.</p>\n<p><strong>Drawback</strong> You take a -1 penalty to AC and a -2 penalty to Reflex saves.</p>",
-      "source": "Pathfinder Lost Omens: Legends"
+      "source": "Pathfinder Lost Omens Legends"
     },
     "Effect: Applereed Mutagen (Lesser)": {
       "name": "Effect: Applereed Mutagen (Lesser)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.0RTsyWutvO42O0zK]{Applereed Mutagen (Lesser)}</p>\n<p><strong>Benefit</strong> You gain a +2 item bonus to Athletics checks and you gain a +10 foot status bonus to your Speed. In addition, you grow one size larger, but your larger size does not have any additional effects beyond the potential change in space.</p>\n<p><strong>Drawback</strong> You take a -1 penalty to AC and a -2 penalty to Reflex saves.</p>",
-      "source": "Pathfinder Lost Omens: Legends"
+      "source": "Pathfinder Lost Omens Legends"
     },
     "Effect: Applereed Mutagen (Moderate)": {
       "name": "Effect: Applereed Mutagen (Moderate)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.8e37h6HBr4ZyBSGt]{Applereed Mutagen (Moderate)}</p>\n<p><strong>Benefit</strong> You gain a +3 item bonus to Athletics checks and you gain a +15 foot status bonus to your Speed. In addition, you grow one size larger, but your larger size does not have any additional effects beyond the potential change in space.</p>\n<p><strong>Drawback</strong> You take a -1 penalty to AC and a -2 penalty to Reflex saves.</p>",
-      "source": "Pathfinder Lost Omens: Legends"
+      "source": "Pathfinder Lost Omens Legends"
     },
     "Effect: Apricot of Bestial Might": {
       "name": "Effect: Apricot of Bestial Might",
@@ -380,7 +380,7 @@
     "Effect: Boulderhead Bock": {
       "name": "Effect: Boulderhead Bock",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.I0eUrgVGl8a2ZjFc]{Boulderhead Bock}.</p>\n<p>You gain a +1 item bonus to saving throws against effects that would make you stunned or stupefied.</p>\n<p>You take a -2 item penalty to Perception checks.</p>",
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Bracelet of Dashing": {
       "name": "Effect: Bracelet of Dashing",
@@ -410,7 +410,7 @@
     "Effect: Brewer's Regret": {
       "name": "Effect: Brewer's Regret",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.MlzPOG2v9bO4XoLg]{Brewer's Regret}, @UUID[Compendium.pf2e.equipment-srd.Item.RN8TnAhWQ4tNKHgP]{Brewer's Regret (Greater)}</p>\n<p>You gain an item bonus to saves against death and void effects.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Bronze Bull Pendant": {
       "name": "Effect: Bronze Bull Pendant",
@@ -420,7 +420,7 @@
     "Effect: Call Upon Razmir's Benevolence": {
       "name": "Effect: Call Upon Razmir's Benevolence",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.UaOrOGrjcXgSeBvr]{Razmiri Mask}</p>\n<p>You gain a number of temporary Hit Points equal to twice the origin's level.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Cape of Justice (Distracted)": {
       "name": "Effect: Cape of Justice (Distracted)",
@@ -555,12 +555,12 @@
     "Effect: Cloud Buns": {
       "name": "Effect: Cloud Buns",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.NZDZzVgW2Pu8blar]{Cloud Buns}</p>\n<p>You gain a fly Speed of 30 feet or your speed, whichever is lower.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Cloud Buns (Greater)": {
       "name": "Effect: Cloud Buns (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.TioBntQv3VAnS7Wb]{Cloud Buns (Greater)}</p>\n<p>You gain a fly Speed of 30 feet or your speed, whichever is lower.</p>\n<p>You also gain a +2 item bonus to Acrobatics checks to Maneuver in Flight.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Codex of Destruction and Renewal": {
       "name": "Effect: Codex of Destruction and Renewal",
@@ -595,17 +595,17 @@
     "Effect: Cold Iron Blanch (Greater)": {
       "name": "Effect: Cold Iron Blanch (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.WXnGIl4d62detRlf]{Cold Iron Blanch (Greater)}</p>\n<p>The weapon or ammunition counts as cold iron instead of its normal precious material (such as silver) for any physical damage it deals, if applicable.</p>",
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Cold Iron Blanch (Lesser)": {
       "name": "Effect: Cold Iron Blanch (Lesser)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.cImNgwDCqwa6Dil1]{Cold Iron Blanch (Lesser)}</p>\n<p>The weapon or ammunition counts as cold iron instead of its normal precious material (such as silver) for any physical damage it deals, if applicable.</p>",
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Cold Iron Blanch (Moderate)": {
       "name": "Effect: Cold Iron Blanch (Moderate)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.jnCP2zYJamUeZsJC]{Cold Iron Blanch (Moderate)}</p>\n<p>The weapon or ammunition counts as cold iron instead of its normal precious material (such as silver) for any physical damage it deals, if applicable.</p>",
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Command Bravery": {
       "name": "Effect: Command Bravery",
@@ -615,7 +615,7 @@
     "Effect: Conduct Energy": {
       "name": "Effect: Conduct Energy",
       "description": "<p>Granted by @UUID[Compendium.pf2e.actionspf2e.Item.BKnN9la3WNrRgZ6n]{Conduct Energy}</p>\n<p>The weapon deals 1 additional damage per weapon damage die. This damage type matches the trait of the triggering action or spell.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Containment Contraption": {
       "name": "Effect: Containment Contraption",
@@ -650,12 +650,12 @@
     "Effect: Crushing": {
       "name": "Effect: Crushing",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.JY8X4RSfg6xIqAC9]{Crushing}</p>\n<p>When you critically hit a target with this weapon, your target becomes clumsy 1 and enfeebled 1 until the end of your next turn.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Crushing (Greater)": {
       "name": "Effect: Crushing (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.t6SSQYruLsDWj5Tl]{Crushing (Greater)}</p>\n<p>When you critically hit a target with this weapon, your target becomes clumsy 2 and enfeebled 2 until the end of your next turn.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Crystal Shards": {
       "name": "Effect: Crystal Shards",
@@ -735,12 +735,12 @@
     "Effect: Demon Dust (Stage 1)": {
       "name": "Effect: Demon Dust (Stage 1)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.ZROIWl7TLxKbPDLr]{Demon Dust}</p>\n<p>You gain a +2 item bonus to Athletics checks</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Demon Dust (Stage 2)": {
       "name": "Effect: Demon Dust (Stage 2)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.ZROIWl7TLxKbPDLr]{Demon Dust}</p>\n<p>You gain a +2 item bonus to Athletics checks</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Demon's Knot": {
       "name": "Effect: Demon's Knot",
@@ -785,12 +785,12 @@
     "Effect: Dragon Chill": {
       "name": "Effect: Dragon Chill",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.8YijFaakOFWjddJO]{Frost Fair Yanyuedao}</p>\n<p>The <em>Frost Fair Yanyuedao</em> gains the effects of a <em>greater frost</em> rune.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Dragon Pearl": {
       "name": "Effect: Dragon Pearl",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.g6agII64qc6wuSiP]{Dragon Pearl}</p>\n<p>You gain resistance 15 to void damage, and your unarmed attacks deal an additional 1d6 points of vitality damage on a successful Strike.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Dragon Throat Scale": {
       "name": "Effect: Dragon Throat Scale",
@@ -805,12 +805,12 @@
     "Effect: Dragon's Blood Pudding": {
       "name": "Effect: Dragon's Blood Pudding",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.fzAkwYDi8sXWfCNu]{Dragon's Blood Pudding (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.QrjeT3xBssyjvEHQ]{Dragon's Blood Pudding (Greater)}</p>\n<p>You are quickened. You can use the additional action to Step, Stride, Strike, or Demoralize. You gain an item bonus to Intimidation checks to Demoralize.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Dragon's Blood Pudding (Major)": {
       "name": "Effect: Dragon's Blood Pudding (Major)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.kUvjWSGWpwBvTVax]{Dragon's Blood Pudding (Major)}</p>\n<p>You are quickened. You can use the additional action to Step, Stride, Strike, or Demoralize. You gain a +4 item bonus to Intimidation checks to Demoralize.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Dragon's Eye Charm": {
       "name": "Effect: Dragon's Eye Charm",
@@ -825,7 +825,7 @@
     "Effect: Dragonfly Potion": {
       "name": "Effect: Dragonfly Potion",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.82f7CTK0HxvitMLP]{Dragonfly Potion}</p>\n<p>You gain a fly Speed equal to your land Speed, low-light vision and a +2 item bonus to visual Perception checks.</p>\n<p>You can't be flanked except by creatures higher level than you are (though lower-level creatures can still help their higher-level allies flank).</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Dragonscale Amulet": {
       "name": "Effect: Dragonscale Amulet",
@@ -852,40 +852,30 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.xY2MogTwH9Fd8UPG]{Drakeheart Mutagen (Moderate)}</p>\n<p><strong>Benefit</strong> You gain +5 item bonus to AC, a Dexterity cap of +2, and a +2 item bonus to Perception checks.</p>\n<p><strong>Drawback</strong> You take a -1 penalty to Will saves, Reflex saves, and all skill checks to Recall Knowledge.</p>",
       "source": "Pathfinder Player Core 2"
     },
+    "Effect: Drop of Convergent Waters": {
+      "name": "Effect: Drop of Convergent Waters",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.3XVNEpLdHIdQ8IYq]{Drop of Convergent Waters}</p>\n<p>Choose an attack. It gains the magical, reach and water traits, and takes no penalties for being used underwater.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Effect: Drowsy Sun Eye Drops": {
       "name": "Effect: Drowsy Sun Eye Drops",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.aUzX848Ygqicy2qs]{Drowsy Sun Eye Drops}</p>\n<p>You gain darkvision to a range of 30 feet.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide"
+      "source": "Pathfinder Lost Omens Travel Guide"
     },
     "Effect: Dueling Cape": {
       "name": "Effect: Dueling Cape",
       "description": "<p>Granted by using @UUID[Compendium.pf2e.equipment-srd.Item.DA3HgyEBGEbtRNOo]{Dueling Cape}</p>\n<p>You a +1 circumstance bonus to AC and to Deception checks to Feint.</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
-    "Effect: Eagle Eye Elixir (Greater)": {
-      "name": "Effect: Eagle Eye Elixir (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.xWCdsGSwLLTeX6tQ]{Eagle Eye Elixir (Greater)}</p>\n<p>You gain a +3 item bonus to Perception checks, or +4 when attempting to find secret doors and traps.</p>",
-      "source": "Pathfinder GM Core"
-    },
-    "Effect: Eagle Eye Elixir (Lesser)": {
-      "name": "Effect: Eagle Eye Elixir (Lesser)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.7Y2yOr4ltpP2tyuL]{Eagle Eye Elixir (Lesser)}</p>\n<p>You gain a +1 item bonus to Perception checks, or +2 when attempting to find secret doors and traps.</p>",
-      "source": "Pathfinder GM Core"
-    },
-    "Effect: Eagle Eye Elixir (Major)": {
-      "name": "Effect: Eagle Eye Elixir (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.kicNrnZz1KjJYRVI]{Eagle Eye Elixir (Major)}</p>\n<p>You gain a +3 item bonus to Perception checks, or +4 when attempting to find secret doors and traps.</p>",
-      "source": "Pathfinder GM Core"
-    },
-    "Effect: Eagle Eye Elixir (Moderate)": {
-      "name": "Effect: Eagle Eye Elixir (Moderate)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lPcnDlBGz5QwCMYw]{Eagle Eye Elixir (Moderate)}</p>\n<p>You gain a +2 item bonus to Perception checks, or +3 when attempting to find secret doors and traps.</p>",
+    "Effect: Eagle Eye Elixir": {
+      "name": "Effect: Eagle Eye Elixir",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.7Y2yOr4ltpP2tyuL]{Eagle Eye Elixir (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.lPcnDlBGz5QwCMYw]{Eagle Eye Elixir (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.xWCdsGSwLLTeX6tQ]{Eagle Eye Elixir (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.kicNrnZz1KjJYRVI]{Eagle Eye Elixir (Major)}</p>\n<p>You gain an item bonus to Perception checks that is greater when attempting to find secret doors and traps.</p>",
       "source": "Pathfinder GM Core"
     },
     "Effect: Earplugs": {
       "name": "Effect: Earplugs",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.ksNUlyRHFUSK9xmz]{Earplugs}</p>\n<p>You take a -2 circumstance penalty to all auditory Perception checks but also gain a +2 circumstance bonus to saving throws against auditory effects.</p>",
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Ebon Fulcrum Lens (2 Action)": {
       "name": "Effect: Ebon Fulcrum Lens (2 Action)",
@@ -955,7 +945,7 @@
     "Effect: Energizing Rune": {
       "name": "Effect: Energizing Rune",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.Qqh586pudsEqITUk]{Energizing}</p>\n<p>The weapon becomes imbued with the triggering energy type. It deals an additional 1d8 damage of the triggering type until the end of your next turn.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Energizing Tea": {
       "name": "Effect: Energizing Tea",
@@ -990,17 +980,17 @@
     "Effect: Energy Robe of Electricity": {
       "name": "Effect: Energy Robe of Electricity",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.CA4W0Dt4qeg8MLHA]{Energy Robe of Electricity}</p>\n<p>You gain a fly Speed equal to your Speed for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Energy Robe of Fire": {
       "name": "Effect: Energy Robe of Fire",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.WPhrH1zCbP2v10aP]{Energy Robe of Fire}</p>\n<p>You gain a +30-foot status bonus to Speed.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Enhanced Hearing Aids": {
       "name": "Effect: Enhanced Hearing Aids",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.sG5JfXmH9wqmqW3w]{Enhanced Hearing Aids}</p>\n<p>You gain a +1 item bonus to all hearing-based Perception checks.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Erraticannon": {
       "name": "Effect: Erraticannon",
@@ -1055,22 +1045,22 @@
     "Effect: Eye of the Unseen": {
       "name": "Effect: Eye of the Unseen",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.S4w9D1naKennNO5T]{Eye of the Unseen}</p>\n<p>You gain a +1 item bonus to visual Perception checks.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Eye of the Unseen (Greater)": {
       "name": "Effect: Eye of the Unseen (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.7CCGLWYzsRuodCMM]{Eye of the Unseen (Greater)}</p>\n<p>You gain a +2 item bonus to visual Perception checks.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Fanged Rune Animal Form (Greater)": {
       "name": "Effect: Fanged Rune Animal Form (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.cvb47A6K1w7RfNiv]{Fanged (Greater)}</p>\n<p>You gain low-light vision and a +5-foot item bonus to your Speed.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Fanged Rune Animal Form (Major)": {
       "name": "Effect: Fanged Rune Animal Form (Major)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.qL1S3vGfv8Dh5yAE]{Fanged (Major)}</p>\n<p>You gain low-light vision, imprecise scent to a range of 30 feet, and a +10-foot item bonus to your Speed.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Feyfoul (Greater)": {
       "name": "Effect: Feyfoul (Greater)",
@@ -1090,17 +1080,17 @@
     "Effect: Fire and Iceberg": {
       "name": "Effect: Fire and Iceberg",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.KadHRRccZ5rWRl7c]{Fire and Iceberg}</p>\n<p>You gain resistance 5 to fire and cold.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Fire and Iceberg (Greater)": {
       "name": "Effect: Fire and Iceberg (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.jNdAX4hBp0pzWalL]{Fire and Iceberg (Greater)}</p>\n<p>You gain resistance 10 to fire and cold.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Fire and Iceberg (Major)": {
       "name": "Effect: Fire and Iceberg (Major)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.9Fps57Xc1XxxWK0j]{Fire and Iceberg (Major)}</p>\n<p>You gain resistance 15 to fire and cold.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Five-Feather Wreath - Armor": {
       "name": "Effect: Five-Feather Wreath - Armor",
@@ -1162,24 +1152,9 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.PVpViB2Wg3f61dFa]{Frost Breath}</p>\n<p>You gain resistance 5 to cold.</p>",
       "source": "Pathfinder Rage of Elements"
     },
-    "Effect: Frost Vial (Greater)": {
-      "name": "Effect: Frost Vial (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.intVPcEzbE9o4NQd]{Frost Vial (Greater)}</p>\n<p>You take a -10-foot status penalty to your Speeds.</p>",
-      "source": "Pathfinder Player Core 2"
-    },
-    "Effect: Frost Vial (Lesser)": {
-      "name": "Effect: Frost Vial (Lesser)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.EpxmUtLpCkE8R6KJ]{Frost Vial (Lesser)}</p>\n<p>You take a -5-foot status penalty to your Speeds.</p>",
-      "source": "Pathfinder Player Core 2"
-    },
-    "Effect: Frost Vial (Major)": {
-      "name": "Effect: Frost Vial (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.4DJQID8GIlxQ7b9C]{Frost Vial (Major)}</p>\n<p>You take a -15-foot status penalty to your Speeds.</p>",
-      "source": "Pathfinder Player Core 2"
-    },
-    "Effect: Frost Vial (Moderate)": {
-      "name": "Effect: Frost Vial (Moderate)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{Frost Vial (Moderate)}</p>\n<p>You take a -10-foot status penalty to your Speeds.</p>",
+    "Effect: Frost Vial": {
+      "name": "Effect: Frost Vial",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.EpxmUtLpCkE8R6KJ]{Frost Vial (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.nVvH1ZcM7OwIVIs8]{Frost Vial (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.intVPcEzbE9o4NQd]{Frost Vial (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.4DJQID8GIlxQ7b9C]{Frost Vial (Major)}</p>\n<p>You take a status penalty to your Speeds.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Effect: Fuming Cloak": {
@@ -1215,7 +1190,7 @@
     "Effect: Ghost Fowl Porridge": {
       "name": "Effect: Ghost Fowl Porridge",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.Vemy5QGbLRdPedcP]{Ghost Fowl Porridge}</p>\n<p>You gain a +2 item bonus to saving throws against being petrified, and you gain resistance 3 against physical damage.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Ghost Lantern": {
       "name": "Effect: Ghost Lantern",
@@ -1225,7 +1200,7 @@
     "Effect: Ghost Oil": {
       "name": "Effect: Ghost Oil",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.MIP28AmODXgyF2D2]{Ghost Oil}</p>\n<p>The selected weapon gains the effects of a <em>ghost touch</em> rune.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Ghost Scarf": {
       "name": "Effect: Ghost Scarf",
@@ -1255,22 +1230,22 @@
     "Effect: Glaive of the Artist": {
       "name": "Effect: Glaive of the Artist",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.J5It6yq3ZkN059zP]{Glaive of the Artist}</p>\n<p>All allies within 60 feet who can see the glaive's banner gain a +2 item bonus to Performance checks.</p>",
-      "source": "Pathfinder Lost Omens: Gods & Magic"
+      "source": "Pathfinder Lost Omens Gods & Magic"
     },
     "Effect: Glittering Snare (Critical Failure)": {
       "name": "Effect: Glittering Snare (Critical Failure)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.NtUB9xqRZQ2duOUo]{Glittering Snare}</p>\n<p>You take a -4 status penalty to Stealth checks.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Glittering Snare (Failure)": {
       "name": "Effect: Glittering Snare (Failure)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.NtUB9xqRZQ2duOUo]{Glittering Snare}</p>\n<p>You take a -2 status penalty to Stealth checks.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Glittering Snare (Success)": {
       "name": "Effect: Glittering Snare (Success)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.NtUB9xqRZQ2duOUo]{Glittering Snare}</p>\n<p>You take a -1 status penalty to Stealth checks.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Glow Rod": {
       "name": "Effect: Glow Rod",
@@ -1282,24 +1257,9 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.INyiWvehFuo8nGaa]{Glowing Lantern Fruit}</p>\n<p>The <em>glowing lantern fruit</em> sheds bright light in a 60-foot radius (and dim light for the next 60 feet). You can Interact with the <em>glowing lantern fruit</em> to open or close some of its reflective leaves, making the light directional like a bull's-eye lantern or a hooded lantern.</p>",
       "source": "Pathfinder Rage of Elements"
     },
-    "Effect: Glue Bomb (Greater)": {
-      "name": "Effect: Glue Bomb (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.5Qkz4RVJr2Kx3RL6]{Glue Bomb (Greater)}</p>\n<p>The target takes a –15-foot status penalty to its Speeds.</p>",
-      "source": "Pathfinder GM Core"
-    },
-    "Effect: Glue Bomb (Lesser)": {
-      "name": "Effect: Glue Bomb (Lesser)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.T6Appwwl6nUl56Xj]{Glue Bomb (Lesser)}</p>\n<p>The target takes a –10-foot status penalty to its Speeds.</p>",
-      "source": "Pathfinder GM Core"
-    },
-    "Effect: Glue Bomb (Major)": {
-      "name": "Effect: Glue Bomb (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.BxJNWWvpxacDIsdt]{Glue Bomb (Major)}</p>\n<p>The target takes a –20-foot status penalty to its Speeds.</p>",
-      "source": "Pathfinder GM Core"
-    },
-    "Effect: Glue Bomb (Moderate)": {
-      "name": "Effect: Glue Bomb (Moderate)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.evBPzM1VsuYcoenn]{Glue Bomb (Moderate)}</p>\n<p>The target takes a –15-foot status penalty to its Speeds.</p>",
+    "Effect: Glue Bomb": {
+      "name": "Effect: Glue Bomb",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.T6Appwwl6nUl56Xj]{Glue Bomb (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.evBPzM1VsuYcoenn]{Glue Bomb (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.5Qkz4RVJr2Kx3RL6]{Glue Bomb (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.BxJNWWvpxacDIsdt]{Glue Bomb (Major)}</p>\n<p>The target takes a status penalty to its speeds.</p>",
       "source": "Pathfinder GM Core"
     },
     "Effect: Golden Breath Fulu": {
@@ -1315,12 +1275,12 @@
           "label": "Golden Legion Epaulets (vs fear)"
         }
       },
-      "source": "Pathfinder Lost Omens: World Guide"
+      "source": "Pathfinder Lost Omens World Guide"
     },
     "Effect: Goo Grenade": {
       "name": "Effect: Goo Grenade",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.t2A5PzInAqmErLzK]{Goo Grenade (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.wi97vRj8IXx3wLmZ]{Goo Grenade (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.SAtG9jrqey2y8EGb]{Goo Grenade (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.W0RWd2E0jkF2ZXhf]{Goo Grenade (Major)}</p>\n<p>You take a circumstance penalty to your Speeds.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Effect: Goz Mask (Major)": {
       "name": "Effect: Goz Mask (Major)",
@@ -1345,22 +1305,22 @@
     "Effect: Grindlegrub Steak": {
       "name": "Effect: Grindlegrub Steak",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.ALfqpWLbLPSXxZVG]{Grindlegrub Steak}</p>\n<p>You gain a +1 item bonus to Fortitude saving throws against fatigue and the drained condition.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Effect: Grit (Stage 1)": {
       "name": "Effect: Grit (Stage 1)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.vl5dww56cbXo9QnP]{Grit}</p>\n<p>The creature gains a +1 item bonus to Athletics, Crafting, and Performance checks.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Grit (Stage 2)": {
       "name": "Effect: Grit (Stage 2)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.vl5dww56cbXo9QnP]{Grit}</p>\n<p>The creature gains a +1 item bonus to Athletics, Crafting, and Performance checks, and a -2 item penalty to Perception checks.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Grit (Stage 3)": {
       "name": "Effect: Grit (Stage 3)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.vl5dww56cbXo9QnP]{Grit}</p>\n<p>The creature takes a -4 item penalty to Perception checks.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Grudgestone": {
       "name": "Effect: Grudgestone",
@@ -1429,12 +1389,12 @@
         "Triggering"
       ],
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.CfM2q0UgtG6gkPku]{Horned Lion Amulet}</p>\n<p>You gain fire resistance 10 against the triggering damage and a subsequent fire resistance 5.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Effect: Horned Lion Amulet Recovery": {
       "name": "Effect: Horned Lion Amulet Recovery",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.CfM2q0UgtG6gkPku]{Horned Lion Amulet}</p>\n<p>The DC to recover from the persistent fire damage remains at 10 until it ends.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Effect: Hunter's Brooch": {
       "name": "Effect: Hunter's Brooch",
@@ -1484,17 +1444,17 @@
     "Effect: Impossible Cake": {
       "name": "Effect: Impossible Cake",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.hOemslrdMyHCgSBk]{Impossible Cake}</p>\n<p>You gain a +2 item bonus to your Deception checks to Impersonate, as well as to Lie to convince others that you possess knowledge about the type of item that the cake resembles.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Impossible Cake (Greater)": {
       "name": "Effect: Impossible Cake (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.RkZgEViFodxXsLu3]{Impossible Cake (Greater)}</p>\n<p>You gain a +3 item bonus to your Deception checks to Impersonate, as well as to Lie to convince others that you possess knowledge about the type of item that the cake resembles.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Impossible Cake (Major)": {
       "name": "Effect: Impossible Cake (Major)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.RkZgEViFodxXsLu3]{Impossible Cake (Greater)}</p>\n<p>You gain a +4 item bonus to your Deception checks to Impersonate, as well as to Lie to convince others that you possess knowledge about the type of item that the cake resembles.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Improvised Weapon": {
       "name": "Effect: Improvised Weapon",
@@ -1539,27 +1499,27 @@
     "Effect: Iron Wine": {
       "name": "Effect: Iron Wine",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.DOJxQLwkDvebbLWJ]{Iron Wine}</p>\n<p>Your unarmed attacks deal an additional 1d4 fire damage.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Iron Wine Weakness": {
       "name": "Effect: Iron Wine Weakness",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.DOJxQLwkDvebbLWJ]{Iron Wine}</p>\n<p>You gain weakness 5 to fire.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Irondust Stew": {
       "name": "Effect: Irondust Stew",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.hSJWv6aOwlJyKSLs]{Irondust Stew}</p>\n<p>You gain 3 resistance to physical damage for 1 minute, but take a –2 item penalty to Acrobatics and Athletics checks during that time.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Effect: Ivory Baton": {
       "name": "Effect: Ivory Baton",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.yzgMOspvPTLDe6Ln]{Ivory Baton}</p>\n<p>The construct gains a +1 status bonus to attack rolls, damage rolls, and saving throws (except saving throws against the ivory baton).</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Effect: Jack's Tattered Cape": {
       "name": "Effect: Jack's Tattered Cape",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.QOAjwtH9gycbDZCY]{Jack's Tattered Cape}</p>\n<p>You gain a +1 item bonus to Stealth checks to Hide or Sneak.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Effect: Jann's Prism (Jann's Light)": {
       "name": "Effect: Jann's Prism (Jann's Light)",
@@ -1624,7 +1584,7 @@
           "label": "Kraken's Guard (Grapple)"
         }
       },
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Lastwall Soup": {
       "name": "Effect: Lastwall Soup",
@@ -1634,17 +1594,17 @@
           "label": "Lastwall Soup (vs. undead)"
         }
       },
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Lastwall Soup (Greater)": {
       "name": "Effect: Lastwall Soup (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.ed8gAxli6Of58kAM]{Lastwall Soup (Greater)}</p>\n<p>The creature gains a +4 item bonus to Stealth checks and DCs against undead and 10 temporary hit points.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Lastwall Soup (Improved)": {
       "name": "Effect: Lastwall Soup (Improved)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.VcEd9Bh4q5vQfpLv]{Lastwall Soup (Improved)}</p>\n<p>The creature gains a +3 item bonus to Stealth checks and DCs against undead.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Leopard's Armor": {
       "name": "Effect: Leopard's Armor",
@@ -1656,24 +1616,9 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.Oo0KZTmFsu9iCAR9]{Life Shot (Minor)}, @UUID[Compendium.pf2e.equipment-srd.Item.hguIfHmI3LjhvlWO]{Life Shot (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.l3itUlHLuWP6qlA0]{Life Shot (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.MpuFL2midIke1Sbn]{Life Shot (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.R6qfTzNv79GH1xHU]{Life Shot (Major)}, @UUID[Compendium.pf2e.equipment-srd.Item.UzyjCLHxs3JQuFt5]{Life Shot (True)}</p>\n<p>You gain an item bonus to saving throws against diseases and poisons.</p>",
       "source": "Pathfinder Treasure Vault"
     },
-    "Effect: Life-Boosting Oil (Greater)": {
-      "name": "Effect: Life-Boosting Oil (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.3kELQauVoYunyFcd]{Life-Boosting Oil (Greater)}</p>\n<p>You gain fast healing 10.</p>",
-      "source": "Pathfinder Treasure Vault"
-    },
-    "Effect: Life-Boosting Oil (Lesser)": {
-      "name": "Effect: Life-Boosting Oil (Lesser)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.AFFaFaAW3IbbYqkL]{Life-Boosting Oil (Lesser)}</p>\n<p>You gain fast healing 3.</p>",
-      "source": "Pathfinder Treasure Vault"
-    },
-    "Effect: Life-Boosting Oil (Major)": {
-      "name": "Effect: Life-Boosting Oil (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.UOH0A4xNSMnpV6i4]{Life-Boosting Oil (Major)}</p>\n<p>You gain fast healing 15.</p>",
-      "source": "Pathfinder Treasure Vault"
-    },
-    "Effect: Life-Boosting Oil (Moderate)": {
-      "name": "Effect: Life-Boosting Oil (Moderate)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.9zyrMZF76hMxwizY]{Life-Boosting Oil (Moderate)}</p>\n<p>You gain fast healing 6.</p>",
+    "Effect: Life-Boosting Oil": {
+      "name": "Effect: Life-Boosting Oil",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.AFFaFaAW3IbbYqkL]{Life-Boosting Oil (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.9zyrMZF76hMxwizY]{Life-Boosting Oil (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.3kELQauVoYunyFcd]{Life-Boosting Oil (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.UOH0A4xNSMnpV6i4]{Life-Boosting Oil (Major)}</p>\n<p>You gain fast healing.</p>",
       "source": "Pathfinder Treasure Vault"
     },
     "Effect: Lightning Rod": {
@@ -1723,12 +1668,12 @@
     "Effect: Malleable Mixture (Greater)": {
       "name": "Effect: Malleable Mixture (Greater)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.TKOe8epJTCef87Bj]{Malleable Mixture (Greater)}</p>\n<p>You gain a +3 item bonus to your Fortitude and Reflex DCs against attempts to Grapple, Shove, or Trip you for 10 minutes.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Malleable Mixture (Lesser)": {
       "name": "Effect: Malleable Mixture (Lesser)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.p0TKEjVqYFZmfz6v]{Malleable Mixture (Lesser)}</p>\n<p>You gain a +2 item bonus to your Fortitude and Reflex DCs against attempts to Grapple, Shove, or Trip you for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Mana-Rattler Liniment": {
       "name": "Effect: Mana-Rattler Liniment",
@@ -1828,7 +1773,7 @@
     "Effect: Oath of the Devoted": {
       "name": "Effect: Oath of the Devoted",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.PDEhZSibXvQdVsSq]{Oath of the Devoted}</p>\n<p>You gain a +1 status bonus to Will saves. Choose a weapon or an unarmed Strike; your chosen attack deals an extra 1d6 fire damage.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Obsidian Goggles": {
       "name": "Effect: Obsidian Goggles",
@@ -1905,44 +1850,9 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.IISieImYvSQ8AqmC]{Phantasmal Doorknob}</p>\n<p>You gain a +1 item bonus to Thievery checks to Pick a Lock.</p>",
       "source": "Pathfinder Treasure Vault"
     },
-    "Effect: Phantasmal Doorknob - Armor (Greater)": {
-      "name": "Effect: Phantasmal Doorknob - Armor (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.7dkdtY9cTXM3gMon]{Phantasmal Doorknob (Greater)}</p>\n<p>You gain a +2 item bonus to Thievery checks to Pick a Lock.</p>",
-      "source": "Pathfinder Treasure Vault"
-    },
-    "Effect: Phantasmal Doorknob - Armor (Major)": {
-      "name": "Effect: Phantasmal Doorknob - Armor (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.9BXiGLvOFxDBmQrQ]{Phantasmal Doorknob (Major)}</p>\n<p>You gain a +2 item bonus to Thievery checks to Pick a Lock.</p>",
-      "source": "Pathfinder Treasure Vault"
-    },
     "Effect: Phantasmal Doorknob - Weapon": {
       "name": "Effect: Phantasmal Doorknob - Weapon",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.IISieImYvSQ8AqmC]{Phantasmal Doorknob}</p>\n<p>If you critically succeed at a Strike with the weapon, the target is dazzled until the end of its next turn.</p>",
-      "rules": {
-        "1": {
-          "text": "The target is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until the end of its next turn."
-        }
-      },
-      "source": "Pathfinder Treasure Vault"
-    },
-    "Effect: Phantasmal Doorknob - Weapon (Greater)": {
-      "name": "Effect: Phantasmal Doorknob - Weapon (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.7dkdtY9cTXM3gMon]{Phantasmal Doorknob (Greater)}</p>\n<p>If you critically succeed at a Strike with the weapon, the target is blinded until the end of its next turn.</p>",
-      "rules": {
-        "1": {
-          "text": "The target is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} until the end of its next turn."
-        }
-      },
-      "source": "Pathfinder Treasure Vault"
-    },
-    "Effect: Phantasmal Doorknob - Weapon (Major)": {
-      "name": "Effect: Phantasmal Doorknob - Weapon (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.9BXiGLvOFxDBmQrQ]{Phantasmal Doorknob (Major)}</p>\n<p>If you critically succeed at a Strike with the weapon, the target is blinded until the end of its next turn.</p>",
-      "rules": {
-        "1": {
-          "text": "The target is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} until the end of its next turn."
-        }
-      },
       "source": "Pathfinder Treasure Vault"
     },
     "Effect: Phoenix Flask": {
@@ -1952,32 +1862,12 @@
     },
     "Effect: Pickled Demon Tongue - Armor": {
       "name": "Effect: Pickled Demon Tongue - Armor",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lu42Up1309MqFya4]{Pickled Demon Tongue}</p>\n<p>You gain resistance 2 to acid and attacks by demons.</p>",
-      "source": "Pathfinder #188: They Watched the Stars"
-    },
-    "Effect: Pickled Demon Tongue - Armor (Greater)": {
-      "name": "Effect: Pickled Demon Tongue - Armor (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.HnOWpyuCHwewPZMu]{Pickled Demon Tongue (Greater)}</p>\n<p>You gain resistance 5 to acid and attacks by demons.</p>",
-      "source": "Pathfinder #188: They Watched the Stars"
-    },
-    "Effect: Pickled Demon Tongue - Armor (Major)": {
-      "name": "Effect: Pickled Demon Tongue - Armor (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.Ug0lQVTJlGKrHQgQ]{Pickled Demon Tongue (Major)}</p>\n<p>You gain resistance 10 to acid and attacks by demons.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lu42Up1309MqFya4]{Pickled Demon Tongue}, @UUID[Compendium.pf2e.equipment-srd.Item.HnOWpyuCHwewPZMu]{Pickled Demon Tongue (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.Ug0lQVTJlGKrHQgQ]{Pickled Demon Tongue (Major)}</p>\n<p>You gain resistance to acid and attacks by demons.</p>",
       "source": "Pathfinder #188: They Watched the Stars"
     },
     "Effect: Pickled Demon Tongue - Weapon": {
       "name": "Effect: Pickled Demon Tongue - Weapon",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lu42Up1309MqFya4]{Pickled Demon Tongue}</p>\n<p>Strikes with the weapon deal an additional 1d4 acid damage.</p>",
-      "source": "Pathfinder #188: They Watched the Stars"
-    },
-    "Effect: Pickled Demon Tongue - Weapon (Greater)": {
-      "name": "Effect: Pickled Demon Tongue - Weapon (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.HnOWpyuCHwewPZMu]{Pickled Demon Tongue (Greater)}</p>\n<p>Strikes with the weapon deal an additional 1d6 acid damage.</p>",
-      "source": "Pathfinder #188: They Watched the Stars"
-    },
-    "Effect: Pickled Demon Tongue - Weapon (Major)": {
-      "name": "Effect: Pickled Demon Tongue - Weapon (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.Ug0lQVTJlGKrHQgQ]{Pickled Demon Tongue (Major)}</p>\n<p>Strikes with the weapon deal an additional 1d8 acid damage.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lu42Up1309MqFya4]{Pickled Demon Tongue}, @UUID[Compendium.pf2e.equipment-srd.Item.HnOWpyuCHwewPZMu]{Pickled Demon Tongue (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.Ug0lQVTJlGKrHQgQ]{Pickled Demon Tongue (Major)}</p>\n<p>Strikes with the weapon deal additional acid damage.</p>",
       "source": "Pathfinder #188: They Watched the Stars"
     },
     "Effect: Poison Fizz": {
@@ -1987,32 +1877,12 @@
     },
     "Effect: Polished Demon Horn - Armor": {
       "name": "Effect: Polished Demon Horn - Armor",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.rtfpj9WJHMnMtfuG]{Polished Demon Horn}</p>\n<p>You gain resistance 2 to unholy.</p>",
-      "source": "Pathfinder #188: They Watched the Stars"
-    },
-    "Effect: Polished Demon Horn - Armor (Greater)": {
-      "name": "Effect: Polished Demon Horn - Armor (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.62oxvKUCReo7Iah7]{Polished Demon Horn (Greater)}</p>\n<p>You gain resistance 5 to unholy.</p>",
-      "source": "Pathfinder #188: They Watched the Stars"
-    },
-    "Effect: Polished Demon Horn - Armor (Major)": {
-      "name": "Effect: Polished Demon Horn - Armor (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.eRlOMigJjx5jAEKw]{Polished Demon Horn (Major)}</p>\n<p>You gain resistance 10 to unholy.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.rtfpj9WJHMnMtfuG]{Polished Demon Horn}, @UUID[Compendium.pf2e.equipment-srd.Item.62oxvKUCReo7Iah7]{Polished Demon Horn (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.eRlOMigJjx5jAEKw]{Polished Demon Horn (Major)}</p>\n<p>You gain resistance to unholy.</p>",
       "source": "Pathfinder #188: They Watched the Stars"
     },
     "Effect: Polished Demon Horn - Weapon": {
       "name": "Effect: Polished Demon Horn - Weapon",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.rtfpj9WJHMnMtfuG]{Polished Demon Horn}</p>\n<p>Your Strikes with the chosen weapon deal an additional 1d4 mental damage.</p>",
-      "source": "Pathfinder #188: They Watched the Stars"
-    },
-    "Effect: Polished Demon Horn - Weapon (Greater)": {
-      "name": "Effect: Polished Demon Horn - Weapon (Greater)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.62oxvKUCReo7Iah7]{Polished Demon Horn (Greater)}</p>\n<p>Your Strikes with the chosen weapon deal an additional 1d6 mental damage.</p>",
-      "source": "Pathfinder #188: They Watched the Stars"
-    },
-    "Effect: Polished Demon Horn - Weapon (Major)": {
-      "name": "Effect: Polished Demon Horn - Weapon (Major)",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.eRlOMigJjx5jAEKw]{Polished Demon Horn (Major)}</p>\n<p>Your Strikes with the chosen weapon deal an additional 1d8 mental damage.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.rtfpj9WJHMnMtfuG]{Polished Demon Horn}, @UUID[Compendium.pf2e.equipment-srd.Item.62oxvKUCReo7Iah7]{Polished Demon Horn (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.eRlOMigJjx5jAEKw]{Polished Demon Horn (Major)}</p>\n<p>Your Strikes with the chosen weapon deal additional mental damage.</p>",
       "source": "Pathfinder #188: They Watched the Stars"
     },
     "Effect: Portable Animal Blind": {
@@ -2179,7 +2049,7 @@
     "Effect: Preserved Moonflower": {
       "name": "Effect: Preserved Moonflower",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.ebpO5kKJBEvbZQrQ]{Preserved Moonflower}</p>\n<p>You gain a +2 status bonus to saves against void effects.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Prey Mutagen": {
       "name": "Effect: Prey Mutagen",
@@ -2209,7 +2079,7 @@
           "label": "Crafting an Item Appropriate to the Workshop"
         }
       },
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Protective Barrier": {
       "name": "Effect: Protective Barrier",
@@ -2229,7 +2099,7 @@
     "Effect: Qat (Stage 1)": {
       "name": "Effect: Qat (Stage 1)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.JPGOrHeYxjdnUogT]{Qat}</p>\n<p>The creature gains a +1 item bonus to Reflex saves.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Quicksilver Mutagen (Greater)": {
       "name": "Effect: Quicksilver Mutagen (Greater)",
@@ -2254,12 +2124,12 @@
     "Effect: Rainbow Vinegar": {
       "name": "Effect: Rainbow Vinegar",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.NVssWHKyKlaRmHog]{Rainbow Vinegar (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.iq7hL6HDsPCPU4pt]{Rainbow Vinegar (Greater)}</p>\n<p>Your unarmed attacks deal additional acid damage, and you have resistance to electricity. Vampires take additional acid damage.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Rainbow Vinegar Weakness": {
       "name": "Effect: Rainbow Vinegar Weakness",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.NVssWHKyKlaRmHog]{Rainbow Vinegar (Moderate)} and @UUID[Compendium.pf2e.equipment-srd.Item.iq7hL6HDsPCPU4pt]{Rainbow Vinegar (Greater)}</p>\n<p>You gain weakness 5 to acid.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Raise a Shield": {
       "name": "Effect: Raise a Shield",
@@ -2338,7 +2208,7 @@
     "Effect: Rhino Shot": {
       "name": "Effect: Rhino Shot",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.LLkl4mTbV9q4iDHJ]{Rhino Shot}</p>\n<p>On a successful Strike, your attack deals an additional 2d6 force damage, and the target must succeed at a DC 19 Fortitude save or be knocked Prone. If the hit with the <em>rhino shot</em> was a critical success, the target is knocked prone unless it critically succeeds at its save.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Rime Crystal - Armor": {
       "name": "Effect: Rime Crystal - Armor",
@@ -2373,7 +2243,7 @@
     "Effect: Rolling Flight": {
       "name": "Effect: Rolling Flight",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.srCxiFF44RcuRMHD]{Heavenly Rolling Flames}</p>\n<p>You gain a fly Speed of 20 feet.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Root Boots": {
       "name": "Effect: Root Boots",
@@ -2468,11 +2338,11 @@
     "Effect: Sarkorian God-Caller Garb": {
       "name": "Effect: Sarkorian God-Caller Garb",
       "description": "<p>As long as it is within 30 feet of you, the summoned creature gains a +1 status bonus to AC. If it ever moves farther than 30 feet from you, the sigil fades and the creature loses the status bonus to AC, even if it later comes within 30 feet of you again.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Saurian Spike - Armor": {
       "name": "Effect: Saurian Spike - Armor",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.nx5Y4GybdZqf9rIf]{Saurian Spike}<br /><br />You gain an imprecise scent with range 30ft.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.nx5Y4GybdZqf9rIf]{Saurian Spike}</p>\n<p>You gain an imprecise scent with range 30ft.</p>",
       "source": "Pathfinder Treasure Vault"
     },
     "Effect: Saurian Spike - Armor (Greater)": {
@@ -2543,7 +2413,7 @@
           "label": "Using Server's Stew Language"
         }
       },
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Seventh Prism (Pentagonal)": {
       "name": "Effect: Seventh Prism (Pentagonal)",
@@ -2618,12 +2488,12 @@
     "Effect: Silkspinner's Shield (Animated Strike)": {
       "name": "Effect: Silkspinner's Shield (Animated Strike)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.SJaFNXiHGILhwEMk]{Silkspinner's Shield}</p>\n<p>You take a -10-foot circumstance penalty to your Speeds.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Silkspinner's Shield (Climb)": {
       "name": "Effect: Silkspinner's Shield (Climb)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.SJaFNXiHGILhwEMk]{Silkspinner's Shield}</p>\n<p>You gain a climb Speed of 25 feet.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Silver Crescent (Greater)": {
       "name": "Effect: Silver Crescent (Greater)",
@@ -2713,7 +2583,7 @@
     "Effect: Skyrider Sword": {
       "name": "Effect: Skyrider Sword",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.SatFUtE2UaPvC394]{Skyrider Sword}, @UUID[Compendium.pf2e.equipment-srd.Item.y49tnkAWZqJRMkba]{Skyrider Sword (Greater)}</p>\n<p>You gain a fly Speed of 25 feet or your land Speed, whichever is slower.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Slime Whip": {
       "name": "Effect: Slime Whip",
@@ -2915,10 +2785,15 @@
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.pbsrb7FMMHQBd5CO]{Starsong Nectar}</p>\n<p>You gain a +3 status bonus to attack rolls, initiative rolls, Perception checks, saving throws, and skill checks, and you aren't off-guard against undetected creatures or when flanked.</p>",
       "source": "Pathfinder Treasure Vault"
     },
+    "Effect: Static Muscular Relay": {
+      "name": "Effect: Static Muscular Relay",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.b2t3kttZipvg826A]{Static Muscular Relay}</p>\n<p>You gain a +2 circumstance bonus to Reflex saves and AC for 1 minute.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Effect: Static Snare": {
       "name": "Effect: Static Snare",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.66EBP5Ii9QMlZdDx]{Static Snare}</p>\n<p>You take a -1 circumstance penalty to saving throws against electricity effects.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Statue Skin Salve": {
       "name": "Effect: Statue Skin Salve",
@@ -2953,7 +2828,7 @@
     "Effect: Stonethroat Ammunition (Success)": {
       "name": "Effect: Stonethroat Ammunition (Success)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.4F87PHMIzLHOUABL]{Stonethroat Ammunition}</p>\n<p>You take a -2 status penalty to attack rolls with your jaws or fangs, and to Athletics checks.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Storm Breath": {
       "name": "Effect: Storm Breath",
@@ -2983,12 +2858,12 @@
     "Effect: Succubus Kiss (Stage 1)": {
       "name": "Effect: Succubus Kiss (Stage 1)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.qwCefJjr7AJSqYay]{Succubus Kiss}</p>\n<p>The creature gains a +2 item bonus to initiative checks and to all saving throws against emotion and mental effects.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Succubus Kiss (Stage 2)": {
       "name": "Effect: Succubus Kiss (Stage 2)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.qwCefJjr7AJSqYay]{Succubus Kiss}</p>\n<p>The creature gains a +2 item bonus to initiative checks and to all saving throws against emotion and mental effects.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Suit of Armoire Frustration": {
       "name": "Effect: Suit of Armoire Frustration",
@@ -2998,12 +2873,12 @@
     "Effect: Sulfur Bomb": {
       "name": "Effect: Sulfur Bomb",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.ndVATyJ2c8Ka3HKm]{Sulfur Bomb}</p>\n<p>The target takes a -1 status penalty to Perception checks and attack rolls until the end of its next turn.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Sun Orchid Poultice": {
       "name": "Effect: Sun Orchid Poultice",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.1LKJvK9ofzIIkQX3]{Sun Orchid Poultice}</p>\n<p>You gain a +3 item bonus to saves and 20 temporary Hit Points.</p>",
-      "source": "Pathfinder Lost Omens: Legends"
+      "source": "Pathfinder Lost Omens Legends"
     },
     "Effect: Swift Block Cabochon": {
       "name": "Effect: Swift Block Cabochon",
@@ -3020,15 +2895,20 @@
       "description": "<p>Current charges stored in your @UUID[Compendium.pf2e.equipment-srd.Item.q6Wdgi5fE1zovsYh]{Tactician's Helm}.</p>",
       "source": "Pathfinder Treasure Vault"
     },
+    "Effect: Talented Tap Shoes": {
+      "name": "Effect: Talented Tap Shoes",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.ktzQ3WItAfMk25hM]{Talented Tap Shoes}</p>\n<p>When you succeed or critically succeed at a Reflex save to avoid a damaging effect, you can Stride half your Speed as a reaction. You take a –2 item penalty to Stealth checks to Sneak.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Effect: Taljjae's Mask (The General)": {
       "name": "Effect: Taljjae's Mask (The General)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.JSbBiTCtFctuJFhS]{Taljjae's Mask (The General)}</p>\n<p>You gain a +3 status bonus to attack rolls with polearms.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Effect: Taljjae's Mask (The Hero)": {
       "name": "Effect: Taljjae's Mask (The Hero)",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.2LO9eMNpQiku5UDn]{Taljjae's Mask (The Hero)}</p>\n<p>You gain a +3 status bonus to attack rolls with bows.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Effect: Tallowheart Mass": {
       "name": "Effect: Tallowheart Mass",
@@ -3268,7 +3148,7 @@
           "label": "Vermin Repellent Agent (vs. poisons)"
         }
       },
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Vermin Repellent Agent (Lesser)": {
       "name": "Effect: Vermin Repellent Agent (Lesser)",
@@ -3278,7 +3158,7 @@
           "label": "Vermin Repellent Agent (vs. poisons)"
         }
       },
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Vermin Repellent Agent (Major)": {
       "name": "Effect: Vermin Repellent Agent (Major)",
@@ -3288,7 +3168,7 @@
           "label": "Vermin Repellent Agent (vs. poisons)"
         }
       },
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Vermin Repellent Agent (Moderate)": {
       "name": "Effect: Vermin Repellent Agent (Moderate)",
@@ -3298,7 +3178,7 @@
           "label": "Vermin Repellent Agent (vs. poisons)"
         }
       },
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Effect: Viper Rapier": {
       "name": "Effect: Viper Rapier",
@@ -3328,7 +3208,7 @@
     "Effect: Wand of Fey Flames": {
       "name": "Effect: Wand of Fey Flames",
       "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.QgNp6uyKuV2PiNbf]{Wand of Fey Flames}</p>\n<p>You take a -2 status penalty to your Will saves against enchantment and illusions spells.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: War Blood Mutagen (Greater)": {
       "name": "Effect: War Blood Mutagen (Greater)",

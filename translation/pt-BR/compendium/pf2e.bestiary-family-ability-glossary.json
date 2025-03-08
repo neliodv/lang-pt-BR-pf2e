@@ -571,6 +571,11 @@
       "description": "<p>The barghest has malformed wings extending from its back. It gains a fly Speed of 25 feet.</p>",
       "source": "Pathfinder Bestiary"
     },
+    "(Halfling) Keen Eyes": {
+      "name": "(Halfling) Keen Eyes",
+      "description": "<p>The halfling gains a +2 circumstance bonus when using the @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} action to find @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} or undetected creatures within 30 feet of them. Whenever the halfling targets a creature that is @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "(Harrowkin) Defensive Suit": {
       "name": "(Harrowkin) Defensive Suit",
       "description": "<p>When the harrowkin attempts a saving throw connected to its suit—that is, Fortitude (Hammers or Shields), Reflex (Keys or Books), or Will (Stars or Crowns)—if they roll a success, they get a critical success instead.</p>",
@@ -594,57 +599,62 @@
     "(Kallas Devil) Blameless": {
       "name": "(Kallas Devil) Blameless",
       "description": "<p>While in disguise, the Kallas Devil can attempt to keep others from noticing her Loathsome Stench by attempting a Deception check to Lie. She has a +4 circumstance bonus to this check.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kallas Devil) Cold Currents": {
       "name": "(Kallas Devil) Cold Currents",
       "description": "<p>While the Kallas Devil is in water, she gains cold resistance 10 and electricity weakness 5.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kallas Devil) Freezing Touch": {
       "name": "(Kallas Devil) Freezing Touch",
       "description": "<p>When winter comes to Riverton, the Kallas Devil sharpens her claws with chunks of ice. When the Kallas Devil makes a jaws or claw attack, she deals an additional @Damage[1d6[cold]] damage.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kallas Devil) Infectious Water": {
       "name": "(Kallas Devil) Infectious Water",
       "description": "<p>The Kallas Devil has a vengeful streak and has the ability to infect wells and water supplies in Riverton with sewer haze. She can infect the water supply [[/gmr 1d6 #Days]]{1d6 days} after the Festival of the Skinned Hooves if the ritual sacrifice of the festival isn't performed.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kallas Devil) Suffer the Children": {
       "name": "(Kallas Devil) Suffer the Children",
       "description": "<p>20 feet. While the Kallas Devil is disguised as a child, any creature in the aura who is considered an adult by their culture takes a -2 circumstance penalty to checks and DCs opposing the Kallas Devil's Deception.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kallas Devil) Underwater Views": {
       "name": "(Kallas Devil) Underwater Views",
       "description": "<p>While underwater, the Kallas Devil can blend in with the surrounding environment and hide from other creatures by attempting a Stealth check. She has a +4 circumstance bonus for this check.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kallas Devil) Waterfall Torrent": {
       "name": "(Kallas Devil) Waterfall Torrent",
       "description": "<p>The Kallas Devil controls any water she touches. When the Kallas Devil is in water, she can cast @UUID[Compendium.pf2e.spells-srd.Item.jfVCuOpzC6mUrf6f]{Hydraulic Push} as an occult innate spell at will.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kuworsys) Careless Block": {
       "name": "(Kuworsys) Careless Block",
       "description": "<p><strong>Trigger</strong> A creature attempts a Strike against Kuworsys</p>\n<hr />\n<p><strong>Effect</strong> Kuworsys blocks the triggering Strike by snapping its sling or a stolen weapon into a blocking position. Damage is dealt to Kuworsys's weapon first. If the weapon would be destroyed, excess damage is dealt to Kuworsys.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kuworsys) Rain Blows": {
       "name": "(Kuworsys) Rain Blows",
       "description": "<p><strong>Requirements</strong> Kuworsys is Reared Back</p>\n<hr />\n<p><strong>Effect</strong> Kuworsys Strikes each creature within its reach, to a maximum of four Strikes (one for each available limb). It can make limb Strikes or weapon Strikes, including with ranged weapons, but can use each weapon only once. Each attack counts toward Kuworsys's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kuworsys) Rapid Bombardment": {
       "name": "(Kuworsys) Rapid Bombardment",
       "description": "<p>Kuworsys's sling becomes a reload 0 weapon instead of reload 1.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Kuworsys) Smash and Grab": {
       "name": "(Kuworsys) Smash and Grab",
       "description": "<p>Kuworsys Strides up to twice its Speed. At the end of its movement, it can make a melee limb Strike. On a successful Strike, the creature becomes @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} until the end of Kuworsys's next turn</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
+    },
+    "(Leshy) Verdant Burst": {
+      "name": "(Leshy) Verdant Burst",
+      "description": "<p>When the leshy dies, a burst of primal energy explodes from their body, restoring Hit Points based on the leshy's level to each plant creature in a @Template[type:emanation|distance:30]. This area is filled with plants, becoming difficult terrain. If the terrain is not a viable environment for these plants, they wither after 24 hours.</p>\n<table border=\"1\" class=\"pf2e remaster\">\n<thead>\n<tr style=\"text-align:right\">\n<th>Level</th>\n<th>Healing</th>\n<th>Level</th>\n<th>Healing</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>-1—0</td>\n<td>1d4</td>\n<td>10—11</td>\n<td>6d8</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1d8</td>\n<td>12—13</td>\n<td>7d8</td>\n</tr>\n<tr>\n<td>2—3</td>\n<td>2d8</td>\n<td>14—15</td>\n<td>8d8</td>\n</tr>\n<tr>\n<td>4—5</td>\n<td>3d8</td>\n<td>16—17</td>\n<td>9d8</td>\n</tr>\n<tr>\n<td>6—7</td>\n<td>4d8</td>\n<td>18—19</td>\n<td>10d8</td>\n</tr>\n<tr>\n<td>8—9</td>\n<td>5d8</td>\n<td>20+</td>\n<td>11d8</td>\n</tr>\n</tbody>\n</table>",
+      "source": "Pathfinder NPC Core"
     },
     "(Lich) Animate Cage": {
       "name": "(Lich) Animate Cage",
@@ -729,127 +739,187 @@
     "(Mana Wastes Mutant) Caustic Pustules": {
       "name": "(Mana Wastes Mutant) Caustic Pustules",
       "description": "<p>Whenever the mutant takes piercing or slashing damage, creatures adjacent to the mutant take @Damage[1d6[acid]] damage (@Check[reflex|dc:|basic]). The damage increases to 2d6 if the mutant is at least 8th level and 3d6 if the mutant is at least 15th level.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Chameleon Skin": {
       "name": "(Mana Wastes Mutant) Chameleon Skin",
       "description": "<p>The mutant can change their coloration to match their surroundings. They don't need cover or concealment to attempt to Hide with a Stealth check.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Eldritch Attraction": {
       "name": "(Mana Wastes Mutant) Eldritch Attraction",
       "description": "<p>A creature who casts a spell within 30 feet of the mutant must succeed at a @Check[will|dc:] save or spend its next action to Stride toward the mutant. It can't Delay or take any reactions until it has obeyed the compulsion.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Energy Blast": {
       "name": "(Mana Wastes Mutant) Energy Blast",
       "description": "<p>Choose an energy type; this ability gains that energy type as a trait. The mutant gains some sort of physical alteration to their shape that suggests how they trigger their energy blast, be it numerous pustules on their body, an extra limb, or an additional opening in their throat to exhale the blast as a breath weapon. Choose whether the mutant creates a @Template[line|distance:60] of energy or a @Template[cone|distance:30] of energy when they activate this ability. The energy deals @Damage[((@actor.level)d6)[energy]|options:area-damage]{1d6 damage per level} with a @Check[reflex|dc:|basic] save. The mutant can't use Energy Blast again for [[/gmr 1d4 #Recharge Energy Blast]]{1d4 rounds}.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Energy Resistance": {
       "name": "(Mana Wastes Mutant) Energy Resistance",
       "description": "<p>The mutant has strangely colored skin or fur and gains resistance to a single type of energy damage. The amount of energy resistance gained depends on the mutant's level.</p>\n<table style=\"width: 100.018%; height: 88.889px;\" border=\"1\"><colgroup><col style=\"width: 73.5726%;\"><col style=\"width: 26.2643%;\"></colgroup>\n<tbody>\n<tr style=\"height: 17.7778px;\">\n<td style=\"height: 17.7778px;\">Mutant's Level</td>\n<td style=\"height: 17.7778px;\">Energy Resistance</td>\n</tr>\n<tr style=\"height: 17.7778px;\">\n<td style=\"height: 17.7778px;\">2 or lower</td>\n<td style=\"height: 17.7778px;\">2</td>\n</tr>\n<tr style=\"height: 17.7778px;\">\n<td style=\"height: 17.7778px;\">3-7</td>\n<td style=\"height: 17.7778px;\">5</td>\n</tr>\n<tr style=\"height: 17.7778px;\">\n<td style=\"height: 17.7778px;\">8-14</td>\n<td style=\"height: 17.7778px;\">10</td>\n</tr>\n<tr style=\"height: 17.7778px;\">\n<td style=\"height: 17.7778px;\">15+</td>\n<td style=\"height: 17.7778px;\">15</td>\n</tr>\n</tbody>\n</table>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Grasping Tentacle": {
       "name": "(Mana Wastes Mutant) Grasping Tentacle",
       "description": "<p>The mutant grows a writhing, serpentine appendage, granting them a tentacle Strike (an agile unarmed attack that deals bludgeoning damage), and the @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grab} ability with that Strike. If they had any agile attacks, the damage dealt by their tentacle should be roughly the same as the damage dealt by those attacks. If they had only non-agile attacks, their tentacle should deal three-quarters that damage.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Hulking Form": {
       "name": "(Mana Wastes Mutant) Hulking Form",
       "description": "<p>Increase the mutant's size by one category. Decrease their AC by 1, increase their HP by 1/10 their normal maximum HP, and increase the reach of all their melee Strikes by 5 feet.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Hungry Maw": {
       "name": "(Mana Wastes Mutant) Hungry Maw",
       "description": "<p>A mouth full of razor-sharp teeth opens somewhere on the mutant's body. They gain a maw Strike (an unarmed attack that does piercing damage roughly the same as the damage dealt by their most damaging melee attack), and they gain the Vengeful Bite reaction.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Increased Speed": {
       "name": "(Mana Wastes Mutant) Increased Speed",
       "description": "<p>The mutant's limbs change, or they grow new limbs to accommodate their mutation. Either one of their existing Speeds increases by 20 feet or they gain a new Speed (such as fly or swim) of 15 feet.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Magic Hunger": {
       "name": "(Mana Wastes Mutant) Magic Hunger",
       "description": "<p>The mutant gains the ability to detect the source of any magic within 30 feet as an imprecise sense.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Mirror Thing": {
       "name": "(Mana Wastes Mutant) Mirror Thing",
       "description": "<p>The mutant takes on the specific appearance of any Small or Medium humanoid they can currently see. This doesn't alter their statistics, but it might change the damage type of their Strikes.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Revolting Appearance": {
       "name": "(Mana Wastes Mutant) Revolting Appearance",
       "description": "<p>60 feet. Details of the mutant's appearance are disturbing and unnatural in the extreme. A non-mutant living creature who begins their turn within 60 feet of the mutant must succeed at a Fortitude save or become @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}. A creature who succeeds at its save is then temporarily immune to the aura for 24 hours.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Sprouted Limb": {
       "name": "(Mana Wastes Mutant) Sprouted Limb",
       "description": "<p>The mutant grows an extra leg, increasing their Speed by 10 feet.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Too Many Eyes": {
       "name": "(Mana Wastes Mutant) Too Many Eyes",
       "description": "<p>Countless eyes sprout on the mutant's skin. They gain @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.9qV49KjZujZnSp6w]{All-Around Vision}.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "(Mana Wastes Mutant) Vengeful Bite": {
       "name": "(Mana Wastes Mutant) Vengeful Bite",
       "description": "<p><strong>Trigger</strong> A creature critically hits the mutant with a melee unarmed Strike or a non-reach melee Strike</p>\n<hr />\n<p><strong>Effect</strong> The mutant makes a maw Strike against the triggering creature.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
+    },
+    "(Martial Artist) Blazing Gate": {
+      "name": "(Martial Artist) Blazing Gate",
+      "description": "<p><strong>Requirements</strong> The grandmaster has a target grappled or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}</p>\n<hr />\n<p><strong>Effect</strong> The grandmaster tosses their target upwards and electrocutes them with a qi-infused double palm strike as they land. The target becomes @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}, loses the grappled or restrained condition, and takes @Damage[(5d6)[bludgeoning],(2d8)[persistent,electricity]]{5d6 bludgeoning and 2d8 persistent electricity damage} (@Check[fortitude|dc:38|basic] save).</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist) Competitive Taunt": {
+      "name": "(Martial Artist) Competitive Taunt",
+      "description": "<p>The tournament combatant attempts to @UUID[Compendium.pf2e.actionspf2e.Item.2u915NdUyQan6uKF]{Demoralize} a target. On a success, the demoralized creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the end of their next turn. The tournament combatant gets a +2 circumstance bonus to their damage against a creature made off-guard in this way.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist) Constant Feint Stance": {
+      "name": "(Martial Artist) Constant Feint Stance",
+      "description": "<p>This stance option replaces a different Stance Shift option (usually Secure Grapple Stance). +2 to attempts to @UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Feint}. If the mixed martial artist rolls a critical failure to Feint, they get a failure instead. If they successfully Feint, they can use Stance Shift as a free action. Unlike other stances, in this stance the mixed martial artist can't make Strikes.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist) Defensive Side Kick": {
+      "name": "(Martial Artist) Defensive Side Kick",
+      "description": "<p><strong>Trigger</strong> A creature within the black belt's reach uses a move action</p>\n<hr />\n<p><strong>Effect</strong> The black belt makes a fist Strike designed to intercept and create distance. This Strike does not count towards the black belt's multiple attack penalty, and the black belt's multiple attack penalty doesn't apply to this Strike. On a successful hit, the target is pushed 5 feet away.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist) Kiai!": {
+      "name": "(Martial Artist) Kiai!",
+      "description": "<p><strong>Frequency</strong> once per turn</p>\n<p><strong>Requirements</strong> The martial student attempts a Strike</p>\n<hr />\n<p><strong>Effect</strong> The martial student shouts to startle their adversary. If the Strike is successful, the target becomes @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist, Dirty Fighting) Concealed Spikes": {
+      "name": "(Martial Artist, Dirty Fighting) Concealed Spikes",
+      "description": "<p><strong>Trigger</strong> The martial artist critically succeeds on an unarmed Strike</p>\n<hr />\n<p><strong>Effect</strong> Tiny spikes in the martial artist's gloves or footwear deal an additional @Damage[1d6[persistent,bleed]] damage.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist, Dirty Fighting) Contraband Substance": {
+      "name": "(Martial Artist, Dirty Fighting) Contraband Substance",
+      "description": "<p>The martial artist pulls out a @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} alchemical vial of mutagen and drinks it to improve their combat prowess. The item is usually a @UUID[Compendium.pf2e.equipment-srd.xE0EdDrf734l2fQH]{Juggernaut Mutagen (Lesser)}, or @UUID[Compendium.pf2e.equipment-srd.5MKBwpE401uz4kNN]{Quicksilver Mutagen (Lesser)}. This ability can't be used again until the martial artist has time to acquire and hide a new mutagen. Some martial artists use concealed small vials, but others hide a syringe or soak the alchemical liquid into a garment they can put in their mouth.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist, Dirty Fighting) Illegal Bite": {
+      "name": "(Martial Artist, Dirty Fighting) Illegal Bite",
+      "description": "<p>The martial artist makes an @Check[athletics|defense:fortitude] check against a target's Fortitude DC to bite them in a vulnerable area. On a success, the martial artist deals @Damage[2d6[piercing]] damage (or double on a critical success).</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist, Dirty Fighting) Sand in Your Eye": {
+      "name": "(Martial Artist, Dirty Fighting) Sand in Your Eye",
+      "description": "<p>The martial artist @UUID[Compendium.pf2e.action-macros.RjfPFjqPrNve6eeh]{Feints}. On a success, the martial artist tosses sand into the face of one target, @UUID[Compendium.pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinding} them for 1 round or until the target Interacts to remove the blinded condition.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist, Grandmaster) Life Burn Aura": {
+      "name": "(Martial Artist, Grandmaster) Life Burn Aura",
+      "description": "<p>The grandmaster transmutes their lifespan into an expulsion of qi. For the next minute, the grandmaster is surrounded by a @Template[type:emanation|distance:30] that deals @Damage[3d6[force]] damage to all creatures who start their turn within the emanation, including the grandmaster themself. While Life Burn Aura is active, the grandmaster's fist Strikes deal 2 additional die of weapon damage. When the aura disappears, the grandmaster is permanently @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Doomed 1}. This condition is cumulative.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist, Grandmaster) Solar Surge": {
+      "name": "(Martial Artist, Grandmaster) Solar Surge",
+      "description": "<p>The grandmaster unleashes a qi wave as bright as the sun. All creatures within a 50-foot radius of the grandmaster who can see must attempt a @Check[reflex|dc:38] save, including the grandmaster themself.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p>\n<p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 round.</p>\n<p><strong>Failure</strong> The creature is blinded for 1 day.</p>\n<p><strong>Critical Failure</strong> The creature is permanently blinded.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Martial Artist, Grandmaster) Super Qi Blast": {
+      "name": "(Martial Artist, Grandmaster) Super Qi Blast",
+      "description": "<p>The grandmaster's body expands as it prepares to exude an unfathomable amount of qi. If the grandmaster's next action is to cast the two-action version of qi blast, the size of the cone increases to 120 feet and the damage increases to 16d6. The grandmaster also becomes one size category larger for the next minute, dealing an additional +9 damage with their melee Strikes. Additionally, the grandmaster is permanently @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}. This drained condition is cumulative.</p>\n<hr />\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.f1w5p5AVfAajZi9t]{Effect: Super Qi Blast}</p>",
+      "source": "Pathfinder NPC Core"
     },
     "(Melfesh Monster) Burrowing Grasp": {
       "name": "(Melfesh Monster) Burrowing Grasp",
       "description": "<p>The Melfesh Monster Burrows twice. At any point in this movement, it can shed a temporary fungal limb to grasp a creature within 10 feet. The creature must succeed at a @Check[reflex|dc:21|name:Burrowing Grasp] save or be @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round (on a critical failure, 2 rounds) or until it Escapes (DC 21). This ability grants the Melfesh Monster a burrow speed of 15 feet and replaces its fly speed and Envelop.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) Corpse Bomb": {
       "name": "(Melfesh Monster) Corpse Bomb",
       "description": "<p>The Melfesh Monster injects a creature's corpse with spores over the course of 10 minutes, priming it to explode. These spores last 1 day, and the Melfesh Monster can only have three corpses primed at a time; if it primes another, the oldest corpse bomb deactivates harmlessly. Creatures that succeed at a @Check[perception|dc:21|name:Notice Corpse Bomb|traits:action:seek,action:investigate,secret] check while Seeking or Investigating notice a corpse bomb's explosive nature. Creatures can attempt to disarm a corpse bomb with a @Check[nature|dc:21|name:Disable Corpse Bomb (Nature)|traits:action:disable-a-device], @Check[survival|dc:21|name:Disable Corpse Bomb (Survival)|traits:action:disable-a-device], or @Check[thievery|dc:21|name:Disable Corpse Bomb (Thievery)|traits:action:disable-a-device] check to Disable a Device. A corpse bomb explodes in a @Template[burst|distance:10] if a creature comes within 5 feet or if the Melfesh Monster detonates it as a single action, which it can use once per round. This deals @Damage[2d8[fire],2d8[poison]]{2d8 fire and 2d8 poison damage} (@Check[reflex|dc:21|basic|name:Corpse Bomb] save) and leaves a lingering, 10-foot-radius spore cloud. A creature that enters or begins its turn within the cloud inhales spores, which remain in its body for 1 minute. This ability replaces Spore Cloud.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) Death Throes": {
       "name": "(Melfesh Monster) Death Throes",
       "description": "<p><strong>Trigger</strong> The Melfesh Monster dies</p>\n<hr />\n<p><strong>Effect</strong> The Melfesh Monster explodes in a @Template[burst|distance:30]. Creatures in the area take @Damage[3d8[fire],3d8[poison]]{3d8 fire and 3d8 poison damage} (@Check[reflex|dc:24|basic|name:Death Throes] save). This ability replaces Reactive Growth.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) False Synapses": {
       "name": "(Melfesh Monster) False Synapses",
       "description": "<p>The Melfesh Monster partially controls a creature within 60 feet that has inhaled its spores. This has the effects of a command spell (@Check[will|dc:24|name:False Synapses] save). This ability replaces sporesight and Spore Cloud.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) Flame Lash": {
       "name": "(Melfesh Monster) Flame Lash",
       "description": "<p>The Melfesh Monster sprays flaming gas in a @Template[cone|distance:15] or a @Template[line|distance:30]. Creatures in the area take @Damage[4d6[fire]] damage (@Check[reflex|dc:21|basic|name:Flame Lash] save). This ability replaces the firelance ranged Strike.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) Mycelial Tomb": {
       "name": "(Melfesh Monster) Mycelial Tomb",
       "description": "<p><strong>Requirements</strong> A creature is within 90 feet of the Melfesh Monster and is standing on the ground</p>\n<hr />\n<p><strong>Effect</strong> Fungal threads burst from the ground. The creature must succeed at a @Check[reflex|dc:21|name:Mycelial Tomb] save or inhale Melfesh spores that remain in its body for 1 minute, be encased in mycelia, and be @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2}. The mycelia have Hardness 8 and 16 HP, and the DC to Force them Open is 21. Breaking the mycelia frees the creature and ends the slowed effect. If someone other than the encased creatures breaks the mycelia from the outside, the creature is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} and takes any damage dealt by the breaking effect in excess of the mycelia's Hit Points. This replaces the Envelop ability.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) Smolderstench": {
       "name": "(Melfesh Monster) Smolderstench",
       "description": "<p>60 feet. The Melfesh Monster emits the overwhelming stink of burning, rotting matter. A creature that enters or begins its turn in the area inhales spores and must attempt a @Check[fortitude|dc:21|name:Smolderstench] save. On a failure, the creature takes @Damage[2d4[poison]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}; on a critical failure, the creature also takes @Damage[4[persistent,poison]] damage and is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}. A creature that succeeds at its save is temporarily immune to smolderstench for 1 minute. This ability replaces terrorspores.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) Swell": {
       "name": "(Melfesh Monster) Swell",
       "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> The Melfesh Monster inflates with gas for 1 minute. It grows to Huge size, and its reach increases to 15 feet. It also gains 12 temporary Hit Points, resistance 5 to bludgeoning, and a +2 status bonus to damage rolls, but it's @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}. When the Melfesh Monster takes damage while swollen, all creatures within 15 feet inhale spores that remain in their body for 1 minute. This ability replaces terrorspores and Spore Cloud.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.JlaO7fgm53Om1DxB]{Effect: Swell}</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) Torrential Advance": {
       "name": "(Melfesh Monster) Torrential Advance",
       "description": "<p>The Melfesh Monster dissolves into a mass of fungal threads and surges forward. It @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3]{Tramples} (Medium or smaller, limb, @Check[reflex|dc:21|basic|name:Trample] save), leaving a spore cloud in the squares through which it moves that last until the end of its next turn. A creature that enters or begins its turn in the cloud inhales spores and must succeed at a @Check[fortitude|dc:21|name:Torrential Advance] save or be @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} on a critical failure). This ability replaces Envelop and Spore Cloud.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Melfesh Monster) Vent Flames": {
       "name": "(Melfesh Monster) Vent Flames",
       "description": "<p><strong>Trigger</strong> The Melfesh Monster ends its movement next to or takes damage from an adjacent creature</p>\n<hr />\n<p><strong>Effect</strong> Rifts in the Melfesh Monster's body spew burning gas. The triggering creature must succeed at a @Check[reflex|dc:21|name:Vent Flames|traits:damaging-effect] save or inhale spores which remain in its body for 1 minute, take @Damage[2d6[fire]] damage, and become @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (on a critical failure, double damage and @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2}). This ability replaces Reactive Growth.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Mythic) Ambush Excellence": {
       "name": "(Mythic) Ambush Excellence",
@@ -1121,6 +1191,16 @@
       "description": "<p>The ravener treats an attack roll as a critical hit on a roll of 19 or 20, as long as the attack roll was a success. Additionally, whenever the ravener makes a critical hit with one of their Strikes, the target must succeed on a @Check[fortitude|dc:|name:Vicious Criticals] save or gain the @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1} condition. If the target already has a drained value of greater than 0, their drained value instead increases by 1, to a maximum of drained 4.</p>\n<p>Whenever the ravener applies drain to a creature in this way, their soul ward gains 5 Hit Points.</p>",
       "source": "Pathfinder Bestiary 2"
     },
+    "(Retired) Rusty": {
+      "name": "(Retired) Rusty",
+      "description": "<p>The NPC is out of practice. They take a –1 status penalty to all their rolls and DCs. The NPC also rolls twice on initiative rolls and takes the lower result; this is a misfortune effect.</p>",
+      "source": "Pathfinder NPC Core"
+    },
+    "(Retired) Still Got It!": {
+      "name": "(Retired) Still Got It!",
+      "description": "<p><strong>Frequency</strong> once per encounter</p>\n<p><strong>Requirements</strong> The retired creature is in a combat encounter and has either made a critical hit or is in the second round of their encounter</p>\n<hr />\n<p><strong>Effect</strong> The retired creature gains temporary Hit Points equal to its level that last until the end of the encounter. The retired creature also suppresses the effects of being rusty until the end of the encounter.</p>\n<hr />\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.EZVgNBwMrJWeKLXp]{Effect: Still Got It!}</p>",
+      "source": "Pathfinder NPC Core"
+    },
     "(Risen Nemesis) Euphoric Cackle": {
       "name": "(Risen Nemesis) Euphoric Cackle",
       "description": "<p><strong>Trigger</strong> A creature the Risen Nemesis can observe critically fails an attack or save</p>\n<hr />\n<p><strong>Effect</strong> The Risen Nemesis revels and gains 20 temporary Hit Points that last for 24 hours. They cannot use Euphoric Cackle again for [[/gmr 1d4 #rounds]]{1d4 rounds}.</p>",
@@ -1334,17 +1414,17 @@
     "(Spring-Heeled Jack) Change Shape": {
       "name": "(Spring-Heeled Jack) Change Shape",
       "description": "<p>Spring-Heeled Jack takes on the appearance of a Medium humanoid dressed in exquisite finery. This doesn't change his Speed or his attack and damage modifiers with his Strikes. When in this form, Spring-Heeled Jack gains a Diplomacy modifier equal to his Intimidation modifier.</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Spring-Heeled Jack) Resonant Terror": {
       "name": "(Spring-Heeled Jack) Resonant Terror",
       "description": "<p>Spring-Heeled Jack glares at a creature he can see within 30 feet. The target must immediately attempt a Will save (DC equal to the DC of Jack's Breath Weapon) or become @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical failure), and it can't reduce its frightened condition below 1 for 24 hours or until this curse is removed. After attempting its save, the creature is temporarily immune to this ability for 24 hours.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Spring-Heeled Jack) Vanishing Leap": {
       "name": "(Spring-Heeled Jack) Vanishing Leap",
       "description": "<p><strong>Trigger</strong> Spring-Heeled Jack uses Vault</p>\n<hr />\n<p><strong>Effect</strong> Spring-Heeled Jack becomes @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible} for 1 round.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Stargut Hydra) Skymetal Metamorphosis (Abysium)": {
       "name": "(Stargut Hydra) Skymetal Metamorphosis (Abysium)",
@@ -1384,7 +1464,7 @@
     "(Ulgrem-Axaan) Befouling Odor": {
       "name": "(Ulgrem-Axaan) Befouling Odor",
       "description": "<p>15 feet. Creatures entering or starting their turn in the emanation must succeed at a @Check[fortitude|dc:20|name:Befouling Odor] save or be @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (@UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} on a critical failure). A creature that succeeds at its save is temporarily immune to befouling odor for 1 minute.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Ulgrem-Axaan) Crocodile Tears": {
       "name": "(Ulgrem-Axaan) Crocodile Tears",
@@ -1394,27 +1474,32 @@
           "label": "Crocodile Tears"
         }
       },
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Ulgrem-Axaan) Crushing Weight": {
       "name": "(Ulgrem-Axaan) Crushing Weight",
       "description": "<p><strong>Requirements</strong> Ulgrem-Axaan has a creature grabbed with its tail</p>\n<hr />\n<p><strong>Effect</strong> Ulgrem-Axaan's tail clamps down around the creature, dealing @Damage[(2d4+8)[bludgeoning]] damage (@Check[fortitude|dc:25|basic|name:Crushing Weight] save).</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Ulgrem-Axaan) Fallen Victim": {
       "name": "(Ulgrem-Axaan) Fallen Victim",
       "description": "<p><strong>Requirements</strong> A creature in Ulgrem-Axaan's reach is prone, and Ulgrem-Axaan isn't currently grabbing another creature</p>\n<hr />\n<p><strong>Effect</strong> Ulgrem-Axaan attempts a jaws Strike against the creature. If successful, Ulgrem-Axaan immediately @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabs} the creature, and the creature takes an additional @Damage[2d10[bludgeoning]] damage.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Ulgrem-Axaan) Ichor Coating": {
       "name": "(Ulgrem-Axaan) Ichor Coating",
       "description": "<p>Beneath the plates of bone and ice on Ulgrem-Axaan flow the viscous remains of its vital fluids. Creatures coming into physical contact with this fluid must succeed at a @Check[fortitude|dc:22|name:Ichor Coating] save or become infected with @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.N7UV5CZXtcoxDxCF]{Ghoul Fever}.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "(Ulgrem-Axaan) Ichor Trail": {
       "name": "(Ulgrem-Axaan) Ichor Trail",
       "description": "<p>Any square Ulgrem-Axaan moves into is coated in melting liquids from its body and becomes difficult terrain. After an hour, the ichor dries and the effect ends.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
+    },
+    "(Union Organizer) Solidarity": {
+      "name": "(Union Organizer) Solidarity",
+      "description": "<p>10 feet.</p>\n<p>While leading a demonstration, the union organizer grants themself and their allies a +1 circumstance bonus to saving throws against fatigue and mental effects. Greater numbers amplify the effect. The emanation increases to 20 feet if there are at least 5 allies within 10 feet, and to 30 feet if there are at least 10 allies within 20 feet.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "(Valkyrie Tempest) Mounted Troop": {
       "name": "(Valkyrie Tempest) Mounted Troop",

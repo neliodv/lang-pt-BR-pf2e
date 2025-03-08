@@ -39,12 +39,12 @@
     "Effect: Acupuncturist": {
       "name": "Effect: Acupunturista",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.SC95hfEEHQs7E9cG]{Acupunturista}</p>\n<p>Você concede ao seu aliado a escolha de um bônus de circunstância para um teste de habilidade de atividade de tempo de inatividade. Em uma falha crítica, seu aliado recebe uma penalidade de circunstância –1 em todos os testes de habilidade de atividade de tempo de inatividade.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Adamantine Body": {
       "name": "Effect: Corpo Adamantino",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.GIr0i1ucWnMSLwJo]{Corpo Adamantino}</p>\n<p>Você ganha resistência igual a 2 + metade do seu nível contra todos os danos do ataque ou efeito que acionou o efeito.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Aegis for the Innocent": {
       "name": "Effect: Égide para os Inocentes",
@@ -54,7 +54,7 @@
     "Effect: Aldori Parry": {
       "name": "Effect: Desvio Aldori",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.NZgjqVV2HYzLCvvA]{Desvio Aldori}</p>\n<p>Você ganha um bônus de circunstância +2 em CA.</p>",
-      "source": "Pathfinder Lost Omens: World Guide"
+      "source": "Pathfinder Lost Omens World Guide"
     },
     "Effect: Alloy Flesh and Steel": {
       "name": "Effect: Aliar Carne e Aço",
@@ -74,7 +74,7 @@
     "Effect: Anadi Venom": {
       "name": "Effect: Veneno Anadi",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.8aIe57gXJ94mPpW4]{Veneno Anadi}</p>\n<p>Se o próximo Golpe de presas que você fizer antes do final do seu turno atingir e causar dano, o Golpe causa 1d6 de dano de veneno adicional. Em uma falha crítica, o veneno é desperdiçado como de costume. No 12º nível, este dano de veneno aumenta para 2d6.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Ancestral Influence": {
       "name": "Effect: Influência Ancestral",
@@ -90,7 +90,7 @@
     "Effect: Anchored": {
       "name": "Effect: Ancorado",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.zxlbMEaXglMVsLpQ]{Parede de Túnel}</p>\n<p>Você se torna Ancorado e ganha um bônus de circunstância +4 na CD para @UUID[Compendium.pf2e.actionspf2e.Item.21WIfSu7Xd7uKqV8]{Rolamento Através} do seu espaço.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Effect: Angelic Blood Magic": {
       "name": "Effect: Magia de Sangue Angelical",
@@ -100,7 +100,7 @@
     "Effect: Animate Net": {
       "name": "Effect: Animar Rede",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.bi9w4Z9MQY8VWLZF]{Animar Rede}</p>\n<p>Em um sucesso, o alvo está @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} e recebe uma penalidade de circunstância de -10 pés em suas Velocidades até que ele escape; em um sucesso crítico, ele também está @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizado} até que ele escape.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Anoint Ally": {
       "name": "Effect: Ungir Aliado",
@@ -145,7 +145,7 @@
     "Effect: Augment Senses": {
       "name": "Effect: Aumentar Sentidos",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.Y5ompgSd1JGSHt0C]{Aumentar Sentidos}</p>\n<p>Você não pode ser flanqueado.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Aura Junction (Air)": {
       "name": "Effect: Junção de Aura (Ar)",
@@ -210,17 +210,17 @@
     "Effect: Avenge in Glory": {
       "name": "Effect: Vingar em Glória",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.gKDRnsBPBdhJB0FI]{Vingar em Glória}</p>\n<p>Você ganha Pontos de Vida temporários iguais ao seu nível. Enquanto você tiver esses Pontos de Vida temporários, você ganha um bônus de circunstância +1 em testes de ataque e dano.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Avowed Insight": {
       "name": "Effect: Intuição Juramentada",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.G0Iw8ltK3Dfav8B8]{Intuição Juramentada}</p>\n<p>Você ganha um bônus de circunstância +1 em CA e testes de resistência contra os ataques e habilidades da criatura marcada.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Azarketi Purification": {
       "name": "Effect: Purificação Azarketi",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.u94fcPT5Oukqzql5]{Purificação Azarketi}</p>\n<p>Você ganha um bônus de status +2 em seus testes de resistência contínuos contra venenos já presentes em seu corpo.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Battle Medicine Immunity": {
       "name": "Effect: Imunidade à Medicina de Batalha",
@@ -245,12 +245,12 @@
     "Effect: Big Debut": {
       "name": "Effect: Grande Estreia",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.PfnlKlLuqKOOhLyK]{Grande Estreia}</p>\n<p>Você ganha um bônus de circunstância +1 em testes de habilidade baseados em Carisma até o final de seu turno.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Effect: Blade of the Heart": {
       "name": "Effect: Lâmina do Coração",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.GrKurXVdm5lJkE2q]{Lâmina do Coração}</p>\n<p>Sua arma transformada ganha uma das seguintes runas de propriedade de arma: corrosiva, flamejante, gelo, choque, trovão ou vitalizante.</p>\n<p>No 16º nível, você desenha a versão maior da runa.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Bless Ally": {
       "name": "Effect: Abençoar Aliado",
@@ -275,7 +275,7 @@
     "Effect: Blizzard Evasion": {
       "name": "Effect: Evasão de Nevasca",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.a47Npi5XHXo47y49]{Evasão de Nevasca}</p>\n<p>Você ganha resistência 10 a dano físico e fraqueza 10 a dano de força. Você ganha uma velocidade de voo de 40 pés.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Effect: Bloc Tactics": {
       "name": "Effect: Táticas de Bloco",
@@ -290,17 +290,17 @@
     "Effect: Boaster's Challenge": {
       "name": "Effect: Desafio do Fanfarrão",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.UtUT6JngJbQRHySX]{Desafio do Fanfarrão}</p>\n<p>Você ganha um bônus de status em testes de dano com sua arma ou Ataques desarmados contra o inimigo desafiado.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Boaster's Challenge (Critical Success)": {
       "name": "Effect: Desafio do Fanfarrão (Sucesso Crítico)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.UtUT6JngJbQRHySX]{Desafio do Fanfarrão}</p>\n<p>Você ganha um bônus de status em testes de dano com sua arma ou Ataques desarmados contra o inimigo desafiado.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Bold Defiance": {
       "name": "Effect: Desafio Ousado",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.oDFvdHVfrBzt16js]{Desafio Ousado}</p>\n<p>Você ganha Pontos de Vida temporários iguais ao seu nível.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Bolera's Interrogation": {
       "name": "Effect: Interrogatório de Bolera",
@@ -330,12 +330,12 @@
     "Effect: Brightness Seeker": {
       "name": "Effect: Buscador de Brilho",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.mk6rzaAzsBBRGJnh]{Chamar o Brilho}</p>\n<p>Você ganha um bônus de status +1 no teste de gatilho, ou um bônus de status +2 se o resultado do augúrio foi desgraça e você procedeu mesmo assim.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Bristle": {
       "name": "Effect: eriçar",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.1gAehVvstGY885kJ]{eriçar}</p>\n<p>Você se enrola em uma postura que abre seus espinhos de osso. Você ganha um bônus de circunstância +1 em CA até o início do seu próximo turno.</p>\n<hr />\n<p><strong>Especial</strong> Se você tem a reação @UUID[Compendium.pf2e.actionspf2e.Item.oAWNluJaMlaGysXA]{Penas Farpadas} ou um ataque desarmado de penas, cada um ganha um bônus de circunstância +1 em testes de dano até o início do seu próximo turno.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Calculate Threats": {
       "name": "Effect: Calcular Ameaças",
@@ -370,7 +370,7 @@
     "Effect: Catfolk Dance": {
       "name": "Effect: Dança Felina",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.Iqv8qj7ym63YjexN]{Dança Felina}</p>\n<p>A criatura alvo ganha uma penalidade de circunstância -2 em testes de Reflexos</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Cavalier's Banner": {
       "name": "Effect: Estandarte do Cavaleiro",
@@ -395,12 +395,12 @@
           "label": "Unleash Yaoguai Might"
         }
       },
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Ceremony of Protection": {
       "name": "Effect: Cerimônia de Proteção",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.VSINzKESKAw2zA20]{Cerimônia de Proteção}</p>\n<p>Você ganha um bônus de circunstância +1 em CA.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Chalice Adept Benefit (Self)": {
       "name": "Effect: Benefício de Adepto do Cálice (Próprio)",
@@ -490,7 +490,7 @@
     "Effect: Consult the Spirits": {
       "name": "Effect: Consultar os Espíritos",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.8cy4XIaSoL3UtpFq]{Consultar os Espíritos}</p>\n<p>Você ganha um bônus de status +1 com uma habilidade escolhida.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Consume Energy (Augment Strike)": {
       "name": "Effect: Consumir Energia (Aumentar Ataque)",
@@ -520,12 +520,17 @@
     "Effect: Corpse-Killer's Defiance": {
       "name": "Effect: Desafio do Matador de Mortos-Vivos",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.fzERYW7BJQoxlvoD]{Desafio do Matador de Mortos-Vivos}</p>\n<p>Você ganha um bônus de status +2 em testes de ataque e dano contra mortos-vivos.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Corpse-Killer's Defiance (Lower Level)": {
       "name": "Effect: Desafio do Matador de Mortos-Vivos (Nível Inferior)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.fzERYW7BJQoxlvoD]{Desafio do Matador de Mortos-Vivos}</p>\n<p>Você ganha um bônus de status +1 em testes de ataque e dano contra mortos-vivos.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
+    },
+    "Effect: Cozy Campfire": {
+      "name": "Effect: Cozy Campfire",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feat-effects.Item.fH4SxaerUGXqIOIJ]{Effect: Cozy Campfire}</p>\n<p>You take a –2 status penalty to attack rolls.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Effect: Crash Against Me": {
       "name": "Effect: Quebre-se Contra Mim",
@@ -575,7 +580,7 @@
     "Effect: Crystal Luminescence": {
       "name": "Effect: Luminescência de Cristal",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.TLuFqQwvnlJNeEsv]{Luminescência de Cristal}</p>\n<p>O raio da luz brilhante e da luz fraca de sua luminescência de cristal aumenta em 10 pés.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Effect: Current Spell": {
       "name": "Effect: Magia Atual",
@@ -623,7 +628,7 @@
     "Effect: Curse of Inevitable Rot": {
       "name": "Efeito: Maldição da Podridão Inevitável",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.classfeatures.Item.5QVUaQGT1FSkFOYP]{Maldição da Podridão Inevitável}</p>\n<p>Você sofre uma penalidade de status ao tentar Tratar Doenças, Venenos ou Ferimentos no alvo.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Curse of Living Death": {
       "name": "Efeito: Maldição da Morte Viva",
@@ -740,7 +745,7 @@
     "Effect: Declare Anathema": {
       "name": "Efeito: Declarar Anátema",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.7P5aKtFoPVJJPPEV]{Declarar Anátema}</p>\n<p>Você ganha fraqueza 10 a dano de espírito.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Decry Thief": {
       "name": "Efeito: Denunciar Ladrão",
@@ -755,7 +760,7 @@
     "Effect: Defensive Instincts": {
       "name": "Efeito: Instintos Defensivos",
       "description": "<p>@UUID[Compendium.pf2e.feats-srd.Item.RxA1PdgGbijkieJD]{Instintos Defensivos}</p>\n<p>Você ganha um bônus de circunstância de +1 na CA.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Defensive Recovery": {
       "name": "Efeito: Recuperação Defensiva",
@@ -765,7 +770,7 @@
     "Effect: Dehydrated": {
       "name": "Efeito: Desidratado",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.ancestryfeatures.Item.vt67b8uoNEbskcBv]{Hidratação}</p>\n<p>Você sofre uma penalidade de status de -1 em testes de resistência de Fortitude.</p>",
-      "source": "Pathfinder Lost Omens: Absalom, City of Lost Omens"
+      "source": "Pathfinder Lost Omens Absalom, City of Lost Omens"
     },
     "Effect: Deity's Protection": {
       "name": "Efeito: Proteção da Divindade",
@@ -805,7 +810,7 @@
     "Effect: Devrin's Cunning Stance": {
       "name": "Efeito: Postura Astuta de Devrin",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.OqqytsF2RIjB0EPR]{Postura Astuta de Devrin}</p>\n<p>Você ganha um bônus de status de +1 em testes de perícia. Quando você Golpeia um inimigo desprevenido, esse inimigo não pode usar reações até o início de seu próximo turno.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Effect: Diabolic Blood Magic (Self)": {
       "name": "Efeito: Magia de Sangue Diabólica (Si Mesmo)",
@@ -830,12 +835,12 @@
     "Effect: Disruptive Stare": {
       "name": "Efeito: Olhar Disruptivo",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.d3J74jmGOrPBWUm9]{Olhar Disruptivo}</p>\n<p>Você sofre uma penalidade de status de -2 em suas jogadas de ataque de magia e CDs.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Effect: Dissolution's Sight": {
       "name": "Efeito: Visão da Dissolução",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.wiV1CBh1OBhQCfbp]{Visão da Dissolução}</p>\n<p>Você ganha visão no escuro maior.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Distant Wandering": {
       "name": "Efeito: Caminhada Distante",
@@ -978,7 +983,7 @@
     "Effect: Elemental Assault": {
       "name": "Efeito: Ataque Elemental",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.OKSsFlHY5UKc4dKu]{Ataque Elemental}</p>\n<p>Seus Golpes causam 1d6 de dano adicional do tipo indicado e têm o traço correspondente ao elemento: eletricidade para ar, concussão para terra, fogo para fogo ou frio para água.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Elemental Blood Magic (Self)": {
       "name": "Efeito: Magia de Sangue Elemental (Si Mesmo)",
@@ -988,7 +993,7 @@
     "Effect: Elemental Bulwark": {
       "name": "Efeito: Baluarte Elemental",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.IUVzB39pRVyBFOEx]{Baluarte Elemental}</p>\n<p>Você ganha resistência contra o dano que o acionou.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Elementalist Dedication": {
       "name": "Efeito: Dedicação de Elementalista",
@@ -1013,7 +1018,7 @@
     "Effect: Emboldened with Glorious Purpose": {
       "name": "Efeito: Encorajado com Propósito Glorioso",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.uYhaIKxlvGj4YNCc]{Encorajado com Propósito Glorioso}</p>\n<p>Você ganha um bônus de status de +1 em testes de resistência de Vontade. Este bônus aumenta para +2 contra efeitos de emoção e medo.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Emotional Fervor": {
       "name": "Efeito: Fervor Emocional",
@@ -1033,7 +1038,7 @@
     "Effect: Empowered Onslaught": {
       "name": "Efeito: Ataque Fortalecido",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.4evo0jTAKBhowyDG]{Ataque Fortalecido}</p>\n<p>O bônus ou penalidade de status da aura de batalha escolhida aumenta em 1, até um máximo de 4.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Encroaching Presence": {
       "name": "Efeito: Presença Invasora",
@@ -1068,7 +1073,7 @@
     "Effect: Energize Wings": {
       "name": "Efeito: Energizar Asas",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.cmhfYMEM4uzrNIiV]{Energizar Asas}</p>\n<p>Você ganha uma Velocidade de voo de 30 feet.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Energy Ablation": {
       "name": "Efeito: Ablação de Energia",
@@ -1088,7 +1093,7 @@
     "Effect: Enforce Oath": {
       "name": "Efeito: Cumprir Juramento",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.g0C3tqGjgShoDyif]{Cumprir Juramento}</p>\n<p>Você ganha um bônus de status de +1 em CA e testes de resistência contra ataques e efeitos da criatura escolhida. Você também ganha um bônus de status de +1 em jogadas de ataque contra a criatura escolhida.</p>\n<p>Você também sofre uma penalidade de status de -1 em CA, jogadas de ataque e testes de resistência contra todas as outras criaturas até que você pare de Cumprir seu Juramento.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Engine of Destruction": {
       "name": "Efeito: Motor de Destruição",
@@ -1108,7 +1113,7 @@
     "Effect: Enter Spirit Trance": {
       "name": "Efeito: Entrar em Transe Espiritual",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.djULKW76BbSoN3zb]{Entrar em Transe Espiritual}</p>\n<p>Você ganha pontos de vida temporários iguais ao seu nível mais seu modificador de Constituição, um bônus de status de +1 em testes de resistência de Fortitude e Vontade, e seus Golpes corpo a corpo causam 1 de dano de espírito adicional.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Entity's Resurgence": {
       "name": "Efeito: Ressurgimento da Entidade",
@@ -1173,7 +1178,7 @@
           "label": "Olho dos Senhores do Arco (Buscar criaturas indetectáveis e ocultas)"
         }
       },
-      "source": "Pathfinder Lost Omens: World Guide"
+      "source": "Pathfinder Lost Omens World Guide"
     },
     "Effect: Eye-Catching Spot": {
       "name": "Efeito: Ponto Chamativo",
@@ -1188,7 +1193,7 @@
     "Effect: Familiar of Bolstering Aid": {
       "name": "Efeito: Familiar de Ajuda Fortalecedora",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.familiar-abilities.Item.HNoR0D2sKQaDNh5Z]{Familiar de Ajuda Fortalecedora}</p>\n<p>Você ganha um bônus de status de +2 no próximo teste de perícia que não seja de ataque que você tentar.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Familiar of Keen Senses": {
       "name": "Efeito: Familiar de Sentidos Aguçados",
@@ -1203,12 +1208,12 @@
     "Effect: Familiar's Resolve": {
       "name": "Efeito: Determinação do Familiar",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.BQ50m0Jb9qyoPchi]{Determinação do Familiar}</p>\n<p>Você ganha um bônus de status em testes de resistência contra efeitos que fariam com que você ficasse @UUID[Compendium.pf2e.conditionitems.Item.3uh1r86TzbQvosxv]{Condenado} ou @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado}.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Favorable Winds": {
       "name": "Efeito: Ventos Favoráveis",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.OK8Fm7EG8wjoYZBX]{Ventos Favoráveis}</p>\n<p>Se sua arma tiver um incremento de alcance de 10 feet ou menos, aumente seu incremento de alcance em 10 feet para aquele Golpe.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Favored Terrain (Gain Climb Speed)": {
       "name": "Efeito: Terreno Favorito (Ganhar Velocidade de Escalada)",
@@ -1266,7 +1271,7 @@
           "label": "Ação de Concessão de Panache (Crueldade Espalhafatosa)"
         }
       },
-      "source": "Pathfinder Lost Omens: Legends"
+      "source": "Pathfinder Lost Omens Legends"
     },
     "Effect: Fleet Tempo": {
       "name": "Efeito: Tempo Veloz",
@@ -1281,7 +1286,7 @@
     "Effect: Fluttering Distraction": {
       "name": "Efeito: Distração Esvoaçante",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.hOImeMiRPIRKPPXY]{Distração Esvoaçante}</p>\n<p>O inimigo deve rolar seu ataque duas vezes e usar o resultado menor.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Fly on Shadowed Wings": {
       "name": "Efeito: Voar em Asas Sombreadas",
@@ -1306,12 +1311,12 @@
           "label": "Teste de Resistência Contra um Efeito de Área"
         }
       },
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Fortify Shield": {
       "name": "Efeito: Fortificar Escudo",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.DidzozerKLZ2UYLx]{Fortificar Escudo}</p>\n<p>Você Ergue seu Escudo. Adicione seu nível de personagem à Dureza do seu escudo.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Fresh Produce": {
       "name": "Efeito: Produtos Frescos",
@@ -1351,7 +1356,7 @@
     "Effect: Gathering Moss": {
       "name": "Efeito: Reunir Musgo",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.yg02rHaDPpGSgkrk]{Reunir Musgo}</p>\n<p>Você ganha cura rápida igual ao seu nível.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Effect: Genie Blood Magic": {
       "name": "Efeito: Magia de Sangue de Gênio",
@@ -1361,7 +1366,7 @@
     "Effect: Geobukseon Retaliation": {
       "name": "Efeito: Retaliação de Geobukseon",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.WcvscJpQhbTiefwn]{Retaliação de Geobukseon}</p>\n<p>Você ganha um bônus de circunstância de +4 em CA e resistência 2 a dano de concussão, perfuração e corte.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Ghost Strike": {
       "name": "Efeito: Golpe Fantasma",
@@ -1371,7 +1376,7 @@
     "Effect: Ghost Wrangler": {
       "name": "Efeito: Controlador de Fantasmas",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.00OnDt8UEMwfoYWH]{Controlador de Fantasmas}</p>\n<p>Seus punhos ganham os efeitos da runa de propriedade toque fantasma.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Ghosts in the Storm": {
       "name": "Efeito: Fantasmas na Tempestade",
@@ -1421,7 +1426,7 @@
     "Effect: God's Palm (Temporary Hit Points)": {
       "name": "Efeito: Palma de Deus (Pontos de Vida Temporários)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.ZuKEEP4S4b4fbgAt]{Palma de Deus}</p>\n<p>Você ganha pontos de vida temporários iguais à metade do seu nível.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Godspeed": {
       "name": "Efeito: Velocidade Divina",
@@ -1456,12 +1461,12 @@
     "Effect: Guided by the Stars": {
       "name": "Efeito: Guiado pelas Estrelas",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.s1swBWSqtfrXTJHK]{Guiado pelas Estrelas}</p>\n<p>Você rola duas vezes e usa o melhor resultado em seu próximo teste de perícia ou teste de resistência. Se for noite e você puder ver as estrelas, você ganha um bônus de circunstância de +1 na rolagem que o acionou.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Guiding Words": {
       "name": "Efeito: Palavras Orientadoras",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.LmsjuqB3rrZTqqa6]{Palavras Orientadoras}</p>\n<p>Role duas vezes e use o melhor resultado em sua primeira jogada de ataque.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Gunpowder Gauntlet": {
       "name": "Efeito: Manopla de Pólvora",
@@ -1481,7 +1486,7 @@
     "Effect: Harbinger's Armament": {
       "name": "Efeito: Armamento do Arauto",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.KuLH3nG3chToIffB]{Armamento do Arauto}</p>\n<p>Selecione uma arma ou <em>bandagens de golpes poderosos</em>. Ela ganha o efeito de uma runa de propriedade. Escolha <em>amedrontadora</em>, <em>toque fantasma</em>, <em>retornante</em>, <em>mutante</em> ou <em>vitalizante</em>.</p>\n<p>Se você tiver @UUID[Compendium.pf2e.feats-srd.Item.Z91dIlVcJXoicbHj]{Armamento Maior}, adicione <em>brilhante</em>, <em>corrosiva</em>, <em>flamejante</em>, <em>congelante</em>, <em>sagrada</em>, <em>choque</em>, <em>trovejante</em> e <em>profana</em>.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Harden Flesh": {
       "name": "Efeito: Endurecer Carne",
@@ -1516,7 +1521,7 @@
     "Effect: Hasty Celebration": {
       "name": "Efeito: Celebração Apressada",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.Rb3ndqSyDUa6KvOL]{Celebração Apressada}</p>\n<p>Você concede a todos os aliados em um raio de 60 feet um bônus de circunstância de +2 em jogadas de ataque e dano, e você está @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} para todos os inimigos.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Healer of the World": {
       "name": "Efeito: Curandeiro do Mundo",
@@ -1526,12 +1531,12 @@
     "Effect: Healing Sanctuary": {
       "name": "Efeito: Santuário de Cura",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.cD5EsurWVYekIXkz]{Santuário de Cura}</p>\n<p>Você ganha 10 pontos de vida temporários.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Heaven's Thunder": {
       "name": "Efeito: Trovão do Céu",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.qJdbK8vgIqeHU7bu]{Trovão do Céu}</p>\n<p>Seus ataques desarmados e quaisquer armas de monge que você empunhar causam dano adicional de eletricidade e sônico; a quantidade de cada tipo de dano é igual ao número de dados de dano da arma ou ataque desarmado.</p>\n<p>Se você também conhece a magia de qi <em>rajada de qi</em>, você pode escolher causar dano de eletricidade ou sônico com a magia em vez de força (<em>rajada de qi</em> perde o traço de força e ganha o traço de eletricidade ou sônico).</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Effect: Helpful Tinkering": {
       "name": "Efeito: Conserto Útil",
@@ -1541,12 +1546,12 @@
     "Effect: Herald's Weapon": {
       "name": "Efeito: Arma do Arauto",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.5ELeiNtEDgXfBcwt]{Arma do Arauto}</p>\n<p>Sua arma ou ataque desarmado escolhido causa dano de espírito em vez de seu dano normal, ganha o traço santificado e causa 2d4 de dano de espírito adicional.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Heroes' Call": {
       "name": "Efeito: Chamado dos Heróis",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.7cM7uKRKQDWz5eeu]{Chamado dos Heróis}</p>\n<p>Você ganha pontos de vida temporários iguais ao dobro do seu nível.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Heroic Defiance": {
       "name": "Efeito: Desafio Heroico",
@@ -1581,12 +1586,17 @@
     "Effect: Howling Aspect": {
       "name": "Efeito: Aspecto Uivante",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.rb0GCneYEzBi2LGr]{Aspecto Uivante}</p>\n<p>Você ganha um ataque desarmado corpo a corpo de presas que causa 1d6 de dano de perfuração, está no grupo de luta e tem os traços de finesse e desarmado. Você também ganha um ataque desarmado corpo a corpo de cabelo de fogo que causa 1d4 de dano de fogo, está no grupo de luta e tem os traços ágil, finesse e desarmado.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Hungry Goblin": {
       "name": "Efeito: Goblin Faminto",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.DnfVQGLk3PAl8UWh]{Goblin Faminto}</p>\n<p>Você ganha pontos de vida temporários iguais à metade do seu nível.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
+    },
+    "Effect: Hunt Prey": {
+      "name": "Effect: Hunt Prey",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.actionspf2e.Item.JYi4MnsdFu618hPm]{Hunt Prey}</p>\n<p>You gain a +2 circumstance bonus to Perception checks when you @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} your prey and a +2 circumstance bonus to Survival checks when you @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{Track} your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you're hunting.</p>\n<p>You can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations.</p>",
+      "source": "Pathfinder Player Core"
     },
     "Effect: Hunt the Razer's Pawn": {
       "name": "Efeito: Caçar o Peão do Razer",
@@ -1601,20 +1611,20 @@
     "Effect: Hunter's Edge, Flurry": {
       "name": "Efeito: Borda do Caçador, Rajada",
       "description": "<p>Concedido quando um ranger compartilha sua borda @UUID[Compendium.pf2e.classfeatures.Item.6v4Rj7wWfOH1882r]{Rajada} com você.</p>\n<p>Sua penalidade de ataque múltiplo para ataques contra sua presa caçada é -3 (-2 com uma arma ágil) em seu segundo ataque do turno em vez de -5, e -6 (-4 com uma arma ágil) em seu terceiro ataque ou ataques subsequentes do turno, em vez de -10.</p>",
-      "source": "Pathfinder Core Rulebook"
+      "source": "Pathfinder Player Core"
     },
     "Effect: Hunter's Edge, Outwit": {
       "name": "Efeito: Borda do Caçador, Superar",
       "description": "<p>Concedido quando um ranger compartilha sua borda @UUID[Compendium.pf2e.classfeatures.Item.NBHyoTrI8q62uDsU]{Superar} com você.</p>\n<p>Você ganha um bônus de circunstância de +2 em testes de Enganação, testes de Intimidação, testes de Furtividade e quaisquer testes para Lembrar de Conhecimento sobre a presa, e um bônus de circunstância de +1 em CA contra os ataques da sua presa.</p>",
       "rules": {
-        "3": {
-          "label": "Contra presa caçada"
-        },
         "4": {
-          "label": "Lembrar de Conhecimento sobre presa caçada"
+          "label": "Vs. hunted prey"
         },
         "5": {
-          "label": "Contra ataques de presa caçada"
+          "label": "Recall knowledge on hunted prey"
+        },
+        "6": {
+          "label": "Vs. attacks from hunted prey"
         }
       },
       "source": "Pathfinder Player Core"
@@ -1622,22 +1632,17 @@
     "Effect: Hunter's Edge, Precision": {
       "name": "Efeito: Borda do Caçador, Precisão",
       "description": "<p>Concedido quando um ranger compartilha sua borda @UUID[Compendium.pf2e.classfeatures.Item.u6cBjqz2fiRBadBt]{Precisão} com você.</p>\n<p>Na primeira vez que você acertar sua presa caçada em uma rodada, você também causa 1d8 de dano de precisão adicional.</p>\n<p>No 11º nível, o dano extra aumenta para 2d8 de dano de precisão e, no 19º nível, o dano extra aumenta para 3d8 de dano de precisão.</p>",
-      "rules": {
-        "3": {
-          "label": "Primeiro ataque contra presa caçada nesta rodada"
-        }
-      },
       "source": "Pathfinder Player Core"
     },
     "Effect: Hybrid Shape (Beastkin)": {
       "name": "Efeito: Forma Híbrida (Beastkin)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.34E7k2YRcsOU5uyl]{Mudar de Forma}.</p>\n<p>Na forma híbrida, você aparece como uma mistura entre sua ancestralidade e seu animal inerente. Enquanto estiver na forma híbrida, você ganha um Golpe desarmado de mandíbulas que se assemelha às características do seu animal inerente (presas para morcegos, bicos para águias, mandíbulas para vespas e assim por diante). Suas mandíbulas causam 1d4 de dano de perfuração, têm os traços ágil, finesse e desarmado e estão no grupo de armas de luta.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Hydraulic Deflection": {
       "name": "Efeito: Deflexão Hidráulica",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.kqRFoXfErUFEndIs]{Deflexão Hidráulica}</p>\n<p>Você ganha um bônus de circunstância de +1 em CA.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Imperial Blood Magic": {
       "name": "Efeito: Magia de Sangue Imperial",
@@ -1648,6 +1653,11 @@
       "name": "Efeito: Arma de Veneno Aprimorada",
       "description": "<p>Aplicado quando você aplica um veneno criado com @UUID[Compendium.pf2e.feats-srd.Item.9Eufa07qvXG41QmG]{Arma de Veneno Aprimorada}.</p>",
       "source": "Pathfinder Core Rulebook"
+    },
+    "Effect: In Lightning, Life": {
+      "name": "Effect: In Lightning, Life",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.1RQLf09kpOO6ljmb]{In Lightning, Life}</p>\n<p>You gain temporary hit points.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Effect: Indomitable Spirit": {
       "name": "Efeito: Espírito Indomável",
@@ -1677,7 +1687,7 @@
     "Effect: Inspiring Resilience": {
       "name": "Efeito: Resiliência Inspiradora",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.AbsqV1P8OAhChcRl]{Resiliência Inspiradora}</p>\n<p>Você ganha um bônus de circunstância de +1 em seu teste de resistência de Vontade contra o efeito que o acionou, ou um bônus de circunstância de +2 se o efeito se originou de um morto-vivo.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Instructive Strike": {
       "name": "Efeito: Golpe Instrutivo",
@@ -1687,7 +1697,7 @@
     "Effect: Inventive Offensive": {
       "name": "Efeito: Ofensiva Inventiva",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.SrSYEHqOLXWuj65e]{Ofensiva Inventiva}</p>\n<p>Quando você usa essa habilidade, adicione um dos seguintes traços de arma a uma arma corpo a corpo que você empunha: mortal d6, desarmar, não letal, empurrar, derrubar, versátil B, versátil P ou versátil S. Você não pode adicionar um traço que a arma já possui. A arma retém esse traço até que você acerte e cause dano com a arma. A arma retém esse traço apenas enquanto você a empunha e você só pode ter uma arma modificada dessa forma por vez.</p>\n<p>Se você tem proficiência lendária em Artesanato, você pode aplicar dois traços de arma da lista ao usar esse talento.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Invigorating Breath": {
       "name": "Efeito: Sopro Revigorante",
@@ -1702,22 +1712,22 @@
     "Effect: Invoke Defense": {
       "name": "Efeito: Invocar Defesa",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.iBdvNOWazhiXeUUa]{Invocar Defesa}</p>\n<p>Escolha concussão, perfuração ou corte. Você ganha resistência igual à metade do seu nível para esse tipo de dano.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Invoke Movement": {
       "name": "Efeito: Invocar Movimento",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.7ZYw4SiBLBbbICNs]{Invocar Movimento}</p>\n<p>Você ganha uma velocidade de escavação, escalada, voo ou natação.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Invoke Offense": {
       "name": "Efeito: Invocar Ofensiva",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.EEtezGRTZSHayQDR]{Invocar Ofensiva}</p>\n<p>Você ganha um ataque desarmado que causa 1d8 de dano espiritual pela duração do seu transe espiritual. Este ataque desarmado está no grupo de armas de luta e tem os traços ágil, finesse e mágico.</p>\n<p>No 5º nível, este ataque desarmado ganha os benefícios de uma runa de impacto. No 12º nível, este ataque desarmado ganha os benefícios de uma runa de impacto maior. No 20º nível, este ataque desarmado ganha os benefícios de uma runa de impacto superior.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Juvenile Flight": {
       "name": "Efeito: Voo Juvenil",
       "description": "<p>Você ganha uma Velocidade de voo igual à sua Velocidade terrestre enquanto suas asas estiverem abertas.</p>\n<p>Se você tiver @UUID[Compendium.pf2e.feats-srd.Item.UuVz1QY7QXD5cnLu]{Voo de Filhotinho}, você ganha um bônus de status de +10 feet em sua Velocidade de voo com Voo Juvenil. Como normal, como sua Velocidade de voo é derivada de sua Velocidade terrestre, este bônus de status não é cumulativo com um bônus de status em sua Velocidade terrestre, se você tiver um.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Kindle Inner Flames": {
       "name": "Efeito: Acender Chamas Internas",
@@ -1727,7 +1737,7 @@
     "Effect: Kindling": {
       "name": "Efeito: Acendendo",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.familiar-abilities.Item.gVPtUSEPZYGRIRyQ]{Acendendo}</p>\n<p>Você ganha um bônus de status ao dano de uma magia que tem o traço de fogo igual ao dobro do nível da magia.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Kinetic Aura": {
       "name": "Efeito: Aura Cinética",
@@ -1737,7 +1747,7 @@
     "Effect: Kishin Rage": {
       "name": "Efeito: Fúria Kishin",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.zknpo51jJndv68Ph]{Fúria Kishin}</p>\n<p>Você ganha 40 pontos de vida temporários, uma Velocidade de voo igual à sua Velocidade e seus chifres causam 1d4 de dano de eletricidade adicional.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Kneecap": {
       "name": "Efeito: Rótula",
@@ -1772,7 +1782,7 @@
     "Effect: Legendary Monster": {
       "name": "Efeito: Monstro Lendário",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.DmpJgLsHfv1kMcJc]{Monstro Lendário}</p>\n<p>Quando você Liberar o Poder Yaoguai, você pode ganhar um dos seguintes benefícios adicionais.</p>\n<ul>\n<li>Seu corpo cresce a alturas impossíveis. Seu efeito de @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Aumentar} é aumentado para o 4º nível.</li>\n<li>Seu poder espiritual entra em erupção para punir seus inimigos. Você causa 1d4 de dano espiritual adicional com todos os Golpes e magias de ataque, e seus Golpes e magias de ataque ganham o traço espiritual.</li>\n<li>Você pode saltar do próprio ar. Você ganha os efeitos da magia @UUID[Compendium.pf2e.spells-srd.Item.A2JfEKe6BZcTG1S8]{Voar}.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Legendary Monster Hunter": {
       "name": "Efeito: Caçador de Monstros Lendário",
@@ -1830,12 +1840,12 @@
     "Effect: Life-Giving Magic": {
       "name": "Efeito: Magia Doadora de Vida",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.hSzNtRNwrma81Eeq]{Magia Doadora de Vida}</p>\n<p>Você ganha um número de pontos de vida temporários igual à metade do seu nível (mínimo 1) que duram até o final do seu próximo turno.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Lightning Armillary": {
       "name": "Efeito: Armilar Relâmpago",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.familiar-abilities.Item.zwWgHjcU0iZ6gUDY]{Armilar Relâmpago}</p>\n<p>Sua arma ou mão causa 1d6 de dano de eletricidade adicional ou 1d8 de dano de eletricidade.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Living Epic": {
       "name": "Efeito: Epopeia Viva",
@@ -1855,7 +1865,7 @@
     "Effect: Living for the Applause": {
       "name": "Efeito: Vivendo para os Aplausos",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.CL43gGiErw5FUtFQ]{Vivendo para os Aplausos}</p>\n<p>Você ganha um bônus de circunstância de +1 em CA.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Effect: Lock On": {
       "name": "Efeito: Mirar",
@@ -1870,12 +1880,12 @@
     "Effect: Lost in the Crowd": {
       "name": "Efeito: Perdido na Multidão",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.d8RfatiK9UOQANLz]{Perdido na Multidão}</p>\n<p>Você ganha um bônus de circunstância de +2 em seu teste de Furtividade quando estiver em uma multidão de pelo menos 10 criaturas ou um bônus de circunstância de +4 quando estiver em uma multidão de pelo menos 100 criaturas.</p>",
-      "source": "Pathfinder Lost Omens: World Guide"
+      "source": "Pathfinder Lost Omens World Guide"
     },
     "Effect: Maiden's Mending": {
       "name": "Efeito: Cura da Donzela",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.Hmgy0GJKIawAiqHE]{Cura da Donzela}</p>\n<p>Você ganha um número de pontos de vida temporários igual à metade do seu nível (mínimo 1) que duram até o final do seu próximo turno.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Manifest Realm": {
       "name": "Efeito: Manifestar Reino",
@@ -1885,7 +1895,7 @@
     "Effect: Marked for Rebuke": {
       "name": "Efeito: Marcado para Repreensão",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.k8c0E7YyeIQJjRzB]{Marcado para Repreensão}</p>\n<p>Você ganha fraqueza 10 a todos os danos.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Marshal's Aura": {
       "name": "Efeito: Aura do Marechal",
@@ -1909,17 +1919,14 @@
       "name": "Efeito: Borda do Caçador Mestre, Superar",
       "description": "<p>Concedido quando um ranger compartilha seu @UUID[Compendium.pf2e.classfeatures.Item.vWZaLE2fEKMBw3D5]{Caçador Mestre (Superar)} com você.</p>\n<p>Seu domínio de perícias permite que você sobrecarregue sua presa. Se você tem proficiência mestre em Enganação, Intimidação, Furtividade ou na perícia que você usa para Lembrar de Conhecimento sobre sua presa, aumente o bônus de circunstância contra a presa com essa perícia de +2 para +4.</p>\n<p>Se você tem proficiência mestre com sua armadura, aumente o bônus de circunstância em CA contra a presa de +1 para +2.</p>",
       "rules": {
-        "1": {
-          "label": "Para Rastrear presa caçada (Caçador Mestre)"
-        },
         "2": {
-          "label": "Para Buscar presa caçada (Caçador Mestre)"
+          "label": "To Track hunted prey (Masterful Hunter)"
         },
         "3": {
-          "label": "Contra ataques de presa caçada (Caçador Mestre)"
+          "label": "To Seek hunted prey (Masterful Hunter)"
         },
         "4": {
-          "label": "Contra presa caçada (Caçador Mestre)"
+          "label": "Vs. attacks from hunted prey (Masterful Hunter)"
         },
         "5": {
           "label": "Contra presa caçada (Caçador Mestre)"
@@ -1928,7 +1935,7 @@
           "label": "Contra presa caçada (Caçador Mestre)"
         },
         "7": {
-          "label": "Lembrar de Conhecimento sobre presa caçada (Caçador Mestre)"
+          "label": "Vs. hunted prey (Masterful Hunter)"
         },
         "8": {
           "label": "Lembrar de Conhecimento sobre presa caçada (Caçador Mestre)"
@@ -1944,25 +1951,28 @@
         },
         "12": {
           "label": "Lembrar de Conhecimento sobre presa caçada (Caçador Mestre)"
+        },
+        "13": {
+          "label": "Recall knowledge on hunted prey (Masterful Hunter)"
         }
       },
-      "source": "Pathfinder Core Rulebook"
+      "source": "Pathfinder Player Core"
     },
     "Effect: Masterful Hunter's Edge, Precision": {
       "name": "Efeito: Borda do Caçador Mestre, Precisão",
       "description": "<p>Concedido quando um ranger compartilha seu @UUID[Compendium.pf2e.classfeatures.Item.BJYSUbFUGcTLaPDn]{Caçador Mestre (Precisão)} com você.</p>\n<p>Na segunda vez em uma rodada que você acertar sua presa caçada, você também causa 1d8 de dano de precisão.</p>\n<p>No 19º nível, seu segundo acerto em uma rodada contra sua presa caçada causa 2d8 de dano de precisão e seu terceiro acerto em uma rodada contra sua presa caçada causa 1d8 de dano de precisão.</p>",
       "rules": {
-        "1": {
-          "label": "Para Rastrear presa caçada (Caçador Mestre)"
-        },
         "2": {
-          "label": "Para Buscar presa caçada (Caçador Mestre)"
+          "label": "To Track hunted prey (Masterful Hunter)"
         },
         "3": {
-          "label": "Segundo ataque contra presa caçada nesta rodada"
+          "label": "To Seek hunted prey (Masterful Hunter)"
         },
-        "5": {
-          "label": "Terceiro ataque contra presa caçada nesta rodada"
+        "4": {
+          "label": "Second attack on hunted prey this round"
+        },
+        "6": {
+          "label": "Third attack on hunted prey this round"
         }
       },
       "source": "Pathfinder Player Core"
@@ -1981,7 +1991,7 @@
     "Effect: Memory of Skill": {
       "name": "Efeito: Memória de Perícia",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.7UDWeLq8OAL04gHR]{Memória de Perícia}</p>\n<p>Você aumenta temporariamente seu nível de proficiência com essa perícia em um passo.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Mental Balm": {
       "name": "Efeito: Bálsamo Mental",
@@ -2021,7 +2031,7 @@
     "Effect: Monarch Wings": {
       "name": "Efeito: Asas de Monarca",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.IzNyByUBNH94MDOr]{Ascensão Feérica}</p>\n<p>Você ganha uma Velocidade de voo igual à sua Velocidade enquanto tiver suas asas manifestadas.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Effect: Monster Hunter": {
       "name": "Efeito: Caçador de Monstros",
@@ -2066,7 +2076,7 @@
     "Effect: Mutate Weapon": {
       "name": "Efeito: Mutar Arma",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.SWNmYaj0OSPhhIqO]{Mutar Arma}</p>\n<p>O dado de dano para o ataque que você ganhou com Arma Viva aumenta em um passo. Além disso, escolha entre fazer o ataque ganhar um alcance de 10 feet ou você ganhar um bônus de status de +1 em jogadas de ataque com o ataque desarmado escolhido.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Mythic Allies": {
       "name": "Efeito: Aliados Míticos",
@@ -2081,7 +2091,7 @@
     "Effect: Nanite Surge": {
       "name": "Efeito: Surto de Nanite",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.JS24EjgLYcHB9E3T]{Surto de Nanite}.</p>\n<p>Seus circuitos brilham, iluminando uma @Template[emanation|distance:10] com luz fraca por 1 rodada.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Nanite Surge (Bonus)": {
       "name": "Efeito: Surto de Nanite (Bônus)",
@@ -2095,7 +2105,7 @@
     "Effect: Oath of the Defender": {
       "name": "Efeito: Juramento do Defensor",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.imBsp1Tg7KMut4Lf]{Juramento do Defensor}</p>\n<p>Você ganha resistência a dano causado por criaturas com o traço escolhido.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Ocean's Balm": {
       "name": "Efeito: Bálsamo do Oceano",
@@ -2107,6 +2117,11 @@
       "description": "<p>Concedido por @UUID[Compendium.pf2e.classfeatures.Item.F8oXHnu9iNTcpXbJ]{Aumento Ofensivo}</p>\n<p>Suas melhorias fazem com que quaisquer Golpes que dependam de sua inovação causem 1d6 de dano adicional, com um tipo determinado pela melhoria que você escolher. Se sua inovação for armadura, a melhoria se aplica aos seus Golpes corpo a corpo com uma arma que você escolher durante os preparativos diários; se sua inovação for um construto, a melhoria se aplica aos Golpes do seu companheiro construto.</p>",
       "source": "Pathfinder Guns & Gears"
     },
+    "Effect: Offer Story": {
+      "name": "Effect: Offer Story",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.actionspf2e.Item.7wQe43fSCG9DSWdj]{Offer Story}</p>\n<p>You gain a +1 status bonus to AC and Will saves.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Effect: One Moment till Glory": {
       "name": "Efeito: Um Momento para a Glória",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.IEBBHnI7wWRt44KG]{Um Momento para a Glória}</p>\n<p>Você ganha um bônus de status de +2 em seu teste de resistência.</p>",
@@ -2115,7 +2130,7 @@
     "Effect: One with the Spirits": {
       "name": "Efeito: Um com os Espíritos",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.OxdlGZ1rndxalf6X]{Um com os Espíritos}</p>\n<p>Você ganha cura rápida 5 e fica oculto. Seus Golpes ganham os benefícios de uma runa de propriedade de <em>toque fantasma</em>. Sempre que você causar dano com um Golpe, você pode escolher que esse Golpe cause dano espiritual, em vez de seu tipo de dano usual.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Ongoing Selfishness": {
       "name": "Efeito: Egoísmo Contínuo",
@@ -2125,7 +2140,7 @@
     "Effect: Oni Form": {
       "name": "Efeito: Forma de Oni",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.iCNNMJeGvsIzza4A]{Forma de Oni}</p>\n<p>Seu tamanho aumenta para Grande e você está @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Desajeitado 1}. Isso não altera sua Velocidade, alcance ou outras estatísticas, exceto conforme observado aqui.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Only You and I": {
       "name": "Efeito: Só Você e Eu",
@@ -2175,7 +2190,7 @@
     "Effect: Packed with Flavor": {
       "name": "Efeito: Cheio de Sabor",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.U1EMvL3PbEQZXqLy]{Cheio de Sabor}</p>\n<p>Você ganha pontos de vida temporários.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Pain is Temporary": {
       "name": "Efeito: A Dor é Temporária",
@@ -2185,7 +2200,7 @@
     "Effect: Pale Horse": {
       "name": "Efeito: Cavalo Pálido",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.qPlv8HwtoO2fAjkj]{Cavalo Pálido}</p>\n<p>Você ganha resistência 10 a dano de fogo, veneno ou vazio.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Panache": {
       "name": "Efeito: Panache",
@@ -2200,12 +2215,12 @@
     "Effect: Path of the Tempest": {
       "name": "Efeito: Caminho da Tempestade",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.familiar-abilities.Item.O0XJIvMGK36yg9TJ]{Caminho da Tempestade}</p>\n<p>Seu familiar invoca ventos que aceleram e protegem você. Você ganha um bônus de status de +10 feet em sua Velocidade até o final do seu turno. Quando você Andar neste turno, você não ativará reações. Além disso, você não precisa Andar antes de um @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Salto em Distância} neste turno.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Perfect Resistance": {
       "name": "Efeito: Resistência Perfeita",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.QN55ToyJIjxgPmhs]{Resistência Perfeita}</p>\n<p>Depois de usar uma magia ki de Estudante da Perfeição, a resistência aumenta para ser igual ao seu nível por 1 rodada.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Effect: Phenom Verve": {
       "name": "Efeito: Verve do Fenômeno",
@@ -2264,7 +2279,7 @@
     "Effect: Prayer-Touched Weapon": {
       "name": "Efeito: Arma Tocada pela Oração",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.2qR4QAgJVArv63Z2]{Arma Tocada pela Oração}</p>\n<p>A arma escolhida causa 1d6 de dano de vitalidade extra.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Precious Ammunition": {
       "name": "Efeito: Munição Preciosa",
@@ -2294,7 +2309,7 @@
     "Effect: Prepare Elemental Medicine": {
       "name": "Efeito: Preparar Medicina Elemental",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.NMbOfl885pn0Yzu9]{Preparar Medicina Elemental}</p>\n<p>Você ganha um bônus de circunstância em testes de resistência contra uma aflição ou uma penalidade de circunstância de -1 em uma falha crítica.</p>\n<p>Se você tiver @UUID[Compendium.pf2e.feats-srd.Item.qaiwbAb1PaKrZ2O0]{Fortificação de Energia} e usar Ocultismo para Preparar Medicina Elemental, o receptor ganha resistência e fraqueza a dano de vitalidade e dano de vazio com base no elemento que você escolheu.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Prevailing Position": {
       "name": "Efeito: Posição Prevalecente",
@@ -2319,12 +2334,12 @@
     "Effect: Protective Cycle": {
       "name": "Efeito: Ciclo Protetor",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.7G1gMSHyMdMGMsF9]{Ciclo Protetor}</p>\n<p>Você ganha um bônus de circunstância de +2 em CA.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Protective Pose": {
       "name": "Efeito: Postura Protetora",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.A9WrbBCCdYsmdKGv]{Postura Protetora}</p>\n<p>Você ganha resistência a dano de ácido, frio, eletricidade, fogo ou sônico igual à metade do nível da origem.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Protective Spirit Mask": {
       "name": "Efeito: Máscara Espiritual Protetora",
@@ -2354,17 +2369,17 @@
     "Effect: Purifying Breeze": {
       "name": "Efeito: Brisa Purificadora",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.k42ntHdg70ZMEKrs]{Brisa Purificadora}</p>\n<p>Você ganha um bônus de status de +1 em testes de resistência de Fortitude.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Push Back the Dead!": {
       "name": "Efeito: Repelir os Mortos!",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.BtZJJClWCpc31Ven]{Repelir os Mortos!}</p>\n<p>Você ganha um bônus de circunstância de +2 em testes de resistência contra efeitos originados de mortos-vivos. Você também ganha resistência a dano de Golpes feitos por criaturas mortas-vivas.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Pushing Wind": {
       "name": "Efeito: Vento Empurrando",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.GxkTe4VM7u26uZGI]{Vento Empurrando}</p>\n<p>Você ganha um bônus de circunstância de +5 feet em Velocidade terrestre.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Race the Skies": {
       "name": "Efeito: Corrida pelos Céus",
@@ -2374,7 +2389,7 @@
     "Effect: Radiant Circuitry": {
       "name": "Efeito: Circuitos Radiantes",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.2XmdYW8OsAvjGDG3]{Circuitos Radiantes}.</p>\n<p>Você emite luz brilhante em um raio de 20 feet (e luz fraca para os próximos 20 feet).</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Rage": {
       "name": "Efeito: Fúria",
@@ -2385,6 +2400,11 @@
       "name": "Efeito: Imunidade a Pontos de Vida Temporários de Fúria",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Fúria}</p>\n<p>Você não pode ganhar pontos de vida temporários usando a ação Fúria.</p>",
       "source": "Pathfinder Player Core 2"
+    },
+    "Effect: Raging Stories": {
+      "name": "Effect: Raging Stories",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.3GmgFUL2xzt5vhCz]{Raging Stories}</p>\n<p>Your melee Strikes deal 2 additional fire damage. The fire damage increases to 4 if you are a master of Religion and 6 if you are legendary.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Effect: Raise Menhir": {
       "name": "Efeito: Erguer Menir",
@@ -2409,12 +2429,12 @@
     "Effect: Rampaging Form": {
       "name": "Effect: Forma Devastador",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.Zl6vDXJEM7Lbp8JQ]{Forma Devastador}</p>\n<p>Você Muda de Forma para uma forma de gelo vivo por 1 minuto ou até que você mude de volta. Sua forma de batalha é Imensa e tem as seguintes estatísticas:</p>\n<ul>\n<li>CA = 18 + seu nível. Ignore a penalidade de verificação de sua armadura e a redução de Velocidade.</li>\n<li>20 Pontos de Vida temporários.</li>\n<li>Visão com pouca luz e faro impreciso 30 pés.</li>\n<li>Uma Velocidade de 30, uma velocidade de Voo de 40 e você não precisa respirar</li>\n<li><strong>Corpo a Corpo</strong> <span class=\"action-glyph\">a</span> mandíbulas, <strong>Dano</strong> 2d8 perfurante + 1d4 de dano de fogo.</li>\n<li>Seus ataques desarmados causam 1d4 de dano de fogo adicional, e seus feitiços de fogo causam um dado adicional de dano de fogo (do mesmo dado de dano que o feitiço usa).</li>\n<li>Você pode lançar @UUID[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe]{Produzir Chama} como uma magia inata; o lançamento é reduzido de 2 ações para 1.</li>\n<li>Qualquer criatura que tocar em você ou danificá-lo com um ataque desarmado ou arma corpo a corpo sem alcance receberá @Damage[3d6[fire]] de dano.</li>\n<li>Modificador de Atletismo de +20, a menos que seu próprio modificador seja maior.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Rampaging Form (Frozen Winds Kitsune)": {
       "name": "Effect: Forma Devastador (Kitsune dos Ventos Congelados)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.Zl6vDXJEM7Lbp8JQ]{Forma Devastador}</p>\n<p>Você Muda de Forma para uma forma de gelo vivo por 1 minuto ou até que você mude de volta. Sua forma de batalha é Imensa e tem as seguintes estatísticas:</p>\n<ul>\n<li>CA = 18 + seu nível. Ignore a penalidade de verificação de sua armadura e a redução de Velocidade.</li>\n<li>20 Pontos de Vida temporários.</li>\n<li>Visão com pouca luz e faro impreciso 30 pés.</li>\n<li>Uma Velocidade de 30, uma velocidade de Voo de 40 e você não precisa respirar</li>\n<li><strong>Corpo a Corpo</strong> <span class=\"action-glyph\">a</span> mandíbulas, <strong>Dano</strong> 2d8 perfurante + 1d4 de dano de frio.</li>\n<li>Seus ataques desarmados causam 1d4 de dano de frio adicional, e seus feitiços de frio causam um dado adicional de dano de frio (do mesmo dado de dano que o feitiço usa).</li>\n<li>Você pode lançar @UUID[Compendium.pf2e.spells-srd.Item.gYjPm7YwGtEa1oxh]{Raio de Gelo} como uma magia inata; o lançamento é reduzido de 2 ações para 1.</li>\n<li>Qualquer criatura que tocar em você ou danificá-lo com um ataque desarmado ou arma corpo a corpo sem alcance receberá @Damage[3d6[cold]] de dano.</li>\n<li>Modificador de Atletismo de +20, a menos que seu próprio modificador seja maior.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Read Shibboleths": {
       "name": "Effect: Ler Senhas",
@@ -2454,7 +2474,7 @@
     "Effect: Regional Specialty": {
       "name": "Effect: Especialidade Regional",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.l1I6bmdm31MPwmWU]{Especialidade Regional}</p>\n<p>Você ganha um bônus de item contra certos testes de resistência, dependendo do elemento escolhido.</p>\n<ul>\n<li><strong>Madeira</strong> Contra efeitos de doença e veneno.</li>\n<li><strong>Fogo</strong> Contra ser condenado ou assustado.</li>\n<li><strong>Terra</strong> Contra ser enfraquecido.</li>\n<li><strong>Metal</strong> Contra ser estupefato.</li>\n<li><strong>Água</strong> Contra ensurdecido ou drenado.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Renewed Vigor": {
       "name": "Effect: Vigor Renovado",
@@ -2464,12 +2484,12 @@
     "Effect: Renewing Cycle": {
       "name": "Effect: Ciclo de Renovação",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.frRJAuuAgDg3RFii]{Ciclo de Renovação}</p>\n<p>Você ganha Pontos de Vida temporários iguais à metade do seu nível.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Repair Module": {
       "name": "Effect: Módulo de Reparo",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.ZGT7NLpcvREkJsMd]{Módulo de Reparo}</p>\n<p>Você ganha cura rápida igual à metade do seu nível.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Repel Ambient Magic": {
       "name": "Effect: Repelir Magia Ambiente",
@@ -2511,6 +2531,11 @@
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.F6TIEmYYJGmVhMXl]{Coração Rugindo}</p>\n<p>Você ganha Pontos de Vida temporários.</p>",
       "source": "Pathfinder War of Immortals"
     },
+    "Effect: Rod of Rule": {
+      "name": "Effect: Rod of Rule",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.ZELjVKOohGw3ECwB]{Rod of Rule}</p>\n<p>You take –2 circumstance penalty to saves against any of the origin's curriculum or sin spells.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Effect: Roll the Bones of Fate (Good)": {
       "name": "Effect: Role os Ossos do Destino (Bom)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.7Q7HWETkvOM9pYwV]{Role os Ossos do Destino}</p>\n<p>Você pode rolar duas vezes em sua próxima jogada de ataque ou teste de habilidade, usando o resultado mais alto.</p>",
@@ -2520,6 +2545,16 @@
       "name": "Effect: Magia de Raiz",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.22P7IFyhrF7Fbw8B]{Magia de Raiz}</p>\n<p>Você ganha um bônus de circunstância em um teste de resistência contra uma magia ou assombração.</p>",
       "source": "Pathfinder Player Core 2"
+    },
+    "Effect: Ruthless Orator": {
+      "name": "Effect: Ruthless Orator",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.7HZaOlJ43QxkDrmO]{Ruthless Orator}</p>\n<p>Any hostile creatures within 20 feet take a –2 circumstance penalty to attack rolls and spell attack rolls that target you.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
+    "Effect: Ruthless Orator (Enemy)": {
+      "name": "Effect: Ruthless Orator (Enemy)",
+      "description": "<p>Granted by Ruthless Orator</p>\n<p>You take a -2 circumstance penalty to attack rolls and spell attack rolls against the origin.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Effect: Safeguard Soul": {
       "name": "Effect: Salvaguardar Alma",
@@ -2534,7 +2569,7 @@
     "Effect: Saoc Astrology": {
       "name": "Effect: Astrologia Saoc",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.csoGdGuWasEw3boD]{Astrologia Saoc}</p>\n<p>Você ganha o bônus ou penalidade de circunstância selecionado em testes de habilidade.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Scout (Incredible Scout)": {
       "name": "Effect: Batedor (Batedor Incrível)",
@@ -2554,7 +2589,7 @@
     "Effect: Seedpod": {
       "name": "Effect: Vagem de Semente",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.dWGa6cFSVrASTEfd]{Vagem de Semente}</p>\n<p>Você recebe uma penalidade de circunstância de -10 pés em sua Velocidade.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Effect: Selfish Shield": {
       "name": "Effect: Escudo Egoísta",
@@ -2583,7 +2618,7 @@
     "Effect: Shadow Sight": {
       "name": "Effect: Visão Sombria",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.NjPZbQjJJIygS1ru]{Visão Sombria}</p>\n<p>Você ganha Visão no Escuro Maior.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Share Rage": {
       "name": "Effect: Compartilhar Raiva",
@@ -2613,7 +2648,7 @@
     "Effect: Sheltering Pulse": {
       "name": "Effect: Pulso Protetor",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.HP1DKj4FLwtStzYq]{Pulso Protetor}</p>\n<p>Você ganha um bônus de status +1 em CA.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Shield Ally": {
       "name": "Effect: Proteger Aliado",
@@ -2628,7 +2663,7 @@
     "Effect: Shield the Faithful": {
       "name": "Effect: Proteger os Fiéis",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.VYwWqm5LZOU7irhY]{Proteger os Fiéis}</p>\n<p>Você ganha um bônus de item +1 em CA e resistência a dano espiritual.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Effect: Shielding Wave": {
       "name": "Effect: Onda de Proteção",
@@ -2638,7 +2673,7 @@
     "Effect: Shining Arms": {
       "name": "Effect: Armas Brilhantes",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.iAziUKdxgy4k4ypY]{Armas Brilhantes}</p>\n<p>Quando uma criatura empunhando a arma atinge criticamente um inimigo, você pode Descartar a magia como uma reação, fazendo com que o inimigo fique ofuscado por 1 rodada</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Shining Glory": {
       "name": "Effect: Glória Brilhante",
@@ -2648,17 +2683,17 @@
     "Effect: Show Off": {
       "name": "Effect: Exibir-se",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.DMjfZvWD20SGuIO4]{Exibir-se}</p>\n<p>Você ganha Pontos de Vida temporários iguais ao seu nível (o dobro do seu nível em um sucesso crítico).</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Effect: Signature Weapon": {
       "name": "Effect: Arma de Assinatura",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.yiZwGVErxzWCJOlW]{Arma de Assinatura}</p>\n<p>Você ganha acesso ao efeito de especialização crítica da arma selecionada.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Silk Bracelet": {
       "name": "Effect: Pulseira de Seda",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.bI0PWJ4c3AOcFDWN]{Pulseira de Seda}</p>\n<p>Você ganha uma penalidade de status de -10 pés em todas as suas Velocidades por 1 rodada.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Siphon Torment": {
       "name": "Effect: Sugar Tormento",
@@ -2743,7 +2778,7 @@
     "Effect: Staggering Fire": {
       "name": "Effect: Fogo Cambaleante",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.fngPLUD4Sltho2kn]{Fogo Cambaleante}</p>\n<p>Você recebe uma penalidade de circunstância de -5 pés em sua Velocidade, ou uma penalidade de circunstância de -10 pés em um acerto crítico.</p>",
-      "source": "Pathfinder Lost Omens: Knights of Lastwall"
+      "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
     "Effect: Starlight Armor": {
       "name": "Effect: Armadura Estelar",
@@ -2753,7 +2788,7 @@
     "Effect: Starlit Transformation": {
       "name": "Effect: Transformação Estelar",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.M4ALaFXoQDJGxSsI]{Transformação Estelar}</p>\n<p>Sua arma ganha um bônus de status +1 em testes de dano. Você pode arremessar raios de luz estelar de sua arma com uma ação de Ataque, usando seu modificador de ataque corpo a corpo com a arma. Esses raios causam 1d4 de dano de força e têm os traços arcano e força.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Steal Death": {
       "name": "Effect: Roubar Morte",
@@ -2768,7 +2803,7 @@
     "Effect: Stone Body": {
       "name": "Effect: Corpo de Pedra",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.xgg9eNF6MsJPMjyH]{Corpo de Pedra}</p>\n<p>Você ganha resistência 10 a todos os danos.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Effect: Stoney Deflection": {
       "name": "Effect: Deflexão Rochosa",
@@ -2798,12 +2833,12 @@
     "Effect: Strategist Stance": {
       "name": "Effect: Postura de Estrategista",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.fJwsZM6WXwP8EStV]{Postura de Estrategista}</p>\n<p>A aura do seu marechal concede a você e aos aliados um bônus de status +1 em testes de resistência de Reflexos</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Striking Retribution": {
       "name": "Effect: Retribuição Impressionante",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.TGlb3gmSKkJBZt5q]{Retribuição Impressionante}</p>\n<p>Seu bônus de circunstância para dano com armas e ataques desarmados contra criaturas da família alghollthu e aqueles que servem alghollthus aumenta para +4</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Stymie the Gods": {
       "name": "Effect: Impedir os Deuses",
@@ -2813,7 +2848,7 @@
     "Effect: Supercharge Prosthetic Eyes": {
       "name": "Effect: Superalimentar Olhos Protéticos",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.qV6EuOI3UJYIL6xa]{Panóptico de Sobreposição Consolidado}</p>\n<p>Você ganha visão no escuro e visão com pouca luz, e você ganha um bônus de status +1 em testes de Percepção visual.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Effect: Surgical Shock (Failure)": {
       "name": "Effect: Choque Cirúrgico (Falha)",
@@ -2843,7 +2878,7 @@
     "Effect: Tap the Past": {
       "name": "Effect: Tocar o Passado",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.jsEBrm8SPcsokJLw]{Tocar o Passado}</p>\n<p>Você rola uma segunda vez e usa o resultado mais alto. Se você rolar uma falha crítica, você obtém uma falha. Se você rolar um sucesso, você obtém um sucesso crítico.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Terrain Attunement (Aquatic)": {
       "name": "Effect: Sintonia com o Terreno (Aquático)",
@@ -2903,7 +2938,7 @@
     "Effect: Tidal Shield": {
       "name": "Effect: Escudo de Maré",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.bPPcPUZMlJ7m5lYq]{Escudo de Maré}</p>\n<p>Você ganha um bônus de circunstância +4 em CA.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Tiller's Drive": {
       "name": "Effect: Impulso do Cultivador",
@@ -2943,6 +2978,11 @@
       "name": "Effect: Imunidade a Tratar Ferimentos",
       "description": "<p>Concedido quando alguém usa @UUID[Compendium.pf2e.actionspf2e.Item.1kGNdIIhuglAjIp9]{Tratar Ferimentos} em você, tornando-o temporariamente imune a Tratar Ferimentos pela duração.</p>",
       "source": "Pathfinder Core Rulebook"
+    },
+    "Effect: Tributary Circulation": {
+      "name": "Effect: Tributary Circulation",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.0HgfWQMIo2UEAlAm]{Tributary Circulation}</p>\n<p>You gain a +2 circumstance bonus to Will saves and saves against poison.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Effect: Turn Aside Ambient Magic": {
       "name": "Effect: Desviar Magia Ambiente",
@@ -3017,7 +3057,7 @@
     "Effect: Unleash Yaoguai Might": {
       "name": "Effect: Liberar Poder Yaoguai",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.fjB514XFJG4V3wMy]{Liberar Poder Yaoguai}</p>\n<p><strong>Frequência</strong> uma vez por dia</p>\n<p>Ao entrar em sua forma yaoguai, você usa sua magia interna para assumir uma forma ainda maior. Quando você Mudar de Forma para entrar em sua forma yaoguai, você pode gastar uma ação adicional para ganhar os efeitos de @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Aumentar Pessoa} e um efeito adicional com base em sua herança. Este efeito persiste por 1 minuto ou até que você mude de forma novamente.</p>\n<ul>\n<li><strong>Animal</strong> Sua pele engrossa, concedendo um bônus de circunstância +1 em CA.</li>\n<li><strong>Celestial</strong> Você recupera um pouco da sua perfeição celestial, concedendo a você e a todos os aliados em um raio de 15 pés um bônus de status +1 em jogadas de ataque.</li>\n<li><strong>Elementos</strong> Você está cercado por vento e poeira, concedendo ocultação a cada rodada em que você gasta pelo menos 1 ação que tem o traço de movimento. Você não pode usar essa ocultação para se Esconder ou @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Esgueirar-se}, como normal para fontes de ocultação óbvia.</li>\n<li><strong>Objeto</strong> Sua pele se transmuta parcialmente em uma substância inorgânica, concedendo resistência 5 à sua escolha de concussão, perfuração ou corte.</li>\n<li><strong>Vegetação</strong> Você desencadeia um crescimento acelerado, ganhando cura rápida 5.</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Unstable Check Failure": {
       "name": "Effect: Falha de Teste Instável",
@@ -3077,12 +3117,12 @@
     "Effect: Volatile Grease (Failure)": {
       "name": "Effect: Graxa Volátil (Falha)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.vKFg7HMNu4cCDD8b]{Graxa Volátil}</p>\n<p>O alvo ganha fraqueza 2 para fogo por 1 minuto.</p>\n<hr />\n<p><strong>Aprimorado (+2)</strong> A fraqueza aumenta em 1.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Volatile Grease (Success)": {
       "name": "Effect: Graxa Volátil (Sucesso)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.vKFg7HMNu4cCDD8b]{Graxa Volátil}</p>\n<p>O alvo ganha fraqueza 2 para fogo até o final do seu próximo turno.</p>\n<hr />\n<p><strong>Aprimorado (+2)</strong> A fraqueza aumenta em 1.</p>",
-      "source": "Pathfinder Lost Omens: The Grand Bazaar"
+      "source": "Pathfinder Lost Omens The Grand Bazaar"
     },
     "Effect: Walking the Cardinal Paths": {
       "name": "Effect: Caminhando pelos Caminhos Cardeais",
@@ -3097,7 +3137,7 @@
     "Effect: Watchful Gaze": {
       "name": "Effect: Olhar Vigilante",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.KKUDZUbX3nDdME4K]{Olhar Vigilante}</p>\n<p>Você ganha @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.9qV49KjZujZnSp6w]{Visão de 360 ​​Graus} até o início do seu próximo turno. Isso permite que você veja em todas as direções e evita que você seja flanqueado.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Weapon Infusion": {
       "name": "Effect: Infusão de Arma",
@@ -3132,7 +3172,7 @@
     "Effect: Wings of Air": {
       "name": "Effect: Asas de Ar",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.FUOUyhHufNH4ri7H]{Asas de Ar}</p>\n<p>Você ganha uma Velocidade de voo igual à sua Velocidade terrestre.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Effect: Wish for Luck": {
       "name": "Effect: Desejar Sorte",
@@ -3162,7 +3202,7 @@
     "Effect: Wyrmblessed Blood Magic": {
       "name": "Effect: Magia de Sangue Abençoado por Wyrm",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.classfeatures.Item.dKTb959aCQIzSIXj]{Linhagem: Abençoado por Wyrm}</p>\n<p>Ou você ganha um bônus de status +1 em testes de Intimidação por 1 rodada, ou um alvo recebe uma penalidade de status -1 em testes de Vontade por 1 rodada.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: You Can't Kill an Idea": {
       "name": "Effect: Você Não Pode Matar uma Ideia",
@@ -3172,7 +3212,7 @@
     "Effect: You're an Embarrassment": {
       "name": "Effect: Você é uma Vergonha",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.13bMIkqXpKt9pxAm]{Você é uma Vergonha!}</p>\n<p>Você rola novamente o teste de resistência de Vontade que acionou o efeito com um bônus de circunstância +1.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Effect: Zealous Inevitability": {
       "name": "Effect: Inevitabilidade Zelosa",
@@ -3222,16 +3262,11 @@
     "Stance: Cobra Stance (Cobra Envenom)": {
       "name": "Stance: Postura da Cobra (Envenenar Cobra)",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.AkV4Jyllo6nlK2Sl]{Postura da Cobra} se você tiver @UUID[Compendium.pf2e.feats-srd.Item.xQuNswWB3eg1UM28]{Envenenar Cobra}, que aumenta o bônus de circunstância para testes de resistência de Fortitude e CD de Fortitude para +2.</p>\n<p>Os únicos Ataques que você pode fazer são ataques desarmados de presa de cobra. Estes causam 1d4 de dano de veneno; estão no grupo de briga; e têm os traços ágil, mortal d10, finesse, não letal, veneno e desarmado.</p>\n<p>Você ganha um bônus de circunstância +2 em testes de resistência de Fortitude e sua CD de Fortitude, e você ganha resistência a veneno igual à metade do seu nível.</p>",
-      "source": "Pathfinder Advanced Player's Guide"
+      "source": "Pathfinder Player Core 2"
     },
     "Stance: Crane Stance": {
       "name": "Stance: Postura da Garça",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.bf7NCeKqDClaqhTR]{Postura da Garça}</p>\n<p>Você ganha um bônus de circunstância +1 em CA, mas os únicos Ataques que você pode fazer são ataques de asa de garça. Estes causam 1d6 de dano de concussão; estão no grupo de briga; e têm os traços ágil, finesse, não letal e desarmado.</p>\n<p>Reduza a CD para Salto em Altura e Salto em Distância em 5, e quando você Saltar, você pode mover 5 pés adicionais horizontalmente ou 2 pés verticalmente.</p>",
-      "rules": {
-        "2": {
-          "text": "Reduza a CD para Salto em Altura e Salto em Distância em 5, e quando você Saltar, você pode mover 5 pés adicionais horizontalmente ou 2 pés verticalmente."
-        }
-      },
       "source": "Pathfinder Player Core 2"
     },
     "Stance: Crowned in Tempest's Fury": {
@@ -3247,12 +3282,12 @@
     "Stance: Devrin's Cunning Stance": {
       "name": "Stance: Postura Astuta de Devrin",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.OqqytsF2RIjB0EPR]{Postura Astuta de Devrin}</p>\n<p>Sua aura concede a você e seus aliados um bônus de status +1 em testes de habilidade. Quando você ou um aliado na aura Golpeia um inimigo desprevenido, esse inimigo não pode usar reações até o início de seu próximo turno.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Stance: Disarming Stance": {
       "name": "Stance: Postura Desarmante",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.1p5ErCp33nGOzEsk]{Postura Desarmante}.</p>\n<p>Você ganha um bônus de circunstância +1 em testes de Atletismo para Desarmar e um bônus de circunstância +2 em sua CD de Reflexos ao defender contra testes para Desarmar você.</p>",
-      "source": "Pathfinder Core Rulebook"
+      "source": "Pathfinder Player Core"
     },
     "Stance: Disruptive Stance": {
       "name": "Stance: Postura Disruptiva",
@@ -3267,7 +3302,7 @@
         "15 ft."
       ],
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.2uYigDgvlfCZVg9e]{Presença Divina}</p>\n<p>Você tem uma emanação de 5 pés que tem o traço de aura. Você pode Sustentar a emanação para aumentar seu raio em 5 pés, até um máximo de 15 pés.</p>\n<p>Um inimigo que termina seu turno completamente dentro da emanação está Desprevenido para seus Ataques.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Stance: Dragon Stance": {
       "name": "Stance: Postura do Dragão",
@@ -3297,12 +3332,17 @@
     "Stance: Everstand Stance": {
       "name": "Stance: Postura Eterna",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.6GN1zh3RcnZhrzxP]{Postura Eterna}</p>\n<p>Você empunha o escudo com as duas mãos. Ao empunhar um escudo desta forma, aumente o dado de dano da arma da saliência ou espinhos do escudo em um passo e aumente a Dureza do escudo em 2 ao usar a reação Bloqueio de Escudo.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Stance: Fane's Fourberie": {
       "name": "Stance: Trapaça de Fane",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.80CEAB05TP5ki9iW]{Trapaça de Fane}</p>\n<p>Escolha se deseja tratar as cartas de baralho em sua posse como adagas ou dardos; você pode empunhar uma carta de baralho de todas as maneiras como a arma escolhida até que a postura termine.</p>",
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
+    },
+    "Stance: Flood Stance": {
+      "name": "Stance: Flood Stance",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.lqStZou2d2WMLJxz]{Flood Stance}</p>\n<p>The only Strikes you can make are flooded river unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; have the nonlethal, trip, unarmed, and water traits; and don’t take the normal penalty for being used underwater. They also gain the forceful trait while you’re underwater.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Stance: Geologic Attunement": {
       "name": "Stance: Sintonia Geológica",
@@ -3317,11 +3357,6 @@
     "Stance: Gorilla Stance": {
       "name": "Stance: Postura do Gorila",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.DqD7htz8Sd1dh3BT]{Postura do Gorila}</p>\n<p>Os únicos Ataques que você pode fazer são ataques desarmados de bater de gorila. Estes causam 1d8 de dano de concussão; estão no grupo de briga; e têm os traços backswing, vigoroso, agarrar, não letal e desarmado.</p>\n<p>Você ganha um bônus de circunstância +2 em testes de Atletismo para Escalar, e se você rolar um sucesso em um teste de Atletismo para Escalar, você obtém um sucesso crítico.</p>",
-      "rules": {
-        "2": {
-          "text": "Se você rolar um sucesso em um teste de Atletismo para Escalar, você obtém um sucesso crítico."
-        }
-      },
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Stance: Gorilla Stance (Gorilla Pound)": {
@@ -3347,7 +3382,7 @@
     "Stance: Impassable Wall Stance": {
       "name": "Stance: Postura de Parede Impassável",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.YeyOqNFKaeuOTiJr]{Postura de Parede Impassável}</p>\n<p>Quando você atinge com um Ataque Reativo acionado por uma ação de movimento, você interrompe essa ação de movimento.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Stance: Inspiring Marshal Stance": {
       "name": "Stance: Postura de Marechal Inspirador",
@@ -3357,7 +3392,7 @@
     "Stance: Intensified Element Stance": {
       "name": "Stance: Postura de Elemento Intensificado",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.qOGD3K8VlQAAjsWy]{Postura de Elemento Intensificado}</p>\n<p>Seus Ataques e magias de dano causam 1d6 de dano adicional contra certas criaturas, dependendo do tipo de medicina elementar usada. Se a pessoa que fabricou a medicina elementar usada era lendária na habilidade que ela usou, aumenta esse dano para 2d6.</p>\n<ul>\n<li>\n<p><strong>Terra</strong> dano de ácido contra criaturas aquáticas</p>\n</li>\n<li>\n<p><strong>Fogo</strong> dano de fogo contra criaturas metálicas e construtos que são principalmente metálicos</p>\n</li>\n<li>\n<p><strong>Metal</strong> dano de eletricidade contra criaturas de madeira ou plantas e construtos feitos principalmente de madeira ou matéria vegetal</p>\n</li>\n<li>\n<p><strong>Água</strong> dano sônico contra criaturas de fogo</p>\n</li>\n<li>\n<p><strong>Madeira</strong> dano de frio contra criaturas de terra e construtos que são principalmente feitos de rocha ou terra</p>\n</li>\n</ul>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Stance: Ironblood Stance": {
       "name": "Stance: Postura de Sangue de Ferro",
@@ -3372,7 +3407,7 @@
     "Stance: Kaiju Stance": {
       "name": "Stance: Postura de Kaiju",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.RwOGkOLCalt4sqz6]{Postura de Kaiju}</p>\n<p>Você se torna Grande e fica desajeitado 1. Os únicos Ataques que você pode fazer são ataques desarmados de batida de terra. Estes ataques causam 1d8 de dano de concussão; estão no grupo de briga; e têm os traços backswing, fatal d12, alcance e desarmado. Em um sucesso crítico com um ataque de batida de terra, todas as criaturas que não você que estão dentro de 10 pés do alvo, incluindo o próprio alvo, recebem 1 ponto de dano de concussão por dado de dano de arma.</p>\n<p>Você ignora terreno difícil.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Stance: Kindle Inner Flames": {
       "name": "Stance: Acender as Chamas Internas",
@@ -3392,12 +3427,12 @@
     "Stance: Masquerade of Seasons Stance": {
       "name": "Stance: Postura de Baile de Máscaras das Estações",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.KMVXUgFArcftg1jQ]{Postura de Baile de Máscaras das Estações}</p>\n<p>Escolha um dos seguintes traços: água, fogo, vazio ou frio. Você ganha resistência a dano causado por efeitos com o traço escolhido.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Stance: Mobile Shot Stance": {
       "name": "Stance: Postura de Tiro Móvel",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.rByA8NDI6ZtNgBeT]{Postura de Tiro Móvel}</p>\n<p>Seus Ataques à distância não acionam Ataques de Oportunidade ou outras reações que são acionadas por um ataque à distância.</p>\n<p>Se você tiver @UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Ataque Reativo}, você pode usá-lo com uma arma de ataque à distância carregada que você está empunhando. A criatura que acionou o ataque deve estar a até 5 pés de você para que você faça isso.</p>",
-      "source": "Pathfinder Core Rulebook"
+      "source": "Pathfinder Player Core"
     },
     "Stance: Monastic Archer Stance": {
       "name": "Stance: Postura de Arqueiro Monástico",
@@ -3412,7 +3447,7 @@
     "Stance: Multishot Stance": {
       "name": "Stance: Postura de Tiro Múltiplo",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.RzhnxgiAopWILCvs]{Postura de Tiro Múltiplo}.</p>\n<p>Enquanto você estiver nesta postura, sua penalidade para Tiro Duplo é reduzida para -1, ou -2 se você adicionar a ação extra para fazer três Ataques. Se você se mover de sua posição, esta postura termina.</p>",
-      "source": "Pathfinder Core Rulebook"
+      "source": "Pathfinder Player Core"
     },
     "Stance: Orchard's Endurance": {
       "name": "Stance: Resistência do Pomar",
@@ -3442,7 +3477,7 @@
     "Stance: Rain of Embers Stance": {
       "name": "Postura: Postura da Chuva de Brasas",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.rbiMK71SvGZGRLJ1]{Postura da Chuva de Brasas}</p>\n<p>Os únicos Golpes que você pode fazer são Golpes de garra de fogo. Estes causam 1d4 de dano de fogo; estão no grupo de luta; e têm os traços ágil, finesse, fogo, não letal e desarmado.</p>\n<p>Você ganha um bônus de status de +1 em CA e resistência ao fogo igual à metade do seu nível (mínimo 1).</p>",
-      "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+      "source": "Pathfinder Lost Omens Pathfinder Society Guide"
     },
     "Stance: Ravel of Thorns": {
       "name": "Postura: Enredo de Espinhos",
@@ -3452,12 +3487,12 @@
     "Stance: Reflective Ripple Stance": {
       "name": "Postura: Postura da Ondulação Reflexiva",
       "description": "<p>Você pode fazer ataques de onda fluida que causam 1d6 de dano de concussão. Eles estão no grupo de luta e têm os traços ágil, desarmar, finesse, não letal, derrubar, desarmado e água.</p>\n<p>Enquanto estiver na Postura da Ondulação Reflexiva, você ganha um bônus de circunstância de +1 em testes de Atletismo para @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Desarmar}, @UUID[Compendium.pf2e.actionspf2e.Item.c8TGiZ48ygoSPofx]{Nadar} ou @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Derrubar}, e você ganha um bônus de circunstância de +2 em sua CD de Reflexos para evitar ser Desarmado e Derrubado.</p>",
-      "source": "Pathfinder Secrets of Magic"
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Stance: Ricochet Stance": {
       "name": "Postura: Postura de Ricochete",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.tRHjUCl0xqG97nok]{Postura de Ricochete (Guerreiro)} ou @UUID[Compendium.pf2e.feats-srd.Item.RsNvCSrCN7czHC0G]{Postura de Ricochete (Ladino)}</p>\n<p>Enquanto você estiver nesta postura, quaisquer armas de arremesso que você usar como parte de um Golpe à distância para causar dano de concussão ou corte retornam imediatamente à sua mão, permitindo que você as use para Golpes adicionais.</p>\n<p>Você deve estar dentro do incremento de alcance listado da arma e ter uma mão livre para pegá-la. Se você fizer um Golpe à distância com uma arma de arremesso fora de seu incremento de alcance listado, ela voa de volta em sua direção por um número de feet igual ao seu incremento de alcance listado e então cai no chão.</p>",
-      "source": "Pathfinder Advanced Player's Guide"
+      "source": "Pathfinder Player Core"
     },
     "Stance: Rough Terrain Stance": {
       "name": "Postura: Postura de Terreno Acidentado",
@@ -3467,7 +3502,7 @@
     "Stance: Rushing Goat Stance": {
       "name": "Postura: Postura do Bode Correndo",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.BQWGOK0lVmljCunm]{Postura do Bode Correndo}</p>\n<p>Os únicos Golpes que você pode fazer são ataques de chifres de aríete. Esses golpes causam 1d8 de dano de concussão, estão no grupo de luta e têm os traços de força, não letal, empurrar e desarmado.</p>\n<p>Quando você faz um ataque de chifres de aríete e sua ação anterior foi Escalar, Andar ou Saltar, você ganha um bônus de circunstância ao dano igual ao número de dados de dano da arma.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Stance: Sea Glass Guardians": {
       "name": "Postura: Guardiões de Vidro Marinho",
@@ -3506,7 +3541,7 @@
     "Stance: Sky and Heaven Stance": {
       "name": "Postura: Postura do Céu e do Paraíso",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.UjEeHamC2C8JfgJz]{Postura do Céu e do Paraíso}</p>\n<p>Os únicos Golpes que você pode fazer são ataques desarmados de corte para cima. Esses ataques desarmados causam 1d10 de dano cortante; estão no grupo de luta; e têm os traços não letal, desarmado e versátil P.</p>\n<p>Você ganha resistência 2 a eletricidade e resistência 2 a dano sônico. Essas resistências aumentam para 5 no 12º nível e para 8 no 18º nível.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Stance: Spear of Doom": {
       "name": "Postura: Lança da Perdição",
@@ -3521,11 +3556,6 @@
     "Stance: Stoked Flame Stance": {
       "name": "Postura: Postura da Chama Acesa",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feat-effects.Item.rp1YauUSULuqW8rs]{Postura: Postura da Chama Acesa}</p>\n<p>Você pode fazer ataques de faísca cintilante que causam 1d8 de dano cortante. Eles estão no grupo de luta e têm os traços de força, não letal, varredura e desarmado. Se você tiver acesso ao efeito de especialização crítica de faíscas cintilantes, você pode usar um efeito alternativo: se seu Golpe crítico causar dano, o alvo sofre 1d6 de dano de fogo persistente.</p>\n<p>Você ganha um bônus de status de +5 feet em sua Velocidade. Se você tiver movimento incrível, aumente o benefício de movimento incrível para um bônus de status de +15 feet mais 5 feet para cada 4 níveis além do 3º.</p>\n<hr />\n<p><strong>Especial</strong> Este talento ganha sua escolha do traço divino ou oculto, correspondendo à sua tradição de magia ki, se possível.</p>",
-      "rules": {
-        "0": {
-          "text": "Se você tiver acesso ao efeito de especialização crítica de faíscas cintilantes, você pode usar um efeito alternativo: se seu Golpe crítico causar dano, o alvo sofre @Damage[1d6[persistent,fire]] de dano."
-        }
-      },
       "source": "Pathfinder Secrets of Magic"
     },
     "Stance: Stonestrike Stance": {
@@ -3536,7 +3566,7 @@
     "Stance: Strategist Stance": {
       "name": "Postura: Postura do Estrategista",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.fJwsZM6WXwP8EStV]{Postura do Estrategista}</p>\n<p>A aura do seu marechal concede a você e aos aliados um bônus de status de +1 em testes de resistência de Reflexos</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Stance: Stretching Reach": {
       "name": "Postura: Alcance Estendido",
@@ -3548,6 +3578,11 @@
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.7FRYyKXDKjGoANYj]{Postura Trôpega}</p>\n<p>Você ganha um bônus de circunstância de +1 em testes de Enganação para @UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Fintar}.</p>\n<p>Os únicos Golpes que você pode fazer são ataques desarmados de balanço trôpego. Estes causam 1d8 de dano de concussão; estão no grupo de luta; e têm os traços ágil, de flanqueador, finesse, não letal e desarmado. Se um inimigo o atingir com um Golpe corpo a corpo enquanto estiver nesta postura, ele ficará desprevenido contra o próximo Golpe de balanço trôpego que você fizer contra ele antes do final do seu próximo turno.</p>",
       "source": "Pathfinder Player Core 2"
     },
+    "Stance: Stunt Performer Stance": {
+      "name": "Stance: Stunt Performer Stance",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.pfVTsZ2asd6cnVed]{Stunt Performer Stance}</p>\n<p>You gain a +2 circumstance bonus to Reflex saving throws and skill checks to Escape, as well as resistance 2 to all physical damage.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Stance: Talon Stance": {
       "name": "Postura: Postura da Garra",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.IR95FFdO7MtC8C0E]{Postura da Garra}</p>\n<p>Os únicos Golpes que você pode fazer são ataques desarmados de garra giratória. Estes causam 1d8 de dano cortante, estão no grupo de luta e têm os traços finesse, varredura e desarmado. Você não precisa de uma mão livre para usar golpes de garra giratória.</p>",
@@ -3555,13 +3590,13 @@
     },
     "Stance: Tangled Forest Stance": {
       "name": "Postura: Postura da Floresta Emaranhada",
-      "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.2tUdsoPEnW9yS8so]{Postura da Floresta Emaranhada}</p>\n<p>Você pode fazer ataques desarmados de galho chicoteante. Estes causam 1d8 de dano cortante; estão no grupo de luta; e têm os traços ágil, finesse, não letal e desarmado.</p>\n<p>Enquanto você estiver na Postura da Floresta Emaranhada e puder agir, todo inimigo em seu alcance que tentar se afastar de você deve ter sucesso em um teste de resistência de Reflexos, teste de Acrobacia ou teste de Atletismo contra sua CD de classe ou ficará imobilizado por aquela ação. Se preferir, você pode permitir que o inimigo se mova.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.2tUdsoPEnW9yS8so]{Tangled Forest Stance}</p>\n<p>You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Stance: Tenacious Stance": {
       "name": "Postura: Postura Tenaz",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.5HZ4cYDowUw2oUbZ]{Postura Tenaz}</p>\n<p>Você ganha um número de pontos de vida temporários igual à metade do seu nível (mínimo 1) e um bônus de circunstância de +2 em CDs contra ser Empurrado e Derrubado. No entanto, você não nega mais sua penalidade de armadura para testes ou penalidade de Velocidade por ter uma Força alta enquanto estiver nesta postura.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Stance: Thermal Nimbus": {
       "name": "Postura: Nimbus Térmico",
@@ -3581,7 +3616,7 @@
     "Stance: Twisting Petal Stance": {
       "name": "Postura: Postura da Pétala Torcida",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.VN6Cws7BBta81AQ9]{Postura da Pétala Torcida}</p>\n<p>Você pode fazer golpes de flor de vendaval que causam 1d6 de dano cortante. Esses golpes estão no grupo de luta e têm os traços ágil, finesse, não letal, empurrar e desarmado.</p>\n<p>Você ganha um bônus de circunstância de +1 em testes de Atletismo para @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Empurrar} e um bônus de circunstância de +2 em sua CD de Fortitude para evitar ser Empurrado. Você também ganha um bônus de circunstância de +1 em testes de Enganação para @UUID[Compendium.pf2e.actionspf2e.Item.QNAVeNKtHA0EUw4X]{Fintar} e um bônus de circunstância de +2 em sua CD de Percepção para resistir à tentativa de Finta de um oponente.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Stance: Unified Stance": {
       "name": "Postura: Postura Unificada",
@@ -3592,6 +3627,11 @@
       "name": "Postura: Postura de Manipulação de Vitalidade",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.Tj79ePSD212EZjRM]{Postura de Manipulação de Vitalidade}</p>\n<p>Você ganha um Golpe desarmado à distância de explosão de vitalidade que causa 1d4 de dano de vazio, tem um alcance de 30 feet e tem os traços desarmado e versátil de vitalidade.</p>\n<p>Além disso, quando você usa Soco Estonteante, em vez de fazer um teste de resistência contra ser atordoado, você pode escolher fazer com que o alvo faça um teste de resistência de Fortitude contra sua CD de classe com os seguintes resultados. Você deve escolher fazer isso antes que o alvo role seu teste de resistência.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p>\n<p><strong>Sucesso</strong> Os músculos do alvo ficam temporariamente mais fracos. Por 1 rodada, o alvo está @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 2} e, sempre que tentar realizar uma ação com o traço manipular, a ação é interrompida, a menos que seja bem-sucedido em um teste fixo com uma CD igual a 5 + seu valor de enfraquecido.</p>\n<p><strong>Falha</strong> Como sucesso, mas a duração é de 1 minuto.</p>\n<p><strong>Falha Crítica</strong> Como sucesso, mas a duração é de 1 minuto, o teste fixo tem CD 11 e o alvo sofre uma penalidade de status de -10 feet em todas as Velocidades pela duração.</p>",
       "source": "Pathfinder #168: King of the Mountain"
+    },
+    "Stance: Waterfowl Stance": {
+      "name": "Stance: Waterfowl Stance",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.6XL3usbKH9g5FaQo]{Waterfowl Stance}</p>\n<p>While in Waterfowl Stance, the dandpatta, scimitar, talwar, and zulfikar gain the monk trait for you. When you Tumble Through a creature's space or Leap over a creature while wielding one of these weapons, you can deal that creature damage.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Stance: Whirling Blade Stance": {
       "name": "Postura: Postura da Lâmina Giratória",
@@ -3612,9 +3652,6 @@
         },
         "2": {
           "label": "Postura dos Ventos Selvagens (contra ataques à distância)"
-        },
-        "3": {
-          "text": "Os golpes de colisão de vento ignoram a ocultação e toda a cobertura"
         }
       },
       "source": "Pathfinder Player Core 2"

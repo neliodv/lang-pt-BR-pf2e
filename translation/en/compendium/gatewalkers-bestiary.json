@@ -1159,7 +1159,7 @@
         },
         "equipment->Formula Book": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\nFormula Book",
-          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; alchemists typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{Alchemist's Fire (Moderate)}<br />@UUID[Compendium.pf2e.equipment-srd.Item.qpzL9UnTi4cDhy6J]{Cognitive Mutagen (Moderate)}<br />@UUID[Compendium.pf2e.equipment-srd.Item.OcBPjVplvy2GbQ8P]{Comprehension Elixir (Greater)}<br />@UUID[Compendium.pf2e.equipment-srd.Item.c21stU5rhN4F2fZl]{Elixir of Life (Moderate)}<br />@UUID[Compendium.pf2e.equipment-srd.Item.KsAygNRyR2FdwuOm]{Psychic Colors Elixir}<br />@UUID[Compendium.pf2e.equipment-srd.Item.IzniYBi8QYxHnffr]{Vat-Grown Brain}<br />@UUID[Compendium.pf2e.equipment-srd.Item.n9VrmK9Us0viv20P]{Winter Wolf Elixir (Lesser)}</p>",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.qCEOZ6109Yo34tRx]\n<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; alchemists typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H]{Alchemist's Fire (Moderate)}</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.qpzL9UnTi4cDhy6J]{Cognitive Mutagen (Moderate)}</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.OcBPjVplvy2GbQ8P]{Comprehension Elixir (Greater)}</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.c21stU5rhN4F2fZl]{Elixir of Life (Moderate)}</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.KsAygNRyR2FdwuOm]{Psychic Colors Elixir}</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.IzniYBi8QYxHnffr]{Vat-Grown Brain}</p>\n<p>@UUID[Compendium.pf2e.equipment-srd.Item.n9VrmK9Us0viv20P]{Winter Wolf Elixir (Lesser)}</p>",
           "source": "Pathfinder Core Rulebook"
         },
         "equipment->Pendant of the Occult (Greater)": {
@@ -2401,7 +2401,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Liberating Command": {
-          "source": "Pathfinder Lost Omens: Gods & Magic"
+          "source": "Pathfinder Lost Omens Gods & Magic"
         },
         "spell->Light": {
           "source": "Pathfinder Core Rulebook",
@@ -2424,7 +2424,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "equipment->Standard Astrolabe": {
-          "source": "Pathfinder Lost Omens: Pathfinder Society Guide"
+          "source": "Pathfinder Lost Omens Pathfinder Society Guide"
         },
         "equipment->Clothing (Winter)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.SLQgdLk5K9JV4ACF]\nClothing (Winter)",
@@ -2924,7 +2924,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "weapon->War Razor": {
-          "source": "Pathfinder Lost Omens: Gods & Magic"
+          "source": "Pathfinder Lost Omens Gods & Magic"
         },
         "shield->Steel Shield": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.Yr9yCuJiAlFh3QEB]\n<p>Like wooden shields, steel shields come in a variety of shapes and sizes. Though more expensive than wooden shields, they are much more durable.</p>\n<table class=\"pf2e\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>",
@@ -3203,5 +3203,10 @@
       "converter": "translateTokenName",
       "path": "prototypeToken.name"
     }
+  },
+  "folders": {
+    "Book 1 - The Seventh Arch": "Book 1 - The Seventh Arch",
+    "Book 2 - They Watched the Stars": "Book 2 - They Watched the Stars",
+    "Book 3 - Dreamers of the Nameless Spires": "Book 3 - Dreamers of the Nameless Spires"
   }
 }

@@ -19,7 +19,7 @@
     "Absorb into the Aegis": {
       "name": "Absorver na Égide",
       "description": "<p><strong>Acionamento</strong> Um inimigo conjura uma magia que tem como alvo você ou um aliado a até 15 pés de você</p>\n<hr />\n<p>Você interpõe a proteção do seu escudo contra a magia. Faça um teste de neutralizar magia, usando seu modificador de Religião como seu modificador de neutralizar magia. Em um sucesso, a magia é neutralizada e seu escudo recebe dano igual a quatro vezes o círculo da magia enquanto absorve e dispersa a energia mágica. Em uma falha, o escudo recebe dano igual ao dobro do círculo da magia.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Accept Echo": {
       "name": "Aceitar Eco",
@@ -69,7 +69,7 @@
     "Airy Step": {
       "name": "Passo Aéreo",
       "description": "<p><strong>Frequência</strong> Uma vez por dia</p>\n<p><strong>Acionamento</strong> Uma criatura mira em você com um ataque ou outro efeito direcionado, e você pode ver o atacante.</p>\n<hr />\n<p>Você cria um manto de névoa em uma explosão de 5 pés centrada em um canto do seu espaço. Todas as criaturas dentro dessa área ficam ocultas, e todas as outras ficam ocultas para elas. Esta ocultação se aplica ao efeito de acionamento, e a névoa dura 1 minuto ou até ser dispersada por um vento forte. Após resolver o efeito de acionamento, você realiza um Passo. Se um efeito te impedir de realizar um Passo, você tenta @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapar} do efeito e realiza um Passo se obtiver sucesso.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Amassed Assault": {
       "name": "Assalto Concentrado",
@@ -84,7 +84,7 @@
     "Anadi Venom": {
       "name": "Veneno Anadi",
       "description": "<p><strong>Frequência</strong> um número de vezes por dia igual ao seu nível</p>\n<hr />\n<p>Você envenena suas presas. Se o próximo Golpe com as presas que você fizer antes do final do seu turno acertar e causar dano, o Golpe causa um adicional de 1d6 de dano de veneno. Em uma falha crítica, o veneno é desperdiçado como de costume. No 12º nível, este dano de veneno aumenta para 2d6.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Anchor": {
       "name": "Ancorar",
@@ -118,8 +118,8 @@
     },
     "Automaton Aim": {
       "name": "Mira do Autômato",
-"description": "<p>Você firma seu corpo e observa os eventos do campo de batalha para maximizar o alcance do seu próximo disparo. Você reduz a penalidade por disparar no segundo incremento de alcance da sua arma de -2 para 0 para o próximo ataque à distância que você fizer neste turno. Você pode usar esta ação uma segunda vez no mesmo turno para reduzir a penalidade por disparar no terceiro incremento de alcance da sua arma de -4 para 0 para o próximo ataque à distância que você fizer neste turno.</p>",      
-"source": "Pathfinder Guns & Gears"
+      "description": "<p>Você firma seu corpo e observa os eventos do campo de batalha para maximizar o alcance do seu próximo disparo. Você reduz a penalidade por disparar no segundo incremento de alcance da sua arma de -2 para 0 para o próximo ataque à distância que você fizer neste turno. Você pode usar esta ação uma segunda vez no mesmo turno para reduzir a penalidade por disparar no terceiro incremento de alcance da sua arma de -4 para 0 para o próximo ataque à distância que você fizer neste turno.</p>",
+      "source": "Pathfinder Guns & Gears"
     },
     "Avert Gaze": {
       "name": "Desviar o Olhar",
@@ -149,7 +149,7 @@
     "Barbed Quills": {
       "name": "Espinhos Farpados",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você é atingido com um golpe desarmado ou um golpe com uma arma corpo a corpo sem alcance.</p>\n<hr />\n<p>Você quebra espinhos na carne do seu atacante. Você causa @Damage[ceil(@actor.level/2)d8[perfurante]] de dano à criatura que acionou o efeito (@Check[reflex|against:class-spell|basic] save usando sua CD de classe ou CD de magia, o que for maior.) Em uma falha crítica, a criatura também recebe @Damage[(1d4+ceil(@actor.level/2)-1)[bleed]] enquanto seus espinhos se prendem em sua carne. No 3º nível, e a cada 2 níveis subsequentes, este dano aumenta em 1d8 e o dano perfurante persistente aumenta em 1.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Base Kinesis": {
       "name": "Cinese Básica",
@@ -179,7 +179,7 @@
     "Bestial Clarity": {
       "name": "Clareza Bestial",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você falha em um teste de resistência contra um efeito de encantamento</p>\n<hr />\n<p><strong>Efeito</strong> Sua manifestação bestial se torna mais pronunciada e sua mente ganha um lampejo de clareza enquanto seus instintos assumem o controle. Você pode rolar novamente o teste de resistência de acionamento com um bônus de circunstância +2, mas você deve usar o novo resultado. Este é um efeito de sorte.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Binding Vow": {
       "name": "Voto de Vinculação",
@@ -194,7 +194,7 @@
     "Blazing Conflagration": {
       "name": "Conflagração Flamejante",
       "description": "<p><strong>Requisitos</strong> Você está transformado em forma de fênix pela magia forma de monstruosidade concedida por este talento</p>\n<hr />\n<p><strong>Efeito</strong> Você dispensa a forma de fênix enquanto uma coroa de fogo irrompe de você como luz intensa. Cada criatura em uma @Template[type:burst|distance:10] sofre @Damage[max(16,(2*(floor(@actor.level/2))))d6[fire]|options:area-damage] de dano com um teste de resistência de @Check[fortitude|against:spell|basic|options:area-effect] contra a CD da sua magia; criaturas que falhem criticamente ficam @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cegadas} por 1 rodada. Você ganha 8d6 pontos de vida temporários. No 18º nível e novamente no 20º nível, a explosão causa um dano de fogo adicional de 2d6 e você ganha 1d6 ponto de vida temporário adicional.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Bless Ally": {
       "name": "Abençoar Aliado",
@@ -209,7 +209,7 @@
     "Blizzard Evasion": {
       "name": "Evasão da Nevasca",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você recebe 40 ou mais de dano físico de um único ataque</p>\n<hr />\n<p><strong>Efeito</strong> Você se desincorpora em uma nevasca rodopiante por até 3 rodadas. Durante este tempo, você ganha resistência 10 a dano físico e fraqueza 10 a dano de força. Você ganha uma velocidade de voo de 40 pés, mas a única ação que você pode realizar é @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Voar}. Na primeira vez a cada rodada que você entra no espaço de outra criatura enquanto desincorporado, ou na primeira vez que uma criatura entra no seu espaço, essa criatura recebe @Damage[4d8[frio]] de dano e deve ter sucesso em um teste de resistência de @Check[fortitude|against:class-spell] Fortitude contra sua CD de classe ou CD de magia, o que for maior, ou então fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoada 1}. No início do seu turno, você pode encerrar este efeito como uma ação livre.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Blood Feast": {
       "name": "Banquete de Sangue",
@@ -229,7 +229,7 @@
     "Bond with Spirit": {
       "name": "Bond with Spirit",
       "description": "<p>You can forge a spiritual bond with a creature that is at least friendly toward you or with a terrain that you're currently in. Forming this bond takes 10 minutes, during which time you must remain adjacent to the creature or within that terrain. If the creature is intelligent, this also requires that creature's consent, and that intelligent creature can choose to sever this bond with you at any time as a free action, which has the concentrate trait. This bond lasts as long as you are within a mile of the creature or terrain, until you use Bond with Spirit again, or until you make your daily preparations.</p>\n<p>You must be Bonded with a Spirit to cast the @UUID[Compendium.pf2e.spells-srd.Item.Yph1UqZU8vMc9bJG]{Entreat Spirit} focus spell.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Borrow an Arcane Spell": {
       "name": "Tomar Emprestado uma Magia Arcana",
@@ -244,7 +244,7 @@
     "Break Them Down": {
       "name": "Destruí-los",
       "description": "<p>Seus inimigos são apenas escória da qual você esculpe e atira sua lenda. Faça um Golpe corpo a corpo e depois um Golpe à distância com uma arma combinada, ambos contra o mesmo inimigo; você não precisa mudar de modo para fazer isso. Se o Golpe corpo a corpo acertar, você ganha um bônus de circunstância +1 no teste de ataque com o Golpe à distância. Cada ataque conta para sua penalidade de ataque múltiplo, mas sua penalidade de ataque múltiplo não aumenta até que você tenha feito ambos os ataques. Se ambos os Golpes acertarem, você causa um dano adicional de @Damage[2d6[bleed]] ao inimigo, e eles ficam @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscados} até que este dano persistente de sangramento termine.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Break the Sun's Legs": {
       "name": "Break the Sun's Legs",
@@ -268,8 +268,8 @@
     },
     "Bullet Dancer Stance": {
       "name": "Postura do Dançarino de Bala",
-"description": "<p><strong>Requisitos</strong> Você está sem armadura e empunhando uma arma de fogo simples ou uma arma de combinação simples</p>\n<hr />\n<p><strong>Efeito</strong> Você entra em uma postura especializada para uma arte marcial única centrada no uso de armas de fogo simples. Enquanto estiver nesta postura, os únicos Golpes que você pode fazer são aqueles usando baionetas, coronhas reforçadas, armas de fogo simples e armas de combinação simples. Você pode usar @UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{Flurry of Blows} com estas armas. Você pode usar outros talentos de monge ou habilidades de monge que você tenha que normalmente exigem ataques desarmados com baionetas, coronhas reforçadas e o componente corpo a corpo de armas de combinação simples, desde que o talento ou habilidade não exija um Golpe único e específico. Você também pode usá-los com armas de fogo simples ao atacar dentro da metade do primeiro incremento de alcance.</p>",      
-"source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Requisitos</strong> Você está sem armadura e empunhando uma arma de fogo simples ou uma arma de combinação simples</p>\n<hr />\n<p><strong>Efeito</strong> Você entra em uma postura especializada para uma arte marcial única centrada no uso de armas de fogo simples. Enquanto estiver nesta postura, os únicos Golpes que você pode fazer são aqueles usando baionetas, coronhas reforçadas, armas de fogo simples e armas de combinação simples. Você pode usar @UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{Flurry of Blows} com estas armas. Você pode usar outros talentos de monge ou habilidades de monge que você tenha que normalmente exigem ataques desarmados com baionetas, coronhas reforçadas e o componente corpo a corpo de armas de combinação simples, desde que o talento ou habilidade não exija um Golpe único e específico. Você também pode usá-los com armas de fogo simples ao atacar dentro da metade do primeiro incremento de alcance.</p>",
+      "source": "Pathfinder Guns & Gears"
     },
     "Bullying Press": {
       "name": "Pressão Intimidadora",
@@ -304,7 +304,7 @@
     "Call Upon the Brightness": {
       "name": "Invocar o Esplendor",
       "description": "<p><strong>Acionamento</strong> Você tenta um teste de ataque, perícia ou resistência enquanto realiza o curso de ação do seu @UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X]{Augúrio}, mas você ainda não rolou</p>\n<hr />\n<p>Você ganha um bônus de status +1 no teste de acionamento, ou um bônus de status +2 se o resultado do augúrio foi \"desgraça\" e você prosseguiu mesmo assim.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xPg5wzzKNxJy18rU]{Efeito: Buscador do Esplendor}</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Call on Ancient Blood": {
       "name": "Invocar o Sangue Ancestral",
@@ -314,7 +314,7 @@
     "Call to Axis": {
       "name": "Chamado a Axis",
       "description": "<p>Concedido pelo Rito do Conhecimento</p>\n<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Requerimentos</strong> Você está prestes a tentar um teste para Recordar Conhecimento. Você invoca o conhecimento de Axis para garantir a precisão da sua informação. Você rola uma segunda vez e usa o resultado mais alto. Se você rolar uma falha crítica, você obtém uma falha em vez disso. Se você rolar um sucesso, você obtém um sucesso crítico em vez disso.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Captivating Charm": {
       "name": "Captivating Charm",
@@ -334,7 +334,7 @@
     "Change Shape": {
       "name": "Mudar de Forma",
       "description": "<p>Você retorna à sua forma natural ou adota uma nova forma, conforme descrito pela fonte desta ação.</p>",
-      "source": "Pathfinder Lost Omens: The Mwangi Expanse"
+      "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Change Tradition Focus": {
       "name": "Mudar Foco de Tradição",
@@ -368,7 +368,7 @@
     },
     "Clear a Path": {
       "name": "Abrir Caminho",
-      "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo de duas mãos ou uma besta de duas mãos.</p>\n<hr />\n<p>Você empurra para fora com sua arma para abrir algum espaço antes de recarregar rapidamente uma nova munição. Você faz um teste de Atletismo para @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} um oponente dentro do seu alcance usando sua arma, e então Interage para recarregar. Para este Empurrão, você não precisa de uma mão livre e adiciona o bônus de item da arma em jogadas de ataque (se houver) ao teste de Atletismo. Se sua última ação ou atividade neste turno incluiu um Golpe à distância com a arma, use a mesma penalidade de ataque múltiplo do último Golpe que você tentou com a arma para o Empurrão; o Empurrão ainda conta para sua penalidade de ataque múltiplo em ataques posteriores.</p>",      
+      "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo de duas mãos ou uma besta de duas mãos.</p>\n<hr />\n<p>Você empurra para fora com sua arma para abrir algum espaço antes de recarregar rapidamente uma nova munição. Você faz um teste de Atletismo para @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove} um oponente dentro do seu alcance usando sua arma, e então Interage para recarregar. Para este Empurrão, você não precisa de uma mão livre e adiciona o bônus de item da arma em jogadas de ataque (se houver) ao teste de Atletismo. Se sua última ação ou atividade neste turno incluiu um Golpe à distância com a arma, use a mesma penalidade de ataque múltiplo do último Golpe que você tentou com a arma para o Empurrão; o Empurrão ainda conta para sua penalidade de ataque múltiplo em ataques posteriores.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Climb": {
@@ -419,7 +419,7 @@
     "Conduct Energy": {
       "name": "Conduzir Energia",
       "description": "<p><strong>Requerimentos</strong> Sua última ação ou magia neste turno teve a característica ácido, frio, eletricidade, fogo ou sônico.</p>\n<hr />\n<p>Você canaliza energia para sua arma. A arma causa 1 de dano adicional por dado de dano da arma até o início do seu próximo turno. Este tipo de dano corresponde à característica da ação ou magia de acionamento. Se sua ação ou magia de acionamento tiver várias características elegíveis, você seleciona uma dessas características.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lU8IO9FIGK1DXVMy]{Efeito: Conduzir Energia}</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Confident Finisher": {
       "name": "Finalizador Confiante",
@@ -438,8 +438,8 @@
     },
     "Coughing Dragon": {
       "name": "Dragão Tossivo",
-"description": "<p><strong>Custo</strong> 1 exibição de fogos de artifício</p>\n<hr />\n<p><strong>Efeito</strong> Escolha efeitos auditivos ou visuais.</p>\n<hr />\n<p>A exibição ganha esse traço, e você tenta neutralizar um ou mais efeitos dentro de 60 feet que tenham esse traço. Em um sucesso, o efeito é suprimido até o início do seu próximo turno, em vez de terminar completamente. Use seu modificador de Conhecimento de Fogos de Artifício como seu modificador de neutralização, e seu nível de neutralização é igual à metade do seu nível (arredondado para cima). Um dragão tossindo custa 2 exibições de fogos de artifício em vez de 1, mas você pode aumentar o custo para 3 exibições de fogos de artifício e gastar uma ação adicional para criar uma exibição de dragão tossindo ainda maior que tenta neutralizar os efeitos auditivos e visuais ao mesmo tempo.</p>",      
-"source": "Pathfinder Guns & Gears"
+      "description": "<p><strong>Custo</strong> 1 exibição de fogos de artifício</p>\n<hr />\n<p><strong>Efeito</strong> Escolha efeitos auditivos ou visuais.</p>\n<hr />\n<p>A exibição ganha esse traço, e você tenta neutralizar um ou mais efeitos dentro de 60 feet que tenham esse traço. Em um sucesso, o efeito é suprimido até o início do seu próximo turno, em vez de terminar completamente. Use seu modificador de Conhecimento de Fogos de Artifício como seu modificador de neutralização, e seu nível de neutralização é igual à metade do seu nível (arredondado para cima). Um dragão tossindo custa 2 exibições de fogos de artifício em vez de 1, mas você pode aumentar o custo para 3 exibições de fogos de artifício e gastar uma ação adicional para criar uma exibição de dragão tossindo ainda maior que tenta neutralizar os efeitos auditivos e visuais ao mesmo tempo.</p>",
+      "source": "Pathfinder Guns & Gears"
     },
     "Cover Tracks": {
       "name": "Cobrir Rastros",
@@ -459,7 +459,7 @@
     "Craft Disharmonic Instrument": {
       "name": "Manufaturar Instrumento Desarmônico",
       "description": "<p><strong>Requerimentos</strong> Lendário em Manufaturar</p>\n<hr />\n<p>Você usa técnicas Vudran lendárias para manufaturar um instrumento desarmônico que incorpora pedaços do coração de Kothogaz. É provável que seja um tanpura, mas lendas mencionam outros instrumentos e até mesmo amplificadores de voz. Um instrumento desarmônico é um instrumento musical virtuoso.</p>\n<p>Esta atividade requer sete fragmentos de coração desarmônicos, a fórmula para um instrumento desarmônico, 55.000 gp em materiais raros e 7 dias de trabalho. No final dos 7 dias, tente um teste de @Check[crafting|dc:40|traits:action:craft] Manufaturar (CD 40) para Manufaturar.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você completa o instrumento desarmônico com maestria. Segurar o instrumento concede imunidade ao batimento cardíaco timpânico e à praga de muitos olhos de Kothogaz.</p>\n<p><strong>Sucesso</strong> Você completa o instrumento desarmônico.</p>\n<p><strong>Falha</strong> Você não completa o instrumento desarmônico e contrai a praga de muitos olhos dos fragmentos de coração.</p>\n<p><strong>Falha Crítica</strong> Como na falha, e sempre que você estiver no mesmo plano que Kothogaz, ele pode se teleportar imediatamente para você com sua habilidade Porta Desarmônica.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Cram": {
       "name": "Estudar Exaustivamente",
@@ -479,7 +479,7 @@
     "Create Familiar Fulu": {
       "name": "Criar Fulu Familiar",
       "description": "<p><strong>Frequência</strong> uma vez por dia ou mais (veja @UUID[Compendium.pf2e.feats-srd.Item.BcYmYMUU8HDwGthh]{Familiar Fulu});</p>\n<p><strong>Requisitos</strong> Seu familiar está a até 30 pés e você tem uma mão livre;</p>\n<hr />\n<p><strong>Efeito</strong> Você faz um movimento de pinça e seu familiar se dissolve em energia mágica que se reforma entre seus dedos como um item mágico fulu. O fulu deve ser pelo menos dois níveis abaixo do seu nível, e você não precisa gastar o custo monetário normal em componentes mágicos ou fazer um teste de Artesanato. Você pode então escolher @UUID[Compendium.pf2e.actionspf2e.Item.UAaQk93a30nx0nYY]{Afixar um Talismã} como parte desta atividade para afixar seu fulu familiar. Enquanto transformado, seu familiar não concede seus benefícios normais e permanece transformado até seus próximos preparativos diários ou até que você Ative o fulu, ponto em que seu familiar reaparece em um espaço desocupado adjacente a você.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Create Forgery": {
       "name": "Criar Falsificação",
@@ -494,7 +494,7 @@
     "Cycle Elemental Stance": {
       "name": "Ciclo de Postura Elemental",
       "description": "<p><strong>Requerimentos</strong> Você está em uma das posturas elementais</p>\n<hr />\n<p><strong>Efeito</strong> Andar ou Dar um Passo, e então entrar em uma postura elemental diferente daquela em que você está atualmente.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Dampening Harmonics": {
       "name": "Harmônicos de Amortecimento",
@@ -599,7 +599,7 @@
     "Disarming Interception": {
       "name": "Interceptação Desarmante",
       "description": "<p><strong>Requerimentos</strong> Você tem seu punho posicionado para aparar</p>\n<p><strong>Acionamento</strong> Um inimigo dentro do seu alcance mira em você ou em um aliado com um Golpe de arma</p>\n<hr />\n<p><strong>Efeito</strong> Você tenta @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Desarmar} a arma com a qual o inimigo está atacando. Você ganha um bônus de status +2 neste teste de Desarmar e, se o teste for bem-sucedido, o ataque de acionamento é interrompido. Se a tentativa de Desarmar for um sucesso crítico e você tiver uma mão livre, você pode pegar a arma desarmada em sua mão em vez de ela cair no chão no espaço do alvo.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Discover": {
       "name": "Descobrir",
@@ -613,7 +613,7 @@
     },
     "Dispelling Bullet": {
       "name": "Bala de Dissipação",
-      "description": "<p>Você imprime em uma bala um campo de energia disruptiva construído sobre sua assinatura mágica, interrompendo a magia de qualquer coisa que ela atinja. Faça um Golpe com arma de fogo ou besta contra um inimigo que você possa ver. Se você acertar, você tenta neutralizar um efeito de magia ativo no alvo (sua escolha, ou o efeito de nível mais alto se você não escolher). Seu nível de neutralização é igual à metade do seu nível (arredondado para cima), e seu modificador de verificação de neutralização é igual à sua CD de classe - 10.</p>",      
+      "description": "<p>Você imprime em uma bala um campo de energia disruptiva construído sobre sua assinatura mágica, interrompendo a magia de qualquer coisa que ela atinja. Faça um Golpe com arma de fogo ou besta contra um inimigo que você possa ver. Se você acertar, você tenta neutralizar um efeito de magia ativo no alvo (sua escolha, ou o efeito de nível mais alto se você não escolher). Seu nível de neutralização é igual à metade do seu nível (arredondado para cima), e seu modificador de verificação de neutralização é igual à sua CD de classe - 10.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Divert Lightning": {
@@ -711,12 +711,12 @@
       "description": "<p><span class=\"action-glyph\">1</span> ou <span class=\"action-glyph\">2</span></p>\n<hr />\n<p>Com um movimento de sua mão, você coleta matéria elemental de sua aura e a arremessa ou a golpeia. Escolha um dos seus elementos cinéticos e um tipo de dano listado para aquele elemento, então faça um ataque de impulso corpo a corpo ou à distância contra a CA de uma criatura. Adicione seu modificador de Força à rolagem de dano para uma Explosão Elemental corpo a corpo. Se você fizer uma Explosão Elemental de 2 ações, você ganha um bônus de status à rolagem de dano igual ao seu modificador de Constituição. O elemento determina o dado de dano, o tipo de dano e o alcance (para uma explosão à distância). Um tipo de dano que não seja um dano físico adiciona sua característica à explosão.</p>\n<ul>\n<li><strong>Ar</strong> 1d6 de eletricidade ou cortante, 60 pés</li>\n<li><strong>Terra</strong> 1d8 de concussão ou perfurante, 30 pés</li>\n<li><strong>Fogo</strong> 1d6 de fogo, alcance de 60 pés</li>\n<li><strong>Metal</strong> 1d8 de perfurante ou cortante, 30 pés</li>\n<li><strong>Água</strong> 1d8 de concussão ou frio, 30 pés</li>\n<li><strong>Madeira</strong> 1d8 de concussão ou vitalidade, 30 pés</li>\n</ul>\n<hr />\n<p><strong>Sucesso Crítico</strong> O alvo recebe o dobro do dano.</p>\n<p><strong>Sucesso</strong> O alvo recebe o dano total.</p>\n<hr />\n<p><strong>Nível (+4)</strong> O dano aumenta em um dado.</p>",
       "source": "Pathfinder Rage of Elements"
     },
-"Embrace of Destiny": {
-        "name": "Abraço do Destino",
-        "description": "<p>Escolha um inimigo dentro de 20 feet de você. Ele deve ser bem-sucedido em um teste de @Check[will|against:exemplar] contra sua CD de classe ou ser puxado diretamente em sua direção para um quadrado adjacente a você.</p>",
-        "source": "Pathfinder War of Immortals"
+    "Embrace of Destiny": {
+      "name": "Abraço do Destino",
+      "description": "<p>Escolha um inimigo dentro de 20 feet de você. Ele deve ser bem-sucedido em um teste de @Check[will|against:exemplar] contra sua CD de classe ou ser puxado diretamente em sua direção para um quadrado adjacente a você.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Empty Vessel": {
+    "Empty Vessel": {
       "name": "Vaso Vazio",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você receberia dano mental ou seria afetado por um efeito mental</p>\n<hr />\n<p><strong>Efeito</strong> Você ganha um bônus de circunstância +2 em testes de Vontade e resistência a dano mental igual ao seu nível contra o efeito de acionamento. Isso se aplica apenas ao efeito inicial, não a testes de resistência sucessivos, dano mental persistente ou outros efeitos repetidos.</p>",
       "source": "Pathfinder Dark Archive"
@@ -729,7 +729,7 @@
     "Energy Emanation": {
       "name": "Emanaçao de Energia",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Energia irrompe do seu corpo. Você causa @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.elementalHeartDwarf.damageType]|options:area-damage] de dano a todas as criaturas adjacentes (teste de @Check[reflex|against:class-spell|basic|options:area-effect] Reflexos usando sua CD de classe ou CD de magia, o que for maior). No 3º nível, e a cada 2 níveis subsequentes, este dano aumenta em 1d6.</p>",
-      "source": "Pathfinder Lost Omens: Character Guide"
+      "source": "Pathfinder Lost Omens Character Guide"
     },
     "Energy Shot": {
       "name": "Disparo de Energia",
@@ -739,7 +739,7 @@
     "Enlightenment in Adversity": {
       "name": "Iluminação na Adversidade",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você falha criticamente em um teste de perícia com uma perícia que você ganhou do antecedente celestial banido</p>\n<hr />\n<p><strong>Efeito</strong> Na próxima vez que você tentar um teste de perícia usando a perícia que acionou essa habilidade no próximo minuto, role duas vezes e use o resultado mais alto.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Enter Seat Of Power": {
       "name": "Enter Seat Of Power",
@@ -748,18 +748,23 @@
     },
     "Enter Spirit Trance": {
       "name": "Enter Spirit Trance",
-"description": "<p>Você entra em um transe autoimposto que o ajuda a superar os limites físicos do seu corpo. Você ganha um número de Pontos de Vida temporários igual ao seu nível mais seu modificador de Constituição. O transe dura 1 minuto, até você cair @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, ou até você Dispensá-lo, o que ocorrer primeiro.</p>\n<p>Enquanto estiver neste transe, você ganha um bônus de status de +1 nos testes de resistência de Fortitude e Vontade e seus Golpes corpo a corpo causam 1 de dano espiritual adicional. Outras habilidades podem exigir que você esteja em um transe espiritual. Quando o transe termina, você perde quaisquer Pontos de Vida temporários restantes de Entrar em Transe Espiritual, e você não pode Entrar em Transe Espiritual por 1 minuto.</p>",      
-"source": "Pathfinder Lost Omens: Divine Mysteries"
+      "description": "<p>Você entra em um transe autoimposto que o ajuda a superar os limites físicos do seu corpo. Você ganha um número de Pontos de Vida temporários igual ao seu nível mais seu modificador de Constituição. O transe dura 1 minuto, até você cair @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, ou até você Dispensá-lo, o que ocorrer primeiro.</p>\n<p>Enquanto estiver neste transe, você ganha um bônus de status de +1 nos testes de resistência de Fortitude e Vontade e seus Golpes corpo a corpo causam 1 de dano espiritual adicional. Outras habilidades podem exigir que você esteja em um transe espiritual. Quando o transe termina, você perde quaisquer Pontos de Vida temporários restantes de Entrar em Transe Espiritual, e você não pode Entrar em Transe Espiritual por 1 minuto.</p>",
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Entity's Resurgence": {
       "name": "Ressurgimento da Entidade",
       "description": "<p><strong>Acionamento</strong> Você seria reduzido a 0 Pontos de Vida, mas não morto imediatamente</p>\n<hr />\n<p><strong>Efeito</strong> Em vez de deixá-lo cair inconsciente, sua entidade assume o controle. Você permanece com 1 Ponto de Vida e ganha Pontos de Vida temporários iguais ao seu nível + seu modificador de habilidade chave que duram 1 minuto. No entanto, a entidade está no controle por 1 minuto ou até você cair inconsciente, o que ocorrer primeiro.</p>\n<p>Enquanto a entidade estiver no controle, você ganha um bônus de status +1 em rolagens de ataque e rolagens de dano, e o Mestre geralmente controla seu personagem, interpretando a entidade. O Mestre pode decidir que você interprete a entidade, mas ele mantém a palavra final sobre qualquer decisão que você tomar. Independentemente da natureza da entidade, ela certamente buscará vingança contra o inimigo que colocou em risco a vida de seu receptáculo - mesmo uma entidade maligna não mudará de aliança ou ignorará o perigo, exceto em circunstâncias extremas.</p>",
       "source": "Pathfinder Dark Archive"
     },
+    "Entreat Pact": {
+      "name": "Entreat Pact",
+      "description": "<p><strong>Trigger</strong> You attempt a skill check directly related to the conditions of the pact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You call upon the occult energies powering your pact to help you fulfill your promise. Roll twice on the triggering check and take the better result.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Envenom": {
       "name": "Envenenar",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p>Através do uso de saliva ou sangue, você usa suas toxinas inatas para aplicar veneno vishkanyan em sua arma ou em uma peça de munição. Para usar seu sangue, você deve estar ferido ou pode causar @Damage[1[cortante]] de dano a si mesmo como parte da ação. O veneno vishkanyan permanece potente até o final do seu próximo turno, ou até que você o gaste como normal para um veneno de ferimento, seja atingindo um alvo ou falhando criticamente em um teste de ataque.</p>\n<p><strong>Veneno Vishkanyan Menor</strong> (ferimento, veneno)</p>\n<hr />\n<p><strong>Teste de Resistência</strong> @Check[fortitude|against:class-spell|traits:injury,poison,damaging-effect]</p>\n<p><strong>Duração Máxima</strong> 6 rodadas</p>\n<p><strong>Estágio 1</strong> @Damage[1d4[poison]] de dano de veneno (1 rodada)</p>\n<p><strong>Estágio 2</strong> @Damage[1d4[poison]] de dano de veneno (1 rodada)</p>\n<p><strong>Estágio 3</strong> @Damage[1d4[poison]] de dano de veneno (1 rodada)</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Erupting Spurs": {
       "name": "Esporões Eruptivos",
@@ -810,8 +815,8 @@
       "name": "Alimentar as Massas",
       "description": "<p>O @UUID[Compendium.pf2e.classfeatures.Item.gjZXHLjezR0mkMnc]{Horn of Plenty} permite que você transfira os efeitos de poções e elixires para seus aliados. Você Interage para retirar um consumível do chifre e, em seguida, Interage para bebê-lo. Em vez de nutrir a si mesmo, os efeitos do item são transferidos para um aliado voluntário dentro de 60 feet, como se ele mesmo o tivesse consumido.</p>\n<p>Se o consumível restaurar Pontos de Vida, você pode escolher dividir a quantidade que ele restaura entre você e o aliado livremente (após rolar os dados para determinar a quantidade).</p>",
       "source": "Pathfinder War of Immortals"
-  },
-      "Feint": {
+    },
+    "Feint": {
       "name": "Fintar",
       "description": "<p><strong>Requerimentos</strong> Você está dentro do alcance corpo a corpo do alvo que você tenta Fintar.</p>\n<hr />\n<p>Com um floreio enganoso, você deixa um oponente despreparado para seu ataque real. Faça um teste de [[/act feint]]{Enganação} contra a CD de Percepção do seu alvo.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você desequilibra completamente as defesas do seu inimigo contra você. O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} contra ataques corpo a corpo que você tentar contra ele até o final do seu próximo turno.</p>\n<p><strong>Sucesso</strong> Seu inimigo é enganado, mas apenas momentaneamente. O alvo fica desprevenido contra o próximo ataque corpo a corpo que você tentar contra ele antes do final do seu turno atual.</p>\n<p><strong>Falha Crítica</strong> Sua finta sai pela culatra. Você fica desprevenido contra ataques corpo a corpo que o alvo tentar contra você até o final do seu próximo turno.</p>",
       "source": "Pathfinder Player Core"
@@ -820,6 +825,11 @@
       "name": "Giro Feral",
       "description": "<p>Você ataca com ambos os braços, dilacerando tudo à sua frente. Cada criatura em um @Template[type:cone|distance:15] deve ser bem-sucedida em um teste de @Check[reflex|against:exemplar|basic] contra o DC da sua classe ou sofrer dano espiritual igual ao seu dano de Golpe normal com suas @UUID[Compendium.pf2e.classfeatures.Item.MhM6u4Stl0jV6CF2]{Mãos do Selvagem}.</p>\n<p>Você pode escolher girar com abandono, o que impõe um bônus de circunstância de -2 aos testes de resistência dos inimigos, mas faz com que você fique @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} até o início do seu próximo turno.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.raZ8SIBYyFux8L3U]{Effect: Feral Swing}</p>",
       "source": "Pathfinder War of Immortals"
+    },
+    "Fey Jump": {
+      "name": "Fey Jump",
+      "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You jump through the First World for a brief second, teleporting up 60 feet away to an empty space you can see. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the action is lost.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Fey's Fortune": {
       "name": "Sorte Feérica",
@@ -906,6 +916,11 @@
       "description": "<p>Usando seu corpo, uma alavanca ou alguma outra ferramenta, você tenta abrir à força uma porta, janela, recipiente ou portão pesado. Com um resultado alto o suficiente, você pode até mesmo quebrar paredes. Sem um pé-de-cabra, forçar algo aberto resulta em uma penalidade de item -2 no teste de [[/act force-open]]{Atletismo} para Forçar Abertura.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você abre a porta, janela, recipiente ou portão e pode evitar danificá-lo no processo.</p>\n<p><strong>Sucesso</strong> Você arromba a porta, janela, recipiente ou portão, e ele ganha a condição quebrado. Se for especialmente resistente, o Mestre pode fazer com que ele receba dano, mas não seja quebrado.</p>\n<p><strong>Falha Crítica</strong> Sua tentativa trava a porta, janela, recipiente ou portão, impondo uma penalidade de circunstância -2 em tentativas futuras de Forçar Abertura.</p>\n<h2>Exemplos de Tarefas de Forçar Abertura</h2>\n<ul>\n<li><strong>Não Treinado</strong> tecido, vidro frágil</li>\n<li><strong>Treinado</strong> gelo, vidro resistente</li>\n<li><strong>Especialista</strong> porta de madeira frágil, portão levadiço de madeira</li>\n<li><strong>Mestre</strong> porta de madeira resistente, portão levadiço de ferro, barra de metal</li>\n<li><strong>Lendário</strong> porta de pedra ou ferro</li>\n</ul>",
       "source": "Pathfinder Player Core"
     },
+    "Forced Pact": {
+      "name": "Forced Pact",
+      "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You force a temporary pact on both yourself and another creature you can see within 60 feet. Choose attack, move, manipulate, or concentrate. The target must attempt a Will saving throw.</p>\n<hr />\n<p><strong>Success</strong> The target is unaffected.</p>\n<p><strong>Failure</strong> If you or the target uses an action with the chosen trait within the next minute, they take @Damage[10d6[mental]] damage, and this pact ends for both of you.</p>\n<p><strong>Critical Failure</strong> As failure, except your target takes the damage if either of you uses an action with the chosen trait.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
+    },
     "Foresight": {
       "name": "Previsão",
       "description": "<p><strong>Acionamento</strong> O alvo de @UUID[Compendium.pf2e.spells-srd.Item.qsNeG9KZpODSACMq]{Previsão} se defende contra uma criatura hostil ou outro perigo.</p>\n<hr />\n<p><strong>Efeito</strong> Se a criatura hostil ou perigo forçar o alvo a rolar dados (um teste de resistência, por exemplo), o alvo rola duas vezes e usa o resultado mais alto, e esta magia ganha a característica de sorte. Mas se a criatura hostil ou perigo estiver rolando contra o alvo (um teste de ataque ou perícia, por exemplo), essa criatura hostil ou perigo rola duas vezes e usa o resultado mais baixo, e esta magia ganha a característica de infortúnio.</p>",
@@ -948,15 +963,15 @@
     },
     "Ghost Shot": {
       "name": "Disparo Fantasma",
-      "description": "<p>Faça um Golpe com arma de fogo ou besta. Se você estiver @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} ou @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} pelo alvo, o Golpe adiciona o dano de precisão adicional de @UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{One Shot, One Kill}; se você já receberia esse dano adicional no Golpe, os efeitos não são cumulativos. Se você estava indetectado ou @UUID[Compendium.pf2e.conditionitems.Item.9evPzg9E6muFcoSk]{Unnoticed} por quaisquer criaturas, você agora está oculto delas, ou indetectado se o disparo foi feito com um silenciador.</p>",      
+      "description": "<p>Faça um Golpe com arma de fogo ou besta. Se você estiver @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} ou @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} pelo alvo, o Golpe adiciona o dano de precisão adicional de @UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{One Shot, One Kill}; se você já receberia esse dano adicional no Golpe, os efeitos não são cumulativos. Se você estava indetectado ou @UUID[Compendium.pf2e.conditionitems.Item.9evPzg9E6muFcoSk]{Unnoticed} por quaisquer criaturas, você agora está oculto delas, ou indetectado se o disparo foi feito com um silenciador.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Giant-Felling Comet": {
       "name": "Cometa Derruba-Gigantes",
       "description": "<p>Você dispara o @UUID[Compendium.pf2e.classfeatures.Item.LC8i3ZJjhhKEHSLI]{Starshot}, causando uma detonação em uma @Template[type:burst|distance:5] dentro de 60 feet. Cada criatura na área deve ser bem-sucedida em um teste de @Check[reflex|against:exemplar|basic|options:area-effect] contra sua CD de classe ou sofrer dano espiritual igual ao seu dano de Golpe normal com o 'starshot'. Criaturas maiores que você sofrem uma penalidade de circunstância de -2 em seus testes de resistência. Este disparo requer qualquer munição que normalmente seria necessária para a arma.</p>",
       "source": "Pathfinder War of Immortals"
-  },
-      "Glimpse Vulnerability": {
+    },
+    "Glimpse Vulnerability": {
       "name": "Vislumbrar Vulnerabilidade",
       "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<p><strong>Requerimento</strong> Você está segurando seu implemento;</p>\n<hr />\n<p><strong>Efeito</strong> Você vislumbra uma vulnerabilidade oculta e então a fortalece para te ajudar. Selecione uma criatura que você possa ver. Até que você Vislumbre Vulnerabilidade novamente, esse alvo ganha fraqueza 2 contra seus Golpes desarmados e com armas.</p>",
       "source": "Pathfinder Dark Archive"
@@ -968,7 +983,7 @@
     },
     "Goblin Jubilee": {
       "name": "Júbilo Goblin",
-      "description": "<p><strong>Custo</strong> 1 exibição de fogos de artifício</p>\n<hr />\n<p><strong>Efeito</strong> O caos preenche uma @Template[type:burst|distance:20] dentro de 120 feet. Todas as criaturas na área sofrem @Damage[3d6[fire],3d6[sonic]|options:area-damage]{3d6 de dano de fogo e 3d6 de dano sônico} e devem realizar um teste de @Check[fortitude|against:class-spell|options:area-effect,damaging-effect]. Você pode gastar frascos versáteis para aumentar a potência deste efeito; para cada frasco versátil que você gastar como parte desta exibição, aumente o dano de fogo e sônico em 1d6 cada.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura não é afetada.</p>\n<p><strong>Sucesso</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} e @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} até o final do seu próximo turno e sofre metade do dano.</p>\n<p><strong>Falha</strong> A criatura fica deslumbrada e ensurdecida por 1 minuto e sofre dano total.</p>\n<p><strong>Falha Crítica</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} por 1 rodada, deslumbrada e ensurdecida por 1 minuto, e sofre o dobro do dano.</p>",      
+      "description": "<p><strong>Custo</strong> 1 exibição de fogos de artifício</p>\n<hr />\n<p><strong>Efeito</strong> O caos preenche uma @Template[type:burst|distance:20] dentro de 120 feet. Todas as criaturas na área sofrem @Damage[3d6[fire],3d6[sonic]|options:area-damage]{3d6 de dano de fogo e 3d6 de dano sônico} e devem realizar um teste de @Check[fortitude|against:class-spell|options:area-effect,damaging-effect]. Você pode gastar frascos versáteis para aumentar a potência deste efeito; para cada frasco versátil que você gastar como parte desta exibição, aumente o dano de fogo e sônico em 1d6 cada.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura não é afetada.</p>\n<p><strong>Sucesso</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} e @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} até o final do seu próximo turno e sofre metade do dano.</p>\n<p><strong>Falha</strong> A criatura fica deslumbrada e ensurdecida por 1 minuto e sofre dano total.</p>\n<p><strong>Falha Crítica</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} por 1 rodada, deslumbrada e ensurdecida por 1 minuto, e sofre o dobro do dano.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Gossip": {
@@ -989,7 +1004,7 @@
     "Grim Swagger": {
       "name": "Fanfarronice Sombria",
       "description": "<p><strong>Requisitos</strong> Você tem uma arma de fogo de uma mão ou uma besta de uma mão visivelmente portada ou empunhada.</p>\n<hr />\n<p>Você tenta limpar a sala prometendo um destino sombrio para qualquer um que não faça o que você diz, e rapidamente. Tente um teste de @Check[deception] ou @Check[intimidation] contra as CDs de Vontade de cada criatura dentro de 30 feet, exceto seus aliados. Independentemente de você ter sucesso ou falhar, cada sujeito fica temporariamente imune à sua Arrogância Sombria por 10 minutos.</p>\n<p>Por exemplo, se você tentar um teste de Enganação, você mente e se gaba de sua proeza ou do grande grupo de amigos a caminho para apoiá-lo. Se você tentar um teste de Intimidação, você promete a todos na sala que você será a última coisa que eles verão.</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3}. Se for de nível inferior a você, também fica @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} por 1 rodada.</p>\n<p><strong>Sucesso</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Grow": {
       "name": "Cultivar",
@@ -1009,7 +1024,7 @@
     "Harvest Heartsliver": {
       "name": "Colher Fragmento de Coração",
       "description": "<p><strong>Requerimentos</strong> Você está dentro do corpo de Kothogaz.</p>\n<hr />\n<p>Você tenta roubar uma seção do coração de Kothogaz. Faça um teste de ataque ou um teste de @Check[acrobatics|dc:40] Acrobacia (CD 40), @Check[athletics|dc:40] Atletismo (CD 40), @Check[medicine|dc:40] Medicina (CD 40), @Check[nature|dc:40] Natureza (CD 40), @Check[occultism|dc:40] Ocultismo (CD 40) ou @Check[religion|dc:40] Religião (CD 40).</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Você rouba um pequeno fragmento de coração desarmônico, guarda-o em sua pessoa e pode sair do corpo de Kothogaz.</p>\n<p><strong>Sucesso</strong> Como no sucesso crítico, mas você não pode sair.</p>\n<p><strong>Falha</strong> Você recebe o dano de Engolir Inteiro de Kothogaz.</p>\n<p><strong>Falha Crítica</strong> Você recebe o dobro do dano de Engolir Inteiro de Kothogaz e fica @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Ensurdecido} por seu batimento cardíaco por 1 minuto.</p>",
-      "source": "Pathfinder Lost Omens: Monsters of Myth"
+      "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Heaven Rains an Ending": {
       "name": "Heaven Rains an Ending",
@@ -1084,7 +1099,7 @@
     "Indomitable Act": {
       "name": "Ato Indomável",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você está prestes a tentar um teste</p>\n<p><strong>Requerimentos</strong> Você está @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado}</p>\n<hr />\n<p><strong>Efeito</strong> Você se inclina para o seu medo, usando-o para te encorajar. Você pode rolar o teste de acionamento duas vezes e usar o resultado mais alto. Este é um efeito de sorte.</p>",
-      "source": "Pathfinder Lost Omens: Firebrands"
+      "source": "Pathfinder Lost Omens Firebrands"
     },
     "Influence": {
       "name": "Influenciar",
@@ -1099,7 +1114,7 @@
     "Inscribe Shadow Pamor": {
       "name": "Inscrever Pamor Sombrio",
       "description": "<p><strong>Frequência</strong> uma vez por minuto</p>\n<hr />\n<p><strong>Efeito</strong> Você mergulha seu punho ou arma em sua sombra, envolvendo-a em um padrão ondulante de escuridão, semelhante a um damasco. Se sua próxima ação for Golpear, as sombras se agarram ao seu inimigo com seu ataque, obscurecendo sua visão. Em um acerto, o alvo do seu Golpe fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscado} até o início do seu próximo turno. O alvo pode usar uma ação Interagir para arrancar as sombras agarradas e remover a condição ofuscado. Em um acerto crítico, as sombras são particularmente teimosas e não podem ser arrancadas.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Inspired Stratagem": {
       "name": "Estratagema Inspirada",
@@ -1149,12 +1164,12 @@
     "Invigorating Fear": {
       "name": "Medo Revigorante",
       "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<p><strong>Acionamento</strong> Uma criatura a até 60 pés ganha a condição @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustado}.</p>\n<hr />\n<p><strong>Efeito</strong> Você é revigorado pelo choque de uma brincadeira ou pela vibração do terror. Você ganha Pontos de Vida temporários iguais ao nível da criatura ou 3, o que for maior. Você perde quaisquer Pontos de Vida temporários após 1 minuto.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Invoke Celestial Privilege": {
       "name": "Invocar Privilégio Celestial",
       "description": "<p><strong>Acionamento</strong> Você tenta um teste de resistência contra um efeito divino, mas você ainda não rolou.</p>\n<hr />\n<p>Você se eleva acima do efeito de acionamento, recusando-se a ser prejudicado por ele. Você ganha um bônus de circunstância +1 no teste de resistência de acionamento e em qualquer outro teste de resistência que você tentar contra efeitos divinos até o início do seu próximo turno.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Iron Command": {
       "name": "Comando de Ferro",
@@ -1169,7 +1184,7 @@
     "Jumping Jenny": {
       "name": "Jenny Saltitante",
       "description": "<p><strong>Custo</strong> 1 exibição de fogos de artifício</p>\n<hr />\n<p><strong>Efeito</strong> Alveje uma criatura voadora dentro de 60 feet. Até o início do seu próximo turno, cada vez que a criatura tentar Voar, ela deve ser bem-sucedida em um teste de @Check[acrobatics|against:class-spell|rollerRole:target] para Manobrar em Voo contra a CD da sua exibição de fogos de artifício, ou a ação de Voar é interrompida. Se todas as tentativas da criatura de Voar forem interrompidas, no final do seu turno, ela cai inofensivamente no chão abaixo. Uma 'jumping jenny' custa 2 exibições de fogos de artifício, em vez de 1.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Lantern Beam": {
       "name": "Feixe da Lanterna",
@@ -1229,7 +1244,7 @@
     "Living Fortification": {
       "name": "Fortificação Viva",
       "description": "<p><strong>Gatilho</strong> Você rola iniciativa.</p>\n<hr />\n<p>Você se posiciona defensivamente com armas de fogo ou bestas, agindo como uma torre ambulante. Interaja para sacar uma arma de fogo ou besta. Você então posiciona essa arma defensivamente, como o traço 'parry', ganhando um bônus de circunstância de +1 na CA até o final do seu primeiro turno, ou um bônus de circunstância de +2 se a arma escolhida tiver o traço 'parry'.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.fRlvmul3LbLo2xvR]{Effect: Living Fortification}</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.WxE5S3KY1DR5Nbxm]{Effect: Living Fortification (Parry Trait)}</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Long Jump": {
       "name": "Salto em Distância",
@@ -1314,7 +1329,7 @@
     "Mist Blending": {
       "name": "Fusão com a Névoa",
       "description": "<p><strong>Acionamento</strong> Uma criatura tenta um teste fixo para mirar em você porque você está @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Oculto} ou @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondido} devido a névoa, neblina, bruma ou fumaça</p>\n<hr />\n<p><strong>Efeito</strong> Você se envolve em névoa, tornando mais difícil para seu inimigo te acertar. Se você estiver oculto, a CD do teste fixo aumenta de 5 para @Check[flat|dc:7] 7; se você estiver escondido, ela aumenta de 11 para @Check[flat|dc:13] 13.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Mount": {
       "name": "Montar",
@@ -1329,12 +1344,12 @@
     "Mystic Aegis": {
       "name": "Égide Mística",
       "description": "<p><strong>Gatilho</strong> Uma criatura sobre a qual você obteve sucesso em Recordar Conhecimento causaria dano a você</p>\n<p><strong>Requisitos</strong> Você tem uma mão livre</p>\n<hr />\n<p><strong>Efeito</strong> Você brande seu amuleto, canalizando e moldando as forças dentro dele para protegê-lo contra danos. Você ganha resistência a todos os danos igual a 2 + metade do seu nível arredondado para cima contra o efeito de gatilho.</p>",
-      "source": "Pathfinder Lost Omens: Divine Mysteries"
+      "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Name Drop": {
       "name": "Mencionar Nomes",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você falha ou falha criticamente em um teste de Dissimulação, Diplomacia, Intimidação ou Sociedade</p>\n<hr />\n<p><strong>Efeito</strong> Role novamente o teste de perícia. Você deve usar o segundo resultado, mesmo que seja pior.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "No Scar but This": {
       "name": "Nenhuma Cicatriz Além Desta",
@@ -1344,12 +1359,17 @@
     "Nudging Whisper": {
       "name": "Sussurro Instigante",
       "description": "<p>Você entrelaça suas palavras com ecos da magia de seus ancestrais. Se sua próxima ação for @UUID[Compendium.pf2e.actionspf2e.Item.DCb62iCBrJXy0Ik6]{Pedir}, você ganha os efeitos do talento @UUID[Compendium.pf2e.feats-srd.Item.KIK2Eza9TK47MEb2]{Pedido Descarado}, e se sua próxima ação for @UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Mentir}, você ganha os efeitos do talento @UUID[Compendium.pf2e.feats-srd.Item.6Z4e3B9vePYpibcy]{Confabulador}. Se você falhar criticamente em qualquer um dos testes, o alvo e qualquer um que testemunhou sua falha se torna imune ao seu Sussurro Instigante por um dia, embora isso não necessariamente os deixe saber que você tentou encantá-los.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Objection": {
       "name": "Objeção",
       "description": "<p><strong>Frequência</strong> uma vez por minuto</p>\n<p><strong>Acionamento</strong> Você está prestes a tentar um teste de resistência contra um efeito linguístico</p>\n<hr />\n<p><strong>Efeito</strong> O olho do seu diabo crepita com alegria infernal enquanto você descobre uma brecha na formulação do efeito de acionamento. Você rola seu teste de resistência duas vezes, usando o resultado mais alto.</p>",
       "source": "Pathfinder Dark Archive"
+    },
+    "Offer Story": {
+      "name": "Offer Story",
+      "description": "<p>You share a story of your travels with a creature within 30 feet. You gain the blessing of Isthralei as a +1 status bonus to AC and Will saves until the end of your next turn. On their next turn, the creature you shared a story with can take a single action, which has the auditory, concentrate, linguistic, and mental traits, to respond with their own story to gain the same benefits until the end of the following turn.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Once Bitten": {
       "name": "Mordido Uma Vez",
@@ -1364,7 +1384,7 @@
     "One Shot, One Kill": {
       "name": "Um Tiro, Uma Morte",
       "description": "<p><strong>Gatilho</strong> Você rola Furtividade para iniciativa.</p>\n<hr />\n<p>Seu primeiro tiro é o mais mortal. Interaja para sacar uma arma de fogo ou besta. Seu primeiro Golpe bem-sucedido com essa arma durante este encontro causa 1d6 de dano de precisão adicional. Este dano de precisão aumenta para 2d6 no 9º nível e 3d6 no 15º nível.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Only You and I": {
       "name": "Só Você e Eu",
@@ -1389,7 +1409,7 @@
     "Overdrive": {
       "name": "Sobrecarga",
       "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<hr />\n<p>Girando temporariamente os mecanismos em seu corpo para sobrecarga, você tenta adicionar maior potência aos seus ataques. Tente um teste de @Check[crafting|dc:@self.level] que tenha uma CD padrão para o seu nível.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.1XlJ9xLzL19GHoOL]{Effect: Overdrive}</p>\n<hr />\n<p><strong>Sucesso Crítico</strong> Seus mecanismos entram em um estado de eficiência incrível chamado sobrecarga crítica, adicionando grande potência aos seus ataques. Seus Golpes causam dano adicional igual ao seu modificador de Inteligência por 1 minuto. Depois que a Sobrecarga termina, seus mecanismos se tornam inutilizáveis enquanto esfriam ou reiniciam, e você não pode usar Sobrecarga por 1 minuto.</p>\n<p><strong>Sucesso</strong> Seus mecanismos entram em sobrecarga, adicionando potência aos seus ataques. Como no sucesso crítico, exceto que o dano adicional é igual à metade do seu modificador de Inteligência.</p>\n<p><strong>Falha</strong> Seus mecanismos chiam de forma preocupante e começam a fumegar. Seus Golpes causam 1 de dano de fogo adicional.</p>\n<p><strong>Falha Crítica</strong> Opa! Algo explode. Você sofre dano de fogo igual à metade do seu nível (arredondado para cima) e não pode usar Sobrecarga novamente por [[/r 1d4 #Recharge Overdrive]] rodadas enquanto seus mecanismos reiniciam.</p>\n<hr />\n<p><strong>Especial</strong> Quando sob os efeitos de Sobrecarga, você ainda pode usar a ação Sobrecarga. Você não pode estender a duração da sua Sobrecarga desta forma, mas você pode transformar uma sobrecarga em uma sobrecarga crítica se obtiver um sucesso crítico. Uma falha não tem efeito sobre sua Sobrecarga atual, e você termina sua Sobrecarga em uma falha crítica.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Overload Vision": {
       "name": "Sobrecarga Visual",
@@ -1399,7 +1419,7 @@
     "Overwhelming Combination": {
       "name": "Combinação Esmagadora",
       "description": "<p><strong>Requerimentos</strong> Você está empunhando uma arma corpo a corpo de uma mão ou uma arma corpo a corpo com a característica ágil ou finesse</p>\n<hr />\n<p><strong>Efeito</strong> Faça dois Golpes contra um alvo dentro do seu alcance, um com a arma exigida e outro com seu ataque desarmado de punho. Se ambos acertarem o mesmo alvo, combine seus danos para fins de suas resistências e fraquezas. Aplique sua penalidade de ataque múltiplo a cada Golpe normalmente.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Pacifying Infusion": {
       "name": "Infusão Pacificadora",
@@ -1539,7 +1559,7 @@
     "Raise Neck": {
       "name": "Elevar Pescoço",
       "description": "<p>Você levanta a cabeça em uma posição de ataque. O Golpe de presas concedido por sua ancestralidade nagaji ganha um alcance de 10 pés até o final do seu turno.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Raise Slabs": {
       "name": "Erguer Lajes",
@@ -1594,7 +1614,7 @@
     "Recall Ammunition": {
       "name": "Recuperar Munição",
       "description": "<p><strong>Gatilho</strong> Você erra um Golpe com arma de fogo ou besta.</p>\n<hr />\n<p>Você cria um vínculo com sua munição, chamando seu tiro errado de volta. A munição que você acabou de disparar é recarregada de volta em sua arma. Se a munição era uma peça de munição mágica ou alquímica que normalmente requer uma ou mais ações para ativar, você deve reativá-la antes de disparar novamente.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Recall Knowledge": {
       "name": "Recordar Conhecimento",
@@ -1619,7 +1639,7 @@
     "Reclaim Destiny": {
       "name": "Reclamar o Destino",
       "description": "<p><strong>Frequência</strong> uma vez por dia;</p>\n<p><strong>Acionamento</strong> Você está prestes a tentar um teste e está afetado por um efeito de sorte ou infortúnio que modifica o teste de acionamento;</p>\n<p><strong>Efeito</strong> Você quebra a influência sobre sua sorte e reivindica um controle estável sobre seu destino. Você ignora o efeito de sorte ou infortúnio e pode rolar o teste de acionamento normalmente.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide"
+      "source": "Pathfinder Lost Omens Travel Guide"
     },
     "Reconnoiter": {
       "name": "Reconhecer",
@@ -1644,7 +1664,7 @@
     "Reloading Strike": {
       "name": "Golpe de Recarga",
       "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo ou besta em uma mão, e sua outra mão empunha uma arma corpo a corpo de uma mão ou está vazia.</p>\n<hr />\n<p>Você faz um ataque corpo a corpo e recarrega em um movimento fluido. Golpeie um oponente ao alcance com sua arma corpo a corpo de uma mão (ou, se sua outra mão estiver vazia, com um ataque desarmado) e, em seguida, Interaja para recarregar. Você não precisa de uma mão livre para recarregar desta forma e esta recarga não aciona reações.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Repair": {
       "name": "Reparar",
@@ -1734,7 +1754,7 @@
     "Salt Wound": {
       "name": "Ferida Salgada",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Uma criatura que tem sangue e não está em seus Pontos de Vida máximos atinge você com um Golpe corpo a corpo</p>\n<hr />\n<p><strong>Efeito</strong> Você canaliza sal e salmoura do seu sangue para as feridas da criatura. A criatura deve tentar um teste de @Check[fortitude|against:class-spell] Fortitude usando sua CD de classe ou CD de magia, o que for maior. Em uma falha, a criatura recebe @Damage[1d6[persistent,acid]] dano persistente de ácido e fica @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Enjoada 1} pela dor. Em uma falha crítica, ela recebe @Damage[2d6[persistent,acid]] dano persistente de ácido e fica @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Enjoada 2}.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Scout": {
       "name": "Patrulhar",
@@ -1794,7 +1814,7 @@
     "Set Explosives": {
       "name": "Colocar Explosivos",
       "description": "<p><strong>Requisitos</strong> Você tem 1 ou 2 bombas na mão</p>\n<hr />\n<p><strong>Efeito</strong> Você prende as bombas a um objeto inanimado dentro do seu alcance, como uma porta, parede ou coluna, e as prepara para detonar em um determinado momento. As bombas explodem em um momento específico que você determinar (como após sua próxima ação ou no início do seu próximo turno, até um máximo de 1 minuto), causando seu dano e dano de área ao objeto inanimado. Combine este dano para fins de resistências e fraquezas, e este dano ignora uma quantidade da Dureza do objeto igual ao seu nível. Quaisquer criaturas adjacentes ao perigo sofrem o dano de área das bombas, também combinado para fins de resistências e fraquezas. Como lembrete, como você não jogou as bombas, @UUID[Compendium.pf2e.feats-srd.Item.UjWLK86BgHxz3Itd]{Calculated Splash} e efeitos similares não se aplicam. Garantir que seu tempo esteja correto requer concentração, então você não pode Preparar Explosivos novamente enquanto estiver esperando que uma bomba previamente preparada detone.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Set Free": {
       "name": "Libertar",
@@ -1869,7 +1889,7 @@
     "Siegebreaker": {
       "name": "Quebra-cerco",
       "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo que tenha o traço 'kickback' ou 'scatter', ou uma besta de duas mãos.</p>\n<hr />\n<p>Com uma força inacreditável, você avança e golpeia seu alvo com a arma antes de fincar os calcanhares e puxar o gatilho. @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} ou Caminhe, então faça um Golpe com a arma de fogo ou besta necessária contra um alvo adjacente. Este Golpe causa @Damage[3d8[bludgeoning]] de dano adicional e ignora 10 pontos da Dureza do alvo (se houver), ou da Dureza do escudo se o alvo usar Bloqueio com Escudo.</p>\n<p>Após o Golpe, você fica @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} e posiciona a arma necessária defensivamente, como o traço 'parry', ganhando um bônus de circunstância de +1 na CA, ou um bônus de circunstância de +2 se a arma escolhida tiver o traço 'parry'. Ambos os efeitos duram até o início do seu próximo turno. Se uma força o mover enquanto você estiver imobilizado desta forma, ela deve ser bem-sucedida em um teste apropriado contra sua CD de classe.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Skirt the Underworld": {
       "name": "Skirt the Underworld",
@@ -1884,7 +1904,7 @@
     "Smoke Blending": {
       "name": "Mesclar-se à Fumaça",
       "description": "<p><strong>Acionamento</strong> Uma criatura tenta um teste fixo para mirar em você porque você está @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Oculto} ou @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Escondido} devido a névoa, neblina, bruma ou fumaça</p>\n<hr />\n<p><strong>Efeito</strong> Você se envolve em fumaça, tornando mais difícil para seu inimigo te acertar. Se você estiver oculto, a CD do teste fixo aumenta de 5 para @Check[flat|dc:7] 7; se você estiver escondido, ela aumenta de 11 para @Check[flat|dc:13] 13.</p>",
-      "source": "Pathfinder Lost Omens: Ancestry Guide"
+      "source": "Pathfinder Lost Omens Ancestry Guide"
     },
     "Sneak": {
       "name": "Esgueirar",
@@ -1900,21 +1920,21 @@
       "name": "Espasmo do Berserker",
       "description": "<p>Seu corpo se deforma além do reconhecimento em uma forma poderosa de um olho só. Você é afetado por uma magia @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Enlarge} de 4º nível e uma magia @UUID[Compendium.pf2e.spells-srd.Item.YtesyvfAIwXOqISq]{Moon Frenzy} de 6º nível, que duram até o final do seu próximo turno. Você não pode tentar terminar o frenesi lunar antecipadamente.</p>\n<p>Se este ícone se tornar fortalecido novamente, você pode estender a duração do Espasmo do Berserker até o final do seu próximo turno. Enquanto você já estiver afetado pelo Espasmo do Berserker, a ação de transcender se torna uma ação livre para estender sua duração até o final do seu próximo turno.</p>",
       "source": "Pathfinder War of Immortals"
-  },
-  "Speed of Arms": {
+    },
+    "Speed of Arms": {
       "name": "Velocidade das Armas",
       "description": "<p><strong>Gatilho</strong> Seu turno começa</p>\n<hr />\n<p><strong>Efeito</strong> Você faz um Golpe contra um oponente dentro do seu alcance, ou Caminha diretamente em direção a um oponente. Se esta for a primeira vez que você golpeia esse oponente durante este encontro, o Golpe é feito com proficiência mítica.</p>",
       "source": "Pathfinder War of Immortals"
-  },
-  "Spell-Woven Shot": {
+    },
+    "Spell-Woven Shot": {
       "name": "Disparo Tecido com Magia",
       "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo mágica carregada ou uma besta mágica carregada</p>\n<hr />\n<p><strong>Efeito</strong> Você Conjura uma Magia que leva 1 ou 2 ações para conjurar e requer uma jogada de ataque mágico. Os efeitos da magia não ocorrem imediatamente, mas são imbuídos na arma requerida. Faça um Golpe com essa arma. Sua magia voa com a munição, usando o resultado da sua jogada de ataque para determinar os efeitos tanto do Golpe quanto da magia. Isso conta como dois ataques para sua penalidade de ataque múltiplo, mas você não aplica a penalidade até depois de ter completado o Disparo Tecido com Magia.</p>",
       "source": "Pathfinder Guns & Gears"
-  },
-      "Spellsling": {
+    },
+    "Spellsling": {
       "name": "Disparo de Magia",
       "description": "<p><strong>Requisitos</strong> Você está empunhando sua 'beast gun' vinculada ou outra arma de fogo mágica</p>\n<hr />\n<p><strong>Efeito</strong> Você Conjura uma Magia que leva 1 ou 2 ações para conjurar e requer uma jogada de ataque mágico. Os efeitos da magia não ocorrem imediatamente, mas são imbuídos na 'beast gun' que você está empunhando. Faça um Golpe com essa 'beast gun'. Sua magia voa com a munição, usando o resultado da sua jogada de ataque para determinar os efeitos tanto do Golpe quanto da magia. Isso conta como dois ataques para os fins de determinar sua penalidade de ataque múltiplo, mas você não aplica a penalidade até depois de ter terminado de resolver o ataque e a magia.</p>\n<hr />\n<p><strong>Especial</strong> Se você também tiver a ação @UUID[Compendium.pf2e.actionspf2e.Item.3MiV0maH8imtnVwS]{Spell-Woven Shot}, você pode carregar e ativar uma peça de munição mágica como uma ação livre antes de fazer um ataque 'Spellsling' uma vez a cada 10 minutos.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Spellstrike": {
       "name": "Golpe Mágico",
@@ -1929,7 +1949,7 @@
     "Spinning Crush": {
       "name": "Golpe Giratório",
       "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo carregada ou uma besta carregada.</p>\n<hr />\n<p>Você entra em um giro violento, golpeando aqueles próximos com sua arma e aumentando seu impulso ao disparar. Todas as criaturas adjacentes a você sofrem @Damage[(4d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{4d6 de dano de concussão mais seu modificador de Força}; isso aumenta para @Damage[(6d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{6d6} se sua arma de fogo tiver uma runa 'striking', @Damage[(8d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{8d6} se tiver uma runa 'greater striking', e @Damage[(10d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{10d6} se tiver uma runa 'major striking'. Esta habilidade não aplica outros efeitos que aumentam o dano com seus Golpes com arma de fogo, como especialização em armas. As criaturas afetadas por este ataque devem realizar um teste de @Check[reflex|against:gunslinger|basic|options:area-effect]. Uma criatura que falhar em seu teste de resistência também é empurrada 10 feet diretamente para longe de você.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Spirit's Mercy": {
       "name": "Misericórdia do Espírito",
@@ -1950,11 +1970,11 @@
       "name": "Expandir Reino",
       "description": "<p><strong>Gatilho</strong> Sua ação anterior foi Sustentar seu reino manifestado</p>\n<hr />\n<p><strong>Efeito</strong> Seu reino manifestado corrompe ainda mais seus arredores. Aumente o raio do seu reino manifestado em 10 feet.</p>",
       "source": "Pathfinder War of Immortals"
-  },
-      "Spring the Trap": {
+    },
+    "Spring the Trap": {
       "name": "Disparar a Armadilha",
       "description": "<p><strong>Acionamento</strong> Você rola a iniciativa.</p>\n<hr />\n<p>Você pode Interagir para sacar uma arma combinada e colocá-la no modo corpo a corpo ou à distância. No seu primeiro turno, seu movimento e ataques à distância não acionam reações que normalmente são acionadas por movimento ou um ataque à distância (como Ataque de Oportunidade).</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Squeeze": {
       "name": "Espremer-se",
@@ -1969,7 +1989,7 @@
     "Starlit Transformation": {
       "name": "Transformação Estelar",
       "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Luz gira ao seu redor, transformando sua armadura, roupas e uma única arma em sua posse em um traje alternativo específico. Embora seu equipamento possa parecer dramaticamente diferente, ele funciona normalmente. Se alguém tentar discernir sua identidade, ele deve usar uma ação de @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} para tentar um teste de Percepção contra sua CD de Dissimulação, como se você estivesse usando a ação @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Personificar}. Sua CD de Dissimulação contra tais tentativas é 20 + seu modificador de proficiência em vez da CD normal. Ao contrário de Personificar, você não precisa tentar um teste de Dissimulação para interagir com alguém para ocultar sua identidade - um teste acontece apenas se alguém tentar especificamente descobri-la. Você permanece em sua forma de sentinela por 10 minutos ou até usar Transformação Estelar novamente para voltar à sua forma normal.</p>\n<p>Enquanto você estiver na forma de sentinela, sua arma transformada brilha com a luz das estrelas e ganha um bônus de status +1 em rolagens de dano com a arma. Você pode lançar raios de luz estelar de sua arma com uma ação de Golpe, usando seu modificador de ataque corpo a corpo com a arma. Esses raios causam 1d4 de dano de força, têm um alcance de 60 pés, são afetados pelas runas da sua arma e têm as características arcana e de força.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Steal": {
       "name": "Furtar",
@@ -1984,7 +2004,7 @@
     "Stellar Misfortune": {
       "name": "Infortúnio Estelar",
       "description": "<p><strong>Frequência</strong> uma vez por dia;</p>\n<p><strong>Acionamento</strong> Uma criatura que você pode ver está prestes a tentar um teste de resistência, teste de ataque ou teste de perícia;</p>\n<p><strong>Requerimentos</strong> Você deve estar sob o céu noturno com as estrelas visíveis;</p>\n<p><strong>Efeito</strong> Você invoca o poder de uma estrela funesta, exacerbando a má sorte do alvo. O alvo deve rolar o teste de acionamento duas vezes e usar o pior resultado.</p>",
-      "source": "Pathfinder Lost Omens: Travel Guide"
+      "source": "Pathfinder Lost Omens Travel Guide"
     },
     "Step": {
       "name": "Dar um Passo",
@@ -2074,7 +2094,7 @@
     "Tactical Retreat": {
       "name": "Retirada Tática",
       "description": "<p><strong>Acionamento</strong> Você ganha a condição assustado</p>\n<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Percebendo que a discrição é a melhor parte da coragem, você opta por colocar alguma distância entre você e uma ameaça. Você ganha a condição @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fugindo} até o início do seu próximo turno, e você Anda.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Tail Toxin": {
       "name": "Toxina da Cauda",
@@ -2114,7 +2134,7 @@
     "Tap the Past": {
       "name": "Recorrer ao Passado",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você está prestes a tentar um teste para Recordar Conhecimento</p>\n<hr />\n<p><strong>Efeito</strong> Você se concentra nos vislumbres de uma vida anterior para encontrar a memória de um tomo ou uma lição aplicável do seu passado. Você rola uma segunda vez e usa o resultado mais alto. Se você rolar uma falha crítica, você obtém uma falha em vez disso. Se você rolar um sucesso, você obtém um sucesso crítico em vez disso.</p>",
-      "source": "Pathfinder Lost Omens: Tian Xia Character Guide"
+      "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Telekinetic Assault": {
       "name": "Assalto Telecinético",
@@ -2129,7 +2149,7 @@
     "Tenacious Stance": {
       "name": "Postura Tenaz",
       "description": "<p><strong>Requerimentos</strong> Você está usando armadura</p>\n<hr />\n<p><strong>Efeito</strong> Você se firma, tão resistente e imutável quanto uma pedra. Você ganha um número de Pontos de Vida temporários igual à metade do seu nível (mínimo 1) e um bônus de circunstância +2 nas CDs contra ser Empurrado e Derrubado. No entanto, você não nega mais sua penalidade de armadura ou penalidade de Velocidade por ter uma Força alta enquanto estiver nesta postura. Depois de sair da Postura Tenaz, você perde quaisquer Pontos de Vida temporários restantes da postura e se torna temporariamente imune a ganhar Pontos de Vida temporários da Postura Tenaz por 1 minuto.</p>",
-      "source": "Pathfinder Lost Omens: Highhelm"
+      "source": "Pathfinder Lost Omens Highhelm"
     },
     "Tendril Strike": {
       "name": "Golpe de Tentáculos",
@@ -2161,20 +2181,20 @@
       "description": "<p>O alvo libera uma vocalização poderosa. Cada inimigo em uma @Template[type:emanation|distance:10] sofre @Damage[4d8[sonic]|options:area-damage] de dano com um teste de resistência de @Check[will|basic|against:spell|options:area-effect] contra a CD da sua magia. Uma criatura que falhe em seu teste de Vontade também fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Assustada 1}.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
-"Timely Dodge": {
-        "name": "Esquiva Oportuna",
-        "description": "<p><strong>Gatilho</strong> Você é alvo de um Golpe</p>\n<hr />\n<p><strong>Efeito</strong> Você se esquiva para o lado, ganhando um bônus de circunstância de +1 na CA, e então dá um Passo após o Golpe ser resolvido.</p>",
-        "source": "Pathfinder #194: Cult of the Cave Worm"
+    "Timely Dodge": {
+      "name": "Esquiva Oportuna",
+      "description": "<p><strong>Gatilho</strong> Você é alvo de um Golpe</p>\n<hr />\n<p><strong>Efeito</strong> Você se esquiva para o lado, ganhando um bônus de circunstância de +1 na CA, e então dá um Passo após o Golpe ser resolvido.</p>",
+      "source": "Pathfinder #194: Cult of the Cave Worm"
     },
     "Topple the Pillar of Heaven": {
-        "name": "Derrubar o Pilar do Céu",
-        "description": "<p>Seu ícone se estende a um comprimento impossível, atingindo todos em seu caminho. Você causa @Damage[(max(6,floor(@actor.level / 2)))d8[untyped]|options:area-damage] de dano a todas as criaturas em uma @Template[type:line|distance:60], com um teste de @Check[reflex|against:exemplar|basic|options:area-effect] contra sua CD de classe. O tipo de dano corresponde ao da sua arma. No 14º nível e a cada dois níveis depois disso, o dano aumenta em 1d8.</p>",
-        "source": "Pathfinder War of Immortals"
+      "name": "Derrubar o Pilar do Céu",
+      "description": "<p>Seu ícone se estende a um comprimento impossível, atingindo todos em seu caminho. Você causa @Damage[(max(6,floor(@actor.level / 2)))d8[untyped]|options:area-damage] de dano a todas as criaturas em uma @Template[type:line|distance:60], com um teste de @Check[reflex|against:exemplar|basic|options:area-effect] contra sua CD de classe. O tipo de dano corresponde ao da sua arma. No 14º nível e a cada dois níveis depois disso, o dano aumenta em 1d8.</p>",
+      "source": "Pathfinder War of Immortals"
     },
-        "Touch and Go": {
+    "Touch and Go": {
       "name": "Tocar e Partir",
       "description": "<p><strong>Requerimentos</strong> Você está empunhando uma arma combinada.</p>\n<hr />\n<p>As sombras do seu corpo mascaram o aço de suas mãos. Você pode Dar um Passo em direção a um inimigo, pode Interagir para mudar sua arma entre os modos corpo a corpo ou à distância e, em seguida, Interagir para recarregar.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Toxic Skin": {
       "name": "Pele Tóxica",
@@ -2269,7 +2289,7 @@
     "Venom Draw": {
       "name": "Saque Venenoso",
       "description": "<p><strong>Requerimentos</strong> Sua ação @UUID[Compendium.pf2e.actionspf2e.Item.s4V7JWSMF9JPJAeX]{Envenenar} não foi gasta.</p>\n<hr />\n<p>Você rapidamente aplica veneno de sua saliva venenosa em sua arma enquanto a saca. Interaja para sacar uma arma e, em seguida, Envenene-a. Isso usa seu uso diário de Envenenar.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Verdant Rest": {
       "name": "Descanso Verdejante",
@@ -2284,7 +2304,7 @@
     "Vital Shot": {
       "name": "Tiro Vital",
       "description": "<p>Seu tiro cuidadoso contra um oponente desavisado perfura uma artéria ou órgão vital. Faça um Golpe à distância. Se o alvo estiver @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard}, o Golpe causa um dado extra de dano da arma, e o inimigo sofre dano de sangramento persistente igual à quantidade de dano de precisão de seu @UUID[Compendium.pf2e.actionspf2e.Item.Tlrde2xh7AhesXNB]{One Shot, One Kill}.</p>",
-            "source": "Pathfinder Guns & Gears"
+      "source": "Pathfinder Guns & Gears"
     },
     "Warding Sign": {
       "name": "Sinal de Proteção",
@@ -2304,12 +2324,12 @@
     "Wicked Thorns": {
       "name": "Espinhos Malévolos",
       "description": "<p><strong>Acionamento</strong> Você é atingido com um Golpe desarmado ou um Golpe com uma arma corpo a corpo sem alcance.</p>\n<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p>Vários de seus espinhos se quebram e se prendem no corpo do seu atacante. Você causa @Damage[(ceil(@actor.level/2)d8)[piercing]] de dano perfurante à criatura que acionou o efeito. Ela tenta um teste de @Check[reflex|against:class-spell|basic] Reflexos contra a maior entre sua CD de classe ou CD de magia. Em uma falha crítica, a criatura também recebe @Damage[(1d4+ceil(@actor.level/2)-1)[bleed]] dano de sangramento enquanto seus espinhos se cravam em sua carne.</p>\n<p>No 3º nível, e a cada 2 níveis subsequentes, este dano aumenta em 1d8 e o dano persistente de sangramento aumenta em 1.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Wind Them Up": {
       "name": "Distraí-los",
       "description": "<p>Os inimigos devem aparar sua lâmina ou esquivar de suas balas? Nenhum dos dois - eles deveriam estar de olho em suas bolsas. Faça um Golpe corpo a corpo com sua arma combinada e, em seguida, tente um teste de Ladinagem com uma penalidade de -5 para @UUID[Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k]{Furtar} do seu alvo; você não pode Furtar objetos bem guardados ou objetos que levariam muito tempo para serem furtados. Você não precisa de uma mão livre para tentar Furtar algo desta maneira. Se seu teste de Ladinagem for bem-sucedido, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} contra seus ataques à distância até o início do seu próximo turno, e você não aciona reações que normalmente são acionadas por movimento ou um ataque à distância. Esses efeitos ocorrem mesmo se seu alvo não tiver objetos para Furtar.</p>",
-      "source": "Pathfinder Lost Omens: Impossible Lands"
+      "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Wish for Luck": {
       "name": "Desejar Sorte",
