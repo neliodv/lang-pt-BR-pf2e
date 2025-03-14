@@ -84,7 +84,7 @@
       "ReduceHiddenCheck": "The DC of the flat check to target a @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} creature is only @Check[type:flat|dc:5]."
     },
     "Background": {
-      "Favored": "<p><strong>Frequency</strong> once per day;</p><hr><p><strong>Effect</strong> Reroll the skill check. You must use the second result, even if it's worse.</p>"
+      "Favored": "<p><strong>Frequência</strong> uma vez por dia;</p><hr><p><strong>Efeito</strong> Role novamente o teste de perícia. Você deve usar o segundo resultado, mesmo que seja pior.</p>"
     },
     "BattleForm": {
       "AberrantForm": {
@@ -3262,6 +3262,18 @@
         },
         "IncorporealShot": {
           "Label": "Incorporeal Shot - Alvo usando Armadura"
+        }
+      },
+      "Elementalist": {
+        "Wizard": {
+          "ElementalSchool": {
+            "Prompt": "Choose which element your elemental school follows."
+          }
+        },
+        "Philosphy": {
+          "ElementalCycle": "Elemental Cycle",
+          "InnerSea": "Inner Sea Elementalism",
+          "Prompt": "Choose an elemental philosophy."
         }
       },
       "Elf": {

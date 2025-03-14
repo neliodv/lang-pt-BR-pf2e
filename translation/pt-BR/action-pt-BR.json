@@ -69,7 +69,7 @@
       "ArrestAFall": {
         "Description": "<p><strong>Acionamento</strong> Você cai.</p><p><strong>Requerimentos</strong> Você tem uma velocidade de vôo.</p><hr><p>Você tenta à sua escolha um teste de Acrobatismo ou salvamento de Reflexo para amenizar sua queda. A CD é normalmente 15, mas pode ser mais alta devido a turbulência no ar ou outras circunstâncias.</p><p><strong>Sucesso</strong> Você não toma dano da queda.</p>",
         "Notes": {
-          "success": "<strong>Success</strong> Você não toma dano da queda."
+          "success": "<strong>Sucesso</strong> Você não toma dano da queda."
         },
         "Title": "Deter uma Queda"
       },
@@ -106,7 +106,7 @@
         "Notes": {
           "criticalFailure": "<strong>Falha Crítica</strong> Sua brincadeira é abominável. Você sofre a mesma penalidade que um inimigo sofreria se você tivesse obtido sucesso. Este efeito é encerrado após 1 minuto ou se você fizer outro Comentário Maldoso e obtiver sucesso. @UUID[Compendium.pf2e.feat-effects.GoSls6SKCFmSoDxT]{Efeito: Comentário Maldoso}",
           "criticalSuccess": "<strong>Sucesso Crítico</strong> O alvo fica distraído e sofre –3 de penalidade de estado em Percepção e Vontade por 1 minuto. O alvo pode encerrar o efeito antes com uma réplica ao seu Comentário Maldoso. Isto pode ser uma ação única que possui o traço concentração ou uma ação de perícia apropriada que enquadre a réplica. O MJ determina quais ações de perícia se qualificam, embora elas devam usar ao menos 1 ação. Normalmente a réplica precisa usar uma ação de perícia linguística baseada em Carisma. @UUID[Compendium.pf2e.feat-effects.CtrZFI3RV0yPNzTv]{Efeito: Comentário Maldoso (Sucesso Crítico)}",
-          "success": "<strong>Success</strong> O alvo fica distraído e sofre –2 de penalidade de estado em Percepção e Vontade por 1 minuto. O alvo pode encerrar o efeito antes com uma réplica ao seu Comentário Maldoso. Isto pode ser uma ação única que possui o traço concentração ou uma ação de perícia apropriada que enquadre a réplica. O MJ determina quais ações de perícia se qualificam, embora elas devam usar ao menos 1 ação. Normalmente a réplica precisa usar uma ação de perícia linguística baseada em Carisma. @UUID[Compendium.pf2e.feat-effects.GoSls6SKCFmSoDxT]{Efeito: Comentário Maldoso}"
+          "success": "<strong>Sucesso</strong> O alvo fica distraído e sofre –2 de penalidade de estado em Percepção e Vontade por 1 minuto. O alvo pode encerrar o efeito antes com uma réplica ao seu Comentário Maldoso. Isto pode ser uma ação única que possui o traço concentração ou uma ação de perícia apropriada que enquadre a réplica. O MJ determina quais ações de perícia se qualificam, embora elas devam usar ao menos 1 ação. Normalmente a réplica precisa usar uma ação de perícia linguística baseada em Carisma. @UUID[Compendium.pf2e.feat-effects.GoSls6SKCFmSoDxT]{Efeito: Comentário Maldoso}"
         },
         "Title": "Comentário Maldoso"
       },
@@ -117,7 +117,7 @@
       "Climb": {
         "Description": "<p><strong>Requerimentos</strong> Você está com as duas mãos livres.</p><hr><p> Você faz um teste de Atletismo para se mover até uma distância máxima de 5 pés para cima, para baixo ou através de uma inclinação. Você fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido}Enquanto estiver escalando, a menos que você tenha uma velocidade de escalada. O MJ determina a CD com base na natureza da inclinação e nas circunstâncias ambientais; você pode obter um sucesso crítico automático em uma inclinação que seja trivial para escalar. Se sua velocidade terrestre for de 40 pés ou mais, aumente a distância máxima em 5 pés para cada 20 pés de velocidade acima de 20 pés.</p><p><strong>Sucesso Crítico</strong> Você se move ao longo da inclinação, aumentando a distância máxima em 5 pés.<br><strong>Sucesso</strong> Você se move ao longo da inclinação.<br><strong>Falha Crítica</strong> Você cai. Se começou a escalada em terreno estável, você cai e termina caindo @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado}.</p>",
         "Modifier": {
-          "ClimbSpeed": "Climb Speed"
+          "ClimbSpeed": "Velocidade de Escalada"
         },
         "Notes": {
           "criticalFailure": "<strong>Falha Crítica</strong> Você cai. Se começou a escalar em solo estável, você cai e fica @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado}.",
@@ -233,7 +233,7 @@
         "Description": "<p>Você cria um documento falsificado, normalmente ao longo de um dia ou semana. Você deve possuir o material de escrita apropriado para criar uma falsificação. Quando você Criar uma Falsificação, o MJ rola um teste secreto de Sociedade CD 20. Se obtiver sucesso, a falsificação é de qualidade boa o suficiente para que observadores passivos não percebam a fraude. Somente aqueles que examinarem cuidadosamente o documento e realizarem um teste de Percepção ou Sociedade contra sua CD de Sociedade podem detectar a falsificação.</p><p>Se a caligrafia do documento não precisar ser específica para uma pessoa, você só precisa ter visto um documento similar antes, e recebe até +4 de bônus de circunstância em seu teste e em sua CD (o MJ determina o valor do bônus). Para falsificar a caligrafia de uma pessoa específica, você precisa de um exemplo da caligrafia dessa pessoa.</p><p>Se o resultado de seu teste for abaixo de 20, a falsificação possui alguns sinais óbvios de que é uma fraude, portanto, o MJ compara seu resultado com a CD de Percepção ou Sociedade (o que for maior) de cada observador passivo, usando os resultados de sucesso ou falha abaixo. Uma vez que o MJ tenha rolado seu teste para um documento, esse mesmo resultado é usado contra as CDs de todos os observadores passivos, não importa quantas criaturas observem esse documento passivamente.</p><p>Um observador que tiver sido enganado ao olhar de relance ainda pode examinar os documentos minuciosamente para procurar por uma falsificação, utilizando técnicas diferentes e métodos de análise além dos elementos superficiais que você forjou com sucesso em seu teste original. Nesse caso, o observador pode fazer um teste de Percepção ou Sociedade contra sua CD de Sociedade (se obtiver sucesso, ele descobre que seu documento é uma falsificação).</p><p><strong>Sucesso</strong> O observador não detecta a falsificação.<br><strong>Falha</strong> O observador descobre que seu documento é uma falsificação.</p>",
         "ForgedDocument": {
           "Description": "<p>Um observador que tiver sido enganado ao olhar de relance ainda pode examinar os documentos minuciosamente para procurar por uma falsificação, utilizando técnicas diferentes e métodos de análise além dos elementos superficiais que você forjou com sucesso em seu teste original. Nesse caso, o observador pode fazer um teste de @Check[type:perception|dc:{societyDC}] ou @Check[type:society|dc:{societyDC}] contra sua CD de Sociedade (se obtiver sucesso, ele descobre que seu documento é uma falsificação).</p>",
-          "FailureGmNote": "<p>A falsificação possui alguns sinais óbvios de que é uma fraude, portanto, o MJ compara seu resultado de {total} com a CD de Percepção ou Sociedade (o que for maior) de cada observador passivo, usando os resultados de sucesso ou falha abaixo. Uma vez que o MJ tenha rolado seu teste para um documento, esse mesmo resultado é usado contra as CDs de todos os observadores passivos, não importa quantas criaturas observem esse documento passivamente.</p>\n<p>{success}</p>\n<p>{failure}</p>",
+          "FailureGmNote": "<p>A falsificação tem alguns sinais óbvios de ser uma farsa, então o GM compara o resultado de {total} ao CD de Percepção ou CD de Sociedade de cada observador passivo, o que for maior, usando os resultados de sucesso ou falha abaixo. O mesmo resultado é usado contra os CDs de todos os observadores passivos, independentemente de quantas criaturas observem passivamente esse documento.</p>\n<p>{success}</p>\n<p>{failure}</p>",
           "Name": "Forjar Documento",
           "SuccessGmNote": "<p>A falsificação é de qualidade boa o suficiente para que observadores passivos não percebam a fraude. Somente aqueles que examinarem cuidadosamente o documento e realizarem um teste de @Check[type:perception|dc:{societyDC}|showDC:gm] ou @Check[type:society|dc:{societyDC}|showDC:gm] contra sua CD de Sociedade podem detectar a falsificação.</p>"
         },
@@ -580,7 +580,7 @@
       },
       "Mount": {
         "Description": "<p><strong>Requerimentos</strong> Você está adjacente a uma criatura que é pelo menos um tamanho maior do que você e que está disposta a ser sua montaria.</p><hr><p>Você se move para cima da criatura e a cavalga. Se já estiver montado, você pode usar esta ação para desmontar, movendo-se para fora da montaria e ficando em um espaço adjacente a ela.</p>",
-        "Title": "Mount"
+        "Title": "Montar"
       },
       "PalmAnObject": {
         "Description": "<p>Empalmar um pequeno objeto desapossado sem ser percebido exige que você faça um único teste de Ladroagem contra as CDs de Percepção de todas as criaturas que estão atualmente lhe observando. Você pega o objeto independente de ser bemsucedido ou não em ocultá-lo. Normalmente você somente pode Empalmar Objetos de Volume insignificante, embora o MJ possa determinar o contrário dependendo da situação.</p><p><strong>Sucesso</strong> A criatura não percebe você Empalmando o Objeto.<br><strong>Falha</strong> A criatura percebe você Empalmando o Objeto e o MJ determina a resposta dela a isso.</p>",
@@ -851,8 +851,8 @@
       "Strike": {
         "Description": "<p>Você ataca com uma arma que está empunhando ou com um ataque desarmado, mirando uma criatura em seu alcance (para um ataque corpo a corpo) ou em sua distância (para um ataque à distância). Faça a rolagem de ataque para a arma ou ataque desarmado que estiver usando e compare o resultado à CA da criatura alvo para determinar o efeito.</p><p><strong>Critical Sucesso</strong> Você causa o dobro do dano de acordo com a arma ou ataque desarmado, incluindo quaisquer modificadores, bônus e penalidades relevantes ao dano.</p><p><strong>Sucesso</strong> Você causa dano de acordo com a arma ou ataque desarmado, incluindo quaisquer modificadores, bônus e penalidades relevantes ao dano.</p>",
         "Notes": {
-          "criticalSuccess": "<strong>Critical Success</strong> Você causa o dobro do dano de acordo com a arma ou ataque desarmado, incluindo quaisquer modificadores, bônus e penalidades relevantes ao dano.",
-          "success": "<strong>Success</strong> Você causa dano de acordo com a arma ou ataque desarmado, incluindo quaisquer modificadores, bônus e penalidades relevantes ao dano."
+          "criticalSuccess": "<strong>Sucesso Crítico</strong> Você causa o dobro do dano de acordo com a arma ou ataque desarmado, incluindo quaisquer modificadores, bônus e penalidades relevantes ao dano.",
+          "success": "<strong>Sucesso</strong> Você causa dano de acordo com a arma ou ataque desarmado, incluindo quaisquer modificadores, bônus e penalidades relevantes ao dano."
         },
         "Title": "Golpear"
       },
@@ -884,7 +884,7 @@
       "Swim": {
         "Description": "<p>Você realiza um teste de Atletismo para se mover uma distância máxima de 10 pés através da água. O Mestre determina a CD [Classe de Dificuldade] com base na turbulência ou perigo da água; na maioria dos casos de águas calmas, você obtém automaticamente um sucesso crítico. Se o seu Deslocamento em terra for 40 pés ou superior, aumente a distância máxima possível em 5 pés para cada 20 pés de Deslocamento acima de 20 pés.</p><p>Se você terminar seu turno na água e não tiver realizado com sucesso uma ação de Nado naquele turno, você afunda 10 pés ou é movido pela correnteza, conforme determinado pelo Mestre. Isso não se aplica se a sua última ação no turno foi entrar na água.</p><p><strong>Sucesso Crítico</strong> Você se move através da água, aumentando a distância máxima em 5 pés.<br><strong>Sucesso</strong> Você se move através da água.<br><strong>Falha Crítica</strong> Você não avança. Se estiver segurando a respiração, perde 1 rodada de ar.</p>",
         "Modifier": {
-          "SwimSpeed": "Swim Speed"
+          "SwimSpeed": "Velocidade de Nado"
         },
         "Notes": {
           "criticalFailure": "<strong>Falha Crítica</strong> Você não faz qualquer progresso e, se estiver prendendo sua respiração, perde 1 rodada de ar.",

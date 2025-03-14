@@ -4,11 +4,13 @@
     "(Affinity Ablaze) Arms of Balance: Walking the Cardinal Paths": {
       "name": "(Afinidade Flamejante) Braços do Equilíbrio: Caminhando pelos Caminhos Cardeais",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p>Existem poucos laços como aqueles entre lutadores que compartilharam golpes em uma arena e, ao fazê-lo, chegaram a se entender. Você se concentra em sua conexão emocional com uma das outras equipes do torneio, e o poder delas ruge ao longo dela até você como uma corda em chamas. Você usa a seguinte habilidade, que você deve ter obtido acesso da equipe original.</p>\n<hr />\n<p>O ki dentro de você surge para revestir seus ataques com matéria de energia. Por 1 minuto, uma de suas armas ou seus Golpes desarmados causam um dano adicional de 2d6 de fogo, frio, ácido ou eletricidade. Os Golpes também ganham a característica de energia apropriada.</p>",
+      "selfEffect": "Effect: Walking the Cardinal Paths",
       "source": "Pathfinder Fists of the Ruby Phoenix Hardcover Compilation"
     },
     "(Affinity Ablaze) Biting Roses: Glimpses to Beyond": {
       "name": "(Afinidade Flamejante) Rosas Mordazes: Vislumbres do Além",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p>Existem poucos laços como aqueles entre lutadores que compartilharam golpes em uma arena e, ao fazê-lo, chegaram a se entender. Você se concentra em sua conexão emocional com uma das outras equipes do torneio, e o poder delas ruge ao longo dela até você como uma corda em chamas. Você usa a seguinte habilidade, que você deve ter obtido acesso da equipe original.</p>\n<hr />\n<p>Você ganha um sentido para o sobrenatural e o fluxo do destino. Por 1 hora, você ganha sentido espiritual como um sentido preciso com um alcance de 60 pés. Sentido espiritual permite que você sinta os espíritos das criaturas, incluindo criaturas vivas, a maioria dos mortos-vivos não irracionais e assombros dentro do alcance listado. Assim como acontece com sua audição e outros sentidos imprecisos, você ainda precisa Buscar para localizar uma criatura não detectada. Como o sentido espiritual detecta a essência espiritual, não corpos físicos, ele pode detectar espíritos projetados por magias como projetar imagem ou possuindo objetos sem alma. Ele não pode detectar corpos sem alma, construtos ou objetos. Uma vez durante a duração da magia, quando você rolar uma falha ou falha crítica em um teste de resistência ou perícia, você obtém um sucesso em vez disso.</p>",
+      "selfEffect": "Effect: Glimpses to Beyond",
       "source": "Pathfinder Fists of the Ruby Phoenix Hardcover Compilation"
     },
     "(Affinity Ablaze) Speakers to the Winds: All is One, One is All": {
@@ -54,6 +56,7 @@
     "Azata's Grace": {
       "name": "Graça de Azata",
       "description": "<p><strong>Aspecto</strong> celestial</p>\n<p><strong>Ativar</strong> <span class=\"action-glyph\">2</span> comandar, Interagir</p>\n<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> <em>Monarca</em> abre um conduto para o palácio de Desna, Cinosura, e infunde sua alma com a graça dos azatas que dançam e se divertem lá. Você ganha 50 Pontos de Vida adicionais, aumentando seus Pontos de Vida máximos e atuais, bem como fraqueza 10 a dano leal. Você também ganha os efeitos do dom @UUID[Compendium.pf2e.adventure-specific-actions.Item.EbF9U21iMu0JkTzG]{Chamado Justo}, sem gastar o uso diário desse dom.</p>\n<p>Você pode Dispensar o efeito. Se você fizer isso, você libera uma onda de poder caótico na forma de um pulso de luz semelhante a um arco-íris, fazendo com que a relíquia conjure @UUID[Compendium.pf2e.spells-srd.Item.uEyfLoFQsRKBRIcB]{Cores Confusas}. Os efeitos desta conjuração de <em>padrão cintilante</em> não afetam seus aliados.</p>",
+      "selfEffect": "Effect: Azata's Grace",
       "source": "Pathfinder #200: Seven Dooms for Sandpoint"
     },
     "Beginner's Luck": {
@@ -319,6 +322,7 @@
     "Flight": {
       "name": "Flight",
       "description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>Unbound by the weight of flesh and bones, you become untouched by even the most basic of mortal experiences—gravity. You gain a fly Speed equal to your Speed or 30 feet, whichever is greater, for 10 minutes. While flying, you may grow more ghostly in appearance, or you might leave some sort of temporary flickering trail in the air while you travel as you see fit.</p>",
+      "selfEffect": "Effect: Spirit Power (Flight)",
       "source": "Pathfinder #198: No Breath to Cry"
     },
     "Forge Documents": {
@@ -474,6 +478,7 @@
     "Passion": {
       "name": "Passion",
       "description": "<p>Even in death, the flames of excitement burn hot. Be it the result of ignited enthusiasm or burning anger inspired by love for another or something more, the chill of the grave can't quench the hero's emotions. You kindle your passion into actual flames for 1 minute. During this time, your body is engulfed in fire of a color of your choice that sheds bright light in a 40-foot radius (and dim light to the next 40 feet). Your melee Strikes inflict an additional 1d6 points of fire damage, you gain resistance 10 to fire, and you gain the following reaction.</p>",
+      "selfEffect": "Effect: Spirit Power (Passion)",
       "source": "Pathfinder #198: No Breath to Cry"
     },
     "Perception Filter": {
@@ -595,6 +600,7 @@
     "Righteous Call": {
       "name": "Righteous Call",
       "description": "<p><strong>Aspect</strong> celestial</p>\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> (concentrate, manipulate)</p>\n<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> Holy magic fills your armaments, making them true weapons against evil. For 1 minute, your weapons and unarmed attacks gain the holy weapon rune while you hold them. If a weapon is at its limit on property runes, you can choose one property rune on the weapon to go dormant while the holy rune takes effect. In addition, Strikes your allies make while they're within 30 feet of you gain the holy trait.</p>",
+      "selfEffect": "Aura: Righteous Call",
       "source": "Pathfinder GM Core"
     },
     "River's Reflection": {
@@ -650,6 +656,7 @@
     "Seasonal Boon (Outskirt Dweller)": {
       "name": "Seasonal Boon (Outskirt Dweller)",
       "description": "<p><strong>Frequency</strong> only once per season</p>\n<p><strong>Trigger</strong> You're about to roll initiative</p>\n<hr />\n<p><strong>Effect</strong> Something about the situation triggers your defenses, allowing you to react to sudden peril more quickly. You gain a status bonus to your initiative roll equal to the number of seasons since you've started Season of Ghosts (+1 during the first adventure, up to a maximum of +4 during the fourth and final adventure). If you can communicate a warning to other PCs, they gain this bonus to their initiative as well.</p>",
+      "selfEffect": "Effect: Seasonal Boon (Outskirt Dweller)",
       "source": "Pathfinder Season of Ghosts Player's Guide"
     },
     "Seasonal Boon (Southbank Traditionalist)": {
@@ -780,6 +787,7 @@
     "Wind Barrier": {
       "name": "Wind Barrier",
       "description": "<p><strong>Aspect</strong> air</p>\n<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> concentrate</p>\n<hr />\n<p><strong>Effect</strong> An invisible barrier of air deflects ranged attacks, granting you a +2 circumstance bonus to AC against ranged attacks until the beginning of your next turn. At 13th level, this increases to a +3 circumstance bonus to AC against ranged attacks.</p>",
+      "selfEffect": "Effect: Wind Barrier",
       "source": "Pathfinder GM Core"
     },
     "Word of Faith": {
@@ -804,6 +812,7 @@
       "converter": "translateRules",
       "path": "system.rules"
     },
+    "selfEffect": "system.selfEffect.name",
     "source": {
       "converter": "translateSource",
       "path": "system.publication.title"

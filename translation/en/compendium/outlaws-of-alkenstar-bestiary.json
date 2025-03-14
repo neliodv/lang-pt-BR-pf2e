@@ -312,7 +312,8 @@
         },
         "action->Lawbringer": {
           "name": "Lawbringer",
-          "description": "<p>The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage.</p>"
+          "description": "<p>The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage.</p>",
+          "selfEffect": "Effect: Lawbringer"
         },
         "action->Reloading Strike": {
           "name": "Reloading Strike",
@@ -1166,7 +1167,8 @@
         },
         "action->Lawbringer": {
           "name": "Lawbringer",
-          "description": "<p>The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage.</p>"
+          "description": "<p>The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage.</p>",
+          "selfEffect": "Effect: Lawbringer"
         },
         "action->Reloading Strike": {
           "name": "Reloading Strike",
@@ -1207,7 +1209,8 @@
         },
         "action->Lawbringer": {
           "name": "Lawbringer",
-          "description": "<p>The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage.</p>"
+          "description": "<p>The shieldmarshal marks a foe for judgment, granting the shieldmarshal a +10-foot circumstance bonus to Speed whenever it Strides toward that creature. The shieldmarshal's Strikes against that creature deal an additional 2d8 precision damage.</p>",
+          "selfEffect": "Effect: Lawbringer"
         },
         "action->Reloading Strike": {
           "name": "Reloading Strike",
@@ -1960,7 +1963,8 @@
         },
         "action->Lawbringer": {
           "name": "Lawbringer",
-          "description": "<p>The gunmarshal marks a foe for judgment, granting the gunmarshal a +10-foot circumstance bonus to Speed when moving toward that creature.</p>"
+          "description": "<p>The gunmarshal marks a foe for judgment, granting the gunmarshal a +10-foot circumstance bonus to Speed when moving toward that creature.</p>",
+          "selfEffect": "Effect: Lawbringer"
         }
       }
     },

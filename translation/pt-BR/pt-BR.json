@@ -309,7 +309,7 @@
         "CriticalSpecialization": "Especialização de Crítico",
         "Language": {
           "CommonLanguage": "Comum ({language})",
-          "DetailsPlaceholder": "Caveats, other unusual specifics",
+          "DetailsPlaceholder": "Ressalvas, outras especificidades incomuns",
           "Plural": "Linguagens",
           "adlet": "Adlet",
           "akitonian": "Akitonian",
@@ -503,7 +503,7 @@
       "Familiar": {
         "Blurb": "Familiar de {master}",
         "MinimumAttributeModifier": "Modificador Mnimo de Atributo",
-        "NoAttribute": "None (Pet)",
+        "NoAttribute": "Nenhum (Pet)",
         "Master": {
           "ArmorClass": "Mestre em Classe de Armadura",
           "Perception": "Mestre em Percepção"
@@ -732,8 +732,8 @@
     "AncestryFeatures": "Características de Ancestralidade",
     "AncestryHP": "PVs de Ancestralidade",
     "Area": {
-      "InFeet": "Area (Pés)",
-      "Label": "Area",
+      "InFeet": "Área (Pés)",
+      "Label": "Área",
       "Shape": {
         "burst": "explosão",
         "cone": "cone",

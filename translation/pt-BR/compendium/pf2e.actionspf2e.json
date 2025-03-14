@@ -24,6 +24,7 @@
     "Accept Echo": {
       "name": "Aceitar Eco",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Você permite que o eco habite seu corpo, ganhando uma aura brilhante ao seu redor, íris verde-pálidas brilhantes, uma voz ressonante e a silhueta do espírito ao redor do seu próprio corpo, tudo isso podendo ser visto claramente pelos outros. Enquanto estiver neste estado, você se torna treinado na arma que escolheu e um especialista na perícia que escolheu. Além disso, enquanto você estiver neste estado, o eco pode falar e interagir com o Plano Material usando seu corpo, e você ganha um bônus de status +4 em todos os testes de resistência contra efeitos de possessão, já que o espírito que o possui o protege de outras posses.</p>\n<p>Este estado dura 10 minutos, após os quais o eco desaparece completamente até a próxima vez que você fizer seus preparos diários. Você pode Descartar este efeito.</p>\n<p>No 7º nível você se torna um mestre na perícia que escolheu, no 13º nível você se torna um especialista com a arma que escolheu e no 15º nível você se torna lendário na perícia que escolheu.</p>",
+      "selfEffect": "Effect: Accept Echo",
       "source": "Pathfinder Dark Archive"
     },
     "Accidental Shot": {
@@ -84,6 +85,7 @@
     "Anadi Venom": {
       "name": "Veneno Anadi",
       "description": "<p><strong>Frequência</strong> um número de vezes por dia igual ao seu nível</p>\n<hr />\n<p>Você envenena suas presas. Se o próximo Golpe com as presas que você fizer antes do final do seu turno acertar e causar dano, o Golpe causa um adicional de 1d6 de dano de veneno. Em uma falha crítica, o veneno é desperdiçado como de costume. No 12º nível, este dano de veneno aumenta para 2d6.</p>",
+      "selfEffect": "Effect: Anadi Venom",
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Anchor": {
@@ -94,6 +96,7 @@
     "Arcane Cascade": {
       "name": "Cascata Arcana",
       "description": "<p><strong>Requisitos</strong> Você usou sua ação mais recente neste turno para Lançar uma Magia ou fazer um @UUID[Compendium.pf2e.actionspf2e.Item.QDW9H8XLIjuW2fE4]{Golpe Mágico}. Você precisa atender a este requisito apenas para entrar na postura, não para permanecer nela.</p>\n<hr />\n<p>Você desvia uma porção do poder mágico da magia e a mantém circulando pelo seu corpo e arma usando formas especializadas, respiração ou trabalho de pés. Enquanto você estiver na postura, seus Golpes corpo a corpo causam 1 de dano de força extra. Este dano aumenta para 2 se você tiver especialização em armas e 3 se você tiver especialização em armas maior. Qualquer Golpe que se beneficie deste dano ganha a característica arcana, tornando-o mágico.</p>\n<p>Se sua magia mais recente antes de entrar na postura foi uma que pode causar dano, o dano da postura é do mesmo tipo que a magia poderia causar (ou um tipo de sua escolha se a magia pudesse causar vários tipos de dano).</p>",
+      "selfEffect": "Stance: Arcane Cascade",
       "source": "Pathfinder Secrets of Magic"
     },
     "Armor Up!": {
@@ -124,6 +127,7 @@
     "Avert Gaze": {
       "name": "Desviar o Olhar",
       "description": "<p>Você desvia o olhar do perigo, como o olhar de uma medusa. Você ganha um bônus de circunstância +2 em testes de resistência contra habilidades visuais que exigem que você olhe para uma criatura ou objeto, como o olhar petrificante de uma medusa. Seu olhar permanece desviado até o início do seu próximo turno.</p>",
+      "selfEffect": "Effect: Avert Gaze",
       "source": "Pathfinder Player Core"
     },
     "Avoid Dire Fate": {
@@ -209,6 +213,7 @@
     "Blizzard Evasion": {
       "name": "Evasão da Nevasca",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você recebe 40 ou mais de dano físico de um único ataque</p>\n<hr />\n<p><strong>Efeito</strong> Você se desincorpora em uma nevasca rodopiante por até 3 rodadas. Durante este tempo, você ganha resistência 10 a dano físico e fraqueza 10 a dano de força. Você ganha uma velocidade de voo de 40 pés, mas a única ação que você pode realizar é @UUID[Compendium.pf2e.actionspf2e.Item.cS9nfDRGD83bNU1p]{Voar}. Na primeira vez a cada rodada que você entra no espaço de outra criatura enquanto desincorporado, ou na primeira vez que uma criatura entra no seu espaço, essa criatura recebe @Damage[4d8[frio]] de dano e deve ter sucesso em um teste de resistência de @Check[fortitude|against:class-spell] Fortitude contra sua CD de classe ou CD de magia, o que for maior, ou então fica @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Atordoada 1}. No início do seu turno, você pode encerrar este efeito como uma ação livre.</p>",
+      "selfEffect": "Effect: Blizzard Evasion",
       "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Blood Feast": {
@@ -269,6 +274,7 @@
     "Bullet Dancer Stance": {
       "name": "Postura do Dançarino de Bala",
       "description": "<p><strong>Requisitos</strong> Você está sem armadura e empunhando uma arma de fogo simples ou uma arma de combinação simples</p>\n<hr />\n<p><strong>Efeito</strong> Você entra em uma postura especializada para uma arte marcial única centrada no uso de armas de fogo simples. Enquanto estiver nesta postura, os únicos Golpes que você pode fazer são aqueles usando baionetas, coronhas reforçadas, armas de fogo simples e armas de combinação simples. Você pode usar @UUID[Compendium.pf2e.actionspf2e.Item.nbfNETdpee8CVM17]{Flurry of Blows} com estas armas. Você pode usar outros talentos de monge ou habilidades de monge que você tenha que normalmente exigem ataques desarmados com baionetas, coronhas reforçadas e o componente corpo a corpo de armas de combinação simples, desde que o talento ou habilidade não exija um Golpe único e específico. Você também pode usá-los com armas de fogo simples ao atacar dentro da metade do primeiro incremento de alcance.</p>",
+      "selfEffect": "Stance: Bullet Dancer Stance",
       "source": "Pathfinder Guns & Gears"
     },
     "Bullying Press": {
@@ -344,6 +350,7 @@
     "Channel Elements": {
       "name": "Canalizar Elementos",
       "description": "<p><strong>Requerimentos</strong> Seu portal cinético não está ativo.</p>\n<hr />\n<p>Você acessa seu portal cinético para fazer os elementos fluírem ao seu redor. Sua aura cinética se ativa e, como parte desta ação, você pode usar uma Explosão Elemental de 1 ação ou um impulso de postura de 1 ação. Sua aura cinética é uma emanação de 10 pés onde pedaços do seu elemento cinético (ou todos os seus elementos cinéticos, se você puder canalizar mais de um) fluem ao seu redor. A aura cinética não pode danificar nada ou afetar o ambiente ao seu redor, a menos que outra habilidade permita. Canalizar Elementos possui as características de todos os seus elementos cinéticos.</p>\n<p>Sua aura cinética se desativa automaticamente se você for nocauteado, usar um impulso com a característica de transbordamento ou Dispensar a aura. Embora você não possa usar novos impulsos enquanto sua aura cinética estiver desativada, aqueles que você já usou permanecem e você ainda pode Sustentar qualquer um que possa ser sustentado. Impulsos de postura estão ligados à sua aura cinética e terminam quando a aura se desativa.</p>",
+      "selfEffect": "Effect: Kinetic Aura",
       "source": "Pathfinder Rage of Elements"
     },
     "Chaotic Destiny": {
@@ -359,6 +366,7 @@
     "Claw Stance": {
       "name": "Postura de Garra",
       "description": "<p><strong>Efeito</strong> Você estende as garras em suas mãos e concentra sua atenção para derrubar alvos individuais. Os únicos Golpes que você pode fazer são ataques desarmados de garra frenética. Estes causam @Damage[1d6[cortante]] de dano, estão no grupo de combate corpo a corpo e têm as características ágil, finesse, agarramento, desarmado e perfurante versátil.</p>",
+      "selfEffect": "Stance: Claw Stance",
       "source": "Pathfinder Howl of the Wild"
     },
     "Cleanse Soul Path": {
@@ -469,6 +477,7 @@
     "Crash Against Me": {
       "name": "Crash Against Me",
       "description": "<p>Your skin becomes virtually unbreakable. Until the start of your next turn, you have resistance equal to your level to the chosen damage type.</p>\n<p>During this time, if a creature attacking you using a weapon dealing the same damage type as your resistance misses you or hits you but deals no damage due to your resistance, the weapon clangs wildly off your skin. This painful reverberation makes the attacking enemy @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} and gives it a –2 circumstance penalty to attacks with that weapon until the start of the enemy's next turn.</p>",
+      "selfEffect": "Effect: Crash Against Me",
       "source": "Pathfinder War of Immortals"
     },
     "Crawl": {
@@ -509,6 +518,7 @@
     "Daydream Trance": {
       "name": "Transe de Devaneio",
       "description": "<p>Você entra em um transe meio adormecido. Isso dura 1 minuto ou até você cair @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Inconsciente}, o que ocorrer primeiro. Você pode terminar voluntariamente seu transe realizando uma única ação, que tem a característica de concentração, e tendo sucesso em um teste de @Check[will|against:class-spell] Vontade contra sua própria CD de classe ou CD de magia, o que for maior. Uma vez que seu transe termina, você não pode entrar em um Transe de Devaneio novamente por 1 minuto. Enquanto você está em seu transe, você ganha os seguintes efeitos:</p>\n<ul>\n<li>Você ganha um bônus de status +1 em testes de Vontade. Este bônus aumenta para +2 contra efeitos mentais. Se você for lendário em Ocultismo, o bônus contra efeitos mentais aumenta para +3.</li>\n<li>Você recebe uma penalidade de -1 em testes de Percepção e rolagens de iniciativa.</li>\n</ul>",
+      "selfEffect": "Effect: Daydream Trance",
       "source": "Pathfinder Dark Archive"
     },
     "Dazzle Seeker": {
@@ -579,6 +589,7 @@
     "Devise a Stratagem": {
       "name": "Elaborar uma Estratagema",
       "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<hr />\n<p>Você avalia as fraquezas de um inimigo em combate e as usa para formular um plano de ataque. Escolha uma criatura que você possa ver. Você pode Elaborar uma Estratagema como uma ação livre se estiver ciente de que essa criatura pode ajudar a responder à pergunta central de uma de suas investigações ativas. Role um d20 e, em seguida, decida sobre uma estratégia de ataque ou uma estratégia de perícia.</p>\n<p><strong>Estratagema de Ataque</strong> Se você Golpear a criatura escolhida antes do início do seu próximo turno, você deve usar o resultado da rolagem do d20 para o teste de ataque do seu Golpe em vez de rolar. Você faz essa substituição apenas para o primeiro Golpe que você fizer contra a criatura nesta rodada, não para os subsequentes. Quando você fizer essa substituição, você pode adicionar seu modificador de Inteligência ao seu teste de ataque em vez do seu modificador de Força ou Destreza, desde que você Golpeie com uma arma corpo a corpo ágil ou finesse, um ataque desarmado ágil ou finesse, uma arma de ataque à distância (que deve ser ágil ou finesse se for uma arma corpo a corpo com a característica arremesso) ou um porrete.</p>\n<p><strong>Estratagema de Perícia</strong> Você não pode tentar Golpear o alvo até o início do seu próximo turno. Você ganha um bônus de circunstância +1 no seu próximo teste de perícia baseado em Inteligência, Sabedoria ou Carisma ou no teste de Percepção envolvendo o alvo antes do início do seu próximo turno. Se você ganharia seu bônus de investigação de Seguir uma Pista em tal teste, esse bônus aumenta em 1 em vez de você ganhar o bônus +1 listado.</p>",
+      "selfEffect": "Effect: Devise a Stratagem",
       "source": "Pathfinder Player Core 2"
     },
     "Devour Ambient Magic": {
@@ -649,6 +660,7 @@
     "Drain Realm": {
       "name": "Drenar Reino",
       "description": "<p><strong>Gatilho</strong> Sua ação anterior foi Sustentar seu reino manifestado</p>\n<p><strong>Requisitos</strong> Seu reino manifestado tem um raio de pelo menos 10 pés</p>\n<hr />\n<p><strong>Efeito</strong> Você extrai poder do seu reino manifestado para fortalecer sua forma física. Diminua o raio do seu reino manifestado em 10 pés. Você recupera vários @Damage[(@actor.level)[healing]]{Pontos de Vida iguais ao seu nível} e cada um dos seus Golpes feitos antes do final do seu turno causa 1d8 de dano adicional do tipo de dano do seu reino.</p>",
+      "selfEffect": "Effect: Drain Realm",
       "source": "Pathfinder War of Immortals"
     },
     "Drape Ambient Magic": {
@@ -749,11 +761,13 @@
     "Enter Spirit Trance": {
       "name": "Enter Spirit Trance",
       "description": "<p>Você entra em um transe autoimposto que o ajuda a superar os limites físicos do seu corpo. Você ganha um número de Pontos de Vida temporários igual ao seu nível mais seu modificador de Constituição. O transe dura 1 minuto, até você cair @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, ou até você Dispensá-lo, o que ocorrer primeiro.</p>\n<p>Enquanto estiver neste transe, você ganha um bônus de status de +1 nos testes de resistência de Fortitude e Vontade e seus Golpes corpo a corpo causam 1 de dano espiritual adicional. Outras habilidades podem exigir que você esteja em um transe espiritual. Quando o transe termina, você perde quaisquer Pontos de Vida temporários restantes de Entrar em Transe Espiritual, e você não pode Entrar em Transe Espiritual por 1 minuto.</p>",
+      "selfEffect": "Effect: Enter Spirit Trance",
       "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Entity's Resurgence": {
       "name": "Ressurgimento da Entidade",
       "description": "<p><strong>Acionamento</strong> Você seria reduzido a 0 Pontos de Vida, mas não morto imediatamente</p>\n<hr />\n<p><strong>Efeito</strong> Em vez de deixá-lo cair inconsciente, sua entidade assume o controle. Você permanece com 1 Ponto de Vida e ganha Pontos de Vida temporários iguais ao seu nível + seu modificador de habilidade chave que duram 1 minuto. No entanto, a entidade está no controle por 1 minuto ou até você cair inconsciente, o que ocorrer primeiro.</p>\n<p>Enquanto a entidade estiver no controle, você ganha um bônus de status +1 em rolagens de ataque e rolagens de dano, e o Mestre geralmente controla seu personagem, interpretando a entidade. O Mestre pode decidir que você interprete a entidade, mas ele mantém a palavra final sobre qualquer decisão que você tomar. Independentemente da natureza da entidade, ela certamente buscará vingança contra o inimigo que colocou em risco a vida de seu receptáculo - mesmo uma entidade maligna não mudará de aliança ou ignorará o perigo, exceto em circunstâncias extremas.</p>",
+      "selfEffect": "Effect: Entity's Resurgence",
       "source": "Pathfinder Dark Archive"
     },
     "Entreat Pact": {
@@ -1019,6 +1033,7 @@
     "Harvest Blood": {
       "name": "Harvest Blood",
       "description": "<p><strong>Requirements</strong> Your last action was a successful piercing or slashing melee Strike against a creature that is not immune to bleed</p>\n<hr />\n<p><strong>Effect</strong> You consume the blood lingering upon your weapon. You reduce the value of your drained condition by 1, gain temporary Hit Points equal to your Constitution modifier, and gain a +1 circumstance bonus to saving throws against that creature's spells for 1 minute, or until you Harvest Blood from another creature.</p>",
+      "selfEffect": "Effect: Harvest Blood",
       "source": "Pathfinder War of Immortals"
     },
     "Harvest Heartsliver": {
@@ -1054,11 +1069,13 @@
     "Hunt Prey": {
       "name": "Caçar Presa",
       "description": "<p>Você designa uma única criatura como sua presa e concentra seus ataques contra essa criatura. Você deve ser capaz de ver ou ouvir a presa, ou deve estar rastreando a presa durante a exploração.</p>\n<p>Você ganha um bônus de circunstância +2 em testes de Percepção quando você @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Busca} sua presa e um bônus de circunstância +2 em testes de Sobrevivência quando você @UUID[Compendium.pf2e.actionspf2e.Item.EA5vuSgJfiHH7plD]{Rastreia} sua presa. Você também ignora a penalidade por fazer ataques à distância dentro do seu segundo incremento de alcance contra a presa que você está caçando.</p>\n<p>Você pode ter apenas uma criatura designada como sua presa por vez. Se você usar Caçar Presa contra uma criatura quando você já tem uma criatura designada, a criatura anterior perde a designação e a nova presa ganha a designação. Sua designação dura até seus próximos preparativos diários.</p>",
+      "selfEffect": "Effect: Hunt Prey",
       "source": "Pathfinder Player Core"
     },
     "Hunt the Razer's Pawn": {
       "name": "Hunt the Razer's Pawn",
       "description": "<p>Designate a single creature that you can see or hear, or whom you've spent a significant amount of time studying and reading about from afar (subject to the GM's approval), and who you know to be an agent of Treerazer. You gain a +2 circumstance bonus to Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} or @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense the Motive} of this creature. This creature takes a –1 circumstance penalty to saving throws against spells or effects you create; this penalty increases to –2 against effects that have the holy trait.</p>\n<p>You can have only one creature designated by Hunt the Razer's Pawn at a time. If you use this ability against a creature when you already have one designated, the prior creature loses the designation and the new creature gains the designation. This lasts until your next daily preparations.</p>",
+      "selfEffect": "Effect: Hunt the Razer's Pawn",
       "source": "Pathfinder Spore War Player's Guide"
     },
     "Hustle": {
@@ -1369,6 +1386,7 @@
     "Offer Story": {
       "name": "Offer Story",
       "description": "<p>You share a story of your travels with a creature within 30 feet. You gain the blessing of Isthralei as a +1 status bonus to AC and Will saves until the end of your next turn. On their next turn, the creature you shared a story with can take a single action, which has the auditory, concentrate, linguistic, and mental traits, to respond with their own story to gain the same benefits until the end of the following turn.</p>",
+      "selfEffect": "Effect: Offer Story",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Once Bitten": {
@@ -1539,11 +1557,13 @@
           "text": "{item|description}\n@UUID[Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr]{Effect: Rage}\n@UUID[Compendium.pf2e.feat-effects.Item.MaepXeSHiMoWDm7u]{Effect: Rage Temporary Hit Points Immunity}"
         }
       },
+      "selfEffect": "Effect: Rage",
       "source": "Pathfinder Player Core 2"
     },
     "Race the Skies": {
       "name": "Competir com os Céus",
       "description": "<p>Você toma seu lugar entre os céus. Por 1 minuto, você ganha uma Velocidade de voo igual à sua Velocidade ou 20 pés, o que for maior.</p>",
+      "selfEffect": "Effect: Race the Skies",
       "source": "Pathfinder War of Immortals"
     },
     "Raconteur's Reload": {
@@ -1554,6 +1574,7 @@
     "Rage": {
       "name": "Fúria",
       "description": "<p><strong>Requerimentos</strong> Você não está @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigado} ou em fúria.</p>\n<hr />\n<p>Você se entrega à sua fúria interior e começa a ficar furioso. Você ganha um número de Pontos de Vida temporários igual ao seu nível mais seu modificador de Constituição. Enquanto você está em fúria:</p>\n<ul>\n<li>Você causa 2 de dano adicional em Golpes corpo a corpo. Este dano adicional é reduzido à metade se sua arma ou ataque desarmado for ágil.</li>\n<li>\n<p>Você não pode usar ações com a característica concentrar, a menos que elas também tenham a característica fúria. Você pode @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} enquanto está em fúria.</p>\n</li>\n</ul>\n<p>A fúria dura 1 minuto, até que você caia @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Inconsciente} ou até que o encontro termine, o que ocorrer primeiro. Você não pode parar de ficar furioso voluntariamente. Quando você para de ficar furioso, você perde quaisquer Pontos de Vida temporários restantes da Fúria e não pode ganhar Pontos de Vida temporários usando a ação Fúria novamente por 1 minuto.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.MaepXeSHiMoWDm7u]{Efeito: Imunidade a Pontos de Vida Temporários da Fúria}</p>",
+      "selfEffect": "Effect: Rage",
       "source": "Pathfinder Player Core 2"
     },
     "Raise Neck": {
@@ -1569,6 +1590,7 @@
     "Raise a Shield": {
       "name": "Levantar um Escudo",
       "description": "<p><strong>Requerimentos</strong> Você está empunhando um escudo.</p>\n<hr />\n<p>Você posiciona seu escudo para se proteger. Quando você Levantou um Escudo, você ganha seu bônus de circunstância listado na CA. Seu escudo permanece levantado até o início do seu próximo turno.</p>",
+      "selfEffect": "Effect: Raise a Shield",
       "source": "Pathfinder Player Core"
     },
     "Raise the Walls": {
@@ -1624,6 +1646,7 @@
     "Recall Under Pressure": {
       "name": "Recordar Sob Pressão",
       "description": "<p><strong>Acionamento</strong> Você tenta @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recordar Conhecimento} durante um combate</p>\n<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Em vez de rolar uma perícia diferente para Recordar Conhecimento durante a luta, sua memória retorna a algo que você leu em algum livro antigo. Em vez disso, você tenta este teste de Recordar Conhecimento com um teste de Conhecimento Acadêmico. Se a informação que você recordar acabar sendo útil e positiva de uma forma óbvia antes de você realizar seu próximo turno, compre uma carta de harrow aleatória. Você ganha um bônus de status +1 em testes de resistência pelo restante do encontro de combate, conforme seu moral se eleva, ou um bônus de status +2 se a carta que você comprou for do naipe de Livros.</p>",
+      "selfEffect": "Effect: Recall Under Pressure",
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
     "Recall the Teachings": {
@@ -1679,6 +1702,7 @@
     "Repel Ambient Magic": {
       "name": "Repelir Magia Ambiente",
       "description": "<p>Seu ostilli brilha em verde enquanto absorve magia. Até o início do seu próximo turno, você ganha um bônus de circunstância +1 na CA e nos testes de resistência contra o próximo ataque mágico, truque ou magia que tiver você como alvo. Este bônus aumenta para +2 no 12º nível.</p>",
+      "selfEffect": "Effect: Repel Ambient Magic",
       "source": "Pathfinder Howl of the Wild"
     },
     "Reposition": {
@@ -1874,6 +1898,7 @@
     "Shielding Wave": {
       "name": "Onda Protetora",
       "description": "<p>Você ergue uma barreira mágica de correntes sinuosas. Até o início do seu próximo turno, na primeira vez que você receber dano de ácido ou fogo, você ganha resistência a esse dano igual à metade do seu nível (mínimo 1). A resistência é igual ao seu nível se você estiver submerso em água, se você já tiver Conjurado uma Magia com a característica água ou se você tiver usado outra habilidade com a característica água neste turno.</p>",
+      "selfEffect": "Effect: Shielding Wave",
       "source": "Pathfinder Howl of the Wild"
     },
     "Shift Immanence": {
@@ -1954,6 +1979,7 @@
     "Spirit's Mercy": {
       "name": "Misericórdia do Espírito",
       "description": "<p><strong>Acionamento</strong> Você recebe dano de vitalidade ou vazio, ou você recebe qualquer tipo de dano causado por um assombro, fantasma ou outro morto-vivo incorpóreo</p>\n<p><strong>Custo</strong> 1 wisp ou remanescente espiritual</p>\n<hr />\n<p><strong>Efeito</strong> Você purifica um espírito fazendo com que ele realize um ato final de misericórdia para diminuir o dano causado por outro espírito. Isso concede a você resistência ao dano de vitalidade e vazio (ou resistência a todo dano se causado por um assombro ou morto-vivo incorpóreo) contra o efeito de acionamento. Se você gastar um wisp espiritual, a resistência é igual ao dobro do seu nível. Se você gastar um remanescente espiritual, a resistência é igual a três vezes o nível do morto-vivo incorpóreo ou assombro do qual você obteve o remanescente.</p>",
+      "selfEffect": "Effect: Spirit's Mercy",
       "source": "Pathfinder Book of the Dead"
     },
     "Spiritual Aid": {
@@ -1989,6 +2015,7 @@
     "Starlit Transformation": {
       "name": "Transformação Estelar",
       "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Luz gira ao seu redor, transformando sua armadura, roupas e uma única arma em sua posse em um traje alternativo específico. Embora seu equipamento possa parecer dramaticamente diferente, ele funciona normalmente. Se alguém tentar discernir sua identidade, ele deve usar uma ação de @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Buscar} para tentar um teste de Percepção contra sua CD de Dissimulação, como se você estivesse usando a ação @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Personificar}. Sua CD de Dissimulação contra tais tentativas é 20 + seu modificador de proficiência em vez da CD normal. Ao contrário de Personificar, você não precisa tentar um teste de Dissimulação para interagir com alguém para ocultar sua identidade - um teste acontece apenas se alguém tentar especificamente descobri-la. Você permanece em sua forma de sentinela por 10 minutos ou até usar Transformação Estelar novamente para voltar à sua forma normal.</p>\n<p>Enquanto você estiver na forma de sentinela, sua arma transformada brilha com a luz das estrelas e ganha um bônus de status +1 em rolagens de dano com a arma. Você pode lançar raios de luz estelar de sua arma com uma ação de Golpe, usando seu modificador de ataque corpo a corpo com a arma. Esses raios causam 1d4 de dano de força, têm um alcance de 60 pés, são afetados pelas runas da sua arma e têm as características arcana e de força.</p>",
+      "selfEffect": "Effect: Starlit Transformation",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Steal": {
@@ -2059,6 +2086,7 @@
     "Survive the Wilds": {
       "name": "Survive the Wilds",
       "description": "<p>You wrap the pelt around yourself. You can choose to change the damage type the pelt is attuned to. The pelt shines gold, drawing the offending energies into itself.</p>\n<p>Until the start of your next turn, this shine creates an aura in a @Template[type:emanation|distance:15]. You and all allies in the emanation gain a +2 circumstance bonus to AC and saving throws against effects with that trait.</p>",
+      "selfEffect": "Effect: Survive the Wilds",
       "source": "Pathfinder War of Immortals"
     },
     "Sustain": {
@@ -2089,6 +2117,7 @@
     "Swirl Crimson Shroud": {
       "name": "Redemoinhar Manto Carmesim",
       "description": "<p>Você pode Interagir com seu manto, redemoinhando-o ao seu redor, para ganhar um bônus de circunstância +1 na CA até o início do seu próximo turno.</p>",
+      "selfEffect": "Effect: Crimson Shroud (AC)",
       "source": "Pathfinder Adventure: Prey for Death"
     },
     "Tactical Retreat": {
@@ -2099,6 +2128,7 @@
     "Tail Toxin": {
       "name": "Toxina da Cauda",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Requerimentos</strong> Você está empunhando uma arma perfurante ou cortante</p>\n<hr />\n<p>Você aplica o veneno da sua cauda a uma arma perfurante ou cortante. Se o seu próximo Golpe com essa arma antes do final do seu próximo turno acertar e causar dano, você causa dano persistente de veneno igual ao seu nível ao alvo.</p>",
+      "selfEffect": "Effect: Tail Toxin",
       "source": "Pathfinder Advanced Player's Guide"
     },
     "Take Control": {
@@ -2109,6 +2139,7 @@
     "Take Cover": {
       "name": "Obter Cobertura",
       "description": "<p><strong>Requerimentos</strong> Você está se beneficiando de cobertura, está próximo a uma característica que permite que você obtenha cobertura ou está @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado}.</p>\n<hr />\n<p>Você se pressiona contra uma parede ou se abaixa atrás de um obstáculo para aproveitar melhor a cobertura. Se você teria cobertura padrão, em vez disso, você ganha cobertura maior, o que fornece um bônus de circunstância +4 na CA; em testes de Reflexos contra efeitos de área; e em testes de Furtividade para @UUID[Compendium.pf2e.actionspf2e.Item.XMcnh4cSI32tljXa]{Esconder-se}, @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Esgueirar-se} ou evitar a detecção de outra forma. Caso contrário, você ganha os benefícios da cobertura padrão (um bônus de circunstância +2 em vez disso). Isso dura até que você se mova do seu espaço atual, use uma ação de ataque, fique @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Inconsciente} ou termine este efeito como uma ação livre.</p>",
+      "selfEffect": "Effect: Cover",
       "source": "Pathfinder Player Core"
     },
     "Take a Breather": {
@@ -2124,6 +2155,7 @@
     "Talon Stance": {
       "name": "Postura de Garras",
       "description": "<p><strong>Efeito</strong> Você se movimenta em uma postura solta que permite que você varra em arcos amplos com as garras em seus pés. Os únicos Golpes que você pode fazer são ataques desarmados de garras giratórias. Estes causam @Damage[1d8[slashing]] dano cortante, estão no grupo de combate corpo a corpo e têm as características finesse, varredura e desarmado. Você não precisa de uma mão livre para usar os golpes de garras giratórias.</p>",
+      "selfEffect": "Stance: Talon Stance",
       "source": "Pathfinder Howl of the Wild"
     },
     "Tap Ley Line": {
@@ -2134,6 +2166,7 @@
     "Tap the Past": {
       "name": "Recorrer ao Passado",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você está prestes a tentar um teste para Recordar Conhecimento</p>\n<hr />\n<p><strong>Efeito</strong> Você se concentra nos vislumbres de uma vida anterior para encontrar a memória de um tomo ou uma lição aplicável do seu passado. Você rola uma segunda vez e usa o resultado mais alto. Se você rolar uma falha crítica, você obtém uma falha em vez disso. Se você rolar um sucesso, você obtém um sucesso crítico em vez disso.</p>",
+      "selfEffect": "Effect: Tap the Past",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Telekinetic Assault": {
@@ -2149,6 +2182,7 @@
     "Tenacious Stance": {
       "name": "Postura Tenaz",
       "description": "<p><strong>Requerimentos</strong> Você está usando armadura</p>\n<hr />\n<p><strong>Efeito</strong> Você se firma, tão resistente e imutável quanto uma pedra. Você ganha um número de Pontos de Vida temporários igual à metade do seu nível (mínimo 1) e um bônus de circunstância +2 nas CDs contra ser Empurrado e Derrubado. No entanto, você não nega mais sua penalidade de armadura ou penalidade de Velocidade por ter uma Força alta enquanto estiver nesta postura. Depois de sair da Postura Tenaz, você perde quaisquer Pontos de Vida temporários restantes da postura e se torna temporariamente imune a ganhar Pontos de Vida temporários da Postura Tenaz por 1 minuto.</p>",
+      "selfEffect": "Stance: Tenacious Stance",
       "source": "Pathfinder Lost Omens Highhelm"
     },
     "Tendril Strike": {
@@ -2259,6 +2293,7 @@
     "Turn Aside Ambient Magic": {
       "name": "Desviar Magia Ambiente",
       "description": "<p>Seu ostilli brilha em um amarelo fraco enquanto estabelece uma barreira. Escolha dano de ácido, frio, eletricidade, fogo ou sônico. Até o início do seu próximo turno, você ganha resistência contra o tipo de dano escolhido igual à metade do seu nível.</p>",
+      "selfEffect": "Effect: Turn Aside Ambient Magic",
       "source": "Pathfinder Howl of the Wild"
     },
     "Ultimatum of Liberation": {
@@ -2269,6 +2304,7 @@
     "Unleash Psyche": {
       "name": "Liberar a Psique",
       "description": "<p><strong>Acionamento</strong> Seu turno começa.</p>\n<hr />\n<p><strong>Requerimentos</strong> Você está em um encontro, você Conjurar uma Magia em seu turno anterior e você não está @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefato}.</p>\n<hr />\n<p>Você invoca as profundezas de sua mente e deixa o poder psíquico inundar você. Sua Psique permanece Liberada por 2 rodadas ou até você cair @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Inconsciente}, o que ocorrer primeiro. Você não pode voluntariamente reprimir sua psique liberada. Enquanto sua Psique estiver Liberada, os seguintes efeitos ocorrem.</p>\n<ul>\n<li>Você está constantemente cercado pela manifestação visual da sua magia psíquica.</li>\n<li>Quando você conjura uma magia que causa dano, você ganha um bônus de status ao seu dano igual ao dobro do círculo da magia. Isso se aplica apenas a magias que não têm duração e que você conjura usando conjuração de magia psíquica.</li>\n<li>Você pode usar ações que tenham a característica psique. Depois que sua psique liberada se acalma, sua mente deve se recuperar do esforço de canalizar todo o seu poder. Você não pode usar Liberar a Psique novamente por 2 rodadas e você fica @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Estupefato 1} por 2 rodadas.</li>\n</ul>",
+      "selfEffect": "Effect: Unleash Psyche",
       "source": "Pathfinder Dark Archive"
     },
     "Unleash Realm": {
@@ -2279,6 +2315,7 @@
     "Unwavering Resilience": {
       "name": "Resiliência Inabalável",
       "description": "<p><strong>Acionamento</strong> Você tenta um teste de resistência contra um efeito de veneno, doença ou mental, mas ainda não rolou.</p>\n<hr />\n<p>Você acessa o poder do Plano da Madeira, ganhando força e fortitude mental. Você ganha um bônus de circunstância +1 no teste de resistência de acionamento. Se você obtiver um sucesso crítico neste teste de resistência, você se fortalece com seu sucesso; flores e novos brotos surgem temporariamente por todo o seu corpo e você ganha um número de Pontos de Vida temporários igual ao seu nível. Esses Pontos de Vida temporários duram um minuto. Quando esses Pontos de Vida temporários são perdidos, o crescimento verdejante diminui.</p>",
+      "selfEffect": "Effect: Unwavering Resilience",
       "source": "Pathfinder #202: Severed at the Root"
     },
     "Upstage": {
@@ -2334,6 +2371,7 @@
     "Wish for Luck": {
       "name": "Desejar Sorte",
       "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Acionamento</strong> Você está prestes a rolar um teste de ataque, teste de resistência ou teste de perícia</p>\n<hr />\n<p><strong>Efeito</strong> Você deseja sucesso em voz alta. Role o teste duas vezes e use o resultado mais alto.</p>",
+      "selfEffect": "Effect: Wish for Luck",
       "source": "Pathfinder Secrets of Magic"
     },
     "Wyrm's Breath": {
@@ -2352,6 +2390,7 @@
       "converter": "translateRules",
       "path": "system.rules"
     },
+    "selfEffect": "system.selfEffect.name",
     "source": {
       "converter": "translateSource",
       "path": "system.publication.title"

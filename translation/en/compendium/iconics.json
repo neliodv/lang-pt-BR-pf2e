@@ -92,6 +92,7 @@
         },
         "action->Rage": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]\n<p><strong>Requirements</strong> You aren't @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} or raging.</p>\n<hr />\n<p>You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, whichever comes first. You can't voluntarily stop raging. While you are raging:</p>\n<ul>\n<li>You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.</li>\n<li>You take a -1 penalty to AC.</li>\n<li>You can't use actions with the concentrate trait unless they also have the rage trait. You can @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} while raging.</li>\n</ul>\n<p>After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute.</p>",
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Human": {
@@ -108,6 +109,7 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick-Tempered": {
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Sudden Charge": {
@@ -227,6 +229,7 @@
         },
         "action->Rage": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]\n<p><strong>Requirements</strong> You aren't @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} or raging.</p>\n<hr />\n<p>You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, whichever comes first. You can't voluntarily stop raging. While you are raging:</p>\n<ul>\n<li>You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.</li>\n<li>You take a -1 penalty to AC.</li>\n<li>You can't use actions with the concentrate trait unless they also have the rage trait. You can @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} while raging.</li>\n</ul>\n<p>After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute.</p>",
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Human": {
@@ -255,6 +258,7 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick-Tempered": {
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Sudden Charge": {
@@ -389,6 +393,7 @@
         },
         "action->Rage": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]\n<p><strong>Requirements</strong> You aren't @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} or raging.</p>\n<hr />\n<p>You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. While you are raging:</p>\n<ul>\n<li>You deal 2 additional damage on melee Strikes. This additional damage is halved if your weapon or unarmed attack is agile.</li>\n<li>\n<p>You can't use actions with the concentrate trait unless they also have the rage trait. You can @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} while raging.</p>\n</li>\n</ul>\n<p>Rage lasts for 1 minute, until you fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, or until the encounter ends, whichever comes first. You can't voluntarily stop raging. When you stop raging, you lose any remaining temporary Hit Points from Rage, and can't gain temporary Hit Points from using the Rage action again for 1 minute.</p>",
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Furious Footfalls": {
@@ -420,6 +425,7 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick-Tempered": {
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Raging Athlete": {
@@ -1052,6 +1058,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Bespell Strikes": {
+          "selfEffect": "Effect: Bespell Strikes",
           "source": "Pathfinder Player Core"
         },
         "feat->Courtly Graces": {
@@ -2824,6 +2831,7 @@
           "source": "Pathfinder Player Core"
         },
         "action->Raise a Shield": {
+          "selfEffect": "Effect: Raise a Shield",
           "source": "Pathfinder Player Core"
         },
         "action->Feint": {
@@ -3490,6 +3498,7 @@
           "source": "Pathfinder Player Core 2"
         },
         "feat->Whispers of Weakness": {
+          "selfEffect": "Effect: Whispers of Weakness",
           "source": "Pathfinder Player Core 2"
         },
         "spell->Heal": {
@@ -3733,6 +3742,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Whispers of Weakness": {
+          "selfEffect": "Effect: Whispers of Weakness",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Mystery": {
@@ -6613,6 +6623,7 @@
         "action->Devise a Stratagem": {
           "name": "Devise a Stratagem",
           "description": "<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p>You assess a foe's weaknesses in combat and use them to formulate a plan of attack. Choose a creature you can see. You can Devise a Stratagem as a free action if you're aware that creature could help answer the question at the heart of one of your active investigations. Roll a d20, then decide on an attack stratagem or skill stratagem.</p>\n<p><strong>Attack Stratagem</strong> If you Strike the chosen creature before the start of your next turn, you must use the result of the d20 roll for your Strike's attack roll instead of rolling. You make this substitution only for the first Strike you make against the creature this round, not any subsequent ones. When you make this substitution, you can add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided you Strike with an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait), or a sap.</p>\n<p><strong>Skill Stratagem</strong> You can't attempt to Strike the target until the start of your next turn. You gain a +1 circumstance bonus to your next Intelligence-, Wisdom-, or Charisma-based skill check or Perception check involving the target before the start of your next turn. If you would gain your Pursue a Lead investigation bonus to such a check, that bonus increases by 1 instead of you gaining the +1 bonus listed.</p>",
+          "selfEffect": "Effect: Devise a Stratagem",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Strategic Strike": {
@@ -6749,6 +6760,7 @@
         "action->Devise a Stratagem": {
           "name": "Devise a Stratagem",
           "description": "<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p>You assess a foe's weaknesses in combat and use them to formulate a plan of attack. Choose a creature you can see. You can Devise a Stratagem as a free action if you're aware that creature could help answer the question at the heart of one of your active investigations. Roll a d20, then decide on an attack stratagem or skill stratagem.</p>\n<p><strong>Attack Stratagem</strong> If you Strike the chosen creature before the start of your next turn, you must use the result of the d20 roll for your Strike's attack roll instead of rolling. You make this substitution only for the first Strike you make against the creature this round, not any subsequent ones. When you make this substitution, you can add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided you Strike with an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait), or a sap.</p>\n<p><strong>Skill Stratagem</strong> You can't attempt to Strike the target until the start of your next turn. You gain a +1 circumstance bonus to your next Intelligence-, Wisdom-, or Charisma-based skill check or Perception check involving the target before the start of your next turn. If you would gain your Pursue a Lead investigation bonus to such a check, that bonus increases by 1 instead of you gaining the +1 bonus listed.</p>",
+          "selfEffect": "Effect: Devise a Stratagem",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Strategic Strike": {
@@ -6957,6 +6969,7 @@
         "action->Devise a Stratagem": {
           "name": "Devise a Stratagem",
           "description": "<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p>You assess a foe's weaknesses in combat and use them to formulate a plan of attack. Choose a creature you can see. You can Devise a Stratagem as a free action if you're aware that creature could help answer the question at the heart of one of your active investigations. Roll a d20, then decide on an attack stratagem or skill stratagem.</p>\n<p><strong>Attack Stratagem</strong> If you Strike the chosen creature before the start of your next turn, you must use the result of the d20 roll for your Strike's attack roll instead of rolling. You make this substitution only for the first Strike you make against the creature this round, not any subsequent ones. When you make this substitution, you can add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided you Strike with an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait), or a sap.</p>\n<p><strong>Skill Stratagem</strong> You can't attempt to Strike the target until the start of your next turn. You gain a +1 circumstance bonus to your next Intelligence-, Wisdom-, or Charisma-based skill check or Perception check involving the target before the start of your next turn. If you would gain your Pursue a Lead investigation bonus to such a check, that bonus increases by 1 instead of you gaining the +1 bonus listed.</p>",
+          "selfEffect": "Effect: Devise a Stratagem",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Strategic Strike": {
@@ -7136,6 +7149,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Tiger Stance": {
+          "selfEffect": "Stance: Tiger Stance",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Qi Spells": {
@@ -7256,6 +7270,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Tiger Stance": {
+          "selfEffect": "Stance: Tiger Stance",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Qi Spells": {
@@ -7403,6 +7418,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Tiger Stance": {
+          "selfEffect": "Stance: Tiger Stance",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Clever Improviser": {
@@ -7984,6 +8000,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Apparition's Enhancement": {
+          "selfEffect": "Effect: Apparition's Enhancement",
           "source": "Pathfinder War of Immortals"
         },
         "feat->Unusual Treatment": {
@@ -8122,6 +8139,7 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Raise a Shield": {
+          "selfEffect": "Effect: Raise a Shield",
           "source": "Pathfinder Player Core"
         }
       }
@@ -8274,6 +8292,7 @@
           "source": "Pathfinder Player Core"
         },
         "action->Raise a Shield": {
+          "selfEffect": "Effect: Raise a Shield",
           "source": "Pathfinder Player Core"
         },
         "shield->Steel Shield": {
@@ -8446,6 +8465,7 @@
           "source": "Pathfinder Player Core"
         },
         "action->Raise a Shield": {
+          "selfEffect": "Effect: Raise a Shield",
           "source": "Pathfinder Player Core"
         }
       }
@@ -9021,6 +9041,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Bespell Strikes": {
+          "selfEffect": "Effect: Bespell Strikes",
           "source": "Pathfinder Player Core"
         }
       }
@@ -9442,6 +9463,7 @@
           "source": "Pathfinder Rage of Elements"
         },
         "action->Channel Elements": {
+          "selfEffect": "Effect: Kinetic Aura",
           "source": "Pathfinder Rage of Elements"
         },
         "feat->Fire Gate": {
@@ -9559,6 +9581,7 @@
           "source": "Pathfinder Rage of Elements"
         },
         "action->Channel Elements": {
+          "selfEffect": "Effect: Kinetic Aura",
           "source": "Pathfinder Rage of Elements"
         },
         "feat->Fire Gate": {
@@ -9700,6 +9723,7 @@
           "source": "Pathfinder Rage of Elements"
         },
         "action->Channel Elements": {
+          "selfEffect": "Effect: Kinetic Aura",
           "source": "Pathfinder Rage of Elements"
         },
         "feat->Fire Gate": {
@@ -9813,6 +9837,7 @@
           "source": "Pathfinder Rage of Elements"
         },
         "feat->Thermal Nimbus": {
+          "selfEffect": "Stance: Thermal Nimbus",
           "source": "Pathfinder Rage of Elements"
         },
         "equipment->Smoke Veil": {

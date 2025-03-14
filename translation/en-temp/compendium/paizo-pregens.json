@@ -496,9 +496,11 @@
           "source": "Pathfinder Player Core 2"
         },
         "action->Rage": {
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Player Core 2"
         },
         "action->Quick-Tempered": {
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Wash Out": {
@@ -689,6 +691,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Crane Stance": {
+          "selfEffect": "Stance: Crane Stance",
           "source": "Pathfinder Core Rulebook"
         },
         "spellcastingEntry->Arcane Innate Spells": {
@@ -1128,6 +1131,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Divine Weapon": {
+          "selfEffect": "Effect: Divine Weapon",
           "source": "Pathfinder Player Core"
         },
         "feat->Intimidating Glare": {
@@ -3322,6 +3326,7 @@
         },
         "action->Raise a Shield": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]\n<p><strong>Requirements</strong> You are wielding a shield</p>\n<hr />\n<p>You position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.</p>",
+          "selfEffect": "Effect: Raise a Shield",
           "source": "Pathfinder Core Rulebook"
         },
         "class->Cleric": {
@@ -4397,6 +4402,7 @@
         },
         "action->Devise a Stratagem": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.m0f2B7G9eaaTmhFL]\n<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p>You assess a foe's weaknesses in combat and use them to formulate a plan of attack against your enemy. Choose a creature you can see, and roll a d20. If you Strike the chosen creature later this round, you must use the result of the roll you made to Devise a Stratagem for your Strike's attack roll instead of rolling. You make this substitution only for the first Strike you make against the creature this round, not any subsequent attacks.</p>\n<p>When you make this substitution, you can also add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided your Strike uses an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait) or @UUID[Compendium.pf2e.equipment-srd.Item.TLQErnOpM9Luy7rL]{Sap}.</p>\n<p>If you're aware that the creature you choose is the subject of a lead you're pursuing, you can use this ability as a free action.</p>",
+          "selfEffect": "Effect: Devise a Stratagem",
           "source": "Pathfinder Advanced Player's Guide"
         },
         "action->Pursue a Lead": {
@@ -4501,6 +4507,7 @@
         },
         "action->Rage": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]\n<p><strong>Requirements</strong> You aren't @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} or raging.</p>\n<hr />\n<p>You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, whichever comes first. You can't voluntarily stop raging. While you are raging:</p>\n<ul>\n<li>You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.</li>\n<li>You take a -1 penalty to AC.</li>\n<li>You can't use actions with the concentrate trait unless they also have the rage trait. You can @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} while raging.</li>\n</ul>\n<p>After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute.</p>",
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Leshy": {
@@ -4611,6 +4618,7 @@
         },
         "action->Rage": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]\n<p><strong>Requirements</strong> You aren't @UUID[Compendium.pf2e.conditionitems.Item.HL2l2VRSaQHu9lUw]{Fatigued} or raging.</p>\n<hr />\n<p>You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious}, whichever comes first. You can't voluntarily stop raging. While you are raging:</p>\n<ul>\n<li>You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.</li>\n<li>You take a -1 penalty to AC.</li>\n<li>You can't use actions with the concentrate trait unless they also have the rage trait. You can @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} while raging.</li>\n</ul>\n<p>After you stop raging, you lose any remaining temporary Hit Points from Rage, and you can't Rage again for 1 minute.</p>",
+          "selfEffect": "Effect: Rage",
           "source": "Pathfinder Core Rulebook"
         },
         "ancestry->Leshy": {
@@ -5793,6 +5801,7 @@
           "source": "Pathfinder Player Core"
         },
         "feat->Energy Ablation": {
+          "selfEffect": "Effect: Energy Ablation",
           "source": "Pathfinder Player Core"
         },
         "feat->Arcane Sense": {
@@ -6069,6 +6078,7 @@
         },
         "action->Raise a Shield": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]\n<p><strong>Requirements</strong> You are wielding a shield</p>\n<hr />\n<p>You position your shield to protect yourself. When you have Raised a Shield, you gain its listed circumstance bonus to AC. Your shield remains raised until the start of your next turn.</p>",
+          "selfEffect": "Effect: Raise a Shield",
           "source": "Pathfinder Core Rulebook"
         },
         "class->Fighter": {
@@ -6149,6 +6159,7 @@
           "source": "Pathfinder Core Rulebook"
         },
         "feat->Dragon Stance": {
+          "selfEffect": "Stance: Dragon Stance",
           "source": "Pathfinder Player Core 2"
         },
         "feat->Unconventional Weaponry": {

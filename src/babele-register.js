@@ -58,7 +58,7 @@ function AACreateItemNameProxy(item, realName) {
     });
 }
 
-Hooks.once("init", () => {
+Hooks.once("babele.init", () => {
     if (game.babele) {
         game.settings.register("lang-pt-BR-pf2e", "dual-language-names", {
             name: "Nomes em Português e Inglês",
