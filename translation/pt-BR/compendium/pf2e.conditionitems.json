@@ -173,7 +173,7 @@
     },
     "Sickened": {
       "name": "Enjoado",
-      "description": "<p>Você se sente mal. Enjoado sempre inclui um valor. Você recebe uma penalidade de status igual a esse valor em todos os seus testes e CDs. Você não pode ingerir nada voluntariamente - incluindo elixires e poções - enquanto estiver enjoado.</p>\n<p>Você pode gastar uma única ação vomitando em uma tentativa de se recuperar, o que permite que você tente imediatamente um teste de resistência de Fortitude contra a CD do efeito que o deixou enjoado. Em um sucesso, você reduz seu valor de enjoado em 1 (ou em 2 em um sucesso crítico).</p>",
+      "description": "<p>You feel ill. Sickened always includes a value. You take a status penalty equal to this value on all your checks and DCs. You can't willingly ingest anything—including elixirs and potions—while sickened.</p>\n<p>You can spend a single action retching in an attempt to recover, which lets you immediately attempt a @Check[fortitude] save against the DC of the effect that made you sickened. On a success, you reduce your sickened value by 1 (or by 2 on a critical success).</p>",
       "source": "Pathfinder Player Core"
     },
     "Slowed": {

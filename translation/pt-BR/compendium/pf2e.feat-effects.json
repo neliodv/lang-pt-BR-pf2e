@@ -527,6 +527,11 @@
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.fzERYW7BJQoxlvoD]{Desafio do Matador de Mortos-Vivos}</p>\n<p>Você ganha um bônus de status +1 em testes de ataque e dano contra mortos-vivos.</p>",
       "source": "Pathfinder Lost Omens Knights of Lastwall"
     },
+    "Effect: Coven Spell": {
+      "name": "Effect: Coven Spell",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.1GxDzMf32UTTro1d]{Coven Spell}</p>\n<p>You gain a status bonus to your spell's damage equal to its rank.</p>",
+      "source": "Pathfinder Player Core"
+    },
     "Effect: Cozy Campfire": {
       "name": "Effect: Cozy Campfire",
       "description": "<p>Granted by @UUID[Compendium.pf2e.feat-effects.Item.fH4SxaerUGXqIOIJ]{Effect: Cozy Campfire}</p>\n<p>You take a –2 status penalty to attack rolls.</p>",
@@ -2715,6 +2720,11 @@
       "description": "<p>Concedido por Golpear o Bem.</p>\n<p>Até o início do seu próximo turno, seus Ataques contra aquele inimigo usando a arma que seu aliado da lâmina habita causam 4 de dano espiritual extra se o alvo for sagrado, aumentando para 6 se você tiver proficiência mestre com esta arma.</p>\n<p>Se o inimigo escolhido atacar você antes do início do seu próximo turno, a duração se estende até o final do próximo turno daquele inimigo. Se o inimigo continuar a atacar você a cada turno, a duração continua a se estender.</p>",
       "source": "Pathfinder Advanced Player's Guide"
     },
+    "Effect: Snap Out of It! (Marshal)": {
+      "name": "Effect: Snap Out of It! (Marshal)",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.zbnL5OP4zVaNFcq8]{Snap Out of It! (Marshal)}</p>\n<p>You gain a +1 circumstance bonus to your Will save.</p>",
+      "source": "Pathfinder Player Core 2"
+    },
     "Effect: Sniping Duo Dedication": {
       "name": "Effect: Dedicação de Dupla de Atiradores",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.6PP57Aa5HmSr0qIZ]{Dedicação de Dupla de Atiradores}.</p>\n<p>Sempre que você ou seu observador atingir um alvo com sucesso, o outro membro de sua dupla ganha um bônus de circunstância +1 por dado de dano de arma no teste de dano de seu próximo Ataque feito contra aquele alvo antes do final de seu próximo turno.</p>",
@@ -3136,7 +3146,7 @@
     },
     "Effect: Watchful Gaze": {
       "name": "Effect: Olhar Vigilante",
-      "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.KKUDZUbX3nDdME4K]{Olhar Vigilante}</p>\n<p>Você ganha @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.9qV49KjZujZnSp6w]{Visão de 360 ​​Graus} até o início do seu próximo turno. Isso permite que você veja em todas as direções e evita que você seja flanqueado.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.KKUDZUbX3nDdME4K]{Watchful Gaze}</p>\n<p>You gain All-Around Vision until the start of your next turn. This lets you see in all directions and prevents you from being flanked.</p>",
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Effect: Weapon Infusion": {
@@ -3341,7 +3351,7 @@
     },
     "Stance: Flood Stance": {
       "name": "Stance: Flood Stance",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.lqStZou2d2WMLJxz]{Flood Stance}</p>\n<p>The only Strikes you can make are flooded river unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; have the nonlethal, trip, unarmed, and water traits; and don’t take the normal penalty for being used underwater. They also gain the forceful trait while you’re underwater.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.lqStZou2d2WMLJxz]{Flood Stance}</p>\n<p>The only Strikes you can make are flooded river unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; have the nonlethal, trip, unarmed, and water traits; and don't take the normal penalty for being used underwater. They also gain the forceful trait while you're underwater.</p>",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Stance: Geologic Attunement": {

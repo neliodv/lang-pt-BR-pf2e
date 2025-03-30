@@ -421,7 +421,7 @@
           "vanara": "Vanara",
           "varisian": "Varisian",
           "varki": "Varki",
-          "vishkanyan": "Vishkanyan",
+          "vishkanyan": "Vishkanya",
           "vudrani": "Vudrani",
           "wildsong": "Wildsong",
           "wyrwood": "Wyrwood",
@@ -444,6 +444,7 @@
           "Plural": "Sentidos",
           "RangeLabel": "Alcance",
           "Type": {
+            "Bloodsense": "Bloodsense",
             "Darkvision": "Visão no Escuro",
             "Echolocation": "Ecolocalização",
             "GreaterDarkvision": "Visão no Escuro Maior",
@@ -2914,7 +2915,7 @@
           "ShieldBlock": "<p><strong>Gatilho</strong> O monstro tem seu escudo levantado e recebe dano de um ataque físico.</p>\n<hr />\n<p><strong>Efeito</strong> O monstro coloca seu escudo no lugar para desviar um golpe. O escudo impede que o monstro receba uma quantidade de dano até a Dureza do escudo. O monstro e o escudo recebem qualquer dano restante, possivelmente quebrando ou destruindo o escudo.</p>",
           "SneakAttack": "<p>Quando o monstro Ataca uma criatura que tem a condição @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} com uma arma corpo a corpo ágil ou de finesse, um ataque desarmado ágil ou de finesse ou um ataque de arma à distância, ele também causa o dano de precisão listado. Para um ataque à distância com uma arma arremessada, essa arma também deve ser uma arma ágil ou de finesse.</p>",
           "Stench": "<p>Uma criatura que entra na aura ou começa seu turno na área deve ser bem-sucedida em um teste de Fortitude ou se torna @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Enjoada 1} (mais @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Desacelerada 1} enquanto estiver enjoada em uma falha crítica). Uma criatura que for bem-sucedida em seu teste ou se recuperar de estar enjoada fica temporariamente imune a todas as auras de fedor por 1 minuto.</p>",
-          "SwallowWhole": "<p>O monstro tenta engolir uma criatura do tamanho listado ou menor que ele tenha agarrado ou restringido em suas mandíbulas ou boca. Se uma criatura engolida for do tamanho máximo listado, o monstro não pode usar Engolir Inteiro novamente. Se a criatura for menor que o máximo, o monstro geralmente pode engolir mais criaturas; o Mestre determina o máximo. O monstro tenta um teste @Check[athletics|defense:reflex] {de Atletismo contra a CD de Reflexos} da criatura agarrada. Se for bem-sucedido, ele engole a criatura. A boca ou mandíbulas do monstro não agarram mais uma criatura que ele engoliu, então o monstro está livre para usá-las para Atacar ou Agarrar mais uma vez. O monstro não pode atacar criaturas que engoliu.</p>\n<p>Uma criatura engolida está @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Agarrada}, está @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Desacelerada 1} e tem que prender a respiração ou começar a sufocar. A criatura engolida recebe a quantidade listada de dano quando engolida pela primeira vez e no final de cada um de seus turnos enquanto estiver engolida. Se a vítima @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapar} da condição agarrada desta habilidade, ela sai pela boca do monstro. Isso libera qualquer outra criatura agarrada na boca ou mandíbulas do monstro. Uma criatura engolida pode atacar o monstro que a engoliu, mas apenas com ataques desarmados ou com armas de Volume leve ou menor. A criatura que engole está @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} contra o ataque. Se o monstro receber dano perfurante ou cortante igual ou superior ao valor de Ruptura listado de um único ataque ou magia, a criatura engolida se liberta. Uma criatura que se liberta Escapando ou se cortando pode respirar imediatamente e sai do espaço do monstro que a engoliu.</p>\n<p>Se o monstro morrer, uma criatura engolida pode ser libertada por criaturas adjacentes ao cadáver se elas gastarem um total combinado de 3 ações cortando o monstro com uma arma ou ataque desarmado que cause dano perfurante ou cortante.</p>",
+          "SwallowWhole": "<p>The monster attempts to swallow a creature of the listed size or smaller that it has grabbed or restrained in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an @Check[athletics|defense:reflex] check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to Strike or Grab once again. The monster can't attack creatures it has swallowed.</p>\n<p>A swallowed creature is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}, is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1}, and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapes} this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The swallowing creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the swallowed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.1cbIe569UD6paXad]{Effect: Swallow Whole}</p>\n<p>If the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage.</p>",
           "SwarmMind": "<p>Este monstro não tem uma mente única (normalmente porque é um enxame de criaturas menores) e é imune a efeitos mentais que têm como alvo apenas um número específico de criaturas. Ele ainda está sujeito a efeitos mentais que afetam todas as criaturas em uma área.</p>",
           "Telepathy": "<p>Um monstro com telepatia pode se comunicar mentalmente com quaisquer criaturas dentro do raio listado, desde que compartilhem um idioma. Isso não dá nenhum acesso especial aos seus pensamentos e não comunica mais informações do que a fala normal faria.</p>",
           "Thoughtsense": "<p>Sensor de Pensamentos permite que um monstro sinta todas as criaturas não irracionais no alcance listado.</p>",
@@ -4424,6 +4425,7 @@
     "TraitDescriptionSecret": "O Mestre rola o teste para esta habilidade em segredo.",
     "TraitDescriptionSedacthy": "Humanóides que habitam o oceano que se comunicam com a vida marinha e geralmente têm visão no escuro e sensor de ondas.",
     "TraitDescriptionSerpentfolk": "Homens-serpente são uma família de humanóides serpentinos.",
+    "TraitDescriptionShade": "Shades are mortal souls who have been judged and then transformed into creatures native to other planes. Petitioners can survive the basic environmental effects of their home plane.",
     "TraitDescriptionShadow": "Esta magia envolve sombras ou a energia do Mundo Inferior.",
     "TraitDescriptionShieldThrow": "Um escudo com este traço é projetado para ser lançado como um ataque à distância.",
     "TraitDescriptionShisk": "Humanóides reservados cobertos por plumagem óssea que residem no subsolo.",
@@ -4750,6 +4752,7 @@
     "TraitOracle": "Oráculo",
     "TraitOrc": "Orc",
     "TraitOread": "Oread",
+    "TraitOther": "Other",
     "TraitOverflow": "Transbordar",
     "TraitPaaridar": "Paaridar",
     "TraitPalinthanos": "Palinthanos",
@@ -6029,6 +6032,7 @@
       },
       "confused": {
         "name": "Confuso",
+        "note": "Each time you take damage from an attack or spell, you can attempt a @Check[flat|showDC:all|dc:11] to recover from your confusion and end the condition.",
         "rules": "<p>Você não tem certeza sobre as coisas, e ataca selvagemente. Você está desprevenido, não trata ninguém como aliado (embora seus aliados ainda possam tratá-lo como um aliado deles) e não pode Adiar, Preparar ou usar reações.<p></p>Você usa todas suas ações para Golpear ou conjurar truques mágicos ofensivos, embora o MJ possa fazer você usar outras ações para facilitar o ataque, como sacar uma arma, mover-se para que um alvo esteja ao alcance e assim por diante. Seus alvos são determinados aleatoriamente pelo MJ. Se não tiver outros alvos viáveis, você acerta a si mesmo, acertando-se automaticamente, mas sem causar um acerto crítico. Se for impossível atacar ou conjurar magias, você balbucia incoerentemente, desperdiçando suas ações.</p><p>Cada vez que sofrer dano de um ataque ou magia, você pode fazer um @Check[type:flat|dc:11] para recuperar-se de sua confusão e encerrar a condição.</p>",
         "summary": "Você ataca indiscriminadamente."
       },
@@ -6044,6 +6048,7 @@
       },
       "deafened": {
         "name": "Surdo",
+        "note": "If you perform an action that has the auditory trait, you must succeed at a @Check[flat|dc:5|showDC:all] or the action is lost.",
         "rules": "<p>Você não pode ouvir. Você automaticamente falha criticamente em testes de Percepção que requeiram que você seja capaz de ouvir. Você sofre -2 de penalidade de circunstância em testes de Percepção para iniciativa e testes que envolvam som e também utilizem de outros sentidos. Se realizar uma ação com o traço auditivo, você deve obter sucesso em um @Check[type:flat|dc:5] ou a ação é perdida; faça o teste após gastar a ação, mas antes de quaisquer efeitos serem aplicados. Você fica imune a efeitos auditivos.</p>",
         "summary": "Você é incapaz de ouvir."
       },
@@ -6104,6 +6109,7 @@
       },
       "grabbed": {
         "name": "Agarrado",
+        "note": "If you attempt a manipulate action while grabbed, you must succeed at a @Check[flat|dc:5|showDC:all] or it is lost.",
         "rules": "<p>Você é mantido no lugar por outra criatura, impondo-lhe as condições desprevenido e imobilizado. Se tentar uma ação de manuseio enquanto estiver agarrado, você deve obter sucesso em um @Check[type:flat|dc:5] ou ela é perdida; role o teste após gastar a ação, mas antes de quaisquer efeitos serem aplicados.</p>",
         "summary": "Uma criatura, objeto ou magia o/a segura no lugar."
       },
@@ -6175,11 +6181,13 @@
       },
       "restrained": {
         "name": "Restringido",
+        "note": "You can't use any attack or manipulate actions except to attempt to Escape or Force Open your bonds.",
         "rules": "<p>Você está amarrado e mal pode se mover, ou uma criatura lhe prendeu. Você sofre as condições desprevenido e imobilizado e não pode usar quaisquer ações com os traços ataque ou manuseio exceto para tentar Escapar ou Forçar suas amarras. Restringido sobrepõe agarrado.</p>",
         "summary": "Você está amarrado e não pode se mover, ou uma criatura lhe agarrando o prendeu."
       },
       "sickened": {
         "name": "Enjoado",
+        "note": "You can't willingly ingest anything—including elixirs and potions—while sickened.",
         "rules": "<p>Você se sente mal. Enjoado sempre inclui um valor. Você sofre uma penalidade de estado igual ao valor desta condição em todos os seus testes e CDs. Você não pode ingerir nada voluntariamente — incluindo elixires e venenos — enquanto estiver enjoado.</p>\n<p>Você pode gastar uma ação única regurgitando para se recuperar, tentando imediatamente um salvamento de Fortitude contra a CD do efeito que lhe deixou enjoado. Em um sucesso, você reduz seu valor de enjoado em 1 (ou em 2 em um sucesso crítico).</p>",
         "summary": "Você está sentindo dor no estômago."
       },

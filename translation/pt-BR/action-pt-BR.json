@@ -590,6 +590,11 @@
         },
         "Title": "Empalmar um Objeto"
       },
+      "Parry": {
+        "ShortTitle": "Parry",
+        "Content": "{actor} begins to parry.",
+        "Title": "Parry"
+      },
       "Perform": {
         "Description": "<pQuando fizer uma performance breve — uma canção, uma dança rápida ou algumas piadas — você usa a ação Performar. Esta ação é mais útil quando você quer provar sua capacidade ou impressionar alguém rapidamente. Performar raramente possui um impacto quando usada sozinha, mas pode influenciar as CDs de testes de Diplomacia subsequentes contra os observadores — ou até mesmo mudar suas atitudes — se o MJ considerar adequado.</p><p><strong>Sucesso Crítico</strong> Sua performance impressiona os observadores e eles provavelmente compartilharão histórias de sua habilidade.<br><strong>Sucesso</strong> Você se prova, e observadores apreciam a qualidade de sua performance.<br><strong>Falha</strong> Sua performance passa despercebida.<br><strong>Falha Crítica</strong> Você demonstra somente incompetência.</p>",
         "Notes": {

@@ -168,7 +168,8 @@
     },
     "Familiar of Insightful Observation": {
       "name": "Familiar of Insightful Observation",
-      "description": "<p>Your familiar boasts a third eye upon their head or body, resembling the one set in Cobyslarni's forehead. When you Cast or Sustain a hex, your familiar can attempt a check to Recall Knowledge as a free action with any skill in which you are trained or better, using your bonus, and psychically transmit the information to you.</p>"
+      "description": "<p>Your familiar boasts a third eye upon their head or body, resembling the one set in Cobyslarni's forehead. When you Cast or Sustain a hex, your familiar can attempt a check to Recall Knowledge as a free action with any skill in which you are trained or better, using your bonus, and psychically transmit the information to you.</p>",
+      "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Familiar of Keen Senses": {
       "name": "Familiar of Keen Senses",
@@ -182,7 +183,7 @@
     },
     "Familiar of Obscuring Snowfall": {
       "name": "Familiar of Obscuring Snowfall",
-      "description": "<p>Your familiar is always covered in a thin layer of snow, which it sheds as needed. When you Cast or Sustain a hex, you can cause clinging snow to fall in a @Template[type:burst|distance:5] centered on a square of your familiar's space. This snowfall remains until the start of your next turn, and enemies that enter these squares during that period are @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until the start of your next turn.</p>",
+      "description": "<p>Your familiar is always covered in a thin layer of snow, which it sheds as needed. When you Cast or Sustain a hex, you can cause clinging snow to fall in a @Template[type:burst|distance:5] centered on a square of your familiar's space. This snowfall remains until the start of your next turn, and enemies that enter these squares during that period are @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} until the start of your next turn.</p>\n<hr />\n<p><em>PFS Note:</em> For this ability, choose a corner of the familiar's square for the center of the burst.</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Familiar of Ongoing Misery": {
