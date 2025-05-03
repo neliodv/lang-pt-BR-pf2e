@@ -252,7 +252,7 @@
       "BioluminescenceBomb": {
         "success": "<p>Cada criatura dentro de @Template[emanation|distance:10]{10 feet} de onde a bomba explodiu deve obter sucesso em um salvamento de @Check[reflex|dc:17] ou ser marcada com tinta que continua a brilhar por 24 horas. Uma criatura afetada também deve tentar um salvamento de @Check[fortitude|dc:17] contra a forte explosão de luz.</p><p><strong>Sucesso</strong> A criatura não é afetada.</p><p><strong>Falha</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} por 1 rodada.</p><p><strong>Falha Crítica</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} por 1 rodada e, em seguida, dazzled por 1 rodada.</p>"
       },
-          "BlightBomb": {
+      "BlightBomb": {
         "Greater": {
           "criticalSuccess": "<strong>Efeito</strong> A bomba também causa dano [[/r (2*3d4)[persistent,poison]]] e [[/r (3[splash])[poison]]]{3 de dano de veneno de respingo}.",
           "success": "<strong>Efeito</strong> A bomba também causa dano [[/r 3d4[persistent,poison]]] e [[/r (3[splash])[poison]]]{3 de dano de veneno de respingo}."
@@ -350,7 +350,7 @@
           "success": "O alvo que sofre dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} até o início do seu próximo turno."
         }
       },
-            "GooGrenade": {
+      "GooGrenade": {
         "Greater": "Maior",
         "Lesser": "Menor",
         "Major": "Superior",
@@ -1312,7 +1312,7 @@
           "AboveTarget": "Postura de Pingente de Gelo — Acima do Alvo"
         }
       },
-          "Tyrafdir": {
+      "Tyrafdir": {
         "DeceptiveJaws": "Mandíbulas Enganosas"
       },
       "Vampire": {
@@ -1342,7 +1342,7 @@
           "Note": "Cada vez que o bélico atinge a criatura marcada com um Ataque à Distância, a criatura sofre uma penalidade de -10 feet em suas velocidades por 1 minuto e cai 20 feet se estiver voando. @UUID[Compendium.pf2e.bestiary-effects.Item.WK55ybwI2Tn5OW5x]{Effect: Sight Prey (Speed Penalty)}"
         }
       },
-          "Warsworn": {
+      "Warsworn": {
         "AnimatedWeapon": {
           "DamageType": "Arma Animada - Tipo de Dano",
           "DieSize": "Arma Animada - Tamanho do Dado"
@@ -2706,7 +2706,7 @@
         "RelentlessReaction": {
           "Grandeur": "O inimigo também sofre @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:holy] de dano, e não pode se recuperar desse dano persistente enquanto estiver afetado pela magia _revealing light_ do seu Flash of Grandeur.",
           "Iniquity": "Um inimigo danificado pelo dano da reação inicial também sofre @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:unholy] de dano.",
-                  "Liberation": "Você pune aqueles que prendem seus aliados. Se o inimigo que desencadeou estava usando quaisquer efeitos para fazer seu aliado ficar agarrado, restringido, imobilizado ou paralisado quando você usou Passo Libertador, esse inimigo recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano",
+          "Liberation": "Você pune aqueles que prendem seus aliados. Se o inimigo que desencadeou estava usando quaisquer efeitos para fazer seu aliado ficar agarrado, restringido, imobilizado ou paralisado quando você usou Passo Libertador, esse inimigo recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano",
           "LiberationHoly": "You punish those who ensnare your allies. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:holy] damage",
           "LiberationUnholy": "You punish those who ensnare your allies. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:unholy] damage",
           "ObedienceRedemption": "Se o inimigo se recusar, ele recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano",
@@ -3236,9 +3236,8 @@
             "Reflex": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em uma @Template[line|distance:60], causando @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[reflex|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
             "Will": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em uma @Template[line|distance:60], causando @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[will|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}."
           }
-        }
-      },
-            "LingeringBreath": {
+        },
+        "LingeringBreath": {
           "Description": "Quando você usa Sopro do Dragão, a área do seu sopro se torna terreno difícil por 1 minuto. Além disso, uma criatura que falha ou falha criticamente em seu teste de resistência recebe @Damage[2d6[persistent,@actor.flags.pf2e.dragonblood.damageType]] de dano do mesmo tipo"
         },
         "ScalyHide": {
@@ -5323,7 +5322,7 @@
           "Will": "Quando você obtém uma falha em um salvamento de Vontade contra um efeito danoso, você sofre metade do dano."
         }
       },
-          "SaveSuccessToCriticalSuccess": {
+      "SaveSuccessToCriticalSuccess": {
         "Fortitude": "Quando você obtém um sucesso em um teste de Fortitude, você obtém um sucesso crítico em vez disso.",
         "Reflex": "Quando você obtém um sucesso em um teste de Reflexo, você obtém um sucesso crítico em vez disso.",
         "Will": "Quando você obtém um sucesso em um teste de Vontade, você obtém um sucesso crítico em vez disso."

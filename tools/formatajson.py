@@ -15,10 +15,13 @@ def merge_dicts(dict1, dict2):
             if isinstance(value, dict) and isinstance(dict2[key], dict):
                 merge_dicts(value, dict2[key])
             else:
-                if isinstance(value, str) and value.startswith("<*>"):
-                    dict1[key] = dict1[key]  #.replace('<*>','')
+                if isinstance(value, str) and value.startswith("<Compendium>"):
+                    dict1[key] = dict1[key]
                 else:
-                    dict1[key] = dict2[key]
+                    if isinstance(value, str) and value.startswith("<*>"):
+                        dict1[key] = dict1[key]  #.replace('<*>','')
+                    else:
+                        dict1[key] = dict2[key]
         else:
             if (key in dict2) and isinstance(value, str) and (key == 'source'):
                 dict1[key] = dict1[key].replace('<*>','')

@@ -24587,11 +24587,11 @@
           "source": "Pathfinder Player Core"
         },
         "spell->Unfettered Movement (Constant)": {
-          "name": "<Compendium> tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]\nMovimento Desenfreado (Constante)",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.aqRYNoSvxsVfqglH]\nUnfettered Movement (Constant)",
           "source": "Pathfinder Player Core"
         },
         "spell->Blur (Self only)": {
-          "name": "<Compendium> tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.spells-srd.Item.3JG1t3T4mWn6vTke]\nBorrão (apenas em si mesmo)",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.3JG1t3T4mWn6vTke]\nBlur (Self only)",
           "source": "Pathfinder Player Core"
         },
         "spell->Mist": {
@@ -24620,16 +24620,16 @@
           "source": "Pathfinder Monster Core"
         },
         "action->Fast Healing 1": {
-          "name": "<Compendium> tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.fJSNOw4zHGbIm4bZ]\nCura Rápida 1",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.fJSNOw4zHGbIm4bZ]\nFast Healing 1",
           "source": "Pathfinder Monster Core"
         },
         "action->Protean Anatomy": {
-          "name": "<Compendium> tag será substituída pelo texto da entrada do glossário de habilidades da família do bestiário @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL]\nAnatomia Proteica",
-          "description": "<Compendium> tag será substituída pelo texto da entrada do glossário de habilidades da família do bestiário @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL]\n<p>Os órgãos vitais de um verme do vazio mudam e mudam de forma e posição constantemente. Imediatamente após o verme do vazio receber dano de ácido, eletricidade ou sônico, ele ganha a quantidade listada de resistência a esse tipo de dano. Isso dura por 1 hora ou até a próxima vez que o verme do vazio receber dano de um dos outros tipos (nesse caso, sua resistência muda para corresponder àquele tipo), o que ocorrer primeiro.</p>\n<p>O verme do vazio é imune a efeitos de polimorfo, a menos que seja um alvo voluntário. Se @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} ou @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Surdo}, o verme do vazio se recupera automaticamente no final de seu próximo turno conforme novos órgãos sensoriais crescem para substituir os comprometidos.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.c6SiBB3mzV8lZUQr]{Efeito: Anatomia Proteica}</p>",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL]\nProtean Anatomy",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-family-ability-glossary.Item.IOk0MRs3f9FrarKL]\n<p>A voidworm's vital organs shift and change shape and position constantly. Immediately after the voidworm takes acid, electricity, or sonic damage, they gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the voidworm takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.</p>\n<p>The voidworm is immune to polymorph effects unless it is a willing target. If @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} or @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened}, the voidworm automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.c6SiBB3mzV8lZUQr]{Effect: Protean Anatomy}</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Change Shape": {
-          "description": "<Compendium> tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]\n<p>O verme do vazio assume a aparência de um animal Minúsculo. Isso não muda sua Velocidade ou seus bônus de ataque e dano com seus Ataques, mas pode mudar o tipo de dano que seus Ataques causam.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97]\n<p>The voidworm takes on the appearance of a Tiny animal. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>",
           "source": "Pathfinder Monster Core"
         },
         "action->Confounding Lash": {

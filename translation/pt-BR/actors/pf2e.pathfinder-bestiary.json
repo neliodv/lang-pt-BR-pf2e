@@ -10832,18 +10832,18 @@
           "name": "Magias Inatas Divinas"
         },
         "spell->Dimension Door": {
-          "name": "<Compendium> a tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nPorta Dimensional",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nDimension Door",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Dimension Door (At Will)": {
-          "name": "<Compendium> a tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nPorta Dimensional (À Vontade)",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nDimension Door (At Will)",
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Mirror Image": {
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Abyssal Pact": {
-          "name": "<Compendium> a tag será substituída pelo texto da entrada do compêndio @UUID[Compendium.pf2e.spells-srd.Item.tsKnoBuBbKMXkiz5]\nPacto Abissal",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.tsKnoBuBbKMXkiz5]\nAbyssal Pact",
           "source": "Pathfinder Bestiary"
         },
         "strike-melee->Beak": {
@@ -10856,12 +10856,12 @@
           "name": "Garra"
         },
         "action->Telepathy 100 feet": {
-          "name": "<Compendium> a tag será substituída pelo texto da entrada do glossário de habilidades do bestiário @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.kdhbPaBMK1d1fpbA]\nTelepatia 30 metros",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.kdhbPaBMK1d1fpbA]\nTelepathy 100 feet",
           "source": "Pathfinder Bestiary"
         },
         "action->Attack of Opportunity (Special)": {
-          "name": "<Compendium> a tag será substituída pelo texto da entrada do glossário de habilidades do bestiário @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O]\nAtaque de Oportunidade (Especial)",
-          "description": "<Compendium> a tag será substituída pelo texto da entrada do glossário de habilidades do bestiário @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O]\n<p>Se o vrock estiver voando e uma criatura desencadear um ataque de oportunidade, o vrock pode fazer 2 Golpes com suas garras contra aquela criatura em vez de 1 Golpe.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>",
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O]\nAttack of Opportunity (Special)",
+          "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O]\n<p>If the vrock is flying and a creature triggers an attack of opportunity, the vrock can make 2 Strikes with its talons against that creature instead of 1 Strike.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>",
           "source": "Pathfinder Bestiary"
         },
         "action->Peace Vulnerability": {
