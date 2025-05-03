@@ -359,7 +359,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Produce Flame": {
-          "source": "Pathfinder Core Rulebook"
+          "name": "Produce Flame",
+          "description": "<p>A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target's AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach.</p>\n<p>On a success, you deal 2d4 fire damage. On a critical success, the target takes double damage and @Damage[(@item.level)d4[persistent,fire]] damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the damage by 1d4 and the persistent damage on a critical hit by 1d4.</p>",
+          "source": "Pathfinder Core Rulebook",
+          "target": "1 creature"
         },
         "strike-melee->Jaws": {
           "name": "Jaws"
@@ -754,7 +757,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Produce Flame": {
-          "source": "Pathfinder Core Rulebook"
+          "name": "Produce Flame",
+          "description": "<p>A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target's AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach.</p>\n<p>On a success, you deal 2d4 fire damage. On a critical success, the target takes double damage and @Damage[(@item.level)d4[persistent,fire]] damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the damage by 1d4 and the persistent damage on a critical hit by 1d4.</p>",
+          "source": "Pathfinder Core Rulebook",
+          "target": "1 creature"
         },
         "strike-melee->Jaws": {
           "name": "Jaws"
@@ -2690,7 +2696,10 @@
           "source": "Pathfinder Core Rulebook"
         },
         "spell->Produce Flame": {
-          "source": "Pathfinder Core Rulebook"
+          "name": "Produce Flame",
+          "description": "<p>A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target's AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach.</p>\n<p>On a success, you deal 2d4 fire damage. On a critical success, the target takes double damage and @Damage[(@item.level)d4[persistent,fire]] damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the damage by 1d4 and the persistent damage on a critical hit by 1d4.</p>",
+          "source": "Pathfinder Core Rulebook",
+          "target": "1 creature"
         },
         "strike-melee->Candle Fingers": {
           "name": "Candle Fingers"
@@ -2710,7 +2719,7 @@
         },
         "action->Vulnerability to Extinguishing": {
           "name": "Vulnerability to Extinguishing",
-          "description": "<p>A yaganty who is doused with water or otherwise has their candle fingers extinguished takes @Damage[3d6[persistent,mental]], becomes @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened 1}, and screams in agony until they reignite their candles (typically by casting @UUID[Compendium.pf2e.spells-srd.Item.O9w7r4BKgPogYDDe]{Produce Flame} and lighting their fingers with an Interact action).</p>"
+          "description": "<p>A yaganty who is doused with water or otherwise has their candle fingers extinguished takes @Damage[3d6[persistent,mental]], becomes @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened 1}, and screams in agony until they reignite their candles (typically by casting @UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{Ignition} and lighting their fingers with an Interact action).</p>"
         },
         "action->Fling Wax": {
           "name": "Fling Wax",

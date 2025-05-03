@@ -887,7 +887,7 @@
     },
     "Flash of Grandeur": {
       "name": "Clarão de Grandeza",
-      "description": "<p><strong>Acionamento</strong> Um inimigo causa dano ao seu aliado, e ambos estão dentro da aura do seu campeão</p>\n<hr />\n<p><strong>Efeito</strong> Uma luz divina imperiosa brilha de você para cercar seu inimigo. O aliado ganha resistência a todo dano contra o dano que acionou o efeito igual a 2 + seu nível. Por 1 rodada, o atacante é afetado por @UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{Luz Reveladora}.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Efeito: Resistência do Campeão}</p>",
+      "description": "<*><p><strong>Trigger</strong> An enemy damages your ally, and both are in your champion's aura</p>\n<hr />\n<p><strong>Effect</strong> Imperious divine light flashes out from you to surround your foe. The ally gains resistance to all damage against the triggering damage equal to 2 + your level. Until the end of your next turn, the attacker is affected by @UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{Revealing Light}.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Effect: Champion's Resistance}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Fleeting Arc through Heaven and Earth": {
@@ -987,7 +987,7 @@
     },
     "Glimpse Vulnerability": {
       "name": "Vislumbrar Vulnerabilidade",
-      "description": "<p><strong>Frequência</strong> uma vez por rodada</p>\n<p><strong>Requerimento</strong> Você está segurando seu implemento;</p>\n<hr />\n<p><strong>Efeito</strong> Você vislumbra uma vulnerabilidade oculta e então a fortalece para te ajudar. Selecione uma criatura que você possa ver. Até que você Vislumbre Vulnerabilidade novamente, esse alvo ganha fraqueza 2 contra seus Golpes desarmados e com armas.</p>",
+      "description": "<*><p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirement</strong> You are holding your implement</p>\n<hr />\n<p><strong>Effect</strong> You glimpse a hidden vulnerability and then strengthen it to aid you. Select a creature you can see. Until you Glimpse Vulnerability again, that target gains weakness 2 against your unarmed and weapon Strikes.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.H35En2lHCVzOOUMf]{Effect: Glimpse Vulnerability}</p>",
       "source": "Pathfinder Dark Archive"
     },
     "Glimpse of Redemption": {
@@ -1245,7 +1245,7 @@
     },
     "Liberating Step": {
       "name": "Passo Libertador",
-      "description": "<p><strong>Acionamento</strong> Um inimigo causa dano, agarra ou restringe seu aliado, e ambos estão dentro da aura do seu campeão</p>\n<hr />\n<p>Você liberta um aliado de restrição.</p>\n<p>Se o acionamento foi um aliado recebendo dano, o aliado ganha resistência a todo dano contra o dano que acionou o efeito igual a 2 + seu nível.</p>\n<p>O aliado pode tentar se libertar de efeitos que o agarram, restringem, @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizam} ou @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralisam}. Ele ou tenta um novo teste de resistência contra um desses efeitos que permita um teste de resistência, ou tenta @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapar} de um efeito como uma ação livre.</p>\n<p>Se ele puder se mover, o aliado pode Dar um Passo como uma ação livre, mesmo que não precisasse escapar.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Efeito: Resistência do Campeão}</p>",
+      "description": "<*><p><strong>Trigger</strong> An enemy damages, @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{grabs}, or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{restrains} your ally, and both are in your champion's aura</p>\n<hr />\n<p>You free an ally from restraint.</p>\n<p>If the trigger was an ally taking damage, the ally gains resistance to all damage against the triggering damage equal to 2 + your level.</p>\n<p>The ally can attempt to break free of effects grabbing, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restraining}, @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilizing}, or @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzing} them. They either attempt a new save against one such effect that allows a save, or attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} from one effect as a free action.</p>\n<p>If they can move, the ally can Step as a free action, even if they didn't need to escape.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Effect: Champion's Resistance}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Lie": {
@@ -1396,7 +1396,7 @@
     },
     "One Moment till Glory": {
       "name": "Um Momento para a Glória",
-      "description": "<p>Você conclama seus aliados, levando-os da beira do desastre para a beira da vitória. Cada aliado em sua aura pode imediatamente tentar um novo teste de resistência com um bônus de status +2 contra um efeito negativo ou condição em andamento que os afeta atualmente, mesmo que esse efeito normalmente não permita um novo teste de resistência.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xHbMPpYEPwI0tmcV]{Effect: One Moment till Glory}</p>",
+      "description": "<*><p>You rally your allies, carrying them from the brink of disaster to the verge of victory. Each ally in your aura can immediately attempt a new saving throw with a +2 status bonus against one ongoing negative effect or condition currently affecting it that required a save. Use the result of the new save to determine the outcome of the effect, unless the new save would have a worse result than the original save, in which case nothing happens. Each ally can gain this benefit against a given effect only once.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xHbMPpYEPwI0tmcV]{Effect: One Moment till Glory}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "One Shot, One Kill": {
@@ -1976,6 +1976,11 @@
       "description": "<p><strong>Requisitos</strong> Você está empunhando uma arma de fogo carregada ou uma besta carregada.</p>\n<hr />\n<p>Você entra em um giro violento, golpeando aqueles próximos com sua arma e aumentando seu impulso ao disparar. Todas as criaturas adjacentes a você sofrem @Damage[(4d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{4d6 de dano de concussão mais seu modificador de Força}; isso aumenta para @Damage[(6d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{6d6} se sua arma de fogo tiver uma runa 'striking', @Damage[(8d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{8d6} se tiver uma runa 'greater striking', e @Damage[(10d6+@actor.abilities.str.mod)[bludgeoning]|options:area-damage]{10d6} se tiver uma runa 'major striking'. Esta habilidade não aplica outros efeitos que aumentam o dano com seus Golpes com arma de fogo, como especialização em armas. As criaturas afetadas por este ataque devem realizar um teste de @Check[reflex|against:gunslinger|basic|options:area-effect]. Uma criatura que falhar em seu teste de resistência também é empurrada 10 feet diretamente para longe de você.</p>",
       "source": "Pathfinder Guns & Gears"
     },
+    "Spirit Sanctification": {
+      "name": "Spirit Sanctification",
+      "description": "<p><strong>Cost</strong> 1 spirit wisp</p>\n<hr />\n<p><strong>Effect</strong> You immediately purify a spirit, which grants you a protective blessing before it departs. If your next action is to cast a halcyon spell, you gain a +1 status bonus to saving throws as well as resistance to void damage equal to the rank of the halcyon spell. These effects last for 1 round.</p>",
+      "source": "Pathfinder Claws of the Tyrant"
+    },
     "Spirit's Mercy": {
       "name": "Misericórdia do Espírito",
       "description": "<p><strong>Acionamento</strong> Você recebe dano de vitalidade ou vazio, ou você recebe qualquer tipo de dano causado por um assombro, fantasma ou outro morto-vivo incorpóreo</p>\n<p><strong>Custo</strong> 1 wisp ou remanescente espiritual</p>\n<hr />\n<p><strong>Efeito</strong> Você purifica um espírito fazendo com que ele realize um ato final de misericórdia para diminuir o dano causado por outro espírito. Isso concede a você resistência ao dano de vitalidade e vazio (ou resistência a todo dano se causado por um assombro ou morto-vivo incorpóreo) contra o efeito de acionamento. Se você gastar um wisp espiritual, a resistência é igual ao dobro do seu nível. Se você gastar um remanescente espiritual, a resistência é igual a três vezes o nível do morto-vivo incorpóreo ou assombro do qual você obteve o remanescente.</p>",
@@ -2173,6 +2178,11 @@
       "name": "Assalto Telecinético",
       "description": "<p>Seu fantasma libera uma enxurrada de emoções, fazendo com que pequenos objetos e detritos voem em uma @Template[emanation|distance:20] emanação de 20 pés, causando @Damage[1d6[bludgeoning]] de dano de concussão para cada 2 níveis que o fantasma possui (teste básico de Reflexos). Isso usa uma CD treinada usando o modificador de Carisma do fantasma ou uma CD especialista se o fantasma for especializado.</p>",
       "source": "Pathfinder Book of the Dead"
+    },
+    "Tell Me More": {
+      "name": "Tell Me More",
+      "description": "<p><strong>Target</strong> one creature that shares a language you speak</p>\n<p><strong>Requirements</strong> You're not in combat</p>\n<hr />\n<p><strong>Effect</strong> Just batting your eyes and giving someone a familiar nudge can get them talking, ready to spill the beans about everything and everyone around them. You roll twice on all rolls to influence the target and use the better result.</p>",
+      "source": "Paizo Blog: Foolish Housekeeping and Other Articles"
     },
     "Ten Paces": {
       "name": "Dez Passos",

@@ -250,9 +250,9 @@
         }
       },
       "BioluminescenceBomb": {
-        "success": "<p>Each creature within @Template[type:emanation|distance:10]{10 feet} of where the bomb exploded must succeed at a @Check[type:reflex|dc:17] save or be marked with dye that continues to glow for 24 hours. An affected creature must also attempt a @Check[type:fortitude|dc:17] saving throw against the overwhelming burst of light.</p><p><strong>Success</strong> The creature is unaffected.</p><p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p><p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 round, then dazzled for 1 round.</p>"
+        "success": "<p>Cada criatura dentro de @Template[emanation|distance:10]{10 feet} de onde a bomba explodiu deve obter sucesso em um salvamento de @Check[reflex|dc:17] ou ser marcada com tinta que continua a brilhar por 24 horas. Uma criatura afetada também deve tentar um salvamento de @Check[fortitude|dc:17] contra a forte explosão de luz.</p><p><strong>Sucesso</strong> A criatura não é afetada.</p><p><strong>Falha</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} por 1 rodada.</p><p><strong>Falha Crítica</strong> A criatura fica @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} por 1 rodada e, em seguida, dazzled por 1 rodada.</p>"
       },
-      "BlightBomb": {
+          "BlightBomb": {
         "Greater": {
           "criticalSuccess": "<strong>Efeito</strong> A bomba também causa dano [[/r (2*3d4)[persistent,poison]]] e [[/r (3[splash])[poison]]]{3 de dano de veneno de respingo}.",
           "success": "<strong>Efeito</strong> A bomba também causa dano [[/r 3d4[persistent,poison]]] e [[/r (3[splash])[poison]]]{3 de dano de veneno de respingo}."
@@ -286,71 +286,71 @@
       },
       "CrystalShards": {
         "Greater": {
-          "success": "<strong>Effect</strong> The bomb also deals 5 piercing splash damage and the splash creates crystals that are @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD]{Caltrops} on level surfaces and handholds on vertical surfaces, granting +2 item bonus to the next Athletics check to Climb."
+          "success": "<strong>Efeito</strong> A bomba também causa 5 de dano perfurante por respingo e o respingo cria cristais que são @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD]{Caltrops} em superfícies planas e apoios para as mãos em superfícies verticais, concedendo +2 de bônus de item na próxima verificação de Atletismo para Escalar."
         },
         "Major": {
-          "success": "<strong>Effect</strong> The bomb also deals 6 piercing splash damage and the splash creates crystals that are @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD]{Caltrops} on level surfaces and handholds on vertical surfaces, granting +3 item bonus to the next Athletics check to Climb."
+          "success": "<strong>Efeito</strong> A bomba também causa 6 de dano perfurante por respingo e o respingo cria cristais que são @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD]{Caltrops} em superfícies planas e apoios para as mãos em superfícies verticais, concedendo +3 de bônus de item na próxima verificação de Atletismo para Escalar."
         },
         "Moderate": {
-          "success": "<strong>Effect</strong> The bomb also deals 4 piercing splash damage and the splash creates crystals that are @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD]{Caltrops} on level surfaces and handholds on vertical surfaces, granting +1 item bonus to the next Athletics check to Climb."
+          "success": "<strong>Efeito</strong> A bomba também causa 4 de dano perfurante por respingo e o respingo cria cristais que são @UUID[Compendium.pf2e.equipment-srd.Item.7fSnvJ2xoSfa6JXD]{Caltrops} em superfícies planas e apoios para as mãos em superfícies verticais, concedendo +1 de bônus de item na próxima verificação de Atletismo para Escalar."
         },
-        "Note": "The target takes 1 persistent bleed damage from the crystals embedded in its flesh. As long as the bleed damage persists, the target also takes a –5-foot penalty to its speed. @UUID[Compendium.pf2e.equipment-effects.Item.HKC4IZOzbvtjsp77]{Effect: Crystal Shards}"
+        "Note": "O alvo sofre 1 de dano de sangramento persistente dos cristais incrustados em sua carne. Enquanto o dano de sangramento persistir, o alvo também sofre uma penalidade de -5 feet em sua velocidade. @UUID[Compendium.pf2e.equipment-effects.Item.HKC4IZOzbvtjsp77]{Effect: Crystal Shards}"
       },
       "DreadAmpoule": {
         "Greater": {
-          "success": "<strong>Effect</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical)."
+          "success": "<strong>Efeito</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} em um crítico)."
         },
         "Lesser": {
-          "success": "<strong>Effect</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical)."
+          "success": "<strong>Efeito</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} em um crítico)."
         },
         "Major": {
-          "success": "<strong>Effect</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical)."
+          "success": "<strong>Efeito</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} em um crítico)."
         },
         "Moderate": {
-          "success": "<strong>Effect</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} on a critical)."
+          "success": "<strong>Efeito</strong> O alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1} (@UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} em um crítico)."
         },
         "Note": {
-          "criticalSuccess": "On a hit, The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}",
-          "success": "On a hit, The target is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}"
+          "criticalSuccess": "Em um acerto, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}",
+          "success": "Em um acerto, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}"
         }
       },
       "DwarvenDaisy": {
         "Lesser": {
-          "success": "The target must succeed at a @Check[fortitude|dc:16|traits:damaging-effect|showDC:all] save or become @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round."
+          "success": "O alvo deve obter sucesso em um salvamento de @Check[fortitude|dc:16|traits:damaging-effect|showDC:all] ou ficar @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} por 1 rodada."
         },
         "Moderate": {
-          "success": "The target must succeed at a @Check[fortitude|dc:18|traits:damaging-effect|showDC:all] save or become @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round."
+          "success": "O alvo deve obter sucesso em um salvamento de @Check[fortitude|dc:18|traits:damaging-effect|showDC:all] ou ficar @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} por 1 rodada."
         }
       },
       "FrostVial": {
         "Greater": {
-          "success": "<strong>Effect</strong> The target takes a -10-foot penalty to its Speeds until the end of its next turn (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
+          "success": "<strong>Efeito</strong> O alvo sofre uma penalidade de -10 feet em suas velocidades até o final de seu próximo turno (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
         },
         "Lesser": {
-          "success": "<strong>Effect</strong> The target takes a -5-foot penalty to its Speeds until the end of its next turn (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
+          "success": "<strong>Efeito</strong> O alvo sofre uma penalidade de -5 feet em suas velocidades até o final de seu próximo turno (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
         },
         "Major": {
-          "success": "<strong>Effect</strong> The target takes a -15-foot penalty to its Speeds until the end of its next turn (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
+          "success": "<strong>Efeito</strong> O alvo sofre uma penalidade de -15 feet em suas velocidades até o final de seu próximo turno (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
         },
         "Moderate": {
-          "success": "<strong>Effect</strong> The target takes a -10-foot penalty to its Speeds until the end of its next turn (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
+          "success": "<strong>Efeito</strong> O alvo sofre uma penalidade de -10 feet em suas velocidades até o final de seu próximo turno (@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial})."
         }
       },
       "GhostCharge": {
         "Greater": {
-          "success": "The target that takes damage becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} until the start of your next turn."
+          "success": "O alvo que sofre dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} até o início do seu próximo turno."
         },
         "Lesser": {
-          "success": "The target that takes damage becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} until the start of your next turn."
+          "success": "O alvo que sofre dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} até o início do seu próximo turno."
         },
         "Major": {
-          "success": "The target that takes damage becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} until the start of your next turn."
+          "success": "O alvo que sofre dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} até o início do seu próximo turno."
         },
         "Moderate": {
-          "success": "The target that takes damage becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} until the start of your next turn."
+          "success": "O alvo que sofre dano fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} até o início do seu próximo turno."
         }
       },
-      "GooGrenade": {
+            "GooGrenade": {
         "Greater": "Maior",
         "Lesser": "Menor",
         "Major": "Superior",
@@ -736,9 +736,12 @@
         "MagicalSilver": "prata mágica",
         "MagicalSilverWeapons": "armas de prata mágicas",
         "MagicalWeaponsBrightLight": "armas mágicas que emitem luz brilhante",
+        "MagicalWood": "magical wood",
+        "NonMagicalAttacks": "non-magical attacks",
         "NonWeapons": "não armas",
         "PersistentPoison": "veneno persistente",
         "PhysicalRangedAttacks": "ataques físicos à distância",
+        "PhysicalWeaponsOnly": "physical (weapons only)",
         "RangedWeaponAttacks": "ataques com armas à distância",
         "Spirits": "espíritos",
         "Treerazer": "Treerazer",
@@ -1076,6 +1079,16 @@
           "TargetWear": "Alvo está usando o Anel de Fulvia"
         }
       },
+      "IruxiMaskedMummer": {
+        "DonMask": {
+          "Akkarok": "Fiery Akkarok",
+          "Hazi": "Hazi Zephyr-Borne",
+          "KingOfStorms": "King of Storms",
+          "Nessek": "Nessek, the Wave Dancer",
+          "Prompt": "Select an ancestral spirit.",
+          "Zalok": "Zalok, Who was Called to Black Harbor"
+        }
+      },
       "Ivarsa": {
         "ArcaneCascade": {
           "Note": "Enquanto estiver nesta postura, os Golpes corpo a corpo de Ivarsa causam @Damage[(4[splash])[fire]]{4 de dano de respingo de fogo} aos inimigos adjacentes ao seu alvo."
@@ -1286,10 +1299,20 @@
         }
       },
       "TongueOfFlame": {
-        "DescriptionAddendum": "When the despot casts <em>charm</em>, <em>diabolic edict</em>, <em>enthrall</em>, or <em>floating flame</em>, either a target takes @Damage[(@item.rank)[fire]] damage, or the despot gains a +2 status bonus to Deception checks for 1 round."
+        "DescriptionAddendum": "Quando o déspota conjura *charm*, *diabolic edict*, *enthrall* ou *floating flame*, ou um alvo sofre @Damage[(@item.rank)[fire]] de dano, ou o déspota ganha um bônus de status de +2 em testes de Enganação por 1 rodada."
+      },
+      "ToothFairy": {
+        "ToothTug": {
+          "Note": "Você deve obter sucesso em um @Check[flat|dc:5|showDC:all] para Lançar uma Magia, a menos que essa magia tenha a característica sutil."
+        }
       },
       "TreerazerPlantAttack": "Atacar uma Planta",
-      "Tyrafdir": {
+      "TroffFrostknuckles": {
+        "IcicleStance": {
+          "AboveTarget": "Postura de Pingente de Gelo — Acima do Alvo"
+        }
+      },
+          "Tyrafdir": {
         "DeceptiveJaws": "Mandíbulas Enganosas"
       },
       "Vampire": {
@@ -1316,10 +1339,10 @@
       },
       "Warmonger": {
         "SightPrey": {
-          "Note": "Each time the warmonger hits the marked creature with a ranged Strike, the creature takes a –10-foot penalty to its Speeds for 1 minute and falls 20 feet if it's flying. @UUID[Compendium.pf2e.bestiary-effects.Item.WK55ybwI2Tn5OW5x]{Effect: Sight Prey (Speed Penalty)}"
+          "Note": "Cada vez que o bélico atinge a criatura marcada com um Ataque à Distância, a criatura sofre uma penalidade de -10 feet em suas velocidades por 1 minuto e cai 20 feet se estiver voando. @UUID[Compendium.pf2e.bestiary-effects.Item.WK55ybwI2Tn5OW5x]{Effect: Sight Prey (Speed Penalty)}"
         }
       },
-      "Warsworn": {
+          "Warsworn": {
         "AnimatedWeapon": {
           "DamageType": "Arma Animada - Tipo de Dano",
           "DieSize": "Arma Animada - Tamanho do Dado"
@@ -2077,7 +2100,7 @@
           "Prompt": "Selecione um campo de pesquisa.",
           "Toxicologist": {
             "FieldBenefit": {
-              "RollOptionLabel": "Toxicologista — Benefício de Campo"
+              "RollOptionLabel": "<*>Toxicologista — Cause dano de ácido em vez de veneno"
             },
             "FieldVials": {
               "Description": "Você pode aplicar o conteúdo de um frasco versátil a uma arma ou peça de munição como um veneno de ferimento. Adicione o dano inicial do frasco versátil ao primeiro Ataque bem-sucedido com aquela arma ou munição. A substância se torna inerte no final do seu turno atual."
@@ -2344,6 +2367,9 @@
         "Ligneous": {
           "ToggleLabel": "Fúria de Madeira"
         },
+        "RenewedVigor": {
+          "Prompt": "Did you make an attack action this turn?"
+        },
         "Spirit": {
           "NegativeDamage": "Dano de Vácuo",
           "PositiveDamage": "Dano de Vitalidade",
@@ -2494,6 +2520,16 @@
           "IdeaformToggle": "Tornar-se uma forma de ideia"
         }
       },
+      "CampfireChronicler": {
+        "OfferStory": {
+          "ChoiceLabels": {
+            "BaseBenefit": "Armor Class and Will saves",
+            "FlickeringStories": "Gain the concealed condition",
+            "IlluminatingStories": "Bonus to Recall Knowledge checks",
+            "RagingStories": "Additional melee fire damage"
+          }
+        }
+      },
       "CapeOfJustice": {
         "Toggle": "O alvo é seu ofensor designado"
       },
@@ -2628,11 +2664,11 @@
         },
         "ExaltedReaction": {
           "Desecration": "Cada inimigo na aura do seu campeão sofre uma penalidade de status -1 em rolagens de ataque contra você até o início do seu próximo turno. @UUID[Compendium.pf2e.feat-effects.Item.Ef63SlxSKlZmHosM]{Efeito: Reação Exaltada (Profanador)}",
-          "Grandeur": "Além do inimigo afetado por Clarão de Grandeza, cada outro inimigo na aura do seu campeão é afetado pela magia luz reveladora por 1 rodada.",
+          "Grandeur": "<*>Além do inimigo afetado por Flash of Grandeur, cada outro inimigo na aura de seu campeão é afetado pela magia _revealing light_ por 1 rodada.",
           "Iniquity": "Cada inimigo na aura do seu campeão, exceto a criatura que desencadeou, recebe metade do dano que você causa à criatura que desencadeou.",
           "Justice": "Cada aliado na aura do seu campeão com o alvo em seu alcance corpo a corpo pode gastar uma reação para Golpear o alvo com uma penalidade de -5.",
           "Liberation": "Além do aliado afetado por Passo Libertador, você e todos os outros aliados na aura do seu campeão podem dar um Passo como uma ação livre. Você e seus aliados ganham o benefício mesmo se o aliado que se beneficiou do Passo Libertador não puder se mover",
-          "Obedience": "Cada inimigo na aura do seu campeão, exceto a criatura que desencadeou, também deve cair @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado} ou receber dano mental (cada inimigo escolhe). Essas criaturas recebem apenas dano mínimo (normalmente @Damage[ternary(gte(@actor.level,19),6,ternary(gte(@actor.level,16),5,ternary(gte(@actor.level,12),4,ternary(gte(@actor.level,11),3)[mental]]), e os efeitos que elas recebem não podem ser ajustados por nada que altere seu Comando de Ferro. Por exemplo, o talento Repercussões de Ferro não pode transformar o dano em dano mental persistente para criaturas diferentes da criatura que desencadeou.",
+          "Obedience": "<*>Cada inimigo na aura de seu campeão, exceto a criatura desencadeadora, também deve cair @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} ou sofrer dano mental (cada inimigo escolhe). Essas criaturas sofrem apenas o dano mínimo (tipicamente @Damage[(ternary(gte(@actor.level,19),6,ternary(gte(@actor.level,16),5,ternary(gte(@actor.level,12),4,ternary(gte(@actor.level,11),3)))))[mental]] de dano), e os efeitos que sofrem não podem ser ajustados por nada que altere seu Comando de Ferro. Por exemplo, o talento Iron Repercussions não poderia transformar o dano em dano mental persistente para criaturas que não sejam a criatura desencadeadora.",
           "Redemption": "Se o inimigo se recusar, você pode optar por conceder a resistência a si mesmo e a todos os aliados na aura do seu campeão, incluindo o aliado que desencadeou. Se você fizer isso, a resistência é reduzida em 2 para todos @UUID[Compendium.pf2e.feat-effects.Item.GFLiTESBmoyQ3sLx]{Efeito: Reação Exaltada (Redenção)}"
         },
         "EvilDamage": "Dano Espiritual",
@@ -2668,10 +2704,14 @@
           "Description": "Você pode usar uma arma de ataque à distância para fazer um Ataque à distância em vez de um Ataque corpo a corpo para Ataque Retributivo. O inimigo precisa estar ao alcance, mas não em alcance corpo a corpo, e ainda deve estar na aura do seu campeão. Você também pode fazer Ataques corpo a corpo contra inimigos um pouco mais distantes. Se o inimigo que desencadeou sua reação estiver fora do seu alcance, mas estiver a 5 pés do seu alcance, como parte da sua reação, você pode dar um Passo para colocar o inimigo ao seu alcance antes de fazer um Ataque Retributivo corpo a corpo."
         },
         "RelentlessReaction": {
-          "Grandeur": "O inimigo também recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano e não pode se recuperar deste dano persistente enquanto estiver afetado pela luz reveladora de seu Clarão de Grandeza.",
-          "Iniquity": "Um inimigo danificado pelo dano da reação inicial também recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano.",
-          "Liberation": "Você pune aqueles que prendem seus aliados. Se o inimigo que desencadeou estava usando quaisquer efeitos para fazer seu aliado ficar agarrado, restringido, imobilizado ou paralisado quando você usou Passo Libertador, esse inimigo recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano",
-          "ObedienceRedemption": "Se o inimigo se recusar, ele recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano"
+          "Grandeur": "<*>O inimigo também sofre @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:holy] de dano, e não pode se recuperar desse dano persistente enquanto estiver afetado pela magia _revealing light_ do seu Flash of Grandeur.",
+          "Iniquity": "<*>Um inimigo danificado pelo dano da reação inicial também sofre @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:unholy] de dano.",
+                  "Liberation": "Você pune aqueles que prendem seus aliados. Se o inimigo que desencadeou estava usando quaisquer efeitos para fazer seu aliado ficar agarrado, restringido, imobilizado ou paralisado quando você usou Passo Libertador, esse inimigo recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano",
+          "LiberationHoly": "You punish those who ensnare your allies. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:holy] damage",
+          "LiberationUnholy": "You punish those who ensnare your allies. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:unholy] damage",
+          "ObedienceRedemption": "Se o inimigo se recusar, ele recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano",
+          "ObedienceRedemptionHoly": "If the enemy refuses, it takes @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:holy] damage",
+          "ObedienceUnholy": "If the enemy refuses, it takes @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:unholy] damage"
         },
         "RetributiveStrike": "Ataque Retributivo",
         "Security": {
@@ -2992,6 +3032,7 @@
       },
       "Conditions": {
         "Sickened": {
+          "AllowEatOrDrink": "You can eat and drink things when you're sickened.",
           "Reduce": {
             "criticalSuccess": "Quando você obtém um sucesso crítico em um teste de Fortitude para reduzir seu valor de @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Enjoado}, você o reduz em 3.",
             "success": "Quando você tem sucesso em um teste de Fortitude para reduzir seu valor de @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Enjoado}, você o reduz em 2."
@@ -3174,29 +3215,30 @@
       "Dragonblood": {
         "BreathOfTheDragon": {
           "Cone": {
-            "Fortitude": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[cone|distance:15], dealing @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[fortitude|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}.",
-            "Reflex": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[cone|distance:15], dealing @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[reflex|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}.",
-            "Will": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[cone|distance:15], dealing @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[will|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}."
+            "Fortitude": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em um @Template[cone|distance:15], causando @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[fortitude|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
+            "Reflex": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em um @Template[cone|distance:15], causando @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[reflex|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
+            "Will": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em um @Template[cone|distance:15], causando @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[will|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}."
           },
           "Line": {
-            "Fortitude": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[line|distance:30], dealing @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[fortitude|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}.",
-            "Reflex": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[line|distance:30], dealing @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[reflex|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}.",
-            "Will": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[line|distance:30], dealing @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[will|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}."
+            "Fortitude": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em uma @Template[line|distance:30], causando @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[fortitude|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
+            "Reflex": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em uma @Template[line|distance:30], causando @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[reflex|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
+            "Will": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em uma @Template[line|distance:30], causando @Damage[ceil(@actor.level/2)d4[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[will|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}."
           }
         },
         "FormidableBreath": {
           "Cone": {
-            "Fortitude": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[cone|distance:30], dealing @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[fortitude|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}.",
-            "Reflex": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[cone|distance:30], dealing @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[reflex|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}.",
-            "Will": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[cone|distance:30], dealing @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[will|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}."
+            "Fortitude": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em um @Template[cone|distance:30], causando @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[fortitude|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
+            "Reflex": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em um @Template[cone|distance:30], causando @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[reflex|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
+            "Will": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em um @Template[cone|distance:30], causando @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[will|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}."
           },
           "Line": {
-            "Fortitude": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[line|distance:60], dealing @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[fortitude|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}.",
-            "Reflex": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[line|distance:60], dealing @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[reflex|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}.",
-            "Will": "Tapping into the physiology of your draconic ancestor, you can exhale a torrent of energy in a @Template[line|distance:60], dealing @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] damage. Each creature in the area must attempt a @Check[will|against:class-spell|basic]. You can't use this ability again for [[/r 1d4 #Recharge this ability]]{1d4 rounds}."
+            "Fortitude": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em uma @Template[line|distance:60], causando @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[fortitude|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
+            "Reflex": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em uma @Template[line|distance:60], causando @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[reflex|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}.",
+            "Will": "Aproveitando a fisiologia de seu ancestral dracônico, você pode exalar uma torrente de energia em uma @Template[line|distance:60], causando @Damage[ceil(@actor.level/2)d6[@actor.flags.pf2e.dragonblood.damageType]|options:area-damage] de dano. Cada criatura na área deve tentar uma verificação de @Check[will|against:class-spell|basic]. Você não pode usar esta habilidade novamente por [[/r 1d4 #Recharge this ability]]{1d4 rodadas}."
           }
-        },
-        "LingeringBreath": {
+        }
+      },
+            "LingeringBreath": {
           "Description": "Quando você usa Sopro do Dragão, a área do seu sopro se torna terreno difícil por 1 minuto. Além disso, uma criatura que falha ou falha criticamente em seu teste de resistência recebe @Damage[2d6[persistent,@actor.flags.pf2e.dragonblood.damageType]] de dano do mesmo tipo"
         },
         "ScalyHide": {
@@ -3205,6 +3247,7 @@
           "MageArmor": "Pele Escamosa com Armadura de Mago"
         }
       },
+      "Driving": "Driving",
       "Druid": {
         "DruidicOrder": {
           "Prompt": "Selecione uma ordem druídica."
@@ -3524,6 +3567,10 @@
         "RootBoots": {
           "GripGround": "Botas de Raiz — Agarrar o Chão",
           "WoodenSurfaceLabel": "Botas de Raiz — Superfície de Madeira"
+        },
+        "SashOfBooks": {
+          "Label": "Sash of Books",
+          "Note": "Regardless of the result, you gain a +1 circumstance bonus to attack rolls against the creature and to your AC and saving throws against attacks and effects from the creature for 1 minute. @UUID[Compendium.pf2e.equipment-effects.Item.P3lpqXMd5FbUF57c]{Effect: Sash of Books (Bonus)}"
         },
         "ScapularOfShields": {
           "CriticalImmunityLabel": "Ative Escapulário de Escudos para ganhar imunidade crítica.",
@@ -3998,11 +4045,18 @@
       },
       "Geomancer": {
         "AttunementShift": "Mudança de Sintonização",
+        "Dedication": {
+          "Label": "Geomancer Dedication"
+        },
+        "SpeakForTheGravelands": {
+          "GravelandsLabel": "Gravelands"
+        },
         "TerrainAttunement": {
           "Aquatic": "Você ganha uma Velocidade de natação igual à sua Velocidade terrestre. Se você estiver em uma superfície, ondas temporárias de água seguem seus movimentos, permitindo que você use sua Velocidade de natação - se você tiver uma - como sua Velocidade terrestre. Este efeito dura 1 rodada.",
           "Arctic": "Os inimigos devem tentar um teste de @Check[fortitude]. Eles sofrem uma penalidade de status de –1,5 metros em suas Velocidades por 2 rodadas (–3 metros em uma falha crítica).",
           "Desert": "Os inimigos devem tentar um teste de @Check[fortitude]. Em uma falha, eles ficam @UUID[Compendium.pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigados} até beberem água ou outro líquido potável.",
           "Forest": "Galhos e cipós se estendem para atrapalhar seus inimigos. Os inimigos devem tentar um teste de @Check[reflexo]. Em uma falha, eles ficam @UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Desajeitados 1} por 1 rodada (@UUID[Compendium.pf2e.conditionitems.i3OJZU2nk64Df3xm]{Desajeitados 2} em uma falha crítica).",
+          "Gravelands": "You gain a +1 status bonus to saving throws against the spells and abilities of haunts and undead creatures for 1 round.",
           "Label": "Sintonização com o Terreno",
           "Mountain": "Você ganha resistência a dano físico (exceto adamantino) igual ao nível da magia por 1 rodada.",
           "Plains": "Você ganha Pontos de Vida temporários iguais ao nível da magia por 1 rodada.",
@@ -4318,6 +4372,9 @@
         "Trigger": "Sua presa está ao alcance e tenta se afastar de você."
       },
       "Kineticist": {
+        "ConductiveSphere": {
+          "RollOptionLabel": "Strike with metal object"
+        },
         "GateAttenuator": "Atenuador de Portal",
         "Impulse": {
           "CriticalBlast": {
@@ -4417,6 +4474,12 @@
         "SecondAttempt": "Segunda Tentativa",
         "ThirdAttempt": "Terceira Tentativa",
         "WeaknessType": "Tipo de Fraqueza"
+      },
+      "LepidstadtSurgeon": {
+        "Dedication": {
+          "StabilizeNote": "When you successfully Administer First Aid to stabilize a dying creature that doesn't yet have the @UUID[Compendium.pf2e.conditionitems.Item.Yl48xTdMh3aeQYL2]{Wounded} condition, it regains @Damage[(2d8 + 10*max(0,(@actor.system.skills.medicine.rank - 2)))[healing]] Hit Points.",
+          "StopBleedingNote": "When you successfully Administer First Aid to stop bleeding, the target rolls the flat check (with lowered DC for an assisted recovery) twice and takes the better result; this is a fortune effect. @UUID[Compendium.pf2e.feat-effects.Item.45nzYsMBTP6PIxDN]{Effect: Lepidstadt Surgeon Dedication (Stop Bleeding)}"
+        }
       },
       "Leshy": {
         "Seedpod": {
@@ -5166,6 +5229,10 @@
           "Title": "Reflexo da Água"
         }
       },
+      "RevealingLight": {
+        "Description": "A creature affected by _revealing light_ is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}. If the creature was @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}, it becomes @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} instead. If the creature was already concealed for any other reason, it is no longer concealed.",
+        "Label": "Revealing Light"
+      },
       "RivethunInvoker": {
         "InvokeOffense": {
           "Label": "Invocar Ofensa"
@@ -5251,10 +5318,12 @@
       },
       "SaveCriticalFailureToFailure": {
         "FailureHalfDamage": {
-          "Will": "Quando você obtém uma falha crítica em um teste de Vontade, você obtém uma falha em vez disso. Quando você falha em um teste de Vontade contra um efeito que causa dano, você recebe metade do dano."
+          "Fortitude": "Quando você obtém uma falha em um salvamento de Fortitude contra um efeito danoso, você sofre metade do dano.",
+          "Reflex": "Quando você obtém uma falha em um salvamento de Reflexos contra um efeito danoso, você sofre metade do dano.",
+          "Will": "<*>Quando você obtém uma falha em um salvamento de Vontade contra um efeito danoso, você sofre metade do dano."
         }
       },
-      "SaveSuccessToCriticalSuccess": {
+          "SaveSuccessToCriticalSuccess": {
         "Fortitude": "Quando você obtém um sucesso em um teste de Fortitude, você obtém um sucesso crítico em vez disso.",
         "Reflex": "Quando você obtém um sucesso em um teste de Reflexo, você obtém um sucesso crítico em vez disso.",
         "Will": "Quando você obtém um sucesso em um teste de Vontade, você obtém um sucesso crítico em vez disso."

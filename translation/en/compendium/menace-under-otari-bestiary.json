@@ -115,7 +115,6 @@
     "Caligni Dancer (BB)": {
       "name": "Caligni Dancer (BB)",
       "publicNotes": "<p>Caligni lurk in subterranean cities, and they relish the chance to creep above ground at night to steal resources, spy on surface dwellers, or simply cause mischief.</p>",
-      "senses": "darkvision",
       "source": "Pathfinder Beginner Box",
       "tokenName": "Caligni Dancer",
       "items": {
@@ -192,7 +191,6 @@
     "Caligni Skulker (BB)": {
       "name": "Caligni Skulker (BB)",
       "publicNotes": "<p>Caligni lurk in subterranean cities, and they relish the chance to creep above ground at night to steal resources, spy on surface dwellers, or simply cause mischief.</p>",
-      "senses": "darkvision",
       "source": "Pathfinder Beginner Box",
       "tokenName": "Caligni Skulker",
       "items": {
@@ -444,9 +442,6 @@
         "strike-ranged->Hand Crossbow": {
           "name": "Hand Crossbow"
         },
-        "action->Darkvision": {
-          "source": "Pathfinder Bestiary"
-        },
         "action->Light Blindness": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.I0HYG0ctCLP5JRsW]\n<p>When first exposed to bright light, the drow @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Can't See} until the end of their next turn. All squares are difficult terrain for them, and they take a -4 status penalty to Perception. If they try to attack a creature, the attack fails unless they succeed at a @Check[flat|dc:11]. Light doesn't blind them again for 1 hour.</p>",
           "source": "Pathfinder Bestiary"
@@ -606,7 +601,6 @@
     "Giant Ant (BB)": {
       "name": "Giant Ant (BB)",
       "publicNotes": "<p>Giant ants form vast underground colonies, excavating deep burrows or infesting existing caverns. Giant ants look identical to their smaller kin, but their size makes them a deadly threat to farms and travelers alike.</p>",
-      "senses": "darkvision",
       "source": "Pathfinder Beginner Box",
       "tokenName": "Giant Ant",
       "items": {
@@ -824,11 +818,6 @@
     "Harpy (BB)": {
       "name": "Harpy (BB)",
       "publicNotes": "<p>Harpies are an amalgamation of human and bird, using their ancestral control of the wind to lure prey or even directly pull in their next meal. Harpies can eat most creatures, but prefer to eat humans and elves in particular. Harpies live in family groups or larger clans, although they rarely hunt in big groups, preferring to keep most meals for themselves.</p>",
-      "skillSpecialPerformance": {
-        "0": {
-          "label": "singing"
-        }
-      },
       "source": "Pathfinder Beginner Box",
       "tokenName": "Harpy",
       "items": {
@@ -1478,7 +1467,6 @@
     "Minotaur Hunter (BB)": {
       "name": "Minotaur Hunter (BB)",
       "publicNotes": "<p>A minotaur is a large humanoid with a bovine head and hooves. Though often mistaken for aggressive brutes, many minotaurs are skilled artisans. Lone minotaurs tend to make their lairs within a maze or old ruin, hunting anyone who dares to invade their labyrinthine home.</p>",
-      "senses": "darkvision",
       "source": "Pathfinder Beginner Box",
       "tokenName": "Minotaur Hunter",
       "items": {
@@ -1694,7 +1682,6 @@
     "Reefclaw (BB)": {
       "name": "Reefclaw (BB)",
       "publicNotes": "<p>Reefclaws are aquatic monsters that resemble huge shrimp or lobsters. Though reefclaws can't speak, they are intelligent enough to understand the local language of humanoids near their hunting grounds.</p>",
-      "senses": "darkvision",
       "skillSpecialAthletics": {
         "0": {
           "label": "to swim"
@@ -1940,7 +1927,6 @@
     "Warg (BB)": {
       "name": "Warg (BB)",
       "publicNotes": "<p>Wargs are often mistaken for wolves, but they have a cunning intelligence and the ability to speak. Wargs often form hunting parties with orcs and hobgoblins. Most wargs are amenable to this arrangement, but if food should run out, wargs are more than willing to integrate goblinoid flesh into their diet.</p>",
-      "senses": "darkvision",
       "source": "Pathfinder Beginner Box",
       "tokenName": "Warg",
       "items": {
@@ -2182,10 +2168,6 @@
     "skillSpecialCrafting": {
       "converter": "translateSkillSpecial",
       "path": "system.skills.crafting.special"
-    },
-    "skillSpecialPerformance": {
-      "converter": "translateSkillSpecial",
-      "path": "system.skills.performance.special"
     },
     "skillSpecialStealth": {
       "converter": "translateSkillSpecial",
