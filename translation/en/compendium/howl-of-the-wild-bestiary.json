@@ -98,7 +98,7 @@
     "Apothecary Bee": {
       "name": "Apothecary Bee",
       "publicNotes": "<p>These giant bees feed on the nectar of medicinal herbs and magical flowers, naturally processing the liquid into syrupy-sweet potions. Depending on the precise diet of the apothecary bees, they can produce a wide variety of potions, storing any excess in the waxy cells lining their nest. Apothecary bee workers are about a foot long, with yellow and black stripes. While carrying a potion, the bee's abdomen visibly swells and often changes color to match the potion within.</p>\n<p>The value of the apothecary bees' potions has led to numerous attempts at domestication, a dangerous, expensive dream with both high risks and high rewards. Once a magical garden has been established, apothecary beehives tend to become self-sustaining. Beekeepers can potentially guide their cultivation, but they're no longer necessary for the hive's survival. Some ancient, long-abandoned gardens still grow along the Sphinx River in Osirion, where many apothecary bees prowl for flowers that meet their standards. Upon their most recent dig to the surface, surki communities quickly began the process of \"trading\" with the bees, establishing habitats and using their natural magic sense to better tend the massive fields a large hive needs. Miflits, on the other hand, often end up absorbed into the bees' social structure.</p>\n<p>The potions a hive produces vary from season to season, depending on what flowers are available. Beekeepers have made strides in creating gardens that yield specific potions and have even developed harvesting techniques that increase potion effectiveness. These techniques are valuable, closely guarded secrets, but even defective potions with cursed results have found use among the followers of Calistria and Norgorber.</p>",
-      "senses": "<*>potionsight (precise) 60 feet",
+      "senses": "potionsight (precise) 60 feet",
       "source": "Pathfinder Howl of the Wild",
       "items": {
         "consumable->Healing Potion (Moderate)": {
@@ -325,7 +325,7 @@
     "Chaos Falcon": {
       "name": "Chaos Falcon",
       "publicNotes": "<p>The extreme weather that gives birth to chaos falcons grants them a mix of abilities not found in other elemental birds. To them, lightning is as natural as fire and heat as comfortable as cold. The variability of their attacks makes them dangerous, even for the well prepared.</p>\n<p>Like their elemental cousins, chaos falcons are often the harbingers of storms. They're also seen as omens of volcanic activity, as they will travel across great distances to play and dance in the resulting eruption. Between this association and their tendency to rain both fire and ice, their presence is considered dangerous by nearby settlements.</p>\n<p>Fortunately, chaos falcons are solitary birds that prefer to stay away from the noise of civilization. They nest in volcanic vents or areas with geothermal activity, relying on the heat of the earth to incubate their eggs while hunting in the wilderness nearby. Unless their peace is disrupted or their safety threatened, they're unlikely to attack creatures that move through their habitat.</p>",
-      "senses": "<*>stormsight",
+      "senses": "stormsight",
       "source": "Pathfinder Howl of the Wild",
       "items": {
         "strike-melee->Beak": {
@@ -487,7 +487,7 @@
     "Drthak": {
       "name": "Drthak",
       "publicNotes": "<p>Dischorans are a group of predators who hunt via focused sound. Though they possess protuberances that resemble eyes, these are actually auditory sensory organs that can pick up even the slightest sound and are used to locate prey with pinpoint accuracy.</p>\n<p>Only a few types of dischorans have been identified, but they all share unifying features: front-facing pseudo-eyes, deceptive speed, and ravenous hunger. Their sensitivity to noise combined with their ability to weaponize sound are likely the primary reasons dischorans spend most of their time alone.</p>\n<hr />\n<p>Drthaks are aquatic predators with long trailing fins that are rarely seen, clinging to coasts and estuaries where the high silt content makes them practically invisible to predators and prey alike. Some have been known to come inland, tracking their prey miles upriver before striking. The underwater environment alters the typical dischoran hunting behavior, with drthaks creating bubbles that implode to stun prey.</p>",
-      "senses": "<*>sensitive echolocation (precise) 120 feet",
+      "senses": "sensitive echolocation (precise) 120 feet",
       "source": "Pathfinder Howl of the Wild",
       "items": {
         "strike-melee->Jaws": {
@@ -1116,7 +1116,7 @@
         },
         "action->Startling Roar": {
           "name": "Startling Roar",
-          "description": "<*><p>When the majungasaurus rolls initiative using Stealth, it can attempt to [[/act demoralize]] each creature within @Template[emanation|distance:30]{30 feet} as a free action. Regardless of the effect, each creature is then temporarily immune for 1 hour.</p>"
+          "description": "<p>When the majungasaurus rolls initiative using Stealth, it can attempt to [[/act demoralize]] each creature within @Template[emanation|distance:30]{30 feet} as a free action. Regardless of the effect, each creature is then temporarily immune for 1 hour.</p>"
         },
         "action->Crack Bones": {
           "name": "Crack Bones",
@@ -1373,7 +1373,7 @@
     "Morthak": {
       "name": "Morthak",
       "publicNotes": "<p>Dischorans are a group of predators who hunt via focused sound. Though they possess protuberances that resemble eyes, these are actually auditory sensory organs that can pick up even the slightest sound and are used to locate prey with pinpoint accuracy.</p>\n<p>Only a few types of dischorans have been identified, but they all share unifying features: front-facing pseudo-eyes, deceptive speed, and ravenous hunger. Their sensitivity to noise combined with their ability to weaponize sound are likely the primary reasons dischorans spend most of their time alone.</p>\n<hr />\n<p>Morthaks, being low, squat, and flat, resemble a crocodile rebuilt to dig like a mole. At home beneath vast meadows and plains, the only sign of their passing are the earthen mounds they leave behind when they emerge to hunt. Those who encounter them in the wild speak of the sub-aural rumble they produce as they disintegrate the earth with sonic blasts, a sound that's felt rather than heard.</p>",
-      "senses": "<*>sensitive echolocation (precise) 90 feet",
+      "senses": "sensitive echolocation (precise) 90 feet",
       "source": "Pathfinder Howl of the Wild",
       "items": {
         "strike-melee->Jaws": {
@@ -1789,7 +1789,7 @@
     "Soniphak": {
       "name": "Soniphak",
       "publicNotes": "<p>Dischorans are a group of predators who hunt via focused sound. Though they possess protuberances that resemble eyes, these are actually auditory sensory organs that can pick up even the slightest sound and are used to locate prey with pinpoint accuracy.</p>\n<p>Only a few types of dischorans have been identified, but they all share unifying features: front-facing pseudo-eyes, deceptive speed, and ravenous hunger. Their sensitivity to noise combined with their ability to weaponize sound are likely the primary reasons dischorans spend most of their time alone.</p>\n<hr />\n<p>Often mistaken for drakes, soniphaks glide above rocky or barren ground, picking out prey with their hearing. A hunting soniphak disables its targets with concentrated bursts of sound before snatching them up and feasting on the move. Despite being able to speak, soniphaks are no more social than other dischorans, generally responding to even the quietest attempts at communication with destructive shouting.</p>",
-      "senses": "<*>sensitive echolocation (precise) 120 feet",
+      "senses": "sensitive echolocation (precise) 120 feet",
       "source": "Pathfinder Howl of the Wild",
       "items": {
         "strike-melee->Jaws": {
@@ -2494,7 +2494,7 @@
       "name": "Warden of Forests and Meadows",
       "languages": "voice of nature",
       "saveDetails": "+1 to all saves vs primal",
-      "senses": "<*>scent (imprecise) 1 mile",
+      "senses": "scent (imprecise) 1 mile",
       "skillSpecialAcrobatics": {
         "0": {
           "label": "to Escape"
@@ -2661,7 +2661,7 @@
       "languages": "voice of nature",
       "publicNotes": "<h2>Warden's Blessing</h2>\n<p>Legend says that the Warden of Peaks and Sky invites those who particularly earn their favor into their home, a nest within a hollow peak deep in the Kodar Mountains. There, the guest is treated to a grand feast, after which the warden offers to turn them into a thunderbird so they might enjoy the sky for the rest of their days, though they are not offended if anyone demurs.</p>",
       "saveDetails": "+1 to all saves vs primal",
-      "senses": "<*>stormsight",
+      "senses": "stormsight",
       "source": "Pathfinder Howl of the Wild",
       "speed": "unfettered movement",
       "items": {

@@ -2719,7 +2719,7 @@
         },
         "action->Vulnerability to Extinguishing": {
           "name": "Vulnerability to Extinguishing",
-          "description": "<*><p>A yaganty who is doused with water or otherwise has their candle fingers extinguished takes @Damage[3d6[persistent,mental]], becomes @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened 1}, and screams in agony until they reignite their candles (typically by casting @UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{Ignition} and lighting their fingers with an Interact action).</p>"
+          "description": "<p>A yaganty who is doused with water or otherwise has their candle fingers extinguished takes @Damage[3d6[persistent,mental]], becomes @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened 1}, and screams in agony until they reignite their candles (typically by casting @UUID[Compendium.pf2e.spells-srd.Item.6DfLZBl8wKIV03Iq]{Ignition} and lighting their fingers with an Interact action).</p>"
         },
         "action->Fling Wax": {
           "name": "Fling Wax",

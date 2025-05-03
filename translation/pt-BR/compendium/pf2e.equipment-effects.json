@@ -899,7 +899,7 @@
     },
     "Effect: Ebon Fulcrum Lens (2 Action)": {
       "name": "Effect: Ebon Fulcrum Lens (2 Action)",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.CTiLugp5ptSItEqN]{Ebon Fulcrum Lens}</p>\n<p>You're quickened and you gain a +1 item bonus to attack rolls, saving throws, and DCs.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.CTiLugp5ptSItEqN]{Ebon Fulcrum Lens}</p>\n<p>You're quickened and you gain a +1 item bonus to attack rolls, saving throws, and DCs.</p>",
       "source": "Pathfinder #165: Eyes of Empty Death"
     },
     "Effect: Ebon Fulcrum Lens (Incorporeal)": {
@@ -2567,12 +2567,12 @@
     },
     "Effect: Spiny Lodestone - Armor": {
       "name": "Effect: Spiny Lodestone - Armor",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.AYg155apTZtebV4Z]{Spiny Lodestone}, @UUID[Compendium.pf2e.equipment-srd.Item.wnWo9t2mNV4YaH37]{Spiny Lodestone (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.aBMTXPmHg9EDe2R6]{Spiny Lodestone (Major)}</p>\n<p>You gain an item bonus to Athletics checks and resistance to nonlethal damage.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.AYg155apTZtebV4Z]{Spiny Lodestone}, @UUID[Compendium.pf2e.equipment-srd.Item.wnWo9t2mNV4YaH37]{Spiny Lodestone (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.aBMTXPmHg9EDe2R6]{Spiny Lodestone (Major)}</p>\n<p>You gain an item bonus to Athletics checks and resistance to nonlethal damage.</p>",
       "source": "Pathfinder Rage of Elements"
     },
     "Effect: Spiny Lodestone - Weapon": {
       "name": "Effect: Spiny Lodestone - Weapon",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.AYg155apTZtebV4Z]{Spiny Lodestone}, @UUID[Compendium.pf2e.equipment-srd.Item.wnWo9t2mNV4YaH37]{Spiny Lodestone (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.aBMTXPmHg9EDe2R6]{Spiny Lodestone (Major)}</p>\n<p>Your Strikes with the weapon deal additional piercing damage.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.AYg155apTZtebV4Z]{Spiny Lodestone}, @UUID[Compendium.pf2e.equipment-srd.Item.wnWo9t2mNV4YaH37]{Spiny Lodestone (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.aBMTXPmHg9EDe2R6]{Spiny Lodestone (Major)}</p>\n<p>Your Strikes with the weapon deal additional piercing damage.</p>",
       "source": "Pathfinder Rage of Elements"
     },
     "Effect: Spirit Fan": {
@@ -2607,7 +2607,7 @@
     },
     "Effect: Stalk Goggles": {
       "name": "Effect: Stalk Goggles",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.iKKZdkn8KQJSuRjY]{Stalk Goggles}, @UUID[Compendium.pf2e.equipment-srd.Item.U7UVGM93EaNc6lzY]{Stalk Goggles (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.cbbPoYOil7DZO4mk]{Stalk Goggles (Major)}</p>\n<p>You gain all-around vision and can't be flanked, gain an item bonus to Perception checks involving sight (<em>greater</em> and <em>major</em>), and gain low-light vision (<em>major</em>).</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.iKKZdkn8KQJSuRjY]{Stalk Goggles}, @UUID[Compendium.pf2e.equipment-srd.Item.U7UVGM93EaNc6lzY]{Stalk Goggles (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.cbbPoYOil7DZO4mk]{Stalk Goggles (Major)}</p>\n<p>You gain all-around vision and can't be flanked, gain an item bonus to Perception checks involving sight (<em>greater</em> and <em>major</em>), and gain low-light vision (<em>major</em>).</p>",
       "source": "Pathfinder #187: The Seventh Arch"
     },
     "Effect: Stalwart's Ring": {
@@ -2807,12 +2807,12 @@
     },
     "Effect: Thorn Triad - Armor": {
       "name": "Effect: Thorn Triad - Armor",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.j1To2GxVU46H1uOG]{Thorn Triad}, @UUID[Compendium.pf2e.equipment-srd.Item.3LJ3l5QKyjxiVBbu]{Thorn Triad (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.XIQmnhUfmhojIZT7]{Thorn Triad (Major)}</p>\n<p>You gain resistance to bludgeoning and piercing damage and weakness 3 to fire, or double the resistance for a non-cantrip spell.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.j1To2GxVU46H1uOG]{Thorn Triad}, @UUID[Compendium.pf2e.equipment-srd.Item.3LJ3l5QKyjxiVBbu]{Thorn Triad (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.XIQmnhUfmhojIZT7]{Thorn Triad (Major)}</p>\n<p>You gain resistance to bludgeoning and piercing damage and weakness 3 to fire, or double the resistance for a non-cantrip spell.</p>",
       "source": "Pathfinder Rage of Elements"
     },
     "Effect: Thorn Triad - Weapon": {
       "name": "Effect: Thorn Triad - Weapon",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.j1To2GxVU46H1uOG]{Thorn Triad}, @UUID[Compendium.pf2e.equipment-srd.Item.3LJ3l5QKyjxiVBbu]{Thorn Triad (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.XIQmnhUfmhojIZT7]{Thorn Triad (Major)}</p>\n<p>Your Strikes with the weapon deal an additional persistent bleed damage.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.j1To2GxVU46H1uOG]{Thorn Triad}, @UUID[Compendium.pf2e.equipment-srd.Item.3LJ3l5QKyjxiVBbu]{Thorn Triad (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.XIQmnhUfmhojIZT7]{Thorn Triad (Major)}</p>\n<p>Your Strikes with the weapon deal an additional persistent bleed damage.</p>",
       "source": "Pathfinder Rage of Elements"
     },
     "Effect: Thousand-Year Dragonroot": {
@@ -2832,7 +2832,7 @@
     },
     "Effect: Thurible of Revelation": {
       "name": "Effect: Thurible of Revelation",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.xaWuuQoBJiMLzggR]{Thurible of Revelation (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.QEPx1fCf74xdpXBH]{Thurible of Revelation (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.VBCk7JXGsuG0cug1]{Thurible of Revelation (Greater)}</p>\n<p>You gain an item bonus to Religion checks and any critical failure you roll when you Decipher Writing of a religious nature is a failure instead.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.xaWuuQoBJiMLzggR]{Thurible of Revelation (Lesser)}, @UUID[Compendium.pf2e.equipment-srd.Item.QEPx1fCf74xdpXBH]{Thurible of Revelation (Moderate)}, @UUID[Compendium.pf2e.equipment-srd.Item.VBCk7JXGsuG0cug1]{Thurible of Revelation (Greater)}</p>\n<p>You gain an item bonus to Religion checks and any critical failure you roll when you Decipher Writing of a religious nature is a failure instead.</p>",
       "source": "Pathfinder GM Core"
     },
     "Effect: Tiger Menuki": {
@@ -2867,12 +2867,12 @@
     },
     "Effect: Trinity Geode - Armor": {
       "name": "Effect: Trinity Geode - Armor",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lN3Fn9AuNcKbXucJ]{Trinity Geode}, @UUID[Compendium.pf2e.equipment-srd.Item.5W86t6I92rRNSmwR]{Trinity Geode (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.2sr23ZSpplB1oBHd]{Trinity Geode (Major)}</p>\n<p>You gain resistance to physical damage (except adamantine), or double the resistance for a non-cantrip spell.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lN3Fn9AuNcKbXucJ]{Trinity Geode}, @UUID[Compendium.pf2e.equipment-srd.Item.5W86t6I92rRNSmwR]{Trinity Geode (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.2sr23ZSpplB1oBHd]{Trinity Geode (Major)}</p>\n<p>You gain resistance to physical damage (except adamantine), or double the resistance for a non-cantrip spell.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Effect: Trinity Geode - Weapon": {
       "name": "Effect: Trinity Geode - Weapon",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lN3Fn9AuNcKbXucJ]{Trinity Geode}, @UUID[Compendium.pf2e.equipment-srd.Item.5W86t6I92rRNSmwR]{Trinity Geode (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.2sr23ZSpplB1oBHd]{Trinity Geode (Major)}</p>\n<p>Your Strikes with the weapon deal additional bludgeoning damage.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.lN3Fn9AuNcKbXucJ]{Trinity Geode}, @UUID[Compendium.pf2e.equipment-srd.Item.5W86t6I92rRNSmwR]{Trinity Geode (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.2sr23ZSpplB1oBHd]{Trinity Geode (Major)}</p>\n<p>Your Strikes with the weapon deal additional bludgeoning damage.</p>",
       "source": "Pathfinder Secrets of Magic"
     },
     "Effect: Triton's Conch": {
@@ -2987,12 +2987,12 @@
     },
     "Effect: Warding Statuette - Armor": {
       "name": "Effect: Warding Statuette - Armor",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.SW6JVF5SP59W8B0Q]{Warding Statuette}, @UUID[Compendium.pf2e.equipment-srd.Item.ap9Bn8MLUJa8AtGj]{Warding Statuette (Greater)}</p>\n<p>You gain resistance against ranged weapon attacks.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.SW6JVF5SP59W8B0Q]{Warding Statuette}, @UUID[Compendium.pf2e.equipment-srd.Item.ap9Bn8MLUJa8AtGj]{Warding Statuette (Greater)}</p>\n<p>You gain resistance against ranged weapon attacks.</p>",
       "source": "Pathfinder Treasure Vault"
     },
     "Effect: Warding Statuette - Weapon": {
       "name": "Effect: Warding Statuette - Weapon",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.SW6JVF5SP59W8B0Q]{Warding Statuette}, @UUID[Compendium.pf2e.equipment-srd.Item.ap9Bn8MLUJa8AtGj]{Warding Statuette (Greater)}</p>\n<p>You gain a +1 status bonus to AC.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.SW6JVF5SP59W8B0Q]{Warding Statuette}, @UUID[Compendium.pf2e.equipment-srd.Item.ap9Bn8MLUJa8AtGj]{Warding Statuette (Greater)}</p>\n<p>You gain a +1 status bonus to AC.</p>",
       "source": "Pathfinder Treasure Vault"
     },
     "Effect: Watery Form": {
@@ -3052,7 +3052,7 @@
     },
     "Effect: Wyrm Claw - Armor": {
       "name": "Effect: Wyrm Claw - Armor",
-      "description": "<*><p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.r81OfbBRPTXi0Fwd]{Wyrm Claw}, @UUID[Compendium.pf2e.equipment-srd.Item.lSpoAPC5VeGcSoDG]{Wyrm Claw (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.orChmPy2wJ6DWwHU]{Wyrm Claw (Major)}</p>\n<p>You gain resistance to acid, cold, electricity, and fire.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.equipment-srd.Item.r81OfbBRPTXi0Fwd]{Wyrm Claw}, @UUID[Compendium.pf2e.equipment-srd.Item.lSpoAPC5VeGcSoDG]{Wyrm Claw (Greater)}, @UUID[Compendium.pf2e.equipment-srd.Item.orChmPy2wJ6DWwHU]{Wyrm Claw (Major)}</p>\n<p>You gain resistance to acid, cold, electricity, and fire.</p>",
       "source": "Pathfinder Treasure Vault"
     }
   },

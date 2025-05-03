@@ -250,7 +250,7 @@
         },
         "action->Troop Defenses": {
           "name": "Troop Defenses",
-          "description": "<*><p><strong>Thresholds</strong> 50 (3 segments), 25 (2 segments)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>",
+          "description": "<p><strong>Thresholds</strong> 50 (3 segments), 25 (2 segments)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>",
           "source": "Pathfinder Bestiary 3"
         },
         "action->Pitchforks and Torches": {

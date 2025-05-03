@@ -1037,7 +1037,7 @@
         },
         "action->Troop Defenses": {
           "name": "Troop Defenses",
-          "description": "<*><p><strong>Thresholds</strong> 160 (3 segments), 80 (2 segments)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
+          "description": "<p><strong>Thresholds</strong> 160 (3 segments), 80 (2 segments)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
         },
         "action->Grave Tide": {
           "name": "Grave Tide",

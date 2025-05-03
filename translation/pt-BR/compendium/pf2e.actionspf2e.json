@@ -887,7 +887,7 @@
     },
     "Flash of Grandeur": {
       "name": "Clarão de Grandeza",
-      "description": "<*><p><strong>Trigger</strong> An enemy damages your ally, and both are in your champion's aura</p>\n<hr />\n<p><strong>Effect</strong> Imperious divine light flashes out from you to surround your foe. The ally gains resistance to all damage against the triggering damage equal to 2 + your level. Until the end of your next turn, the attacker is affected by @UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{Revealing Light}.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Effect: Champion's Resistance}</p>",
+      "description": "<p><strong>Trigger</strong> An enemy damages your ally, and both are in your champion's aura</p>\n<hr />\n<p><strong>Effect</strong> Imperious divine light flashes out from you to surround your foe. The ally gains resistance to all damage against the triggering damage equal to 2 + your level. Until the end of your next turn, the attacker is affected by @UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{Revealing Light}.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Effect: Champion's Resistance}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Fleeting Arc through Heaven and Earth": {
@@ -987,7 +987,7 @@
     },
     "Glimpse Vulnerability": {
       "name": "Vislumbrar Vulnerabilidade",
-      "description": "<*><p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirement</strong> You are holding your implement</p>\n<hr />\n<p><strong>Effect</strong> You glimpse a hidden vulnerability and then strengthen it to aid you. Select a creature you can see. Until you Glimpse Vulnerability again, that target gains weakness 2 against your unarmed and weapon Strikes.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.H35En2lHCVzOOUMf]{Effect: Glimpse Vulnerability}</p>",
+      "description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirement</strong> You are holding your implement</p>\n<hr />\n<p><strong>Effect</strong> You glimpse a hidden vulnerability and then strengthen it to aid you. Select a creature you can see. Until you Glimpse Vulnerability again, that target gains weakness 2 against your unarmed and weapon Strikes.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.H35En2lHCVzOOUMf]{Effect: Glimpse Vulnerability}</p>",
       "source": "Pathfinder Dark Archive"
     },
     "Glimpse of Redemption": {
@@ -1245,7 +1245,7 @@
     },
     "Liberating Step": {
       "name": "Passo Libertador",
-      "description": "<*><p><strong>Trigger</strong> An enemy damages, @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{grabs}, or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{restrains} your ally, and both are in your champion's aura</p>\n<hr />\n<p>You free an ally from restraint.</p>\n<p>If the trigger was an ally taking damage, the ally gains resistance to all damage against the triggering damage equal to 2 + your level.</p>\n<p>The ally can attempt to break free of effects grabbing, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restraining}, @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilizing}, or @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzing} them. They either attempt a new save against one such effect that allows a save, or attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} from one effect as a free action.</p>\n<p>If they can move, the ally can Step as a free action, even if they didn't need to escape.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Effect: Champion's Resistance}</p>",
+      "description": "<p><strong>Trigger</strong> An enemy damages, @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{grabs}, or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{restrains} your ally, and both are in your champion's aura</p>\n<hr />\n<p>You free an ally from restraint.</p>\n<p>If the trigger was an ally taking damage, the ally gains resistance to all damage against the triggering damage equal to 2 + your level.</p>\n<p>The ally can attempt to break free of effects grabbing, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restraining}, @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilizing}, or @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzing} them. They either attempt a new save against one such effect that allows a save, or attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} from one effect as a free action.</p>\n<p>If they can move, the ally can Step as a free action, even if they didn't need to escape.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Effect: Champion's Resistance}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Lie": {
@@ -1396,7 +1396,7 @@
     },
     "One Moment till Glory": {
       "name": "Um Momento para a Glória",
-      "description": "<*><p>You rally your allies, carrying them from the brink of disaster to the verge of victory. Each ally in your aura can immediately attempt a new saving throw with a +2 status bonus against one ongoing negative effect or condition currently affecting it that required a save. Use the result of the new save to determine the outcome of the effect, unless the new save would have a worse result than the original save, in which case nothing happens. Each ally can gain this benefit against a given effect only once.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xHbMPpYEPwI0tmcV]{Effect: One Moment till Glory}</p>",
+      "description": "<p>You rally your allies, carrying them from the brink of disaster to the verge of victory. Each ally in your aura can immediately attempt a new saving throw with a +2 status bonus against one ongoing negative effect or condition currently affecting it that required a save. Use the result of the new save to determine the outcome of the effect, unless the new save would have a worse result than the original save, in which case nothing happens. Each ally can gain this benefit against a given effect only once.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xHbMPpYEPwI0tmcV]{Effect: One Moment till Glory}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "One Shot, One Kill": {

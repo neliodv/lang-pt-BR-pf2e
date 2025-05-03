@@ -389,7 +389,7 @@
         },
         "action->Troop Defenses": {
           "name": "Troop Defenses",
-          "description": "<*><p><strong>Thresholds</strong> 70 (3 segments), 35 (2 segments)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>",
+          "description": "<p><strong>Thresholds</strong> 70 (3 segments), 35 (2 segments)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>",
           "source": "Pathfinder Bestiary 3"
         },
         "action->Void Healing": {

@@ -2100,7 +2100,7 @@
           "Prompt": "Selecione um campo de pesquisa.",
           "Toxicologist": {
             "FieldBenefit": {
-              "RollOptionLabel": "<*>Toxicologista — Cause dano de ácido em vez de veneno"
+              "RollOptionLabel": "Toxicologista — Cause dano de ácido em vez de veneno"
             },
             "FieldVials": {
               "Description": "Você pode aplicar o conteúdo de um frasco versátil a uma arma ou peça de munição como um veneno de ferimento. Adicione o dano inicial do frasco versátil ao primeiro Ataque bem-sucedido com aquela arma ou munição. A substância se torna inerte no final do seu turno atual."
@@ -2664,11 +2664,11 @@
         },
         "ExaltedReaction": {
           "Desecration": "Cada inimigo na aura do seu campeão sofre uma penalidade de status -1 em rolagens de ataque contra você até o início do seu próximo turno. @UUID[Compendium.pf2e.feat-effects.Item.Ef63SlxSKlZmHosM]{Efeito: Reação Exaltada (Profanador)}",
-          "Grandeur": "<*>Além do inimigo afetado por Flash of Grandeur, cada outro inimigo na aura de seu campeão é afetado pela magia _revealing light_ por 1 rodada.",
+          "Grandeur": "Além do inimigo afetado por Flash of Grandeur, cada outro inimigo na aura de seu campeão é afetado pela magia _revealing light_ por 1 rodada.",
           "Iniquity": "Cada inimigo na aura do seu campeão, exceto a criatura que desencadeou, recebe metade do dano que você causa à criatura que desencadeou.",
           "Justice": "Cada aliado na aura do seu campeão com o alvo em seu alcance corpo a corpo pode gastar uma reação para Golpear o alvo com uma penalidade de -5.",
           "Liberation": "Além do aliado afetado por Passo Libertador, você e todos os outros aliados na aura do seu campeão podem dar um Passo como uma ação livre. Você e seus aliados ganham o benefício mesmo se o aliado que se beneficiou do Passo Libertador não puder se mover",
-          "Obedience": "<*>Cada inimigo na aura de seu campeão, exceto a criatura desencadeadora, também deve cair @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} ou sofrer dano mental (cada inimigo escolhe). Essas criaturas sofrem apenas o dano mínimo (tipicamente @Damage[(ternary(gte(@actor.level,19),6,ternary(gte(@actor.level,16),5,ternary(gte(@actor.level,12),4,ternary(gte(@actor.level,11),3)))))[mental]] de dano), e os efeitos que sofrem não podem ser ajustados por nada que altere seu Comando de Ferro. Por exemplo, o talento Iron Repercussions não poderia transformar o dano em dano mental persistente para criaturas que não sejam a criatura desencadeadora.",
+          "Obedience": "Cada inimigo na aura de seu campeão, exceto a criatura desencadeadora, também deve cair @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} ou sofrer dano mental (cada inimigo escolhe). Essas criaturas sofrem apenas o dano mínimo (tipicamente @Damage[(ternary(gte(@actor.level,19),6,ternary(gte(@actor.level,16),5,ternary(gte(@actor.level,12),4,ternary(gte(@actor.level,11),3)))))[mental]] de dano), e os efeitos que sofrem não podem ser ajustados por nada que altere seu Comando de Ferro. Por exemplo, o talento Iron Repercussions não poderia transformar o dano em dano mental persistente para criaturas que não sejam a criatura desencadeadora.",
           "Redemption": "Se o inimigo se recusar, você pode optar por conceder a resistência a si mesmo e a todos os aliados na aura do seu campeão, incluindo o aliado que desencadeou. Se você fizer isso, a resistência é reduzida em 2 para todos @UUID[Compendium.pf2e.feat-effects.Item.GFLiTESBmoyQ3sLx]{Efeito: Reação Exaltada (Redenção)}"
         },
         "EvilDamage": "Dano Espiritual",
@@ -2704,8 +2704,8 @@
           "Description": "Você pode usar uma arma de ataque à distância para fazer um Ataque à distância em vez de um Ataque corpo a corpo para Ataque Retributivo. O inimigo precisa estar ao alcance, mas não em alcance corpo a corpo, e ainda deve estar na aura do seu campeão. Você também pode fazer Ataques corpo a corpo contra inimigos um pouco mais distantes. Se o inimigo que desencadeou sua reação estiver fora do seu alcance, mas estiver a 5 pés do seu alcance, como parte da sua reação, você pode dar um Passo para colocar o inimigo ao seu alcance antes de fazer um Ataque Retributivo corpo a corpo."
         },
         "RelentlessReaction": {
-          "Grandeur": "<*>O inimigo também sofre @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:holy] de dano, e não pode se recuperar desse dano persistente enquanto estiver afetado pela magia _revealing light_ do seu Flash of Grandeur.",
-          "Iniquity": "<*>Um inimigo danificado pelo dano da reação inicial também sofre @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:unholy] de dano.",
+          "Grandeur": "O inimigo também sofre @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:holy] de dano, e não pode se recuperar desse dano persistente enquanto estiver afetado pela magia _revealing light_ do seu Flash of Grandeur.",
+          "Iniquity": "Um inimigo danificado pelo dano da reação inicial também sofre @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:unholy] de dano.",
                   "Liberation": "Você pune aqueles que prendem seus aliados. Se o inimigo que desencadeou estava usando quaisquer efeitos para fazer seu aliado ficar agarrado, restringido, imobilizado ou paralisado quando você usou Passo Libertador, esse inimigo recebe @Damage[(@actor.abilities.cha.mod)[persistent,spirit]] de dano",
           "LiberationHoly": "You punish those who ensnare your allies. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:holy] damage",
           "LiberationUnholy": "You punish those who ensnare your allies. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes @Damage[(@actor.abilities.cha.mod)[persistent,spirit]|traits:unholy] damage",
@@ -5320,7 +5320,7 @@
         "FailureHalfDamage": {
           "Fortitude": "Quando você obtém uma falha em um salvamento de Fortitude contra um efeito danoso, você sofre metade do dano.",
           "Reflex": "Quando você obtém uma falha em um salvamento de Reflexos contra um efeito danoso, você sofre metade do dano.",
-          "Will": "<*>Quando você obtém uma falha em um salvamento de Vontade contra um efeito danoso, você sofre metade do dano."
+          "Will": "Quando você obtém uma falha em um salvamento de Vontade contra um efeito danoso, você sofre metade do dano."
         }
       },
           "SaveSuccessToCriticalSuccess": {

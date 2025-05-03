@@ -390,7 +390,7 @@
         },
         "action->Battle Cry": {
           "name": "Battle Cry",
-          "description": "<*><p><strong>Trigger</strong> The Brass Dragon rolls initiative.</p>\n<hr />\n<p><strong>Effect</strong> The Brass Dragon roars out a mighty challenge and attempts to [[/act demoralize]] a creature it can see.</p>"
+          "description": "<p><strong>Trigger</strong> The Brass Dragon rolls initiative.</p>\n<hr />\n<p><strong>Effect</strong> The Brass Dragon roars out a mighty challenge and attempts to [[/act demoralize]] a creature it can see.</p>"
         },
         "action->+1 Status to All Saves vs. Magic": {
           "source": "Pathfinder Monster Core"

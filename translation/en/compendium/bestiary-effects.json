@@ -43,7 +43,7 @@
     },
     "Effect: Alchemical Embalming": {
       "name": "Effect: Alchemical Embalming",
-      "description": "<*><p>You take a –10‐foot penalty to all your Speeds.</p>",
+      "description": "<p>You take a –10‐foot penalty to all your Speeds.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Alchemical Strike": {
@@ -736,7 +736,7 @@
     },
     "Effect: Divine Frenzy": {
       "name": "Effect: Divine Frenzy",
-      "description": "<*><p>You take a –2 penalty to Perception checks and Will saves and gain a +2 status bonus to your spell DC and spell attack modifier. You can't use actions with the concentrate trait unless you're Casting a Spell or Seeking.</p>",
+      "description": "<p>You take a –2 penalty to Perception checks and Will saves and gain a +2 status bonus to your spell DC and spell attack modifier. You can't use actions with the concentrate trait unless you're Casting a Spell or Seeking.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Divine Weapon": {
@@ -1140,7 +1140,7 @@
     },
     "Effect: Guide's Warning": {
       "name": "Effect: Guide's Warning",
-      "description": "<*><p>You gain a +1 circumstance bonus to your initiative rolls. This bonus increases to +2 if the guide was Scouting.</p>",
+      "description": "<p>You gain a +1 circumstance bonus to your initiative rolls. This bonus increases to +2 if the guide was Scouting.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Guiding Words": {
@@ -1251,8 +1251,8 @@
     },
     "Effect: Hurl Net": {
       "name": "Effect: Hurl Net",
-      "description": "<*><p>On a hit, you are off-guard and take a –10-foot circumstance penalty to your Speeds. On a critical hit, you are restrained instead.</p>",
-      "source": "<*>Pathfinder NPC Core"
+      "description": "<p>On a hit, you are off-guard and take a –10-foot circumstance penalty to your Speeds. On a critical hit, you are restrained instead.</p>",
+      "source": "Pathfinder NPC Core"
     },
     "Effect: Hurtful Critique": {
       "name": "Effect: Hurtful Critique",
@@ -1435,7 +1435,7 @@
     },
     "Effect: Kingpin's Presence": {
       "name": "Effect: Kingpin's Presence",
-      "description": "<*><p>You gain a +2 status bonus to saving throws against mental effects.</p>",
+      "description": "<p>You gain a +2 status bonus to saving throws against mental effects.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Lantern of Hope": {
@@ -1540,7 +1540,7 @@
     },
     "Effect: Mark of Fate": {
       "name": "Effect: Mark of Fate",
-      "description": "<*><p>You gain weakness 10 to unholy and take a –2 circumstance penalty to Charisma-based skill checks against followers of Urgathoa.</p>",
+      "description": "<p>You gain weakness 10 to unholy and take a –2 circumstance penalty to Charisma-based skill checks against followers of Urgathoa.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Medical Malpractice": {
@@ -1875,7 +1875,7 @@
     },
     "Effect: Repentant Defiance": {
       "name": "Effect: Repentant Defiance",
-      "description": "<*><p>You gain resistance 3 to physical damage.</p>",
+      "description": "<p>You gain resistance 3 to physical damage.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Replenishment of War (Endlo)": {
@@ -1915,7 +1915,7 @@
     },
     "Effect: Root in Place": {
       "name": "Effect: Root in Place",
-      "description": "<*><p>Your Speed is reduced to 0 and you gain a +1 circumstance bonus to AC and 2 temporary Hit Points.</p>",
+      "description": "<p>Your Speed is reduced to 0 and you gain a +1 circumstance bonus to AC and 2 temporary Hit Points.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Rope Snare": {
@@ -1960,7 +1960,7 @@
     },
     "Effect: Scent of Blood": {
       "name": "Effect: Scent of Blood",
-      "description": "<*><p>You 10 temporary HP and a +4 status bonus to damage rolls with your unarmed attacks, but become off-guard.</p>",
+      "description": "<p>You 10 temporary HP and a +4 status bonus to damage rolls with your unarmed attacks, but become off-guard.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Scraping Clamor": {
@@ -2041,7 +2041,7 @@
     },
     "Effect: Sinful Bite": {
       "name": "Effect: Sinful Bite",
-      "description": "<*><p>You take a -10-foot status penalty to your Speeds.</p>",
+      "description": "<p>You take a -10-foot status penalty to your Speeds.</p>",
       "source": "Pathfinder Monster Core"
     },
     "Effect: Siphon Will": {
@@ -2121,7 +2121,7 @@
     },
     "Effect: Spear Parry": {
       "name": "Effect: Spear Parry",
-      "description": "<*><p>You gain a +1 circumstance bonus to AC until the start of your next turn.</p>",
+      "description": "<p>You gain a +1 circumstance bonus to AC until the start of your next turn.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Spill Secrets": {
@@ -2267,7 +2267,7 @@
     },
     "Effect: Swig": {
       "name": "Effect: Swig",
-      "description": "<*><p>You gain a +2 item bonus to melee damage rolls and saving throws against fear but are off-guard.</p>",
+      "description": "<p>You gain a +2 item bonus to melee damage rolls and saving throws against fear but are off-guard.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Swig (Clumsy)": {
@@ -2547,7 +2547,7 @@
     },
     "Effect: You'll Pay for That": {
       "name": "Effect: You'll Pay for That",
-      "description": "<*><p>You gain a +5 status bonus to your next damage roll against the marked enemy.</p>",
+      "description": "<p>You gain a +5 status bonus to your next damage roll against the marked enemy.</p>",
       "source": "Pathfinder NPC Core"
     },
     "Effect: Zinba Restoration": {
