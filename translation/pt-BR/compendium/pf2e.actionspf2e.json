@@ -2,13 +2,13 @@
   "label": "Ações",
   "entries": {
     "A Challenge for Heroes": {
-      "name": "A Challenge for Heroes",
-      "description": "<p>You declare an enemy within 60 feet to be a heroic test. For 1 minute, that enemy deals an additional 10 spirit damage to you with each successful Strike or spell it targets you with. Whenever that enemy deals spirit damage to you, each ally who has the enemy in melee reach can attempt a @UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Reactive Strike} against it, even if the ally doesn't normally have that reaction. If an ally successfully slays the enemy with a Reactive Strike due to this effect, that ally immediately gains temporary Hit Points equal to your level, which persist for 1 minute.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.pUXV4sks4p9Jc8Wb]{Effect: A Challenge for Heroes}</p>",
+      "name": "Um Desafio para Heróis",
+      "description": "<p>Você declara um inimigo a até 60 feet como um teste heroico. Por 1 minuto, aquele inimigo causa 10 pontos de dano espiritual adicional a você com cada Ataque bem-sucedido ou magia que alveje você. Sempre que aquele inimigo causar dano espiritual a você, cada aliado que tiver o inimigo ao alcance de corpo a corpo pode tentar um @UUID[Compendium.pf2e.actionspf2e.Item.KAVf7AmRnbCAHrkT]{Reactive Strike} contra ele, mesmo que o aliado normalmente não tenha essa reação. Se um aliado abater o inimigo com sucesso com um Reactive Strike devido a este efeito, aquele aliado ganha imediatamente Pontos de Vida temporários iguais ao seu nível, que persistem por 1 minuto.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.pUXV4sks4p9Jc8Wb]{Efeito: Um Desafio para Heróis}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "A Moment Unending": {
-      "name": "A Moment Unending",
-      "description": "<p>You take in every movement around you, affording you unparalleled accuracy. Your next successful Strike against an enemy before the end of your next turn deals an additional 1d6 precision damage. This damage increases to 2d6 at 10th level and 3d6 at 18th level.</p>",
+      "name": "Um Momento Infinito",
+      "description": "<p>Você absorve cada movimento ao seu redor, concedendo-lhe precisão incomparável. Seu próximo Ataque bem-sucedido contra um inimigo antes do fim do seu próximo turno causa 1d6 de dano de precisão adicional. Este dano aumenta para 2d6 no 10º nível e 3d6 no 18º nível.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "A Quick Glimpse Beyond": {
@@ -110,8 +110,8 @@
       "source": "Pathfinder Player Core"
     },
     "Arrow Splits Arrow": {
-      "name": "Arrow Splits Arrow",
-      "description": "<p><strong>Requirements</strong> Your previous action was to Strike with the @UUID[Compendium.pf2e.classfeatures.Item.Jm8L7uSM01pJxSiW]{Unfailing Bow}</p>\n<hr />\n<p><strong>Effect</strong> You repeat your motions exactly, your attack landing in the same location as your previous shot. You make a Strike against the same target. The result of your d20 roll is the same as the result of the required shot, though any penalties (such as your multiple attack penalty) apply normally to this shot and you don't automatically adjust the degree of success if the initial roll was a natural 1 or 20.</p>",
+      "name": "Flecha Divide Flecha",
+      "description": "<p><strong>Requisitos</strong> Sua ação anterior foi um Ataque com o @UUID[Compendium.pf2e.classfeatures.Item.Jm8L7uSM01pJxSiW]{Arco Infalível}</p>\n<hr />\n<p><strong>Efeito</strong> Você repete seus movimentos exatamente, seu ataque aterrissando no mesmo local do seu disparo anterior. Você realiza um Ataque contra o mesmo alvo. O resultado do seu teste de d20 é o mesmo do resultado do disparo requerido, embora quaisquer penalidades (como sua penalidade por ataque múltiplo) se apliquem normalmente a este disparo e você não ajuste automaticamente o grau de sucesso se o teste inicial foi um 1 ou 20 natural.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Assume a Role": {
@@ -166,8 +166,8 @@
       "source": "Pathfinder Player Core 2"
     },
     "Bear Allies' Burdens": {
-      "name": "Bear Allies' Burdens",
-      "description": "<p>You move with a speed belying your strength, carrying your allies as easily as straw dolls. You Stride. At any point you are adjacent to a willing ally during the Stride, you can pick that ally up, and you can deposit them into a space adjacent to you at any other point during your movement. You ignore the ally's Bulk while carrying them during your Stride. You can Climb, Fly, or Swim instead of Striding if you have the corresponding movement type.</p>",
+      "name": "Carregar Fardos de Aliados",
+      "description": "<p>Você se move com uma velocidade que desmente sua força, carregando seus aliados tão facilmente quanto bonecas de palha. Você **Avança (Stride)**. Em qualquer ponto em que você estiver adjacente a um aliado voluntário durante o Avanço, você pode pegar aquele aliado, e você pode depositá-lo em um espaço adjacente a você em qualquer outro ponto durante seu movimento. Você ignora o **Volume (Bulk)** do aliado enquanto o carrega durante seu Avanço. Você pode **Escalar (Climb)**, **Voar (Fly)** ou **Nadar (Swim)** em vez de Avançar se tiver o tipo de movimento correspondente.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Beast's Charge": {
@@ -232,8 +232,8 @@
       "source": "Pathfinder Player Core 2"
     },
     "Bond with Spirit": {
-      "name": "Bond with Spirit",
-      "description": "<p>You can forge a spiritual bond with a creature that is at least friendly toward you or with a terrain that you're currently in. Forming this bond takes 10 minutes, during which time you must remain adjacent to the creature or within that terrain. If the creature is intelligent, this also requires that creature's consent, and that intelligent creature can choose to sever this bond with you at any time as a free action, which has the concentrate trait. This bond lasts as long as you are within a mile of the creature or terrain, until you use Bond with Spirit again, or until you make your daily preparations.</p>\n<p>You must be Bonded with a Spirit to cast the @UUID[Compendium.pf2e.spells-srd.Item.Yph1UqZU8vMc9bJG]{Entreat Spirit} focus spell.</p>",
+      "name": "Vínculo com Espírito",
+      "description": "<p>Você pode forjar um vínculo espiritual com uma criatura que seja pelo menos amigável (friendly) em relação a você ou com um terreno em que você esteja atualmente. Formar este vínculo leva 10 minutos, durante os quais você deve permanecer adjacente à criatura ou dentro daquele terreno. Se a criatura for inteligente, isso também requer o consentimento daquela criatura, e aquela criatura inteligente pode escolher romper este vínculo com você a qualquer momento como uma ação livre, que possui a característica de concentração (concentrate). Este vínculo dura enquanto você estiver a até uma milha da criatura ou terreno, até que você use Vínculo com Espírito (Bond with Spirit) novamente, ou até que você faça suas preparações diárias.</p>\n<p>Você deve estar Vinculado a um Espírito (Bonded with a Spirit) para conjurar a magia de foco @UUID[Compendium.pf2e.spells-srd.Item.Yph1UqZU8vMc9bJG]{Entreat Spirit}.</p>",
       "source": "Pathfinder Lost Omens Divine Mysteries"
     },
     "Borrow an Arcane Spell": {
@@ -242,8 +242,8 @@
       "source": "Pathfinder Player Core"
     },
     "Break Free": {
-      "name": "Break Free",
-      "description": "<p>You can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} with a +2 status bonus on your check, then Stride up to twice your Speed in a straight line, and finally make a melee Strike. If you don't need to Escape or you can't move or choose not to, you still take the other actions listed.</p>",
+      "name": "Libertar-se",
+      "description": "<p>Você pode tentar @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapar (Escape)} com um bônus de estado (status bonus) de +2 no seu teste, então **Avançar (Stride)** até duas vezes o seu Deslocamento (Speed) em linha reta, e finalmente realizar um **Ataque corpo a corpo (melee Strike)**. Se você não precisar Escapar ou não puder se mover ou escolher não o fazer, você ainda realiza as outras ações listadas.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Break Them Down": {
@@ -252,8 +252,8 @@
       "source": "Pathfinder Lost Omens Impossible Lands"
     },
     "Break the Sun's Legs": {
-      "name": "Break the Sun's Legs",
-      "description": "<p>You make a slashing motion over the brightest source of light, whether it's a torch or the sun in the sky. A gash appears over the light source, visible to all, and devours the light. The entire area within a @Template[type:burst|distance:120] around you is affected by a 9th-rank @UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{Darkness} spell for 1 minute. The stolen light is channeled to your eyes, granting you greater darkvision for the duration of the effect.</p>",
+      "name": "Quebrar as Pernas do Sol",
+      "description": "<p>Você faz um movimento cortante sobre a fonte de luz mais brilhante, seja uma tocha ou o sol no céu. Uma fenda aparece sobre a fonte de luz, visível a todos, e devora a luz. Toda a área dentro de uma @Template[type:burst|distance:120] ao seu redor é afetada por uma magia de 9º círculo @UUID[Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c]{Darkness} por 1 minuto. A luz roubada é canalizada para seus olhos, concedendo-lhe visão no escuro superior (greater darkvision) pela duração do efeito.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Breath Weapon": {
@@ -283,8 +283,8 @@
       "source": "Pathfinder GM Core"
     },
     "Burn out of Time": {
-      "name": "Burn out of Time",
-      "description": "<p>An impossible amount of energy blazes in a sphere above you before compressing itself into your weapon. Strike one creature. The Strike deals an additional 3d8 spirit damage and 3d8 void damage. If the creature is reduced to 0 Hit Points, it's immediately killed and reduced to ash, not in the present, but in the recent past, erasing the consequences of their recent actions.</p>\n<p>If a creature died within the last round as a result of the incinerated target's actions, that creature is returned to life with @Damage[5d8[healing]] Hit Points at the location that it died as its death is retroactively undone.</p>",
+      "name": "Queimar Fora do Tempo",
+      "description": "<p>Uma quantidade impossível de energia flameja em uma esfera acima de você antes de se comprimir em sua arma. **Ataque (Strike)** uma criatura. O Ataque causa 3d8 de dano espiritual adicional e 3d8 de dano de vazio (void damage). Se a criatura for reduzida a 0 Pontos de Vida (Hit Points), ela é imediatamente morta e reduzida a cinzas, não no presente, mas no passado recente, apagando as consequências de suas ações recentes.</p>\n<p>Se uma criatura morreu no último round como resultado das ações do alvo incinerado, aquela criatura retorna à vida com @Damage[5d8[healing]] Pontos de Vida (Hit Points) no local onde morreu, pois sua morte é desfeita retroativamente.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Burrow": {
@@ -323,8 +323,8 @@
       "source": "Pathfinder Lost Omens The Mwangi Expanse"
     },
     "Captivating Charm": {
-      "name": "Captivating Charm",
-      "description": "<p>You focus your attention on a creature within 30 feet, overwhelming its senses. The creature must succeed at a @Check[will|against:exemplar] save against your class DC or be @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated} by you until the start of your next turn. The condition ends if you use a hostile action against the target, but not if you use a hostile action against its allies.</p>",
+      "name": "Encanto Cativante",
+      "description": "<p>Você foca sua atenção em uma criatura a até 30 feet, oprimindo seus sentidos. A criatura deve obter sucesso em um teste de resistência @Check[will|against:exemplar] contra a sua CD de classe ou ficar @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinado} por você até o início do seu próximo turno. A condição termina se você usar uma ação hostil contra o alvo, mas não se você usar uma ação hostil contra seus aliados.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Cast a Spell": {
@@ -400,8 +400,8 @@
       "source": "Pathfinder Player Core"
     },
     "Coiling Serpents": {
-      "name": "Coiling Serpents",
-      "description": "<p>Make a ranged Strike with your ikon. If the Strike hits, the target must succeed at a @Check[reflex|against:exemplar] save against your class DC or the arrow transforms into a multitude of ethereal snakes that coil around the target, @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilizing} it until it succeeds at an @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} attempt against your class DC.</p>",
+      "name": "Serpentes Enroscantes",
+      "description": "<p>Realize um Ataque à distância (ranged Strike) com o seu ikon. Se o Ataque acertar, o alvo deve obter sucesso em um teste de resistência @Check[reflex|against:exemplar] contra a sua CD de classe ou a flecha se transforma em uma multidão de serpentes etéreas que se enroscam no alvo, @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizando} ele até que obtenha sucesso em uma tentativa de @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapar} contra a sua CD de classe.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Collect Spirit Remnant": {
@@ -475,9 +475,9 @@
       "source": "Pathfinder #169: Kindled Magic"
     },
     "Crash Against Me": {
-      "name": "Crash Against Me",
-      "description": "<p>Your skin becomes virtually unbreakable. Until the start of your next turn, you have resistance equal to your level to the chosen damage type.</p>\n<p>During this time, if a creature attacking you using a weapon dealing the same damage type as your resistance misses you or hits you but deals no damage due to your resistance, the weapon clangs wildly off your skin. This painful reverberation makes the attacking enemy @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} and gives it a –2 circumstance penalty to attacks with that weapon until the start of the enemy's next turn.</p>",
-      "selfEffect": "Effect: Crash Against Me",
+      "name": "Esmague-se Contra Mim",
+      "description": "<p>Sua pele se torna virtualmente inquebrável. Até o início do seu próximo turno, você tem resistência igual ao seu nível ao tipo de dano escolhido.</p>\n<p>Durante este tempo, se uma criatura atacando você usando uma arma que cause o mesmo tipo de dano da sua resistência errar você ou acertar você, mas não causar dano devido à sua resistência, a arma colide violentamente com sua pele. Esta reverberação dolorosa torna o inimigo atacante @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} e lhe concede uma penalidade de circunstância de –2 em ataques com aquela arma até o início do próximo turno do inimigo.</p>",
+      "selfEffect": "Efeito: Esmague-se Contra Mim",
       "source": "Pathfinder War of Immortals"
     },
     "Crawl": {
@@ -710,7 +710,7 @@
     },
     "Earn Income": {
       "name": "Ganhar Renda",
-      "description": "<p>You can use a skill to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won't come up in every campaign. The most typical ways to earn income, detailed further in this section are:</p>\n<ul>\n<li>Crafting goods for the market (Crafting)</li>\n<li>Practicing a Trade (Lore)</li>\n<li>Staging a Performance (Performance)</li>\n</ul>\n<p>In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using Religion in a monastery to study old texts—but giving sermons at a church would still fall under Performance instead of Religion. You also might be able to use physical skills to make money, such as using Acrobatics to perform feats in a circus or Thievery to pick pockets. If you're using a skill other than Crafting, Lore, or Performance, the DC tends to be significantly higher.</p>\n<h2 class=\"title\">Earn Income</h2>\n<section class=\"traits\">\n<p title=\"An activity with this trait takes a day or more, and can be used only during downtime.\">Downtime</p>\n</section>\n<hr />\n<p>You use one of your skills to make money during downtime. The GM assigns a task level representing the most lucrative job available. You can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can attempt to find better work than the initial offerings, though this takes time and requires using the Diplomacy skill to Gather Information, doing some research, or socializing.</p>\n<p>When you take on a job, the GM secretly sets the DC of your skill check. After your first day of work, you roll to determine your earnings. You gain an amount of income based on your result, the task's level, and your proficiency rank (as listed on the Income Earned table).</p>\n<p>You can continue working at the task on subsequent days without needing to roll again. For each day you spend after the first, you earn the same amount as the first day, up until the task's completion. The GM determines how long you can work at the task. Most tasks last a week or two, though some can take months or even years.</p>\n<h2>Table 4-2: Income Earned</h2>\n<table class=\"pf2e remaster\">\n<thead>\n<tr>\n<th>Task Level</th>\n<th>Failure</th>\n<th>Trained</th>\n<th>Expert</th>\n<th>Master</th>\n<th>Legendary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0</td>\n<td>1 cp</td>\n<td>5 cp</td>\n<td>5 cp</td>\n<td>5 cp</td>\n<td>5 cp</td>\n</tr>\n<tr>\n<td>1</td>\n<td>2 cp</td>\n<td>2 sp</td>\n<td>2 sp</td>\n<td>2 sp</td>\n<td>2 sp</td>\n</tr>\n<tr>\n<td>2</td>\n<td>4 cp</td>\n<td>3 sp</td>\n<td>3 sp</td>\n<td>3 sp</td>\n<td>3 sp</td>\n</tr>\n<tr>\n<td>3</td>\n<td>8 cp</td>\n<td>5 sp</td>\n<td>5 sp</td>\n<td>5 sp</td>\n<td>5 sp</td>\n</tr>\n<tr>\n<td>4</td>\n<td>1 sp</td>\n<td>7 sp</td>\n<td>8 sp</td>\n<td>8 sp</td>\n<td>8 sp</td>\n</tr>\n<tr>\n<td>5</td>\n<td>2 sp</td>\n<td>9 sp</td>\n<td>1 gp</td>\n<td>1 gp</td>\n<td>1 gp</td>\n</tr>\n<tr>\n<td>6</td>\n<td>3 sp</td>\n<td>1 gp, 5 sp</td>\n<td>2 gp</td>\n<td>2 gp</td>\n<td>2 gp</td>\n</tr>\n<tr>\n<td>7</td>\n<td>4 sp</td>\n<td>2 gp</td>\n<td>2 gp, 5 sp</td>\n<td>2 gp, 5 sp</td>\n<td>2 gp, 5 sp</td>\n</tr>\n<tr>\n<td>8</td>\n<td>5 sp</td>\n<td>2 gp, 5 sp</td>\n<td>3 gp</td>\n<td>3 gp</td>\n<td>3 gp</td>\n</tr>\n<tr>\n<td>9</td>\n<td>6 sp</td>\n<td>3 gp</td>\n<td>4 gp</td>\n<td>4 gp</td>\n<td>4 gp</td>\n</tr>\n<tr>\n<td>10</td>\n<td>7 sp</td>\n<td>4 gp</td>\n<td>5 gp</td>\n<td>6 gp</td>\n<td>6 gp</td>\n</tr>\n<tr>\n<td>11</td>\n<td>8 sp</td>\n<td>5 gp</td>\n<td>6 gp</td>\n<td>8 gp</td>\n<td>8 gp</td>\n</tr>\n<tr>\n<td>12</td>\n<td>9 sp</td>\n<td>6 gp</td>\n<td>8 gp</td>\n<td>10 gp</td>\n<td>10 gp</td>\n</tr>\n<tr>\n<td>13</td>\n<td>1 gp</td>\n<td>7 gp</td>\n<td>10 gp</td>\n<td>15 gp</td>\n<td>15 gp</td>\n</tr>\n<tr>\n<td>14</td>\n<td>1 gp, 5 sp</td>\n<td>8 gp</td>\n<td>15 gp</td>\n<td>20 gp</td>\n<td>20 gp</td>\n</tr>\n<tr>\n<td>15</td>\n<td>2 gp</td>\n<td>10 gp</td>\n<td>20 gp</td>\n<td>28 gp</td>\n<td>28 gp</td>\n</tr>\n<tr>\n<td>16</td>\n<td>2 gp, 5 sp</td>\n<td>13 gp</td>\n<td>25 gp</td>\n<td>36 gp</td>\n<td>40 gp</td>\n</tr>\n<tr>\n<td>17</td>\n<td>3 gp</td>\n<td>15 gp</td>\n<td>30 gp</td>\n<td>45 gp</td>\n<td>55 gp</td>\n</tr>\n<tr>\n<td>18</td>\n<td>4 gp</td>\n<td>20 gp</td>\n<td>45 gp</td>\n<td>70 gp</td>\n<td>90 gp</td>\n</tr>\n<tr>\n<td>19</td>\n<td>6 gp</td>\n<td>30 gp</td>\n<td>60 gp</td>\n<td>100 gp</td>\n<td>130 gp</td>\n</tr>\n<tr>\n<td>20</td>\n<td>8 gp</td>\n<td>40 gp</td>\n<td>75 gp</td>\n<td>150 gp</td>\n<td>200 gp</td>\n</tr>\n<tr>\n<td>20 (critical success)</td>\n<td>-</td>\n<td>50 gp</td>\n<td>90 gp</td>\n<td>175 gp</td>\n<td>300 gp</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Critical Success</strong> You do outstanding work. Gain the amount of currency listed for the task level + 1 and your proficiency rank.</p>\n<p><strong>Success</strong> You do competent work. Gain the amount of currency listed for the task level and your proficiency rank.</p>\n<p><strong>Failure</strong> You do shoddy work and get paid the bare minimum for your time. Gain the amount of currency listed in the failure column for the task level. The GM will likely reduce how long you can continue at the task.</p>\n<p><strong>Critical Failure</strong> You earn nothing for your work and are fired immediately. You can't continue at the task. Your reputation suffers, potentially making it difficult for you to find rewarding jobs in that community in the future.</p>\n<section class=\"sample-tasks\">\n<h2>Sample Earn Income Tasks</h2>\n<p>These examples use Alcohol Lore to work in a bar or Legal Lore to perform legal work.</p>\n<ul>\n<li><strong>Trained</strong> bartend, do legal research</li>\n<li><strong>Expert</strong> curate drink selection, present minor court cases</li>\n<li><strong>Master</strong> run a large brewery, present important court cases</li>\n<li><strong>Legendary</strong> run an international brewing franchise, present a case in Hell's courts</li>\n</ul>\n<h2 class=\"title\">Crafting Goods for the Market [Crafting]</h2>\n<p>Using Crafting, you can work at producing common items for the market. It's usually easy to find work making basic items whose level is 1 or 2 below your settlement's level.</p>\n<p>Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full Price. These opportunities don't occur as often and might have special requirements—or serious consequences if you disappoint a prominent client.</p>\n<h2 class=\"title\">Practicing a Trade [Lore]</h2>\n<p>You apply the practical benefits of one of your Lore specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there's high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you're attempting to use an obscure Lore skill to earn income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant's scale to buy and sell valuables in a market.</p>\n<h2 class=\"title\">Staging a Performance [Performance]</h2>\n<p>You perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level.</p>\n<p>Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.</p>\n<hr />\n<h2>Ending or Interrupting Tasks</h2>\n<p>When a task you're doing is complete, or if you stop in the middle of one, you normally have to find a new task if you want to keep Earning Income. For instance, if you quit your job working at the docks, you'll need to find another place of employment instead of picking up where you left off. This usually takes 1 day or more of downtime looking for leads on new jobs.</p>\n<p>However, you might pause a task due to an adventure or event that wouldn't prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn't been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can't try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check.</p>\n</section>",
+      "description": "<p>Você pode usar uma perícia para ganhar dinheiro durante o tempo de inatividade (downtime). Você deve ser treinado na perícia para fazê-lo. Isso leva tempo para ser configurado, e sua renda depende do seu grau de proficiência e de quão lucrativa é a tarefa que você consegue encontrar. Como este processo requer uma quantidade significativa de tempo e envolve o acompanhamento de coisas fora do progresso das aventuras, ele não aparecerá em toda campanha. As formas mais típicas de ganhar renda, detalhadas mais adiante nesta seção são:</p>\n<ul>\n<li>Criar bens para o mercado (Crafting)</li>\n<li>Praticar um Ofício (Lore)</li>\n<li>Realizar uma Apresentação (Performance)</li>\n</ul>\n<p>Em alguns casos, o MJ (GM) pode permitir que você use uma perícia diferente para Ganhar Renda através de trabalho especializado. Geralmente, este é trabalho acadêmico, como usar [Religion] em um mosteiro para estudar textos antigos—mas dar sermões em uma igreja ainda se enquadraria em [Performance] em vez de [Religion]. Você também pode ser capaz de usar perícias físicas para ganhar dinheiro, como usar [Acrobatics] para realizar proezas em um circo ou [Thievery] para batedores de carteira. Se você estiver usando uma perícia diferente de [Crafting], [Lore] ou [Performance], a CD tende a ser significativamente maior.</p>\n<h2 class=\"title\">Ganhar Renda</h2>\n<section class=\"traits\">\n<p title=\"Uma atividade com esta característica leva um dia ou mais, e só pode ser usada durante o tempo de inatividade (downtime).\">Tempo de Inatividade (Downtime)</p>\n</section>\n<hr />\n<p>Você usa uma de suas perícias para fazer dinheiro durante o tempo de inatividade (downtime). O MJ (GM) atribui um nível de tarefa representando o trabalho mais lucrativo disponível. Você pode procurar por tarefas de nível inferior, com o MJ determinando se você encontra alguma. Às vezes você pode tentar encontrar trabalho melhor do que as ofertas iniciais, embora isso leve tempo e exija usar a perícia [Diplomacy] para Coletar Informações (Gather Information), fazer alguma pesquisa ou socializar.</p>\n<p>Quando você aceita um trabalho, o MJ (GM) define secretamente a CD do seu teste de perícia. Após o seu primeiro dia de trabalho, você rola para determinar seus ganhos. Você obtém uma quantidade de renda baseada no seu resultado, no nível da tarefa e no seu grau de proficiência (conforme listado na tabela Renda Ganhada).</p>\n<p>Você pode continuar trabalhando na tarefa nos dias seguintes sem precisar rolar novamente. Para cada dia que você gasta após o primeiro, você ganha a mesma quantia do primeiro dia, até a conclusão da tarefa. O MJ (GM) determina por quanto tempo você pode trabalhar na tarefa. A maioria das tarefas dura uma semana ou duas, embora algumas possam levar meses ou até anos.</p>\n<h2>Tabela 4-2: Renda Ganhada</h2>\n<table class=\"pf2e remaster\">\n<thead>\n<tr>\n<th>Nível da Tarefa</th>\n<th>Falha</th>\n<th>Treinado</th>\n<th>Especialista</th>\n<th>Mestre</th>\n<th>Lendário</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0</td>\n<td>1 cp</td>\n<td>5 cp</td>\n<td>5 cp</td>\n<td>5 cp</td>\n<td>5 cp</td>\n</tr>\n<tr>\n<td>1</td>\n<td>2 cp</td>\n<td>2 sp</td>\n<td>2 sp</td>\n<td>2 sp</td>\n<td>2 sp</td>\n</tr>\n<tr>\n<td>2</td>\n<td>4 cp</td>\n<td>3 sp</td>\n<td>3 sp</td>\n<td>3 sp</td>\n<td>3 sp</td>\n</tr>\n<tr>\n<td>3</td>\n<td>8 cp</td>\n<td>5 sp</td>\n<td>5 sp</td>\n<td>5 sp</td>\n<td>5 sp</td>\n</tr>\n<tr>\n<td>4</td>\n<td>1 sp</td>\n<td>7 sp</td>\n<td>8 sp</td>\n<td>8 sp</td>\n<td>8 sp</td>\n</tr>\n<tr>\n<td>5</td>\n<td>2 sp</td>\n<td>9 sp</td>\n<td>1 gp</td>\n<td>1 gp</td>\n<td>1 gp</td>\n</tr>\n<tr>\n<td>6</td>\n<td>3 sp</td>\n<td>1 gp, 5 sp</td>\n<td>2 gp</td>\n<td>2 gp</td>\n<td>2 gp</td>\n</tr>\n<tr>\n<td>7</td>\n<td>4 sp</td>\n<td>2 gp</td>\n<td>2 gp, 5 sp</td>\n<td>2 gp, 5 sp</td>\n<td>2 gp, 5 sp</td>\n</tr>\n<tr>\n<td>8</td>\n<td>5 sp</td>\n<td>2 gp, 5 sp</td>\n<td>3 gp</td>\n<td>3 gp</td>\n<td>3 gp</td>\n</tr>\n<tr>\n<td>9</td>\n<td>6 sp</td>\n<td>3 gp</td>\n<td>4 gp</td>\n<td>4 gp</td>\n<td>4 gp</td>\n</tr>\n<tr>\n<td>10</td>\n<td>7 sp</td>\n<td>4 gp</td>\n<td>5 gp</td>\n<td>6 gp</td>\n<td>6 gp</td>\n</tr>\n<tr>\n<td>11</td>\n<td>8 sp</td>\n<td>5 gp</td>\n<td>6 gp</td>\n<td>8 gp</td>\n<td>8 gp</td>\n</tr>\n<tr>\n<td>12</td>\n<td>9 sp</td>\n<td>6 gp</td>\n<td>8 gp</td>\n<td>10 gp</td>\n<td>10 gp</td>\n</tr>\n<tr>\n<td>13</td>\n<td>1 gp</td>\n<td>7 gp</td>\n<td>10 gp</td>\n<td>15 gp</td>\n<td>15 gp</td>\n</tr>\n<tr>\n<td>14</td>\n<td>1 gp, 5 sp</td>\n<td>8 gp</td>\n<td>15 gp</td>\n<td>20 gp</td>\n<td>20 gp</td>\n</tr>\n<tr>\n<td>15</td>\n<td>2 gp</td>\n<td>10 gp</td>\n<td>20 gp</td>\n<td>28 gp</td>\n<td>28 gp</td>\n</tr>\n<tr>\n<td>16</td>\n<td>2 gp, 5 sp</td>\n<td>13 gp</td>\n<td>25 gp</td>\n<td>36 gp</td>\n<td>40 gp</td>\n</tr>\n<tr>\n<td>17</td>\n<td>3 gp</td>\n<td>15 gp</td>\n<td>30 gp</td>\n<td>45 gp</td>\n<td>55 gp</td>\n</tr>\n<tr>\n<td>18</td>\n<td>4 gp</td>\n<td>20 gp</td>\n<td>45 gp</td>\n<td>70 gp</td>\n<td>90 gp</td>\n</tr>\n<tr>\n<td>19</td>\n<td>6 gp</td>\n<td>30 gp</td>\n<td>60 gp</td>\n<td>100 gp</td>\n<td>130 gp</td>\n</tr>\n<tr>\n<td>20</td>\n<td>8 gp</td>\n<td>40 gp</td>\n<td>75 gp</td>\n<td>150 gp</td>\n<td>200 gp</td>\n</tr>\n<tr>\n<td>20 (sucesso crítico)</td>\n<td>-</td>\n<td>50 gp</td>\n<td>90 gp</td>\n<td>175 gp</td>\n<td>300 gp</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Sucesso Crítico</strong> Você faz um trabalho excepcional. Ganhe a quantidade de moeda listada para o nível da tarefa + 1 e seu grau de proficiência.</p>\n<p><strong>Sucesso</strong> Você faz um trabalho competente. Ganhe a quantidade de moeda listada para o nível da tarefa e seu grau de proficiência.</p>\n<p><strong>Falha</strong> Você faz um trabalho de má qualidade e é pago o mínimo pelo seu tempo. Ganhe a quantidade de moeda listada na coluna de falha para o nível da tarefa. O MJ (GM) provavelmente reduzirá por quanto tempo você pode continuar na tarefa.</p>\n<p><strong>Falha Crítica</strong> Você não ganha nada pelo seu trabalho e é demitido imediatamente. Você não pode continuar na tarefa. Sua reputação sofre, potencialmente tornando difícil para você encontrar trabalhos gratificantes naquela comunidade no futuro.</p>\n<section class=\"sample-tasks\">\n<h2>Exemplos de Tarefas de Ganhar Renda</h2>\n<p>Estes exemplos usam [Alcohol Lore] para trabalhar em um bar ou [Legal Lore] para realizar trabalho legal.</p>\n<ul>\n<li><strong>Treinado</strong> trabalhar como bartender, fazer pesquisa legal</li>\n<li><strong>Especialista</strong> curar seleção de bebidas, apresentar casos judiciais menores</li>\n<li><strong>Mestre</strong> gerenciar uma grande cervejaria, apresentar casos judiciais importantes</li>\n<li><strong>Lendário</strong> gerenciar uma franquia de cervejaria internacional, apresentar um caso nos tribunais do Inferno</li>\n</ul>\n<h2 class=\"title\">Criar Bens para o Mercado [Crafting]</h2>\n<p>Usando [Crafting], você pode trabalhar produzindo itens comuns para o mercado. Geralmente é fácil encontrar trabalho fazendo itens básicos cujo nível é 1 ou 2 abaixo do nível do seu assentamento.</p>\n<p>Tarefas de nível superior representam comissões especiais, que podem exigir que você Crie um item específico usando a atividade de tempo de inatividade (downtime) Craft e o venda a um comprador pelo Preço total. Essas oportunidades não ocorrem com tanta frequência e podem ter requisitos especiais—ou sérias consequências se você decepcionar um cliente proeminente.</p>\n<h2 class=\"title\">Praticar um Ofício [Lore]</h2>\n<p>Você aplica os benefícios práticos de uma de suas especialidades de [Lore] durante o tempo de inatividade (downtime) praticando seu ofício. Isso é mais eficaz para especialidades de [Lore] como negócios, direito ou navegação, onde há alta demanda por trabalhadores. O MJ (GM) pode aumentar a CD ou determinar que apenas tarefas de baixo nível estão disponíveis se você estiver tentando usar uma perícia [Lore] obscura para ganhar renda. Você também pode precisar de ferramentas especializadas para aceitar um trabalho, como ferramentas de mineração para trabalhar em uma mina ou uma balança de mercador para comprar e vender objetos de valor em um mercado.</p>\n<h2 class=\"title\">Realizar uma Apresentação [Performance]</h2>\n<p>Você se apresenta para uma audiência para ganhar dinheiro. As audiências disponíveis determinam o nível da sua tarefa, já que audiências mais exigentes são mais difíceis de impressionar, mas proporcionam um pagamento maior. O MJ (GM) determina o nível da tarefa com base nas audiências disponíveis. Apresentar-se para uma audiência típica de plebeus na rua é uma tarefa de nível 0, mas uma apresentação para um grupo de artesãos com gostos mais refinados pode ser uma tarefa de 2º ou 3º nível, e aquelas para mercadores, nobreza e realeza são de nível cada vez mais alto.</p>\n<p>Seu grau de sucesso determina se você emocionou sua audiência e se foi recompensado com aplausos ou frutas podres.</p>\n<hr />\n<h2>Encerrando ou Interrompendo Tarefas</h2>\n<p>Quando uma tarefa que você está fazendo é concluída, ou se você parar no meio de uma, você normalmente tem que encontrar uma nova tarefa se quiser continuar Ganhando Renda. Por exemplo, se você pedir demissão do seu trabalho no cais, você precisará encontrar outro local de emprego em vez de retomar de onde parou. Isso geralmente leva 1 dia ou mais de tempo de inatividade (downtime) procurando por pistas sobre novos trabalhos.</p>\n<p>No entanto, você pode pausar uma tarefa devido a uma aventura ou evento que não o impediria de retornar ao trabalho antigo mais tarde. O MJ (GM) pode decidir que você pode retomar de onde parou, assumindo que a tarefa não tenha sido concluída por outros em sua ausência. Se você rola um novo teste de perícia (skill check) ao retomar também fica a critério do MJ (GM). De modo geral, se você teve uma rolagem inicial boa e quer mantê-la, você pode, mas se teve uma rolagem inicial ruim, você não pode tentar uma melhor pausando para fazer outra coisa. Se suas estatísticas mudaram durante a pausa—geralmente porque você subiu de nível enquanto aventurava—você pode tentar um novo teste.</p>\n</section>",
       "source": "Pathfinder Player Core"
     },
     "Eldritch Shot": {
@@ -754,8 +754,8 @@
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Enter Seat Of Power": {
-      "name": "Enter Seat Of Power",
-      "description": "<p>You focus your mind on your seat of power, then tap into this connection to transport yourself to its demiplane. This process takes 10 minutes. You can bring up to 10 willing creatures with you when you Enter Seat of Power; these creatures must remain within 30 feet of you for the duration of the activity.</p>\n<p>You can remain in your seat of power for as long as you desire. Any creature that you bring to your seat of power in this way (including you) can depart the demiplane as a three-action activity that has the concentrate trait. They return to the location they were in when they Entered your Seat of Power, or the nearest unoccupied space if that location is occupied.</p>",
+      "name": "Entrar no Assento de Poder",
+      "description": "<p>Você foca sua mente em seu assento de poder, então acessa esta conexão para se transportar para o demiplano dele. Este processo leva 10 minutos. Você pode trazer até 10 criaturas voluntárias com você quando Entrar no Assento de Poder (Enter Seat of Power); estas criaturas devem permanecer a até 30 feet de você pela duração da atividade.</p>\n<p>Você pode permanecer em seu assento de poder pelo tempo que desejar. Qualquer criatura que você trouxer para seu assento de poder desta forma (incluindo você) pode deixar o demiplano como uma atividade de três ações que possui a característica de concentração (concentrate). Elas retornam para o local onde estavam quando Entraram no seu Assento de Poder (Entered your Seat of Power), ou para o espaço desocupado mais próximo se aquele local estiver ocupado.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Enter Spirit Trance": {
@@ -771,8 +771,8 @@
       "source": "Pathfinder Dark Archive"
     },
     "Entreat Pact": {
-      "name": "Entreat Pact",
-      "description": "<p><strong>Trigger</strong> You attempt a skill check directly related to the conditions of the pact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You call upon the occult energies powering your pact to help you fulfill your promise. Roll twice on the triggering check and take the better result.</p>",
+      "name": "Suplicar Pacto",
+      "description": "<p><strong>Gatilho</strong> Você tenta um teste de perícia diretamente relacionado às condições do pacto</p>\n<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Você invoca as energias ocultas que fortalecem seu pacto para ajudá-lo a cumprir sua promessa. Role duas vezes no teste desencadeador e use o melhor resultado.</p>",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Envenom": {
@@ -841,8 +841,8 @@
       "source": "Pathfinder War of Immortals"
     },
     "Fey Jump": {
-      "name": "Fey Jump",
-      "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You jump through the First World for a brief second, teleporting up 60 feet away to an empty space you can see. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the action is lost.</p>",
+      "name": "Salto Feérico",
+      "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Você salta através do Primeiro Mundo por um breve segundo, teletransportando-se a até 60 feet de distância para um espaço vazio que você possa ver. Se isso traria outra criatura com você—mesmo que você a esteja carregando em um contêiner extradimensional—a ação é perdida.</p>",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Fey's Fortune": {
@@ -887,7 +887,7 @@
     },
     "Flash of Grandeur": {
       "name": "Clarão de Grandeza",
-      "description": "<p><strong>Trigger</strong> An enemy damages your ally, and both are in your champion's aura</p>\n<hr />\n<p><strong>Effect</strong> Imperious divine light flashes out from you to surround your foe. The ally gains resistance to all damage against the triggering damage equal to 2 + your level. Until the end of your next turn, the attacker is affected by @UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{Revealing Light}.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Effect: Champion's Resistance}</p>",
+      "description": "<p><strong>Gatilho</strong> Um inimigo causa dano ao seu aliado, e ambos estão na aura do seu campeão (champion's aura)</p>\n<hr />\n<p><strong>Efeito</strong> Uma luz divina imperiosa irrompe de você para cercar seu inimigo. O aliado ganha resistência a todo dano contra o dano desencadeador igual a 2 + seu nível. Até o fim do seu próximo turno, o atacante é afetado por @UUID[Compendium.pf2e.spells-srd.Item.0qaqksrGGDj74HXE]{Revealing Light}.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Efeito: Resistência do Campeão}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Fleeting Arc through Heaven and Earth": {
@@ -916,8 +916,8 @@
       "source": "Pathfinder Player Core"
     },
     "Flyby Attack": {
-      "name": "Flyby Attack",
-      "description": "<p><strong>Effect</strong> You Fly and can make a Strike at any point along the way.</p>",
+      "name": "Ataque em Voo",
+      "description": "<p><strong>Efeito</strong> Você **Voa (Fly)** e pode realizar um **Ataque (Strike)** em qualquer ponto do caminho.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Follow the Expert": {
@@ -931,8 +931,8 @@
       "source": "Pathfinder Player Core"
     },
     "Forced Pact": {
-      "name": "Forced Pact",
-      "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> You force a temporary pact on both yourself and another creature you can see within 60 feet. Choose attack, move, manipulate, or concentrate. The target must attempt a Will saving throw.</p>\n<hr />\n<p><strong>Success</strong> The target is unaffected.</p>\n<p><strong>Failure</strong> If you or the target uses an action with the chosen trait within the next minute, they take @Damage[10d6[mental]] damage, and this pact ends for both of you.</p>\n<p><strong>Critical Failure</strong> As failure, except your target takes the damage if either of you uses an action with the chosen trait.</p>",
+      "name": "Pacto Forçado",
+      "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Você força um pacto temporário tanto em você quanto em outra criatura que você possa ver a até 60 feet. Escolha ataque (attack), mover (move), manipular (manipulate) ou concentrar (concentrate). O alvo deve tentar um teste de resistência de Vontade (Will saving throw).</p>\n<hr />\n<p><strong>Sucesso</strong> O alvo não é afetado.</p>\n<p><strong>Falha</strong> Se você ou o alvo usar uma ação com a característica escolhida dentro do próximo minuto, eles sofrem @Damage[10d6[mental]] de dano, e este pacto termina para ambos.</p>\n<p><strong>Falha Crítica</strong> Como falha, exceto que seu alvo sofre o dano se qualquer um de vocês usar uma ação com a característica escolhida.</p>",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Foresight": {
@@ -951,8 +951,8 @@
       "source": "Pathfinder Gamemastery Guide"
     },
     "Fracture Mountains": {
-      "name": "Fracture Mountains",
-      "description": "<p>Your spirit is so dense it takes on tangible force. Make a melee Strike with the @UUID[Compendium.pf2e.classfeatures.Item.jpS7wcMnBXK1rS4J]{Titan's Breaker}. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, your additional spirit damage from the ikon's immanence increases to 4 plus an extra die of weapon damage.</p>\n<p>If you're at least 10th level, it's increased to 6 spirit damage and two extra dice, and if you're at least 18th level, it's increased to 8 spirit damage and three extra dice.</p>",
+      "name": "Fraturar Montanhas",
+      "description": "<p>Seu espírito é tão denso que adquire força tangível. Realize um **Ataque corpo a corpo (melee Strike)** com o @UUID[Compendium.pf2e.classfeatures.Item.jpS7wcMnBXK1rS4J]{Titan's Breaker}. Isso conta como dois ataques ao calcular sua penalidade por ataque múltiplo (multiple attack penalty). Se este Ataque acertar, seu dano espiritual adicional da imanência do ikon (ikon's immanence) aumenta para 4 mais um dado extra de dano de arma (weapon damage).</p>\n<p>Se você for pelo menos de 10º nível, aumenta para 6 de dano espiritual e dois dados extras, e se você for pelo menos de 18º nível, aumenta para 8 de dano espiritual e três dados extras.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Furious Strike": {
@@ -987,7 +987,7 @@
     },
     "Glimpse Vulnerability": {
       "name": "Vislumbrar Vulnerabilidade",
-      "description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirement</strong> You are holding your implement</p>\n<hr />\n<p><strong>Effect</strong> You glimpse a hidden vulnerability and then strengthen it to aid you. Select a creature you can see. Until you Glimpse Vulnerability again, that target gains weakness 2 against your unarmed and weapon Strikes.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.H35En2lHCVzOOUMf]{Effect: Glimpse Vulnerability}</p>",
+      "description": "<p><strong>Frequência</strong> uma vez por round</p>\n<p><strong>Requisito</strong> Você está segurando seu implemento (implement)</p>\n<hr />\n<p><strong>Efeito</strong> Você vislumbra uma vulnerabilidade oculta e então a fortalece para ajudá-lo. Selecione uma criatura que você possa ver. Até que você Vislumbre Vulnerabilidade (Glimpse Vulnerability) novamente, aquele alvo ganha fraqueza 2 contra seus Ataques (Strikes) desarmados (unarmed) e com arma (weapon).</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.H35En2lHCVzOOUMf]{Efeito: Vislumbrar Vulnerabilidade}</p>",
       "source": "Pathfinder Dark Archive"
     },
     "Glimpse of Redemption": {
@@ -1031,9 +1031,9 @@
       "source": "Pathfinder Stolen Fate Player's Guide"
     },
     "Harvest Blood": {
-      "name": "Harvest Blood",
-      "description": "<p><strong>Requirements</strong> Your last action was a successful piercing or slashing melee Strike against a creature that is not immune to bleed</p>\n<hr />\n<p><strong>Effect</strong> You consume the blood lingering upon your weapon. You reduce the value of your drained condition by 1, gain temporary Hit Points equal to your Constitution modifier, and gain a +1 circumstance bonus to saving throws against that creature's spells for 1 minute, or until you Harvest Blood from another creature.</p>",
-      "selfEffect": "Effect: Harvest Blood",
+      "name": "Colher Sangue",
+      "description": "<p><strong>Requisitos</strong> Sua última ação foi um Ataque corpo a corpo (melee Strike) perfurante ou cortante bem-sucedido contra uma criatura que não seja imune a sangramento (bleed)</p>\n<hr />\n<p><strong>Efeito</strong> Você consome o sangue que permanece em sua arma. Você reduz o valor da sua condição drenado (drained) em 1, ganha Pontos de Vida temporários (temporary Hit Points) iguais ao seu modificador de Constituição, e ganha um bônus de circunstância de +1 (circumstance bonus) em testes de resistência contra as magias daquela criatura por 1 minuto, ou até você Colher Sangue (Harvest Blood) de outra criatura.</p>",
+      "selfEffect": "Efeito: Colher Sangue",
       "source": "Pathfinder War of Immortals"
     },
     "Harvest Heartsliver": {
@@ -1042,13 +1042,13 @@
       "source": "Pathfinder Lost Omens Monsters of Myth"
     },
     "Heaven Rains an Ending": {
-      "name": "Heaven Rains an Ending",
-      "description": "<p>You shoot an arrow that multiplies into a dense cloud of weapons. Make one ranged Strike with a –2 penalty against each enemy you are aware of within a cone as long as your weapon's first range increment. Roll the damage only once for all targets, and all the Strike's damage is spirit damage instead of its normal type. Each attack counts toward your multiple attack penalty, the penalty doesn't increase until you have made all your attacks.</p>",
+      "name": "O Céu Chove um Fim",
+      "description": "<p>Você atira uma flecha que se multiplica em uma densa nuvem de armas. Realize um Ataque à distância (ranged Strike) com uma penalidade de –2 contra cada inimigo do qual você esteja ciente dentro de um cone tão longo quanto o primeiro incremento de alcance (range increment) da sua arma. Role o dano apenas uma vez para todos os alvos, e todo o dano do Ataque é dano espiritual (spirit damage) em vez do seu tipo normal. Cada ataque conta para a sua penalidade por ataque múltiplo (multiple attack penalty), a penalidade não aumenta até que você tenha realizado todos os seus ataques.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Heavy is the Crown": {
-      "name": "Heavy is the Crown",
-      "description": "<p>The weight of authority falls heavily upon you, as well as nearby creatures. All enemies in a @Template[type:burst|distance:15] within 60 feet take @Damage[(@actor.level)[spirit]|options:area-damage]{spirit damage damage equal to your level} with a @Check[will|against:exemplar|basic|options:area-effect] save against your class DC. Any enemy that fails its save must immediately kneel, dropping @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} as a free action.</p>",
+      "name": "Pesada é a Coroa",
+      "description": "<p>O peso da autoridade cai pesadamente sobre você, bem como sobre criaturas próximas. Todos os inimigos em uma @Template[type:burst|distance:15] a até 60 feet sofrem @Damage[(@actor.level)[spirit]|options:area-damage]{dano espiritual igual ao seu nível} com um teste de resistência básico @Check[will|against:exemplar|basic|options:area-effect] contra a sua CD de classe. Qualquer inimigo que falhar no seu teste deve se ajoelhar imediatamente, caindo @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prostrado} como uma ação livre.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Hide": {
@@ -1073,9 +1073,9 @@
       "source": "Pathfinder Player Core"
     },
     "Hunt the Razer's Pawn": {
-      "name": "Hunt the Razer's Pawn",
-      "description": "<p>Designate a single creature that you can see or hear, or whom you've spent a significant amount of time studying and reading about from afar (subject to the GM's approval), and who you know to be an agent of Treerazer. You gain a +2 circumstance bonus to Perception checks to @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} or @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sense the Motive} of this creature. This creature takes a –1 circumstance penalty to saving throws against spells or effects you create; this penalty increases to –2 against effects that have the holy trait.</p>\n<p>You can have only one creature designated by Hunt the Razer's Pawn at a time. If you use this ability against a creature when you already have one designated, the prior creature loses the designation and the new creature gains the designation. This lasts until your next daily preparations.</p>",
-      "selfEffect": "Effect: Hunt the Razer's Pawn",
+      "name": "Caçar o Peão do Rasgadura",
+      "description": "<p>Designe uma única criatura que você possa ver ou ouvir, ou sobre a qual você passou uma quantidade significativa de tempo estudando e lendo à distância (sujeito à aprovação do MJ), e que você saiba ser um agente de Treerazer. Você ganha um bônus de circunstância de +2 (circumstance bonus) em testes de Percepção (Perception checks) para @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Procurar (Seek)} ou @UUID[Compendium.pf2e.actionspf2e.Item.1xRFPTFtWtGJ9ELw]{Sentir a Motivação (Sense the Motive)} desta criatura. Esta criatura sofre uma penalidade de circunstância de –1 (circumstance penalty) em testes de resistência (saving throws) contra magias ou efeitos que você criar; esta penalidade aumenta para –2 contra efeitos que possuam a característica sagrada (holy trait).</p>\n<p>Você pode ter apenas uma criatura designada por Caçar o Peão do Rasgadura (Hunt the Razer's Pawn) por vez. Se você usar esta habilidade contra uma criatura quando já tiver uma designada, a criatura anterior perde a designação e a nova criatura ganha a designação. Isso dura até suas próximas preparações diárias.</p>",
+      "selfEffect": "Efeito: Caçar o Peão do Rasgadura",
       "source": "Pathfinder Spore War Player's Guide"
     },
     "Hustle": {
@@ -1154,8 +1154,8 @@
       "source": "Pathfinder Player Core"
     },
     "Intercession Spell": {
-      "name": "Intercession Spell",
-      "description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> Your hierophant Casts a Spell</p>\n<hr />\n<p><strong>Effect</strong> Interceding directly in your hierophant's affairs, you grant them additional magic. They do not expend the spell slot, usage, or Focus Point.</p>",
+      "name": "Magia de Intercessão",
+      "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<p><strong>Gatilho</strong> Seu hierofante Conjurta uma Magia (Casts a Spell)</p>\n<hr />\n<p><strong>Efeito</strong> Intercedendo diretamente nos assuntos do seu hierofante, você concede a ele magia adicional. Ele não gasta o espaço de magia (spell slot), uso ou Ponto de Foco (Focus Point).</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Into the Fray": {
@@ -1214,8 +1214,8 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Launch Fireworks": {
-      "name": "Launch Fireworks",
-      "description": "<p><strong>Cost</strong> 1 versatile vial</p>\n<p><strong>Requirements</strong> You have a free hand</p>\n<hr />\n<p><strong>Effect</strong> You set off a fireworks display. You can launch a normal firework to simply create a visual or audible signal within 20 feet or you can choose one of the following special effects. A firework display has the listed traits, and if it costs more than 1 batch of infused reagents, it is noted in its Cost entry.</p>\n<p><strong>Comet</strong> <span class=\"action-glyph\">1</span> (visual) You shoot a streak of shining light in a @Template[type:line|distance:60]. All spaces in that line are lit with bright light until the start of your next turn. As part of this action, you can also @UUID[Compendium.pf2e.actionspf2e.Item.sn2hIy1iIJX9Vpgj]{Point Out} a single creature in the line, and your allies do not need to hear or understand you.</p>\n<p><strong>Flower</strong> <span class=\"action-glyph\">1</span> (visual) You ignite a ring of sparks, creating a shape that might be reminiscent of a flower blooming in the sky. Each enemy with 20 feet of you must attempt a @Check[fortitude|against:class-spell|traits:visual] save. On a failure, the enemy is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round, and on a critical failure they are dazzled for 2 rounds.</p>\n<p><strong>Salute</strong> <span class=\"action-glyph\">1</span> (auditory) You create a startling bang or whistle, adding an auditory component to your fireworks display. When you launch a salute display, you can choose a @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} or @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated} ally within 60 feet. If the ally you chose is fascinated, the noise is so violent that it acts as a hostile effect for the purpose of their fascinated condition (though it has no negative repercussions) automatically ending most applications of the fascinated condition. If they're confused, the sound is so loud and violent that it might snap the ally out of confusion. They can immediately attempt the flat check to remove the confused condition which normally occurs when a creature is damaged. If the confused condition has special rules that remove the flat check when taking damage or make the flat check harder, those rules also apply to the salute.</p>",
+      "name": "Lançar Fogos de Artifício",
+      "description": "<p><strong>Custo</strong> 1 frasco versátil (versatile vial)</p>\n<p><strong>Requisitos</strong> Você tem uma mão livre (free hand)</p>\n<hr />\n<p><strong>Efeito</strong> Você aciona uma exibição de fogos de artifício. Você pode lançar um fogo de artifício normal para simplesmente criar um sinal visual ou audível a até 20 feet ou você pode escolher um dos seguintes efeitos especiais. Uma exibição de fogos de artifício possui as características listadas, e se custar mais de 1 lote de reagentes infundidos, isso é notado na sua entrada de Custo.</p>\n<p><strong>Cometa</strong> <span class=\"action-glyph\">1</span> (visual) Você dispara um rastro de luz brilhante em uma @Template[type:line|distance:60]. Todos os espaços naquela linha são iluminados com luz brilhante até o início do seu próximo turno. Como parte desta ação, você também pode @UUID[Compendium.pf2e.actionspf2e.Item.sn2hIy1iIJX9Vpgj]{Apontar (Point Out)} uma única criatura na linha, e seus aliados não precisam ouvi-lo ou entendê-lo.</p>\n<p><strong>Flor</strong> <span class=\"action-glyph\">1</span> (visual) Você acende um anel de faíscas, criando uma forma que pode ser reminiscente de uma flor desabrochando no céu. Cada inimigo a até 20 feet de você deve tentar um teste de resistência @Check[fortitude|against:class-spell|traits:visual]. Em caso de falha, o inimigo fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscado} por 1 round, e em caso de falha crítica ele fica ofuscado por 2 rounds.</p>\n<p><strong>Saudação</strong> <span class=\"action-glyph\">1</span> (auditory) Você cria um estampido ou assobio surpreendente, adicionando um componente auditivo à sua exibição de fogos de artifício. Quando você lança uma exibição de saudação, você pode escolher um aliado @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confuso} ou @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinado} a até 60 feet. Se o aliado que você escolheu estiver fascinado (fascinated), o ruído é tão violento que age como um efeito hostil para o propósito da condição fascinado deles (embora não tenha repercussões negativas), encerrando automaticamente a maioria das aplicações da condição fascinado. Se estiverem confusos (confused), o som é tão alto e violento que pode tirá-los da confusão. Eles podem tentar imediatamente o teste fixo (flat check) para remover a condição confuso que normalmente ocorre quando uma criatura sofre dano. Se a condição confuso tiver regras especiais que removem o teste fixo ao sofrer dano ou tornam o teste fixo mais difícil, essas regras também se aplicam à saudação.</p>",
       "source": "Pathfinder Guns & Gears"
     },
     "Lay Down Arms": {
@@ -1239,13 +1239,13 @@
       "source": "Pathfinder Player Core"
     },
     "Liar's Hidden Blade": {
-      "name": "Liar's Hidden Blade",
-      "description": "<p><strong>Requirements</strong> Your previous action was an unsuccessful Strike with the weapon from the @UUID[Compendium.pf2e.classfeatures.Item.ktgzHtKoeUZ5H8KA]{Shadow Sheath}</p>\n<hr />\n<p><strong>Effect</strong> The shadow weapon you threw fades, the distraction covering your true intention all along—a second strike in hidden in the blind spot of the first! Interact to draw another weapon from the shadow sheath, then Strike with it at the same multiple attack penalty as the unsuccessful attack. The opponent is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} to this attack.</p>\n<p>This Strike counts toward your multiple attack penalty as normal. After the Strike resolves, you can Interact to draw another weapon from the shadow sheath.</p>",
+      "name": "Lâmina Oculta do Mentiroso",
+      "description": "<p><strong>Requisitos</strong> Sua ação anterior foi um **Ataque (Strike)** malsucedido com a arma da @UUID[Compendium.pf2e.classfeatures.Item.ktgzHtKoeUZ5H8KA]{Bainha Sombria (Shadow Sheath)}</p>\n<hr />\n<p><strong>Efeito</strong> A arma sombria que você lançou se desvanece, a distração cobrindo sua verdadeira intenção o tempo todo—um segundo ataque ocultado no ponto cego do primeiro! **Interaja (Interact)** para sacar outra arma da bainha sombria (shadow sheath), então **Ataque (Strike)** com ela com a mesma penalidade por ataque múltiplo (multiple attack penalty) do ataque malsucedido. O oponente fica @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} a este ataque.</p>\n<p>Este **Ataque (Strike)** conta para a sua penalidade por ataque múltiplo (multiple attack penalty) normalmente. Depois que o Ataque for resolvido (resolves), você pode **Interagir (Interact)** para sacar outra arma da bainha sombria (shadow sheath).</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Liberating Step": {
       "name": "Passo Libertador",
-      "description": "<p><strong>Trigger</strong> An enemy damages, @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{grabs}, or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{restrains} your ally, and both are in your champion's aura</p>\n<hr />\n<p>You free an ally from restraint.</p>\n<p>If the trigger was an ally taking damage, the ally gains resistance to all damage against the triggering damage equal to 2 + your level.</p>\n<p>The ally can attempt to break free of effects grabbing, @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restraining}, @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilizing}, or @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzing} them. They either attempt a new save against one such effect that allows a save, or attempt to @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escape} from one effect as a free action.</p>\n<p>If they can move, the ally can Step as a free action, even if they didn't need to escape.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Effect: Champion's Resistance}</p>",
+      "description": "<p><strong>Gatilho</strong> Um inimigo causa dano, @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{agarra}, ou @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{restringe} seu aliado, e ambos estão na aura do seu campeão (champion's aura)</p>\n<hr />\n<p>Você liberta um aliado de restrição.</p>\n<p>Se o gatilho foi um aliado sofrendo dano, o aliado ganha resistência a todo dano contra o dano desencadeador igual a 2 + seu nível.</p>\n<p>O aliado pode tentar se libertar de efeitos que o agarram (grabbing), @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restringindo}, @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Imobilizando}, ou @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralisando}. Ele pode tentar um novo teste de resistência (save) contra um desses efeitos que permita um teste, ou tentar @UUID[Compendium.pf2e.actionspf2e.Item.SkZAQRkLLkmBQNB9]{Escapar} de um efeito como uma ação livre (free action).</p>\n<p>Se eles puderem se mover, o aliado pode Dar um Passo (Step) como uma ação livre (free action), mesmo que não precisasse escapar.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.DawVHfoPKbPJsz4k]{Efeito: Resistência do Campeão}</p>",
       "source": "Pathfinder Player Core 2"
     },
     "Lie": {
@@ -1384,9 +1384,9 @@
       "source": "Pathfinder Dark Archive"
     },
     "Offer Story": {
-      "name": "Offer Story",
-      "description": "<p>You share a story of your travels with a creature within 30 feet. You gain the blessing of Isthralei as a +1 status bonus to AC and Will saves until the end of your next turn. On their next turn, the creature you shared a story with can take a single action, which has the auditory, concentrate, linguistic, and mental traits, to respond with their own story to gain the same benefits until the end of the following turn.</p>",
-      "selfEffect": "Effect: Offer Story",
+      "name": "Oferecer História",
+      "description": "<p>Você compartilha uma história de suas viagens com uma criatura a até 30 feet. Você ganha a bênção de Isthralei como um bônus de estado (status bonus) de +1 na CA e testes de resistência de Vontade (Will saves) até o fim do seu próximo turno. No próximo turno deles, a criatura com quem você compartilhou uma história pode realizar uma única ação, que possui as características auditivo (auditory), concentração (concentrate), linguístico (linguistic) e mental (mental traits), para responder com sua própria história e obter os mesmos benefícios até o fim do turno seguinte.</p>",
+      "selfEffect": "Efeito: Oferecer História",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Once Bitten": {
@@ -1396,7 +1396,7 @@
     },
     "One Moment till Glory": {
       "name": "Um Momento para a Glória",
-      "description": "<p>You rally your allies, carrying them from the brink of disaster to the verge of victory. Each ally in your aura can immediately attempt a new saving throw with a +2 status bonus against one ongoing negative effect or condition currently affecting it that required a save. Use the result of the new save to determine the outcome of the effect, unless the new save would have a worse result than the original save, in which case nothing happens. Each ally can gain this benefit against a given effect only once.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xHbMPpYEPwI0tmcV]{Effect: One Moment till Glory}</p>",
+      "description": "<p>Você reúne seus aliados, levando-os da beira do desastre à margem da vitória. Cada aliado em sua aura pode tentar imediatamente um novo teste de resistência (saving throw) com um bônus de estado (status bonus) de +2 contra um efeito negativo ou condição contínuo (ongoing) que o esteja afetando e que exigiu um teste de resistência. Use o resultado do novo teste de resistência para determinar o desfecho do efeito, a menos que o novo teste de resistência tenha um resultado pior do que o teste de resistência original, caso em que nada acontece. Cada aliado pode obter este benefício contra um dado efeito apenas uma vez.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.xHbMPpYEPwI0tmcV]{Efeito: Um Momento para a Glória}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "One Shot, One Kill": {
@@ -1480,8 +1480,8 @@
       "source": "Pathfinder #204: Stage Fright"
     },
     "Plant Thirty Barbs": {
-      "name": "Plant Thirty Barbs",
-      "description": "<p>You snap off a fragment of your ikon within your opponent's body, which threatens to burst into numerous barbs. Make a Strike with your ikon. If successful, barbs fill the target, dealing two die of weapon damage the first time the creature uses a move action on each of its turns; the barbs are made out of the same material as your weapon ikon and bypass resistances and such accordingly (for instance, a cold iron spear would create cold iron barbs). The barbs last for [[/gmr 1d4 #rounds]]{1d4 rounds}. If the target dies while the barbs are still in their body, the barbs burst forth in a forest of thorns covering the creature's space, which are greater difficult terrain and deal piercing damage equal to half your level for each square that is moved into.</p>",
+      "name": "Plantar Trinta Farpa",
+      "description": "<p>Você quebra um fragmento do seu ikon dentro do corpo do seu oponente, que ameaça explodir em numerosas farpas (barbs). Realize um **Ataque (Strike)** com o seu ikon. Se bem-sucedido, farpas (barbs) preenchem o alvo, causando dois dados de dano de arma (weapon damage) na primeira vez que a criatura usar uma ação de movimento (move action) em cada um de seus turnos; as farpas são feitas do mesmo material do seu ikon de arma e contornam resistências e afins de acordo (por exemplo, uma lança de ferro frio criaria farpas de ferro frio). As farpas duram por [[/gmr 1d4 #rounds]]{1d4 rounds}. Se o alvo morrer enquanto as farpas ainda estiverem em seu corpo, as farpas irrompem em uma floresta de espinhos cobrindo o espaço da criatura, que é terreno difícil superior (greater difficult terrain) e causa dano perfurante (piercing damage) igual à metade do seu nível para cada quadrado que for movido para dentro.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Plummeting Roll": {
@@ -1551,13 +1551,13 @@
     },
     "Quick-Tempered": {
       "name": "Temperamento Explosivo",
-      "description": "<p><strong>Gatilho</strong> Você rola iniciativa.</p>\n<p><strong>Requisitos</strong> Você não está @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Sobrecarregado} ou vestindo armadura pesada.</p>\n<hr />\n<p>Contanto que você seja capaz de se mover livremente, sua fúria é instintiva e instantânea. Você entra em @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Raiva}.</p>",
+      "description": "<p><strong>Gatilho</strong> Você rola iniciativa.</p>\n<p><strong>Requisitos</strong> Você não está @UUID[Compendium.pf2e.conditionitems.Item.D5mg6Tc7Jzrj6ro7]{Sobrecarregado} ou vestindo armadura pesada (heavy armor).</p>\n<hr />\n<p>Contanto que você seja capaz de se mover livremente (freely move), sua fúria é instintiva e instantânea. Você entra em @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Raiva}.</p>",
       "rules": {
         "0": {
-          "text": "{item|description}\n@UUID[Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr]{Effect: Rage}\n@UUID[Compendium.pf2e.feat-effects.Item.MaepXeSHiMoWDm7u]{Effect: Rage Temporary Hit Points Immunity}"
+          "text": "{item|description}\n@UUID[Compendium.pf2e.feat-effects.Item.z3uyCMBddrPK5umr]{Efeito: Raiva}\n@UUID[Compendium.pf2e.feat-effects.Item.MaepXeSHiMoWDm7u]{Efeito: Imunidade a Pontos de Vida Temporários de Raiva}"
         }
       },
-      "selfEffect": "Effect: Rage",
+      "selfEffect": "Efeito: Raiva",
       "source": "Pathfinder Player Core 2"
     },
     "Race the Skies": {
@@ -1594,8 +1594,8 @@
       "source": "Pathfinder Player Core"
     },
     "Raise the Walls": {
-      "name": "Raise the Walls",
-      "description": "<p>You Raise the mirrored aegis, which summons ethereal shields that surround you and one ally of your choice within 15 feet in a tortoise shield formation. You and the ally gain a +1 status bonus to AC, Reflex saves, and any save against a force, spirit, vitality, or void effect for 1 minute.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.dn7P5RzMZugxiWri]{Effect: Raise the Walls}</p>",
+      "name": "Erguer as Muralhas",
+      "description": "<p>Você **Ergue (Raise)** a égide espelhada (mirrored aegis), que invoca escudos etéreos que cercam você e um aliado de sua escolha a até 15 feet em uma formação de escudo de tartaruga (tortoise shield formation). Você e o aliado ganham um bônus de estado (status bonus) de +1 na CA, testes de resistência de Reflexos (Reflex saves), e qualquer teste de resistência contra um efeito de força (force), espírito (spirit), vitalidade (vitality), ou vazio (void) por 1 minuto.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.dn7P5RzMZugxiWri]{Efeito: Erguer as Muralhas}</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Rally": {
@@ -1624,8 +1624,8 @@
       "source": "Pathfinder Player Core"
     },
     "Reap the Field": {
-      "name": "Reap the Field",
-      "description": "<p><strong>Requirements</strong> Your previous action was a successful Strike with the @UUID[Compendium.pf2e.classfeatures.Item.HhDQOylStcEVZCNg]{Mortal Harvest}</p>\n<hr />\n<p><strong>Effect</strong> Time seems to lag as you blur across the battlefield, deciding the fate of many in a moment. Stride up to half your Speed and make another melee Strike with the mortal harvest against a different creature.</p>\n<p>This Strike uses the same multiple attack penalty as your previous Strike, but counts toward your multiple attack penalty as normal.</p>",
+      "name": "Ceifar o Campo",
+      "description": "<p><strong>Requisitos</strong> Sua ação anterior foi um **Ataque (Strike)** bem-sucedido com a @UUID[Compendium.pf2e.classfeatures.Item.HhDQOylStcEVZCNg]{Colheita Mortal (Mortal Harvest)}</p>\n<hr />\n<p><strong>Efeito</strong> O tempo parece desacelerar enquanto você se move rapidamente pelo campo de batalha, decidindo o destino de muitos em um instante. **Avance (Stride)** até metade do seu Deslocamento (Speed) e realize outro **Ataque corpo a corpo (melee Strike)** com a colheita mortal (mortal harvest) contra uma criatura diferente.</p>\n<p>Este Ataque usa a mesma penalidade por ataque múltiplo (multiple attack penalty) do seu Ataque anterior, mas conta para a sua penalidade por ataque múltiplo normalmente.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Rearrange Bones": {
@@ -1675,8 +1675,8 @@
       "source": "Pathfinder Player Core"
     },
     "Rejoin in Flight": {
-      "name": "Rejoin in Flight",
-      "description": "<p>You throw your weapon ikons to either side of a creature, and they seek each other out, converging on the target. Make two thrown Strikes against a target within the first range increment of both your weapon ikons. This counts as two attacks toward your multiple attack penalty, but the penalty doesn't increase until after you've made both attacks. The target is flanked for both attacks (typically making it @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} against both attacks). If both Strikes hit, the target also takes an additional die of weapon damage. The weapons then return to your hand.</p>",
+      "name": "Reunir em Voo",
+      "description": "<p>Você lança seus ikons de arma para ambos os lados de uma criatura, e eles se buscam, convergindo no alvo. Realize dois **Ataques de arremesso (thrown Strikes)** contra um alvo dentro do primeiro incremento de alcance (range increment) de ambos os seus ikons de arma. Isso conta como dois ataques para a sua penalidade por ataque múltiplo (multiple attack penalty), mas a penalidade não aumenta até depois que você tiver realizado ambos os ataques. O alvo fica flanqueado (flanked) para ambos os ataques (tipicamente tornando-o @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Desprevenido} contra ambos os ataques). Se ambos os **Ataques (Strikes)** acertarem, o alvo também sofre um dado adicional de dano de arma (weapon damage). As armas então retornam para sua mão.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Release": {
@@ -1731,8 +1731,8 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Restorative Teleportation": {
-      "name": "Restorative Teleportation",
-      "description": "<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Trigger</strong> You arrive at a location via a teleportation effect</p>\n<hr />\n<p><strong>Effect</strong> When you reappear after the teleportation, your body takes advantage of the teleportation to put itself back together in a healthier state, and you restore a number of Hit Points equal to 1d6 plus your level plus your Intelligence modifier (@Damage[(1d6 + @actor.level + @actor.system.abilities.int.mod)[healing]]).</p>",
+      "name": "Teletransporte Restaurador",
+      "description": "<p><strong>Frequência</strong> uma vez por minuto</p>\n<p><strong>Gatilho</strong> Você chega a um local através de um efeito de teletransporte</p>\n<hr />\n<p><strong>Efeito</strong> Quando você reaparece após o teletransporte, seu corpo aproveita o teletransporte para se recompor em um estado mais saudável, e você restaura uma quantidade de Pontos de Vida (Hit Points) igual a 1d6 mais seu nível mais seu modificador de Inteligência (@Damage[(1d6 + @actor.level + @actor.system.abilities.int.mod)[cura]]).</p>",
       "source": "Pathfinder Spore War Player's Guide"
     },
     "Restore the Mind": {
@@ -1751,8 +1751,8 @@
       "source": "Pathfinder Player Core 2"
     },
     "Rewrite Fate": {
-      "name": "Rewrite Fate",
-      "description": "<p><strong>Trigger</strong> You roll a skill check or saving throw and don't like the result.</p>\n<hr />\n<p>Destiny, fate, or some other force bends around you as your mythic power swells, manifesting in a flash of light or visible surge of energy emanating from your body as you cast aside the chains of fate. You expend a Mythic Point and reroll the check or save with mythic proficiency, taking the new result.</p>",
+      "name": "Reescrever o Destino",
+      "description": "<p><strong>Gatilho</strong> Você rola um teste de perícia (skill check) ou teste de resistência (saving throw) e não gosta do resultado.</p>\n<hr />\n<p>Destino, fado ou alguma outra força se curva ao seu redor enquanto seu poder mítico (mythic power) aumenta, manifestando-se em um clarão de luz ou um surto visível de energia emanando do seu corpo enquanto você deixa de lado as correntes do destino. Você gasta um Ponto Mítico (Mythic Point) e rola novamente o teste (check) ou teste de resistência (save) com proficiência mítica (mythic proficiency), usando o novo resultado.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Ring Bell": {
@@ -1761,13 +1761,13 @@
       "source": "Pathfinder Dark Archive"
     },
     "Ringing Challenge": {
-      "name": "Ringing Challenge",
-      "description": "<p>You clang your ikon against a weapon, shield, or the ground, emitting a shock wave that deals @Damage[(max(1,(floor((@actor.level - 2)/2))))d4[spirit],(max(1,(floor((@actor.level - 2)/2))))d4[sonic]|options:area-damage] damage to all creatures in a @Template[type:cone|distance:30] or @Template[type:emanation|distance:15] (@Check[fortitude|against:exemplar|basic|options:area-effect] save). A creature that critically fails its saving throw is @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} for 1 minute.</p>\n<p>At 6th level and every 2 levels thereafter, the damage increases by 1d4 spirit damage and 1d4 sonic damage.</p>",
+      "name": "Desafio Estrondoso",
+      "description": "<p>Você faz seu ikon colidir contra uma arma, escudo ou o chão, emitindo uma onda de choque que causa @Damage[(max(1,(floor((@actor.level - 2)/2))))d4[spirit],(max(1,(floor((@actor.level - 2)/2))))d4[sonic]|options:area-damage] de dano a todas as criaturas em um @Template[type:cone|distance:30] ou @Template[type:emanation|distance:15] (teste de resistência básico @Check[fortitude|against:exemplar|basic|options:area-effect]). Uma criatura que falhar criticamente (critically fails) no seu teste de resistência (saving throw) fica @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Surda} por 1 minuto.</p>\n<p>No 6º nível e a cada 2 níveis seguintes, o dano aumenta em 1d4 de dano espiritual (spirit damage) e 1d4 de dano sônico (sonic damage).</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Royal Grace": {
-      "name": "Royal Grace",
-      "description": "<p>You spend 10 minutes conferring with one of your knights who has the doomed condition. By discussing plans for your future kingdom with them and describing the benefits of your rule, you can attempt to soothe their spirits. Attempt a Diplomacy or Society check against a hard DC of your knight's level. Regardless of the result, that knight gains the benefits of the Refocus activity (if they have a focus pool) but is temporarily immune to Royal Grace for 24 hours.</p>\n<p><strong>Critical Success</strong> The knight's doomed condition is reduced by 2 (minimum 0).</p>\n<p><strong>Success</strong> The knight's doomed condition is reduced by 1 (minimum 0).</p>\n<p><strong>Failure</strong> The knight's doomed condition isn't reduced.</p>",
+      "name": "Graça Real",
+      "description": "<p>Você gasta 10 minutos conferindo com um de seus cavaleiros que possui a condição condenado (doomed). Discutindo planos para seu futuro reino com eles e descrevendo os benefícios de seu governo, você pode tentar acalmar seus espíritos. Tente um teste de [Diplomacy] ou [Society] contra uma CD difícil (hard DC) igual ao nível do seu cavaleiro. Independentemente do resultado, aquele cavaleiro ganha os benefícios da atividade Refocar (Refocus activity) (se possuir uma reserva de foco - focus pool) mas fica temporariamente imune a Graça Real (Royal Grace) por 24 horas.</p>\n<p><strong>Sucesso Crítico</strong> A condição condenado (doomed) do cavaleiro é reduzida em 2 (mínimo 0).</p>\n<p><strong>Sucesso</strong> A condição condenado (doomed) do cavaleiro é reduzida em 1 (mínimo 0).</p>\n<p><strong>Falha</strong> A condição condenado (doomed) do cavaleiro não é reduzida.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Run Over": {
@@ -1856,8 +1856,8 @@
       "source": "Pathfinder Secrets of Magic"
     },
     "Sever Four Dragonfly Wings": {
-      "name": "Sever Four Dragonfly Wings",
-      "description": "<p>Make a Strike that deals slashing damage with your weapon ikon. If that Strike is successful, you can immediately make an additional Strike against a different target within your reach. You can continue making Strikes in this manner, each against a different target, until you have made a total of four Strikes or you miss with a Strike, whichever comes first. Each attack counts toward your multiple attack penalty, but you do not increase your penalty until you have made all your attacks.</p>",
+      "name": "Cortar Quatro Asas de Libélula",
+      "description": "<p>Realize um **Ataque (Strike)** que causa dano cortante (slashing damage) com o seu ikon de arma. Se aquele Ataque for bem-sucedido (successful), você pode realizar imediatamente um **Ataque adicional (additional Strike)** contra um alvo diferente dentro do seu alcance (reach). Você pode continuar realizando Ataques desta maneira, cada um contra um alvo diferente, até ter realizado um total de quatro **Ataques (Strikes)** ou você errar (miss) um Ataque, o que ocorrer primeiro (whichever comes first). Cada ataque conta para a sua penalidade por ataque múltiplo (multiple attack penalty), mas você não aumenta sua penalidade até ter realizado todos os seus ataques.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Shadow Step": {
@@ -1891,8 +1891,8 @@
       "source": "Pathfinder Player Core"
     },
     "Shed the Mortal Skin": {
-      "name": "Shed the Mortal Skin",
-      "description": "<p>Like the serpent, that most ancient of immortals, you shed your skin, revealing a glowing divine form. If you are currently taking persistent fire or acid damage, you immediately end the effect. Until the beginning of your next turn, you shed bright light in a 20-foot radius (and dim light for the next 20 feet) like a torch. The next time you are dealt damage by an enemy before the beginning of your next turn, you shed glowing ichor in a square adjacent to you, and where it hits the earth, a glowing, thorned herb grows. A creature other than you can pluck and consume the herb with an Interact action to regain a number of Hit Points equal to half of the damage you were dealt by the attack that sprouted the herb.</p>",
+      "name": "Derramar a Pele Mortal",
+      "description": "<p>Como a serpente, o mais antigo dos imortais, você derrama sua pele, revelando uma forma divina brilhante. Se você estiver atualmente sofrendo dano persistente de fogo (fire damage) ou ácido (acid damage), você encerra o efeito imediatamente. Até o início do seu próximo turno, você emite luz brilhante em um raio de 20 feet (e luz penumbra pelos próximos 20 feet) como uma tocha. Na próxima vez que você sofrer dano de um inimigo antes do início do seu próximo turno, você derrama ícor brilhante em um quadrado adjacente a você, e onde ele atinge a terra, uma erva brilhante e espinhosa cresce. Uma criatura diferente de você pode colher e consumir a erva com uma ação de Interagir (Interact action) para recuperar uma quantidade de Pontos de Vida (Hit Points) igual à metade do dano que você sofreu do ataque que fez a erva brotar.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Shielding Wave": {
@@ -1902,8 +1902,8 @@
       "source": "Pathfinder Howl of the Wild"
     },
     "Shift Immanence": {
-      "name": "Shift Immanence",
-      "description": "<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p>You shift your power, filling one of your ikons with your divine spark. That ikon softly glows with radiant light, emits subtle chimes as it moves, or is otherwise obviously empowered in a way that matches your growing divinity, granting the ikon the divine trait and granting you that ikon's immanence effects for as long as your divine spark is empowering it. Your spark is indivisible, so it can empower only one ikon at a time. You can also Shift Immanence to return your spark to the depths of your soul, leaving none of your ikons empowered.</p>\n<hr />\n<p><strong>Special</strong> In addition to the above usage, you can also Shift Immanence as a free action triggered when you roll initiative.</p>",
+      "name": "Mudar Imanência",
+      "description": "<p><strong>Frequência</strong> uma vez por round</p>\n<hr />\n<p><strong>Efeito</strong> Você muda seu poder, preenchendo um de seus ikons com sua centelha divina (divine spark). Aquele ikon brilha suavemente com luz radiante, emite sons sutis enquanto se move, ou é obviamente empoderado de alguma outra forma que corresponda à sua divindade crescente, concedendo ao ikon a característica divina (divine trait) e concedendo a você os efeitos de imanência (immanence effects) daquele ikon enquanto sua centelha divina o estiver empoderando. Sua centelha é indivisível, então ela só pode empoderar um ikon por vez. Você também pode Mudar Imanência (Shift Immanence) para retornar sua centelha às profundezas de sua alma, deixando nenhum de seus ikons empoderado.</p>\n<hr />\n<p><strong>Especial</strong> Além do uso acima, você também pode Mudar Imanência (Shift Immanence) como uma ação livre (free action) desencadeada (triggered) quando você rola iniciativa (initiative).</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Shove": {
@@ -1917,8 +1917,8 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Skirt the Underworld": {
-      "name": "Skirt the Underworld",
-      "description": "<p>You skirt into the world of the dead, becoming @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible} for 1 round, then Fly up to your Speed. Each enemy adjacent to you at any point during this movement must succeed at a @Check[fortitude|against:exemplar] save against your class DC or become @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} for 1 minute (or permanently on a critical failure).</p>\n<p>For each creature blinded by this effect, the duration of the granted invisibility extends by 1 round. Undead and other creatures with strong ties to the world of the dead, such as psychopomps, are immune to this effect.</p>",
+      "name": "Contornar o Submundo",
+      "description": "<p>Você contorna para o mundo dos mortos (world of the dead), tornando-se @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisível} por 1 round, então **Voa (Fly)** até o seu Deslocamento (Speed). Cada inimigo adjacente a você em qualquer ponto durante este movimento deve obter sucesso em um teste de resistência @Check[fortitude|against:exemplar] contra a sua CD de classe ou ficar @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cego} por 1 minuto (ou permanentemente em caso de falha crítica).</p>\n<p>Para cada criatura cegada por este efeito, a duração da invisibilidade concedida se estende em 1 round. Mortos-vivos (Undead) e outras criaturas com fortes laços com o mundo dos mortos (world of the dead), como psicopompos (psychopomps), são imunes a este efeito.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Slayer's Identification": {
@@ -1977,8 +1977,8 @@
       "source": "Pathfinder Guns & Gears"
     },
     "Spirit Sanctification": {
-      "name": "Spirit Sanctification",
-      "description": "<p><strong>Cost</strong> 1 spirit wisp</p>\n<hr />\n<p><strong>Effect</strong> You immediately purify a spirit, which grants you a protective blessing before it departs. If your next action is to cast a halcyon spell, you gain a +1 status bonus to saving throws as well as resistance to void damage equal to the rank of the halcyon spell. These effects last for 1 round.</p>",
+      "name": "Santificação Espiritual",
+      "description": "<p><strong>Custo</strong> 1 foco espiritual (spirit wisp)</p>\n<hr />\n<p><strong>Efeito</strong> Você purifica imediatamente um espírito, o que lhe concede uma bênção protetora antes que ele parta. Se sua próxima ação for conjurar uma magia de alcyon (halcyon spell), você ganha um bônus de estado (status bonus) de +1 em testes de resistência (saving throws), bem como resistência a dano de vazio (void damage) igual ao círculo da magia de alcyon. Estes efeitos duram por 1 round.</p>",
       "source": "Pathfinder Claws of the Tyrant"
     },
     "Spirit's Mercy": {
@@ -2074,8 +2074,8 @@
       "source": "Pathfinder Player Core"
     },
     "Strike, Breathe, Rend": {
-      "name": "Strike, Breathe, Rend",
-      "description": "<p><strong>Requirements</strong> Your last action this turn was a successful Strike with the @UUID[Compendium.pf2e.classfeatures.Item.ndSCXO9Dg57fmZIY]{Noble Branch}</p>\n<hr />\n<p><strong>Effect</strong> You channel a rending pulse of energy down your weapon in the moment of contact. The target of the Strike takes spirit damage equal to the noble branch's weapon damage dice. This includes any extra dice from striking runes, but not from special abilities, property runes, or the like.</p>",
+      "name": "Golpear, Respirar, Rasgar",
+      "description": "<p><strong>Requisitos</strong> Sua última ação neste turno foi um **Ataque (Strike)** bem-sucedido com o @UUID[Compendium.pf2e.classfeatures.Item.ndSCXO9Dg57fmZIY]{Galho Nobre (Noble Branch)}</p>\n<hr />\n<p><strong>Efeito</strong> Você canaliza um pulso de energia rasgante pela sua arma no momento do contato. O alvo do **Ataque (Strike)** sofre dano espiritual (spirit damage) igual aos dados de dano de arma (weapon damage dice) do galho nobre (noble branch). Isso inclui quaisquer dados extras de runas de impacto (striking runes), mas não de habilidades especiais, runas de propriedade (property runes), ou similares.</p>",
       "source": "Pathfinder War of Immortals"
     },
     "Study": {
@@ -2089,9 +2089,9 @@
       "source": "Pathfinder Player Core"
     },
     "Survive the Wilds": {
-      "name": "Survive the Wilds",
-      "description": "<p>You wrap the pelt around yourself. You can choose to change the damage type the pelt is attuned to. The pelt shines gold, drawing the offending energies into itself.</p>\n<p>Until the start of your next turn, this shine creates an aura in a @Template[type:emanation|distance:15]. You and all allies in the emanation gain a +2 circumstance bonus to AC and saving throws against effects with that trait.</p>",
-      "selfEffect": "Effect: Survive the Wilds",
+      "name": "Sobreviver aos Ermos",
+      "description": "<p>Você envolve a pele (pelt) ao seu redor. Você pode escolher mudar o tipo de dano (damage type) ao qual a pele está sintonizada (attuned). A pele brilha dourado, atraindo as energias ofensivas para si mesma.</p>\n<p>Até o início do seu próximo turno, este brilho cria uma aura em uma @Template[type:emanation|distance:15]. Você e todos os aliados na emanação ganham um bônus de circunstância de +2 (circumstance bonus) na CA e testes de resistência (saving throws) contra efeitos com aquela característica (trait).</p>",
+      "selfEffect": "Efeito: Sobreviver aos Ermos",
       "source": "Pathfinder War of Immortals"
     },
     "Sustain": {
@@ -2180,8 +2180,8 @@
       "source": "Pathfinder Book of the Dead"
     },
     "Tell Me More": {
-      "name": "Tell Me More",
-      "description": "<p><strong>Target</strong> one creature that shares a language you speak</p>\n<p><strong>Requirements</strong> You're not in combat</p>\n<hr />\n<p><strong>Effect</strong> Just batting your eyes and giving someone a familiar nudge can get them talking, ready to spill the beans about everything and everyone around them. You roll twice on all rolls to influence the target and use the better result.</p>",
+      "name": "Conte-me Mais",
+      "description": "<p><strong>Alvo</strong> uma criatura que compartilha um idioma que você fala</p>\n<p><strong>Requisitos</strong> Você não está em combate.</p>\n<hr />\n<p><strong>Efeito</strong> Basta piscar os olhos e dar um empurrãozinho familiar em alguém para fazê-lo falar, pronto para contar tudo sobre tudo e todos ao redor. Você rola duas vezes em todos os testes para influenciar o alvo e usa o melhor resultado.</p>",
       "source": "Paizo Blog: Foolish Housekeeping and Other Articles"
     },
     "Ten Paces": {
@@ -2297,7 +2297,7 @@
     },
     "Tumble Through": {
       "name": "Rolar e Passar",
-      "description": "<p>You Stride up to your Speed. During this movement, you can try to move through the space of one enemy. Attempt an [[/act tumble-through]]{Acrobatics} check against the enemy's Reflex DC as soon as you try to enter its space. You can Tumble Through using Climb, Fly, Swim, or another action instead of Stride in the appropriate environment.</p>\n<p><strong>Success</strong> You move through the enemy's space, treating the squares in its space as difficult terrain (every 5 feet costs 10 feet of movement). If you don't have enough Speed to move all the way through its space, you get the same effect as a failure.</p>\n<p><strong>Failure</strong> Your movement ends, and you trigger reactions as if you had moved out of the square you started in.</p>",
+      "description": "<p>Você **Avança (Stride)** até o seu Deslocamento (Speed). Durante este movimento, você pode tentar se mover através do espaço de um inimigo. Tente um teste de [[/act tumble-through]]{Acrobatics} contra a CD de Reflexos (Reflex DC) do inimigo assim que tentar entrar no espaço dele. Você pode **Rolar e Passar (Tumble Through)** usando Escalar (Climb), Voar (Fly), Nadar (Swim), ou outra ação em vez de Avançar no ambiente apropriado.</p>\n<p><strong>Sucesso</strong> Você se move através do espaço do inimigo, tratando os quadrados no espaço dele como terreno difícil (cada 5 feet custam 10 feet de movimento). Se você não tiver Deslocamento (Speed) suficiente para se mover completamente através do espaço dele, você obtém o mesmo efeito de uma falha.</p>\n<p><strong>Falha</strong> Seu movimento termina, e você desencadeia reações como se tivesse se movido para fora do quadrado em que começou.</p>",
       "source": "Pathfinder Player Core"
     },
     "Turn Aside Ambient Magic": {

@@ -64,7 +64,7 @@ OK   actions.json
      agents-of-edgewatch-bestiary.json    
 OK   ancestries.json                      
 OK   ancestryfeatures.json                
-     backgrounds.json                     
+OK   backgrounds.json                     
 OK   bestiary-ability-glossary-srd.json    
      bestiary-effects.json                 
      bestiary-family-ability-glossary.json
