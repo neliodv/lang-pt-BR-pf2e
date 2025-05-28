@@ -56,11 +56,11 @@ export function extractPackGroupList(packs, config, itemDatabase = {}, actorRedi
  * @returns {Object}                        Extracted data, stored in extractedPacks and packGroupDictionary
  */
 export function extractPackGroup(
-    groupName, 
-    packs, 
-    mapping, 
-    itemDatabase = {}, 
-    folderPacks, 
+    groupName,
+    packs,
+    mapping,
+    itemDatabase = {},
+    folderPacks,
     actorRedirects = [],
     limitedPacks = null
 ) {
@@ -213,9 +213,9 @@ export function extractEntry(entry, mapping, itemDatabase = {}, nestedEntryType 
         }
 
         // Check if the current field exists in the compendium entry and extract its value
-        let extractedValue = resolvePath(entry, mappingData.path).exists
-        ? unifyLineBreaks(resolveValue(entry, mappingData.path))
-        : false;
+        let extractedValue = resolvePath(entry, mappingData.path).exists && !Array.isArray(entry) //Check gegen Array notwendig seit path-value 0.10.0
+            ? unifyLineBreaks(resolveValue(entry, mappingData.path))
+            : false;
 
         // Add mappings that should always be included
         if (extractOptions.alwaysAddMapping) {

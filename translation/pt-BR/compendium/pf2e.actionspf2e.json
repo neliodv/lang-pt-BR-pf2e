@@ -1205,7 +1205,7 @@
     },
     "Lantern Beam": {
       "name": "Feixe da Lanterna",
-      "description": "<p><strong>Requerimentos</strong> Sua lanterna está acesa</p>\n<hr />\n<p><strong>Efeito</strong> Suas lentes concentram sua luz em um feixe ardente. Você causa @Damage[((max(5,ceil(@actor.level/2)))d4)[fire]] de dano de fogo a todas as criaturas em uma @Template[line|distance:30] linha de 30 pés, com um teste de resistência de @Check[reflex|against:class-spell|basic] Reflexos contra a maior entre sua CD de classe ou CD de magia. A luz da sua lanterna se apaga e você não pode usar esta habilidade ou usar a luz da sua lanterna novamente por [[/r 1d4 #Recarregar Feixe da Lanterna]]{1d4 rodadas}. No 11º nível e a cada dois níveis subsequentes, o dano aumenta em 1d4.</p>",
+      "description": "<p><strong>Requirements</strong> Your lantern light is shining</p>\n<hr />\n<p><strong>Effect</strong> Your lenses focus your light into a searing beam. You deal @Damage[((max(5,ceil(@actor.level/2)))d4)[fire]|options:area-damage] damage to all creatures in a @Template[line|distance:30], with a @Check[reflex|against:class-spell|basic|options:area-effect] saving throw against the higher of your class DC or spell DC. Your lantern light then extinguishes, and you can't use this ability or use your lantern light again for [[/r 1d4 #Recharge Lantern Beam]]{1d4 rounds}. At 11th level and every two levels thereafter, the damage increases by 1d4.</p>",
       "source": "Pathfinder Howl of the Wild"
     },
     "Lantern Strobe": {
@@ -1385,8 +1385,7 @@
     },
     "Offer Story": {
       "name": "Oferecer História",
-      "description": "<p>Você compartilha uma história de suas viagens com uma criatura a até 30 feet. Você ganha a bênção de Isthralei como um bônus de estado (status bonus) de +1 na CA e testes de resistência de Vontade (Will saves) até o fim do seu próximo turno. No próximo turno deles, a criatura com quem você compartilhou uma história pode realizar uma única ação, que possui as características auditivo (auditory), concentração (concentrate), linguístico (linguistic) e mental (mental traits), para responder com sua própria história e obter os mesmos benefícios até o fim do turno seguinte.</p>",
-      "selfEffect": "Efeito: Oferecer História",
+      "description": "<p>You share a story of your travels with a creature within 30 feet. You gain the blessing of Isthralei as a +1 status bonus to AC and Will saves until the end of your next turn. On their next turn, the creature you shared a story with can take a single action, which has the auditory, concentrate, linguistic, and mental traits, to respond with their own story to gain the same benefits until the end of the following turn.</p>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.dzYnksinvWvfgBVt]{Effect: Offer Story}</p>",
       "source": "Pathfinder Lost Omens Rival Academies"
     },
     "Once Bitten": {
@@ -1506,7 +1505,7 @@
     },
     "Primal Howl": {
       "name": "Uivo Primal",
-      "description": "<p><strong>Frequência</strong> uma vez por hora</p>\n<hr />\n<p><strong>Efeito</strong> Seu companheiro animal grita e uiva, empoderado com magia natural. Todas as criaturas em um @Template[cone|distance:30] recebem @Damage[(floor(@actor.level/2))d6[sonic]] de dano para cada 2 níveis que seu companheiro tiver, com um teste de @Check[fortitude|against:spell|basic] contra o DC de magia. Criaturas que falham ficam @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontadas 1} e criaturas que falham criticamente ficam @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontadas 2}. O medo é um efeito de emoção, medo e mental.</p>",
+      "description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p><strong>Effect</strong> Your animal companion screeches and howls, empowered with natural magic. All creatures in a @Template[cone|distance:30] take @Damage[(floor(@actor.level/2))d6[sonic]|options:area-damage] damage for every 2 levels your companion has, with a @Check[fortitude|against:spell|basic|options:area-effect] save against your spell DC. Creatures that fail become @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}, and creatures that critically fail become @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}. The fright is an emotion, fear, and mental effect.</p>",
       "source": "Pathfinder Player Core"
     },
     "Primal Roar": {
@@ -2176,7 +2175,7 @@
     },
     "Telekinetic Assault": {
       "name": "Assalto Telecinético",
-      "description": "<p>Seu fantasma libera uma enxurrada de emoções, fazendo com que pequenos objetos e detritos voem em uma @Template[emanation|distance:20] emanação de 20 pés, causando @Damage[1d6[bludgeoning]] de dano de concussão para cada 2 níveis que o fantasma possui (teste básico de Reflexos). Isso usa uma CD treinada usando o modificador de Carisma do fantasma ou uma CD especialista se o fantasma for especializado.</p>",
+      "description": "<p>Your ghost unleashes a flurry of emotions, causing small objects and debris to fly about in a @Template[emanation|distance:20], dealing @Damage[1d6[bludgeoning]|options:area-damage] for every 2 levels the ghost has (@Check[reflex|basic|options:area-effect] save). This uses a trained DC using the ghost's Charisma modifier or an expert DC if the ghost is specialized.</p>",
       "source": "Pathfinder Book of the Dead"
     },
     "Tell Me More": {
@@ -2207,7 +2206,7 @@
     },
     "Thermal Eruption": {
       "name": "Erupção Térmica",
-      "description": "<p><strong>Frequência</strong> uma vez por dia</p>\n<hr />\n<p><strong>Efeito</strong> Você concentra sua energia térmica e a explode para fora. Todas as criaturas em uma @Template[emanation|distance:20] emanação de 20 pés recebem @Damage[14d6[fire]] dano de fogo com um teste básico de Reflexos. Depois, você perde todos os efeitos do talento Erupção Adormecida até seus próximos preparativos diários.</p>",
+      "description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> You concentrate your thermal energy and explode it outward. All creatures in a @Template[emanation|distance:20] take @Damage[14d6[fire]|options:area-damage] damage with a basic Reflex save. Afterward, you lose all effects of the Dormant Eruption feat until your next daily preparations.</p>",
       "source": "Pathfinder Dark Archive"
     },
     "Thoughtful Reload": {

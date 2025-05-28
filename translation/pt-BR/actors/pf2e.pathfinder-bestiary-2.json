@@ -9341,7 +9341,7 @@
         },
         "action->Ogre Spider Venom": {
           "name": "Ogre Spider Venom",
-          "description": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:22]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d6[poison]] damage (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[1d6[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}, and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[2d6[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}, and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 4</strong> @Damage[2d6[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}, and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round)</p>"
+          "description": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:22]</p>\n<hr />\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[1d6[poison]] damage (1 round)</p>\n<p><strong>Stage 2</strong> 1d6 poison damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 1}, and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[2d6[poison]] damage, clumsy 1, and enfeebled 1 (1 round)</p>\n<p><strong>Stage 4</strong> 2d6 poison damage, @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}, and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round)</p>"
         },
         "action->Web Trap": {
           "name": "Web Trap",
@@ -9413,7 +9413,7 @@
         },
         "action->Apocalypse Breath": {
           "name": "Apocalypse Breath",
-          "description": "<p>The daemon expels a shrieking black cloud of smoke from its mouth in a @Template[line|distance:120] or a @Template[cone|distance:60] (or both a line and a cone in the same direction if it spends 3 actions). Living creatures in the area take @Damage[24d6[void]] damage (@Check[reflex|dc:45|basic] save).</p>\n<p>The olethrodaemon can't use Apocalypse Breath again for [[/gmr 1d4 #Recharge Apocalypse Breath]]{1d4 rounds}.</p>"
+          "description": "<p>The daemon expels a shrieking black cloud of smoke from its mouth in a @Template[line|distance:120] or a @Template[cone|distance:60] (or both a line and a cone in the same direction if it spends 3 actions). Living creatures in the area take @Damage[24d6[void]|options:area-damage] damage (@Check[reflex|dc:45|basic|options:area-effect] save).</p>\n<p>The olethrodaemon can't use Apocalypse Breath again for [[/gmr 1d4 #Recharge Apocalypse Breath]]{1d4 rounds}.</p>"
         },
         "action->Soul Crush": {
           "name": "Soul Crush",
@@ -9587,13 +9587,13 @@
     },
     "Osyluth": {
       "name": "Osyluth",
-      "languages": "telepathy 100 feet",
-      "publicNotes": "<p>An osyluth is an unparalleled inquisitor that revels in the sadism and torture for which Hell is so well known. These devils' charge is to seek out heresies, both among mortals and among other fiends-a commandment they uphold with unwavering fervor. They spawn within the Styx-fed swamps of Hell's fifth layer, Stygia; where heresies and the souls of heretics stagnate, osyluths eventually rise. In the remote corners of that same layer of Hell, they build massive, calcified hives where they perform their vile interrogations and perfect their torturous arts upon lesser devils and petitioners alike.</p>\n<hr />\n<p>Each type of devil plays a particular role in Hell's bureaucracies and hierarchies, though some have far more specialized functions than others</p>",
-      "saveDetails": "+1 status to all saves vs. magic",
+      "languages": "telepatia 100 feet",
+      "publicNotes": "<p>Um osyluth é um inquisidor inigualável que se deleita no sadismo e tortura pelos quais o Inferno é tão conhecido. A função destes demônios é buscar heresias, tanto entre mortais quanto entre outros demônios — um mandamento que eles cumprem com fervor inabalável. Eles nascem nos pântanos alimentados pelo Estige da quinta camada do Inferno, Estígia; onde heresias e as almas de hereges estagnam, os osyluths eventualmente surgem. Nos cantos remotos daquela mesma camada do Inferno, eles constroem colmeias massivas e calcificadas onde realizam suas interrogações vis e aperfeiçoam suas artes torturantes sobre demônios menores e peticionários alike.</p>\n<hr />\n<p>Cada tipo de demônio desempenha um papel particular nas burocracias e hierarquias do Inferno, embora alguns tenham funções muito mais especializadas do que outros</p>",
+      "saveDetails": "+1 status para todos os testes de salvamento contra magia",
       "source": "Pathfinder Bestiary 2",
       "items": {
         "spellcastingEntry->Divine Innate Spells": {
-          "name": "Divine Innate Spells"
+          "name": "Magias Inatas Divinas"
         },
         "spell->Dimension Door": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nDimension Door",
@@ -9605,12 +9605,12 @@
         },
         "spell->Dimensional Anchor": [
           {
-            "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.ksLCg62cLOojw3gN]\nDimensional Anchor",
+            "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.ksLCg62cLOojw3gN]\nÂncora Dimensional",
             "source": "Pathfinder Core Rulebook",
             "id": "T3OPyXZSTa6MS80L"
           },
           {
-            "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.ksLCg62cLOojw3gN]\nDimensional Anchor",
+            "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.ksLCg62cLOojw3gN]\nÂncora Dimensional",
             "source": "Pathfinder Core Rulebook",
             "id": "0b6CYffDLemOqLFx"
           }
@@ -9625,7 +9625,7 @@
         "spell->Invisibility (At Will) (Self Only)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]\nInvisibility (At Will) (Self Only)",
           "source": "Pathfinder Core Rulebook",
-          "target": "self"
+          "target": "si"
         },
         "spell->Infernal Pact": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.30BBep9U4BDV0EgQ]\nInfernal Pact",
@@ -9635,16 +9635,16 @@
           "source": "Pathfinder Core Rulebook"
         },
         "strike-melee->Jaws": {
-          "name": "Jaws"
+          "name": "Mandíbulas"
         },
         "strike-melee->Claw": {
-          "name": "Claw"
+          "name": "Garra"
         },
         "strike-melee->Stinger": {
-          "name": "Stinger"
+          "name": "Ferrão"
         },
         "strike-ranged->Bone Shard": {
-          "name": "Bone Shard"
+          "name": "Estilhaço Ósseo"
         },
         "action->Greater Darkvision": {
           "source": "Pathfinder Bestiary"
@@ -9654,24 +9654,24 @@
           "source": "Pathfinder Bestiary"
         },
         "action->Osyluth Venom": {
-          "name": "Osyluth Venom",
-          "description": "<p><strong>Saving Throw</strong> @Check[fortitude|dc:25]</p>\n<hr />\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[2d6[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[3d6[poison]] damage and enfeebled 1 (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[3d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round). Once a creature reaches stage 3, it takes a -4 status penalty to Will saves against attempts to @UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{Coerce} it for 1 hour (this is a mental effect)</p>"
+          "name": "Veneno de Osyluth",
+          "description": "<p><strong>Teste de Salvamento</strong> @Check[fortitude|dc:25]</p>\n<hr />\n<p><strong>Duração Máxima</strong> 6 rodadas</p>\n<p><strong>Estágio 1</strong> @Damage[2d6[poison]] de dano, @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 1} (1 rodada)</p>\n<p><strong>Estágio 2</strong> @Damage[3d6[poison]] de dano e enfraquecido 1 (1 rodada)</p>\n<p><strong>Estágio 3</strong> @Damage[3d6[poison]] de dano e @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 2} (1 rodada). Uma vez que uma criatura atinge o estágio 3, ela sofre uma penalidade de status de -4 nos testes de Vontade contra tentativas de @UUID[Compendium.pf2e.actionspf2e.Item.tHCqgwjtQtzNqVvd]{Coagir} por 1 hora (este é um efeito mental)</p>"
         },
         "action->Quick Invisibility": {
-          "name": "Quick Invisibility",
-          "description": "<p>The osyluth can cast innate @UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{Invisibility} using only 1 action.</p>"
+          "name": "Invisibilidade Rápida",
+          "description": "<p>O osyluth pode lançar a magia inata @UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{Invisibilidade} usando apenas 1 ação.</p>"
         },
         "action->Sadistic Strike": {
-          "name": "Sadistic Strike",
-          "description": "<p>An osyluth deals an extra 2d6 damage whenever they Strike an @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled}, @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened}, or @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} creature.</p>"
+          "name": "Golpe Sádico",
+          "description": "<p>Um osyluth causa 2d6 de dano extra sempre que Golpeia uma criatura @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido}, @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Amedrontado}, ou @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{prostrado}.</p>"
         },
         "action->Stygian Inquisitor": {
-          "name": "Stygian Inquisitor",
-          "description": "<p>The osyluth telepathically questions a creature affected by @UUID[Compendium.pf2e.spells-srd.Item.aewxsale5xWEPKLk]{Ring of Truth}. After 1 round, if the creature intentionally refuses to answer the question, it takes @Damage[2d6[mental]] damage.</p>"
+          "name": "Inquisidor Estígio",
+          "description": "<p>O osyluth questiona telepaticamente uma criatura afetada por @UUID[Compendium.pf2e.spells-srd.Item.aewxsale5xWEPKLk]{Zona da Verdade}. Após 1 rodada, se a criatura intencionalmente se recusar a responder à pergunta, ela sofre @Damage[2d6[mental]] de dano.</p>"
         },
         "action->Tail Sweep": {
-          "name": "Tail Sweep",
-          "description": "<p>The osyluth sweeps their tail in a @Template[cone|distance:15]. Each creature in the cone must succeed at a @Check[reflex|dc:26] save or be knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>"
+          "name": "Varredura de Cauda",
+          "description": "<p>O osyluth varre sua cauda em um @Template[cone|distance:15]. Cada criatura no cone deve obter sucesso em um teste de salvamento @Check[reflex|dc:26] ou ser derrubada @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{prostrado}.</p>"
         }
       }
     },
@@ -10313,6 +10313,9 @@
         "spell->Dimension Door": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nDimension Door"
         },
+        "spell->Flame Strike": {
+          "source": "Pathfinder Core Rulebook"
+        },
         "spell->Dimension Door (At will)": {
           "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.spells-srd.Item.VlNcjmYyu95vOUe8]\nDimension Door (At will)"
         },
@@ -10699,7 +10702,7 @@
         },
         "action->Boneshatter": {
           "name": "Boneshatter",
-          "description": "<p><strong>Trigger</strong> The ravener husk takes any amount of bludgeoning damage</p>\n<hr />\n<p><strong>Effect</strong> The ravener's brittle bones shatter, spraying bone shards everywhere. Every creature within a @Template[emanation|distance:10] of the ravener husk takes @Damage[7d6[piercing]] damage (@Check[reflex|dc:31|basic] save).</p>"
+          "description": "<p><strong>Trigger</strong> The ravener husk takes any amount of bludgeoning damage</p>\n<hr />\n<p><strong>Effect</strong> The ravener's brittle bones shatter, spraying bone shards everywhere. Every creature within a @Template[emanation|distance:10] of the ravener husk takes @Damage[7d6[piercing]|options:area-damage] damage (@Check[reflex|dc:31|basic|options:area-effect] save).</p>"
         },
         "action->Frightful Presence": {
           "description": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.etMnv73EIdEZrYYu]\n<p>90 feet. @Check[will|dc:31]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>",
@@ -10978,7 +10981,7 @@
         },
         "action->Accursed Breath": {
           "name": "Accursed Breath",
-          "description": "<p>The Sandpoint Devil breathes a @Template[cone|distance:30] of flame that deals @Damage[6d10[fire]] damage. Each creature in the area must attempt a @Check[reflex|dc:26|traits:damaging-effect] save.</p>\n<p>The Sandpoint Devil can't use Accursed Breath for [[/gmr 1d4 #Recharge Accursed Breath]]{1d4 rounds}.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} by the agonizing pain of its burns.</p>\n<p><strong>Critical Failure</strong> The creature takes full damage and is cursed. The victim's flesh appears charred and burned, and the pain of being burned alive never fully vanishes. The cursed creature takes a -2 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.</p>"
+          "description": "<p>The Sandpoint Devil breathes a @Template[cone|distance:30] of flame that deals @Damage[6d10[fire]|options:area-damage] damage. Each creature in the area must attempt a @Check[reflex|dc:26|options:area-effect,damaging-effect] save.</p>\n<p>The Sandpoint Devil can't use Accursed Breath for [[/gmr 1d4 #Recharge Accursed Breath]]{1d4 rounds}.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 2} by the agonizing pain of its burns.</p>\n<p><strong>Critical Failure</strong> The creature takes full damage and is cursed. The victim's flesh appears charred and burned, and the pain of being burned alive never fully vanishes. The cursed creature takes a -2 status penalty to all checks from the constant pain. Healing doesn't alter the appearance of the burns or lessen the penalty, but removing the curse does.</p>"
         },
         "action->Devil's Howl": {
           "name": "Devil's Howl",
@@ -12152,7 +12155,7 @@
         },
         "action->Boiling Rain": {
           "name": "Boiling Rain",
-          "description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> The steam mephit calls down a rain boiling water that surrounds them in a @Template[emanation|distance:10]. Creatures in the area take @Damage[2d8[fire]] damage (@Check[reflex|dc:17|basic] save), and small unattended flames (such as torches) are extinguished.</p>"
+          "description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p><strong>Effect</strong> The steam mephit calls down a rain boiling water that surrounds them in a @Template[emanation|distance:10]. Creatures in the area take @Damage[2d8[fire]|options:area-damage] damage (@Check[reflex|dc:17|basic|options:area-effect] save), and small unattended flames (such as torches) are extinguished.</p>"
         },
         "action->Breath Weapon": {
           "name": "Breath Weapon",

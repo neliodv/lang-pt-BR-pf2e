@@ -1360,7 +1360,7 @@
     },
     "Effect: Furnace Form": {
       "name": "Efeito: Forma de Fornalha",
-      "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.6vHkvQv0j56nZuR3]{Forma de Fornalha}</p>\n<p>Você ganha imunidade a fogo, resistência 10 a dano de precisão e fraqueza 5 a frio e a água. Seus ataques desarmados causam 1d4 de dano de fogo adicional e suas magias de fogo causam um dado adicional de dano de fogo (do mesmo dado de dano que a magia usa). Suas Rajadas Elementais de fogo causam um dado adicional de dano. Na forma de fogo, você tem uma Velocidade de voo de 40 feet.</p>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.6vHkvQv0j56nZuR3]{Furnace Form}</p>\n<p>You gain fire immunity, resistance 10 to precision damage, weakness 5 to cold and to water, and a fly Speed of 40 feet. Any creature that touches you or damages you with an unarmed attack or non-reach melee weapon takes @Damage[3d6[fire]] damage.</p>\n<p>Your unarmed attacks deal 1d4 additional fire damage, and your fire spells deal one additional die of fire damage (of the same damage die the spell uses). Your fire Elemental Blasts deal an additional die of damage.</p>",
       "source": "Pathfinder Rage of Elements"
     },
     "Effect: Game Hunter (Critical Failure)": {
@@ -2431,11 +2431,6 @@
       "description": "<p>Concedido por @UUID[Compendium.pf2e.actionspf2e.Item.Ah5g9pDwWF9b9VW9]{Fúria}</p>\n<p>Você não pode ganhar pontos de vida temporários usando a ação Fúria.</p>",
       "source": "Pathfinder Player Core 2"
     },
-    "Effect: Raging Stories": {
-      "name": "Effect: Raging Stories",
-      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.3GmgFUL2xzt5vhCz]{Raging Stories}</p>\n<p>Your melee Strikes deal 2 additional fire damage. The fire damage increases to 4 if you are a master of Religion and 6 if you are legendary.</p>",
-      "source": "Pathfinder Lost Omens Rival Academies"
-    },
     "Effect: Raise Menhir": {
       "name": "Efeito: Erguer Menir",
       "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.BuVIM4cV7qhVZ2WF]{Erguer Menir}</p>\n<p>Escolha arcano, divino ou oculto; todas as criaturas em um raio de 15 feet do monumento ganham um bônus de status de +2 em seus testes de resistência contra efeitos com esse traço.</p>",
@@ -3101,7 +3096,7 @@
     },
     "Effect: Unleash Yaoguai Might": {
       "name": "Effect: Liberar Poder Yaoguai",
-      "description": "<p>Concedido por @UUID[Compendium.pf2e.feats-srd.Item.fjB514XFJG4V3wMy]{Liberar Poder Yaoguai}</p>\n<p><strong>Frequência</strong> uma vez por dia</p>\n<p>Ao entrar em sua forma yaoguai, você usa sua magia interna para assumir uma forma ainda maior. Quando você Mudar de Forma para entrar em sua forma yaoguai, você pode gastar uma ação adicional para ganhar os efeitos de @UUID[Compendium.pf2e.spells-srd.Item.wzctak6BxOW8xvFV]{Aumentar Pessoa} e um efeito adicional com base em sua herança. Este efeito persiste por 1 minuto ou até que você mude de forma novamente.</p>\n<ul>\n<li><strong>Animal</strong> Sua pele engrossa, concedendo um bônus de circunstância +1 em CA.</li>\n<li><strong>Celestial</strong> Você recupera um pouco da sua perfeição celestial, concedendo a você e a todos os aliados em um raio de 15 pés um bônus de status +1 em jogadas de ataque.</li>\n<li><strong>Elementos</strong> Você está cercado por vento e poeira, concedendo ocultação a cada rodada em que você gasta pelo menos 1 ação que tem o traço de movimento. Você não pode usar essa ocultação para se Esconder ou @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Esgueirar-se}, como normal para fontes de ocultação óbvia.</li>\n<li><strong>Objeto</strong> Sua pele se transmuta parcialmente em uma substância inorgânica, concedendo resistência 5 à sua escolha de concussão, perfuração ou corte.</li>\n<li><strong>Vegetação</strong> Você desencadeia um crescimento acelerado, ganhando cura rápida 5.</li>\n</ul>",
+      "description": "<p>Granted by @UUID[Compendium.pf2e.feats-srd.Item.fjB514XFJG4V3wMy]{Unleash Yaoguai Might}</p>\n<p>When you Change Shape to enter your yaoguai form, you can spend an additional action to gain the effects of <em>enlarge</em> and an additional effect based on your heritage.</p>\n<ul>\n<li><strong>Animal</strong> Your hide thickens, granting a +1 circumstance bonus to AC.</li>\n<li><strong>Celestial</strong> You recover some of your celestial perfection, granting you and all allies within 15 feet a +1 status bonus to attack rolls.</li>\n<li><strong>Elements</strong> You're surrounded in wind and dust, granting concealment each round that you spend at least 1 action that has the move trait. You can't use this concealment to Hide or Sneak, as normal for sources of obvious concealment.</li>\n<li><strong>Object</strong> Your skin transmutes partially into an inorganic substance, granting resistance 5 to your choice of bludgeoning, piercing, or slashing.</li>\n<li><strong>Vegetation</strong> You trigger an accelerated growth, gaining fast healing 5.</li>\n</ul>",
       "source": "Pathfinder Lost Omens Tian Xia Character Guide"
     },
     "Effect: Unstable Check Failure": {

@@ -767,6 +767,16 @@
           "Note": "When Abstalar casts <em>heal</em> to heal a single creature other than himself, he regains @Damage[@item.rank[vitality,healing]|shortLabel] Hit Points."
         }
       },
+      "AeonStoneSwarm": {
+        "AeonResonance": {
+          "Defensive": "Defensive",
+          "DefensiveResistance": "Defensive Resonance",
+          "Illumination": "Illumination",
+          "IlluminationColor": "Illumination Resonance",
+          "Sensory": "Sensory",
+          "Subterfuge": "Subterfuge"
+        }
+      },
       "AlchemicalGolem": {
         "Sickness": "Doença"
       },
@@ -881,6 +891,7 @@
           "Fox": "Raposa",
           "Fungus": "Fungo",
           "Gancanagh": "Gancanagh",
+          "Ghost": "Ghost",
           "Gimmerling": "Gimmerling",
           "Gosreg": "Gosreg",
           "Gourd": "Cabaca",
@@ -923,6 +934,7 @@
           "Scorpion": "Escorpião",
           "SeaSerpent": "Serpente Marinha",
           "Shark": "Tubarão",
+          "Skeleton": "Skeleton",
           "SnappingFlytrap": "Planta Carnívora",
           "Spider": "Aranha",
           "Succubus": "Súcubo",
@@ -938,7 +950,8 @@
           "WingedHumanoid": "Humanoide Alado",
           "Wolf": "Lobo",
           "WolfDire": "Lobo Sinistro",
-          "Yaoguai": "Yaoguai"
+          "Yaoguai": "Yaoguai",
+          "Zombie": "Zombie"
         },
         "Label": "Forma Atual"
       },
@@ -1126,6 +1139,16 @@
       "MinotaurHuntedFear": {
         "Demoralize": "O alvo está em um labirinto ou estrutura similarmente difícil de navegar",
         "Survival": "Para Evitar se Perder"
+      },
+      "MixedMartialArtist": {
+        "StanceShift": {
+          "CrossElbow": "Cross Elbow",
+          "ElbowKnockoutStance": "Elbow Knockout Stance",
+          "GrapplingLimb": "Grappling Limb",
+          "SecureGrappleStance": "Secure Grapple Stance",
+          "ThrashingBarrageStance": "Thrashing Barrage Stance",
+          "ThrashingFist": "Thrashing Fist"
+        }
       },
       "ModularProstheses": {
         "GaffHook": "Gaff Hook",
@@ -2726,11 +2749,11 @@
         }
       },
       "ChangeShape": {
-        "Anadi": "Você muda para sua forma humana ou de aranha. Cada forma tem uma aparência específica e persistente. Em sua forma humana, você não pode usar ataques desarmados concedidos por sua ancestralidade. Você não está desprevenido ao escalar em sua forma de aranha. No entanto, em sua forma de aranha, você não pode usar armas, escudos ou outros itens segurados de qualquer tipo e você está limitado em quais ações você pode realizar que tenham o traço manipular. As únicas ações de manipular que você pode realizar são @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Conjurar uma Magia} com componentes somáticos, tecer seda ou teia ou ações simples de @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interagir}, como abrir uma porta destrancada. Suas pernas de aranha não podem realizar ações que exigem dedos ou destreza manual significativa, incluindo qualquer ação que exigiria um teste para ser realizada. O GM pode determinar que outras ações de manipular são apropriadas para suas pernas de aranha.",
+        "Anadi": "Você muda para sua forma humana ou de aranha. Cada forma tem uma aparência específica e persistente. Em sua forma humana, você não pode usar ataques desarmados concedidos por sua ancestralidade. Você não está desprevenido ao escalar em sua forma de aranha. No entanto, em sua forma de aranha, você não pode usar armas, escudos ou outros itens segurados de qualquer tipo e você está limitado em quais ações você pode realizar que tenham o traço manuseio. As únicas ações de manuseio que você pode realizar são @UUID[Compendium.pf2e.actionspf2e.Item.aBQ8ajvEBByv45yz]{Conjurar uma Magia} com componentes somáticos, tecer seda ou teia ou ações simples de @UUID[Compendium.pf2e.actionspf2e.Item.pvQ5rY2zrtPI614F]{Interagir}, como abrir uma porta destrancada. Suas pernas de aranha não podem realizar ações que exigem dedos ou destreza manual significativa, incluindo qualquer ação que exigiria um teste para ser realizada. O GM pode determinar que outras ações de manuseio são apropriadas para suas pernas de aranha.",
         "Beastkin": "Você muda para sua forma humanoide ou híbrida. Cada forma tem uma aparência específica e persistente, e a maioria dos beastkin permanece em suas formas híbridas por padrão. Na forma híbrida, você aparece como uma mistura entre sua ancestralidade e seu animal inerente. Enquanto estiver na forma híbrida, você ganha um Ataque desarmado de mandíbulas que se assemelha às características do seu animal inerente (presas para morcegos, bicos para águias, mandíbulas para vespas e assim por diante). Suas mandíbulas causam 1d4 de dano perfurante, têm os traços ágil, finesse e desarmado e estão no grupo de armas de combate. Em sua forma humanoide, você mantém a aparência de sua ancestralidade original.",
         "Kitsune": "Você se transforma em uma forma alternativa específica determinada por sua herança. Se sua herança não listar uma forma, sua forma alternativa é uma forma sem cauda, que é uma ancestralidade humanoide Média comum prevalente onde você cresceu (normalmente humana). Esta forma tem a mesma idade e tipo de corpo que sua forma verdadeira e tem características físicas aproximadamente análogas, como cor de cabelo. Usar Mudar de Forma conta como criar um disfarce para o uso de @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Personificar} de Enganação. Você perde quaisquer Ataques desarmados que ganhou de uma herança kitsune ou talento de ancestralidade nesta forma. Você pode permanecer em sua forma alternativa indefinidamente e pode voltar para sua verdadeira forma kitsune usando esta ação novamente.",
         "Tanuki": "Você pode se transformar em um cão-guaxinim comum, usando as estatísticas de @UUID[Compendium.pf2e.spells-srd.Item.gfPjmG6Fe6D3MFjl]{Forma de Praga}. Esta é uma forma específica de cão-guaxinim que tem a mesma idade e tipo de corpo que sua forma verdadeira e tem características físicas aproximadamente análogas, como cor de cabelo. Usar Mudar de Forma conta como criar um disfarce para o uso de @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Personificar} de Enganação. Você perde quaisquer Ataques desarmados que ganhou de uma herança tanuki ou talento de ancestralidade nesta forma. Você pode permanecer em sua forma de cão-guaxinim indefinidamente e pode voltar para sua forma tanuki usando esta ação novamente.",
-        "Werecreature": "Você se transforma em sua forma híbrida ou animal. Seu equipamento se transforma com você e continua a fornecer bônus, mas sua forma animal não pode usar armas, escudos ou outros itens segurados e não pode usar ações de manipular. Você ganha uma velocidade de movimento, ataques desarmados e potencialmente outras habilidades com base no seu tipo de lobisomem. Esses ataques desarmados estão no grupo de combate. Você pode Dissipar o efeito para retornar à sua forma humanoide e você retorna à sua forma humanoide automaticamente se for reduzido a 0 Pontos de Vida.",
+        "Werecreature": "Você se transforma em sua forma híbrida ou animal. Seu equipamento se transforma com você e continua a fornecer bônus, mas sua forma animal não pode usar armas, escudos ou outros itens segurados e não pode usar ações de manuseio. Você ganha uma velocidade de movimento, ataques desarmados e potencialmente outras habilidades com base no seu tipo de lobisomem. Esses ataques desarmados estão no grupo de combate. Você pode Dissipar o efeito para retornar à sua forma humanoide e você retorna à sua forma humanoide automaticamente se for reduzido a 0 Pontos de Vida.",
         "Yaoguai": "Você se transforma de ou para sua verdadeira forma yaoguai em uma forma alternativa humanoide, que é uma ancestralidade humanoide Média comum prevalente onde você nasceu (normalmente humana). Esta forma tem a mesma idade aparente e tipo de corpo que sua forma yaoguai e tem características físicas aproximadamente análogas, como cor de cabelo. Usar Mudar de Forma conta como criar um disfarce para o uso de @UUID[Compendium.pf2e.actionspf2e.Item.AJstokjdG6iDjVjE]{Personificar} de Enganação. Você pode permanecer em sua forma humanoide indefinidamente, mas você retorna à sua forma yaoguai após 1 hora de inconsciência ou 1 minuto após a morte."
       },
       "CharmOfResistance": {
@@ -2819,6 +2842,9 @@
           },
           "gunslinger": {
             "Description": "You've developed keen awareness and attention to detail. Your proficiency rank for Perception increases to master."
+          },
+          "investigator": {
+            "Description": "Through your adventures, you've developed keen awareness and attention to detail. Your proficiency rank in Perception increases to master."
           },
           "ranger": {
             "Description": "Você tem acuidade altamente desenvolvida e atenção aos detalhes. Seu nível de proficiência para Percepção aumenta para mestre."
@@ -3589,6 +3615,9 @@
         "Sparkler": {
           "CriticalHitNote": "Em um acerto crítico, você faz o alvo ficar @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscado} por 1 rodada.",
           "StrikeLabel": "Espartilho"
+        },
+        "SpellguardShield": {
+          "RollOptionLabel": "Block spell that targets you"
         },
         "SplitheadBow": {
           "HealingLabel": "Arco de Cabeça Partida - Cura"
@@ -5506,6 +5535,14 @@
         "OwlEyes": "Olhos de Coruja",
         "Wings": "Asas"
       },
+      "SpellEffectAugmentedBody": {
+        "AblativePlating": "Ablative Plating",
+        "ClockworkArm": "Clockwork Arm",
+        "ClockworkFist": "Clockwork Fist",
+        "Prompt": "Select an augmentation.",
+        "SpinedFingertips": "Spined Fingertips",
+        "SpringLoadedLegs": "Spring-Loaded Legs"
+      },
       "SpellEffectBoneFlense": {
         "Label": "Bone Flense"
       },
@@ -5516,6 +5553,12 @@
         "Prompt": "Selecione uma evolução.",
         "Sight": "Visão em luz fraca e visão no escuro",
         "Speed": "+20-foot status bonus para Velocidade"
+      },
+      "SpellEffectFieryBody": {
+        "Note": "The attacker takes @Damage[(ternary(gte(@item.level,9),4,3))d6[fire]] damage."
+      },
+      "SpellEffectFurnaceForm": {
+        "Note": "The attacker takes @Damage[3d6[fire]] damage."
       },
       "SpellEffectGluttonsJaw": {
         "Text": "Se você acertar com suas mandíbulas e causar dano, você ganha [[/r (ceil(@item.level/2))d6 #Pontos de Vida Temporários]] Pontos de Vida Temporários."
@@ -5781,7 +5824,7 @@
         "RockslideSpell": "Um número de quadrados de 1,5 metros na área igual ao nível da magia se torna terreno difícil por 1 rodada. Esses quadrados devem estar no chão e toda a área de terreno difícil deve ser contígua. A magia ganha a característica terra.",
         "SafeguardSpell": "Se a próxima ação que você realizar for lançar uma magia com uma área, você não será afetado pela magia, mesmo que esteja dentro da área.",
         "ScintillatingSpell": "Se sua próxima ação for lançar uma magia que não tem a característica escuridão, não tem duração e exige que as criaturas tentem um teste de resistência de Reflexos, a magia explode em um spray de luzes cintilantes, além de seus outros efeitos. Cada criatura que falhou em seu teste de resistência de Reflexos contra a magia fica @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Ofuscada} por 1 rodada, e aquelas que falharam criticamente ficam, em vez disso, @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Cegas} por 1 rodada.",
-        "SecondaryDetonationArray": "Se sua próxima ação for lançar uma magia que causa dano, não tem duração e afeta uma área, um círculo mágico brilhante aparece em um @Template[explosão|distância:5] dentro dessa área. No início do seu próximo turno, o círculo detona, causando @Damage[(@item.level)d6[força]] de dano a todas as criaturas dentro do círculo, com um @Check[reflexos|against:spell]. Se a magia causou um tipo diferente de dano, o círculo causa @Damage[(@item.level)d6[@actor.flags.pf2e.spellshape.arrayDamage]]{este tipo de dano} (ou um tipo de sua escolha se a magia puder causar vários tipos de dano)",
+        "SecondaryDetonationArray": "If your next action is to Cast a Spell that deals damage, has no duration, and affects an area, a glowing magic circle appears in a @Template[burst|distance:5] within that area. At the beginning of your next turn, the circle detonates, dealing @Damage[(@item.level)d6[force]|options:area-damage] damage to all creatures within the circle, with a @Check[reflex|against:spell|options:area-effect,damaging-effect]. If the spell dealt a different type of damage, the circle deals @Damage[(@item.level)d6[@actor.flags.pf2e.spellshape.arrayDamage]|options:area-damage]{this type of damage instead} (or one type of your choice if the spell could deal multiple types of damage)",
         "SeneschalSpell": "Se sua próxima ação for lançar uma magia e sua carga estiver a 9 metros, você pode fazer com que a magia se origine de sua carga. Essa criatura pode usar sua reação para completar aproximadamente o encantamento da magia, o que dá à magia a característica sutil para você (mas não para ela), pois a manifestação aparece apenas ao redor de sua carga.",
         "SinbladedSpell": "If you either succeed on your attack roll or the target fails its saving throw against the spell, you deal @Damage[(@item.rank)[bleed]] damage to the target.",
         "SnowdriftSpell": "Selecione uma criatura afetada pela magia no chão. Cada quadrado no chão sob ou adjacente à criatura se enche de neve até os tornozelos. Esses quadrados são terreno difícil até o início do seu próximo turno. Uma criatura pode Interagir para limpar um quadrado de neve, e a neve em um quadrado derrete se esse quadrado for exposto a um efeito de fogo.",
@@ -6023,6 +6066,11 @@
         "Water": "Água"
       },
       "Tengu": {
+        "TenguFan": {
+          "GustOfWind": "You can cast the 1st-rank @UUID[Compendium.pf2e.spells-srd.Item.g8QqHpv2CWDwmIm1]{Gust of Wind} spell by activating your tengu feather fan. @Check[fortitude|against:class-spell|traits:air] save.",
+          "LightningBolt": "You can cast the 5th-rank @UUID[Compendium.pf2e.spells-srd.Item.9AAkVUCwF6WVNNY2]{Lightning Bolt} spell by activating your tengu feather fan. @Check[reflex|against:class-spell|basic|traits:electricity] save.",
+          "WallOfWind": "You can cast the 3rd-rank @UUID[Compendium.pf2e.spells-srd.Item.it4ZsAi6XgvGcodc]{Wall of Wind} spell by activating your tengu feather fan. @Check[fortitude|against:class-spell|traits:air]{Fortitude saving throw} save."
+        },
         "WeaponFamiliarity": {
           "Prompt1": "Selecione uma arma do grupo de espadas.",
           "Prompt2": "Selecione uma segunda arma do grupo de espadas."
@@ -6125,6 +6173,7 @@
         "Cane": "Usar Bengala com Duas Mãos",
         "Katana": "Usar Katana com Duas Mãos",
         "Khakkhara": "Usar Khakkhara com Duas Mãos",
+        "MusketStaff": "Use Musket Staff Two-Handed",
         "OrcSkewermaul": "Usar Maça de Espeto Orc com Duas Mãos",
         "ReinforcedStock": "Usar Coronha Reforçada com Duas Mãos",
         "RhokaSword": "Usar Espada Rhoka com Duas Mãos",
@@ -6178,7 +6227,7 @@
         }
       },
       "VitalityManipulationStance": {
-        "Note": "Quando você usa Punho Atordoante, em vez de testar contra ser atordoado, você pode escolher fazer com que o alvo faça um teste de resistência de @Check[fortitude|against:class] contra sua CD de classe com os seguintes resultados. Você deve escolher fazer isso antes que o alvo role seu teste de resistência.</p><hr><p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p><p><strong>Sucesso</strong> Os músculos do alvo ficam temporariamente mais fracos. Por 1 rodada, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 2} e, a qualquer momento que tentar realizar uma ação com a característica manipular, a ação é interrompida, a menos que seja bem-sucedido em um teste fixo com uma CD igual a 5 + seu valor enfraquecido.</p><p><strong>Falha</strong> Como sucesso, mas a duração é de 1 minuto.</p><p><strong>Falha Crítica</strong> Como sucesso, mas a duração é de 1 minuto, o teste fixo tem CD 11 e o alvo sofre uma penalidade de status de -3 metros em todas as Velocidades durante a duração.</p>",
+        "Note": "Quando você usa Punho Atordoante, em vez de testar contra ser atordoado, você pode escolher fazer com que o alvo faça um teste de resistência de @Check[fortitude|against:class] contra sua CD de classe com os seguintes resultados. Você deve escolher fazer isso antes que o alvo role seu teste de resistência.</p><hr><p><strong>Sucesso Crítico</strong> O alvo não é afetado.</p><p><strong>Sucesso</strong> Os músculos do alvo ficam temporariamente mais fracos. Por 1 rodada, o alvo fica @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfraquecido 2} e, a qualquer momento que tentar realizar uma ação com a característica manuseio, a ação é interrompida, a menos que seja bem-sucedido em um teste fixo com uma CD igual a 5 + seu valor enfraquecido.</p><p><strong>Falha</strong> Como sucesso, mas a duração é de 1 minuto.</p><p><strong>Falha Crítica</strong> Como sucesso, mas a duração é de 1 minuto, o teste fixo tem CD 11 e o alvo sofre uma penalidade de status de -3 metros em todas as Velocidades durante a duração.</p>",
         "StrikeLabel": "Explosão de Vitalidade"
       },
       "WanderingChef": {
@@ -6399,6 +6448,35 @@
       "Yaoguai": {
         "AwakenedYaoguai": {
           "Prompt": "Select a yaoguai heritage."
+        },
+        "LegendaryMonster": {
+          "Effect": "@UUID[Compendium.pf2e.feat-effects.Item.ELCODoiGDBEqRAtT]{Effect: Legendary Monster}",
+          "Options": {
+            "Damage": "Additional spirit damage",
+            "Enlarge": "4th rank Enlarge",
+            "Fly": "Fly Speed"
+          },
+          "Prompt": "Choose an additional benefit",
+          "RollOptionLabel": "Use Legendary Monster",
+          "Text": {
+            "Damage": "Your spiritual power erupts to punish your enemies. You deal an additional 1d4 spirit damage with all Strikes and attack spells, and your Strikes and attack spells gain the spirit trait.",
+            "Description": "Once per day when you Unleash Yaoguai Might, you can gain one of the following additional benefits, which persists for 1 minute or until you Change Shape again.",
+            "Enlarge": "Your body grows to impossible heights. Your Enlarge effect is heightened to 4th rank.",
+            "Fly": "You can leap off the air itself. You gain the effects of the *fly* spell.",
+            "Frequency": "You can Unleash Yaoguai Might any number of times per day.",
+            "Title": "**Legendary Monster**"
+          }
+        },
+        "UnleashYaoguaiMight": {
+          "BornOfAnimal": "**Animal** Your hide thickens, granting a +1 circumstance bonus to AC.",
+          "BornOfCelestial": "**Celestial** You recover some of your celestial perfection, granting you and all allies within 15 feet a +1 status bonus to attack rolls.",
+          "BornOfElements": "**Elements** You're surrounded in wind and dust, granting concealment each round that you spend at least 1 action that has the move trait. You can't use this concealment to Hide or Sneak, as normal for sources of obvious concealment.",
+          "BornOfItem": "**Object ** Your skin transmutes partially into an inorganic substance, granting resistance 5 to your choice of bludgeoning, piercing, or slashing.",
+          "BornOfVegetation": "**Vegetation** You trigger an accelerated growth, gaining fast healing 5.",
+          "Description": "As you enter your yaoguai form, you draw upon your internal magic to assume an even greater form. When you Change Shape to enter your yaoguai form, you can spend an additional action to gain the effects of Enlarge and an additional effect based on your heritage. This effect persists for 1 minute or until you Change Shape again.",
+          "Effect": "@UUID[Compendium.pf2e.feat-effects.Item.OBsItGQScxHyUcmR]{Effect: Unleash Yaoguai Might}",
+          "Frequency": "**Frequency** once per day",
+          "UsedMoveAction": "Used action that has the move trait."
         }
       },
       "Zombie": {

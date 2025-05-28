@@ -561,6 +561,482 @@
         }
       }
     },
+    "Droven (Level 1)": {
+      "name": "Droven (Level 1)",
+      "tokenName": "Droven",
+      "items": {
+        "ancestry->Human": {
+          "source": "Pathfinder Player Core"
+        },
+        "heritage->Dromaar": {
+          "source": "Pathfinder Player Core"
+        },
+        "background->Tinker": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Specialty Crafting (Blacksmithing)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]\nSpecialty Crafting (Blacksmithing)",
+          "source": "Pathfinder Player Core"
+        },
+        "class->Inventor": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Peerless Inventor": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Shield Block": [
+          {
+            "source": "Pathfinder Player Core",
+            "id": "nd7L3UyDauxAucdn"
+          },
+          {
+            "source": "Pathfinder Player Core",
+            "id": "hgZUknCqk17jiJt1"
+          }
+        ],
+        "feat->Explode": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Overdrive": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Innovation": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Inventor": {
+          "source": "Pathfinder Player Core"
+        },
+        "action->Explode": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Overdrive": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Construct Innovation": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "armor->Hide Armor": {
+          "source": "Pathfinder Player Core"
+        },
+        "backpack->Backpack": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Prosthesis": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Crossbow": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Bolts": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Warhammer": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Dagger": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Natural Ambition": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Built-In Tools": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Explosive Leap": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Basic Crafter's Book": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Bedroll": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Chalk": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Flint and Steel": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rations": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Rope": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Soap": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Thieves' Toolkit (built into Whirp)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.zvLyCVD8g2PdHJAc]\nThieves' Toolkit (built into Whirp)",
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Repair Toolkit (built into Whirp)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.vLGDUFrg4yGzpTQX]\nRepair Toolkit (built into Whirp)",
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Torch": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Waterskin": {
+          "source": "Pathfinder Player Core"
+        },
+        "treasure->Gold Pieces": {
+          "source": "Pathfinder Player Core"
+        },
+        "lore->Engineering Lore": {
+          "name": "Engineering Lore"
+        },
+        "lore->Pathfinder Society Lore": {
+          "name": "Pathfinder Society Lore"
+        },
+        "lore->Sailing Lore": {
+          "name": "Sailing Lore"
+        }
+      }
+    },
+    "Droven (Level 3)": {
+      "name": "Droven (Level 3)",
+      "tokenName": "Droven",
+      "items": {
+        "ancestry->Human": {
+          "source": "Pathfinder Player Core"
+        },
+        "heritage->Dromaar": {
+          "source": "Pathfinder Player Core"
+        },
+        "background->Tinker": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Specialty Crafting (Blacksmithing)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]\nSpecialty Crafting (Blacksmithing)",
+          "source": "Pathfinder Player Core"
+        },
+        "class->Inventor": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Peerless Inventor": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Shield Block": [
+          {
+            "source": "Pathfinder Player Core",
+            "id": "nd7L3UyDauxAucdn"
+          },
+          {
+            "source": "Pathfinder Player Core",
+            "id": "hgZUknCqk17jiJt1"
+          }
+        ],
+        "feat->Explode": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Overdrive": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Innovation": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Inventor": {
+          "source": "Pathfinder Player Core"
+        },
+        "action->Explode": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Overdrive": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Construct Innovation": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "armor->Hide Armor": {
+          "source": "Pathfinder Player Core"
+        },
+        "backpack->Backpack": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Prosthesis": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Crossbow": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Bolts": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Warhammer": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Dagger": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Natural Ambition": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Built-In Tools": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Explosive Leap": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Basic Crafter's Book": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Bedroll": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Chalk": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Flint and Steel": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rations": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Rope": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Soap": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Thieves' Toolkit (built into Whirp)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.zvLyCVD8g2PdHJAc]\nThieves' Toolkit (built into Whirp)",
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Repair Toolkit (built into Whirp)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.vLGDUFrg4yGzpTQX]\nRepair Toolkit (built into Whirp)",
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Torch": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Waterskin": {
+          "source": "Pathfinder Player Core"
+        },
+        "treasure->Gold Pieces": {
+          "source": "Pathfinder Player Core"
+        },
+        "lore->Engineering Lore": {
+          "name": "Engineering Lore"
+        },
+        "lore->Pathfinder Society Lore": {
+          "name": "Pathfinder Society Lore"
+        },
+        "lore->Sailing Lore": {
+          "name": "Sailing Lore"
+        },
+        "feat->Reconfigure": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Expert Overdrive": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "consumable->Healing Potion (Minor)": {
+          "source": "Pathfinder GM Core"
+        },
+        "consumable->Ablative Armor Plating (Moderate)": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Trick Magic Item": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Toughness": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Searing Restoration": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "consumable->Blast Boots (Moderate)": {
+          "source": "Pathfinder Guns & Gears"
+        }
+      }
+    },
+    "Droven (Level 5)": {
+      "name": "Droven (Level 5)",
+      "tokenName": "Droven",
+      "items": {
+        "ancestry->Human": {
+          "source": "Pathfinder Player Core"
+        },
+        "heritage->Dromaar": {
+          "source": "Pathfinder Player Core"
+        },
+        "background->Tinker": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Specialty Crafting (Blacksmithing)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.feats-srd.Item.QLeMH5mQgh28sa5o]\nSpecialty Crafting (Blacksmithing)",
+          "source": "Pathfinder Player Core"
+        },
+        "class->Inventor": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Peerless Inventor": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Shield Block": [
+          {
+            "source": "Pathfinder Player Core",
+            "id": "nd7L3UyDauxAucdn"
+          },
+          {
+            "source": "Pathfinder Player Core",
+            "id": "hgZUknCqk17jiJt1"
+          }
+        ],
+        "feat->Explode": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Overdrive": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Innovation": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Inventor": {
+          "source": "Pathfinder Player Core"
+        },
+        "action->Explode": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Overdrive": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Construct Innovation": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "armor->Hide Armor": {
+          "source": "Pathfinder Player Core"
+        },
+        "backpack->Backpack": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Prosthesis": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Crossbow": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Bolts": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Warhammer": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Dagger": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Natural Ambition": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Built-In Tools": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Explosive Leap": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Basic Crafter's Book": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Bedroll": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Chalk": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Flint and Steel": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rations": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Rope": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Soap": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Thieves' Toolkit (built into Whirp)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.zvLyCVD8g2PdHJAc]\nThieves' Toolkit (built into Whirp)",
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Repair Toolkit (built into Whirp)": {
+          "name": "<Compendium> tag will get replaced with text from compendium entry @UUID[Compendium.pf2e.equipment-srd.Item.vLGDUFrg4yGzpTQX]\nRepair Toolkit (built into Whirp)",
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Torch": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Waterskin": {
+          "source": "Pathfinder Player Core"
+        },
+        "treasure->Gold Pieces": {
+          "source": "Pathfinder Player Core"
+        },
+        "lore->Engineering Lore": {
+          "name": "Engineering Lore"
+        },
+        "lore->Pathfinder Society Lore": {
+          "name": "Pathfinder Society Lore"
+        },
+        "lore->Sailing Lore": {
+          "name": "Sailing Lore"
+        },
+        "feat->Reconfigure": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Expert Overdrive": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "consumable->Ablative Armor Plating (Moderate)": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Trick Magic Item": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Toughness": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Searing Restoration": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Inventor Weapon Expertise": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Charlatan's Gloves": {
+          "source": "Pathfinder GM Core"
+        },
+        "equipment->Crafter's Eyepiece": {
+          "source": "Pathfinder GM Core"
+        },
+        "equipment->Everlight Crystal": {
+          "source": "Pathfinder GM Core"
+        },
+        "consumable->Healing Potion (Lesser)": {
+          "source": "Pathfinder GM Core"
+        },
+        "equipment->Ring of Sigils": {
+          "source": "Pathfinder GM Core"
+        },
+        "consumable->Blast Boots (Moderate)": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Orc Ferocity": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Advanced Construct Companion": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Wary Disarmament": {
+          "rules": {
+            "0": {
+              "label": "Wary Disarmament (vs. traps)"
+            }
+          },
+          "source": "Pathfinder Player Core"
+        }
+      }
+    },
     "Ezren (Level 1)": {
       "name": "Ezren (Level 1)",
       "ethnicity": "Varisian",
@@ -6493,6 +6969,348 @@
         }
       }
     },
+    "Nhalmika (Level 1)": {
+      "name": "Nhalmika (Level 1)",
+      "tokenName": "Nhalmika",
+      "items": {
+        "ancestry->Dwarf": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Clan Dagger": {
+          "source": "Pathfinder Core Rulebook"
+        },
+        "weapon->Clan Dagger": {
+          "source": "Pathfinder Player Core"
+        },
+        "heritage->Forge Dwarf": {
+          "source": "Pathfinder Player Core"
+        },
+        "background->Martial Disciple": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Cat Fall": {
+          "source": "Pathfinder Player Core"
+        },
+        "class->Gunslinger": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Gunslinger's Way": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Way of the Vanguard": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Clear a Path": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Living Fortification": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Slinger's Precision": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "armor->Studded Leather Armor": {
+          "source": "Pathfinder Player Core"
+        },
+        "backpack->Backpack": {
+          "source": "Pathfinder Player Core"
+        },
+        "weapon->Dwarven Scattergun": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "consumable->Rounds (Dwarven Scattergun)": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Bedroll": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Chalk": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Flint and Steel": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rations": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Rope": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Soap": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Torch": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Waterskin": {
+          "source": "Pathfinder Player Core"
+        },
+        "treasure->Silver Pieces": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Explosive Savant": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Cover Fire": {
+          "source": "Pathfinder Guns & Gears"
+        }
+      }
+    },
+    "Nhalmika (Level 3)": {
+      "name": "Nhalmika (Level 3)",
+      "tokenName": "Nhalmika",
+      "items": {
+        "ancestry->Dwarf": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Clan Dagger": {
+          "source": "Pathfinder Core Rulebook"
+        },
+        "weapon->Clan Dagger": {
+          "source": "Pathfinder Player Core"
+        },
+        "heritage->Forge Dwarf": {
+          "source": "Pathfinder Player Core"
+        },
+        "background->Martial Disciple": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Cat Fall": {
+          "source": "Pathfinder Player Core"
+        },
+        "class->Gunslinger": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Gunslinger's Way": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Way of the Vanguard": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Clear a Path": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Living Fortification": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Slinger's Precision": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "armor->Studded Leather Armor": {
+          "source": "Pathfinder Player Core"
+        },
+        "backpack->Backpack": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rounds (Dwarven Scattergun)": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Bedroll": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Chalk": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Flint and Steel": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rations": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Rope": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Soap": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Torch": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Waterskin": {
+          "source": "Pathfinder Player Core"
+        },
+        "treasure->Silver Pieces": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Explosive Savant": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Cover Fire": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Stubborn": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "weapon->Clan Pistol": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Healer's Toolkit": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Healing Potion (Lesser)": {
+          "source": "Pathfinder GM Core"
+        },
+        "weapon->Alchemist's Fire (Moderate)": {
+          "source": "Pathfinder GM Core"
+        },
+        "treasure->Gold Pieces": {
+          "source": "Pathfinder Player Core"
+        },
+        "lore->Warfare Lore": {
+          "name": "Warfare Lore"
+        },
+        "feat->Defensive Armaments": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Titan Wrestler": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Toughness": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rounds (Clan Pistol)": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "weapon->Dwarven Scattergun": {
+          "source": "Pathfinder Guns & Gears"
+        }
+      }
+    },
+    "Nhalmika (Level 5)": {
+      "name": "Nhalmika (Level 5)",
+      "tokenName": "Nhalmika",
+      "items": {
+        "ancestry->Dwarf": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Clan Dagger": {
+          "source": "Pathfinder Core Rulebook"
+        },
+        "weapon->Clan Dagger": {
+          "source": "Pathfinder Player Core"
+        },
+        "heritage->Forge Dwarf": {
+          "source": "Pathfinder Player Core"
+        },
+        "background->Martial Disciple": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Cat Fall": {
+          "source": "Pathfinder Player Core"
+        },
+        "class->Gunslinger": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Gunslinger's Way": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Way of the Vanguard": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Clear a Path": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "action->Living Fortification": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Slinger's Precision": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "armor->Studded Leather Armor": {
+          "source": "Pathfinder Player Core"
+        },
+        "backpack->Backpack": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rounds (Dwarven Scattergun)": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Bedroll": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Chalk": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Flint and Steel": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rations": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Rope": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Soap": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Torch": {
+          "source": "Pathfinder Player Core"
+        },
+        "equipment->Waterskin": {
+          "source": "Pathfinder Player Core"
+        },
+        "treasure->Silver Pieces": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Explosive Savant": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Cover Fire": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Stubborn": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "weapon->Clan Pistol": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "equipment->Healer's Toolkit": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Healing Potion (Lesser)": {
+          "source": "Pathfinder GM Core"
+        },
+        "weapon->Alchemist's Fire (Moderate)": {
+          "source": "Pathfinder GM Core"
+        },
+        "treasure->Gold Pieces": {
+          "source": "Pathfinder Player Core"
+        },
+        "lore->Warfare Lore": {
+          "name": "Warfare Lore"
+        },
+        "feat->Defensive Armaments": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Titan Wrestler": {
+          "source": "Pathfinder Player Core"
+        },
+        "feat->Toughness": {
+          "source": "Pathfinder Player Core"
+        },
+        "consumable->Rounds (Clan Pistol)": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "weapon->Dwarven Scattergun": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Gunslinger Weapon Mastery": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "consumable->Alloy Orb (Low-Grade)": {
+          "source": "Pathfinder GM Core"
+        },
+        "feat->Blast Resistance": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Running Reload": {
+          "source": "Pathfinder Guns & Gears"
+        },
+        "feat->Powerful Leap": {
+          "source": "Pathfinder Player Core"
+        }
+      }
+    },
     "Quinn (Level 1)": {
       "name": "Quinn (Level 1)",
       "gender": "M/He/Him",
@@ -9428,6 +10246,82 @@
         },
         "consumable->Healing Potion (Lesser)": {
           "source": "Pathfinder GM Core"
+        }
+      }
+    },
+    "Whirp (Level 1)": {
+      "name": "Whirp (Level 1)",
+      "tokenName": "Whirp",
+      "items": {
+        "ancestry->Prototype Construct": {
+          "name": "Prototype Construct"
+        },
+        "class->Construct Companion": {
+          "name": "Construct Companion"
+        },
+        "feat->Fist": {
+          "name": "Fist",
+          "description": "<p>Rename this feat to rename the strike created by it, the image of this feat can also be adjusted to the image you want for the strike.</p>"
+        },
+        "feat->Ear": {
+          "name": "Ear",
+          "description": "<p>Rename this feat to rename the strike created by it, the image of this feat can also be adjusted to the image you want for the strike.</p>"
+        },
+        "feat->Manual Dexterity": {
+          "name": "Manual Dexterity",
+          "description": "<p>Your construct innovation has articulated hands or similar appendages with significant manual dexterity. It can perform manipulate actions with up to two of its limbs. As normal for a companion, it still can't wield weapons or held items that don't have the companion trait, and it can't activate items.</p>"
+        }
+      }
+    },
+    "Whirp (Level 3)": {
+      "name": "Whirp (Level 3)",
+      "tokenName": "Whirp",
+      "items": {
+        "ancestry->Prototype Construct": {
+          "name": "Prototype Construct"
+        },
+        "class->Construct Companion": {
+          "name": "Construct Companion"
+        },
+        "feat->Fist": {
+          "name": "Fist",
+          "description": "<p>Rename this feat to rename the strike created by it, the image of this feat can also be adjusted to the image you want for the strike.</p>"
+        },
+        "feat->Ear": {
+          "name": "Ear",
+          "description": "<p>Rename this feat to rename the strike created by it, the image of this feat can also be adjusted to the image you want for the strike.</p>"
+        },
+        "feat->Manual Dexterity": {
+          "name": "Manual Dexterity",
+          "description": "<p>Your construct innovation has articulated hands or similar appendages with significant manual dexterity. It can perform manipulate actions with up to two of its limbs. As normal for a companion, it still can't wield weapons or held items that don't have the companion trait, and it can't activate items.</p>"
+        }
+      }
+    },
+    "Whirp (Level 5)": {
+      "name": "Whirp (Level 5)",
+      "tokenName": "Whirp",
+      "items": {
+        "ancestry->Prototype Construct": {
+          "name": "Prototype Construct"
+        },
+        "class->Construct Companion": {
+          "name": "Construct Companion"
+        },
+        "feat->Fist": {
+          "name": "Fist",
+          "description": "<p>Rename this feat to rename the strike created by it, the image of this feat can also be adjusted to the image you want for the strike.</p>"
+        },
+        "feat->Ear": {
+          "name": "Ear",
+          "description": "<p>Rename this feat to rename the strike created by it, the image of this feat can also be adjusted to the image you want for the strike.</p>"
+        },
+        "feat->Advanced Construct (CC) (Small)": {
+          "name": "Advanced Construct (CC) (Small)",
+          "description": "<p>To advance a prototype construct companion to an advanced construct companion (usually a result of one of your class feat choices), make the following adjustments.</p>\n<ul>\n<li>Increase its Strength, Dexterity, Constitution, and Wisdom modifiers by 1.</li>\n<li>Increase its unarmed attack damage from one die to two dice (for instance, 1d8 to 2d8).</li>\n<li>Increase its proficiency rank for Perception and all saving throws to expert.</li>\n<li>Increase its proficiency ranks in Intimidation, Stealth, and Survival to trained. If the construct is your innovation and it was already trained in those skills from a modification, increase its proficiency rank in those skills to expert.</li>\n<li>You can change your companion's Size, if you want, to either Small, Medium, or Large.\n\n</li>\n</ul>"
+        },
+        "feat->Manual Dexterity": {
+          "name": "Manual Dexterity",
+          "description": "<p>Your construct innovation has articulated hands or similar appendages with significant manual dexterity. It can perform manipulate actions with up to two of its limbs. As normal for a companion, it still can't wield weapons or held items that don't have the companion trait, and it can't activate items.</p>"
         }
       }
     },

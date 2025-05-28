@@ -150,7 +150,7 @@ class Translator {
             });
         }
     }
-    
+
     // Check if strike is ranged or melee and return the type
     checkStrikeType(strike) {
         let strikeType = "strike-melee";
@@ -171,12 +171,12 @@ class Translator {
         // Register compendium
         if (game.babele) {
             game.babele.register({
-                    module: module,
-                    lang: language,
-                    dir: compendiumDirectory,
-                });
+                module: module,
+                lang: language,
+                dir: compendiumDirectory,
+            });
         } else {
-                console.error("lang-pt-BR-pf2e: Módulo requerido Babele não está ativado");
+            console.error("lang-pt-BR-pf2e: Módulo requerido Babele não está ativado");
         }
 
         // Register imageDirectory if provided
@@ -298,14 +298,14 @@ class Translator {
             // Build itemKey depending on the type of item (world item or actor item)
             if (actorItem) {
                 itemKey =
-                entry.type != "melee"
-                    ? `${entry.type}->${entry.name}`
-                    : `${this.checkStrikeType(entry)}->${entry.name}`;
-                } else {
-                    itemKey = entry.name;
-                }
-                let itemTranslation = translation ? translation[itemKey] ?? undefined : undefined;
-                let itemName = entry.name;
+                    entry.type != "melee"
+                        ? `${entry.type}->${entry.name}`
+                        : `${this.checkStrikeType(entry)}->${entry.name}`;
+            } else {
+                itemKey = entry.name;
+            }
+            let itemTranslation = translation ? translation[itemKey] ?? undefined : undefined;
+            let itemName = entry.name;
 
             // For compendium items, get the data from the compendium
 
@@ -323,7 +323,7 @@ class Translator {
                 if (originalName) {
                     entry.name = originalName;
                     itemName = originalName;
-                    
+
                     // Get the item from the compendium
                     const itemData = game.babele.packs
                         .get(`${itemCompendium[1]}.${itemCompendium[2]}`)
@@ -342,7 +342,7 @@ class Translator {
                     }
                 }
             }
-            
+
             // Check if the item translation is an array (in case of duplicate items such as a magical and a regular shortsword)
             // Take the itemTranslation that matches the current item's id
             if (Array.isArray(itemTranslation)) {
@@ -489,7 +489,7 @@ class Translator {
         // Check, if image source uses default image
         if (!(imageSource.includes("systems/pf2e/") || imageSource.includes("icons/svg/mystery-man"))) {
             return value;
-        }        
+        }
         const artworkList = this.artworkLists[translatedCompendium.metadata.name];
         if (
             dataObject.type === "npc" &&

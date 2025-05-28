@@ -1117,7 +1117,7 @@
     "Dahak's Shell": {
       "name": "Carapaça de Dahak",
       "description": "<p>Um anel de oito réplicas de pilares de dragão marca a borda de uma cúpula de energia prismática mágica que contém inteiramente a Fortaleza da Tristeza.</p>",
-      "disable": "<p>Cada pilar de dragão que é destruído remove o efeito da cor correspondente da carapaça de Dahak; enquanto pelo menos uma cor permanecer ativa, os próprios pilares que marcam a borda da carapaça não podem ser danificados, mas um teste de @Check[ladinoagem|dc:32|name:Desabilitar Cor|traits:mágico,armadilha,perigo] (mestre) bem-sucedido ou um @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia} (6º nível; CD de neutralização 30) bem-sucedido contra um dos oito pilares pode fazer com que uma cor ativa determinada aleatoriamente na defesa da carapaça (abaixo) seja desativada por [[/gmr 1d4 #rounds]]{1d4 rodadas}.</p>",
+      "disable": "<p>Each dragon pillar that is destroyed removes the corresponding color's effect from Dahak's shell; as long as even one color remains active, the pillars marking the shell's border cannot be damaged themselves, but a successful @Check[thievery|dc:32|name:Disable Color|traits:magical,trap,hazard] (master) check or a successful @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (6th rank; counteract DC 30) against one of the eight pillars can cause a randomly determined active color in the shell defense (below) to become deactivated for [[/gmr 1d4 #rounds]]{1d4 rounds}.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
       "stealth": "<p>ou @UUID[Compendium.pf2e.spells-srd.Item.gpzpAAAJ1Lza2JVl]{Detectar Magia}</p>",
       "items": {
@@ -1170,7 +1170,7 @@
     "Dahak's Skull": {
       "name": "Crânio de Dahak",
       "description": "<p>Um par de gemas mágicas dentro das órbitas oculares do crânio de dragão atuam como sensores mágicos com um raio de 30 pés.</p>",
-      "disable": "<p>@Check[ladinoagem|dc:27|name:Remover as Gemas Encrustadas|traits:complex,magical,fire,trap,hazard] (especialista) duas vezes para remover as gemas incrustadas nas órbitas oculares do crânio sem acionar o sensor, ou @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia} (4º nível, CD de neutralização 22) duas vezes para dissipar ambos os olhos.</p>",
+      "disable": "<p>@Check[thievery|dc:27|name:Pry Out the Embedded Gems|traits:complex,magical,fire,trap,hazard] (expert) two times to pry the gems embedded deep in the skull's eye sockets without triggering the sensor, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (4th rank, counteract DC 22) twice to dispel both eyes.</p>",
       "routine": "<p>(2 ações) Em sua iniciativa, o crânio de Dahak dispara até dois raios do olho; ele deve ter como alvo uma criatura diferente com cada ataque. Os raios do olho não podem ter como alvo criaturas diretamente abaixo do crânio.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
       "stealth": "<p>mas @Check[percepção|dc:24|name:Perceber Luzes nos Olhos|traits:complex,magical,fire,trap,hazard] para perceber que as luzes ardentes dentro das órbitas oculares do crânio parecem estar olhando ao redor da sala.</p>",
@@ -1410,7 +1410,7 @@
     "Dragon Pillar": {
       "name": "Pilar do Dragão",
       "description": "<p>Um poste de madeira de 10 pés de altura encimado por uma escultura de madeira da cabeça de Dahak. A cabeça de cada pilar do dragão foi tratada com algo para lhe dar uma cor distinta, conforme indicado no encontro específico, mas independentemente da cor, plumas de fumaça saem de sua boca.</p>",
-      "disable": "<p>@Check[atletismo|dc:26|name:Empurrar o Pilar|traits:complex,magical,trap,hazard] (especialista) para empurrar o pilar, ou @Check[ladinoagem|dc:26|name:Apagar Runas Mágicas|traits:complex,magical,trap,hazard] (especialista) no pilar para apagar as runas mágicas que o alimentam, ou @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia} (4º nível; CD de neutralização 22) para dissipar a magia do pilar.</p>",
+      "disable": "<p>@Check[athletics|dc:26|name:Push the Pillar Over|traits:complex,magical,trap,hazard] (expert) to push the pillar over, or @Check[thievery|dc:26|name:Erase Magic Runes|traits:complex,magical,trap,hazard] (expert) on the pillar to erase the magic runes that power it, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (4th rank; counteract DC 22) to dispel the pillar's magic.</p>",
       "reset": "<p>O pilar do dragão desativa e reinicia assim que não percebe alvos apropriados ao alcance.</p>",
       "routine": "<p>(1 ação) Em sua iniciativa, o pilar do dragão dispara um raio do olho no alvo mais próximo a até 120 pés.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
@@ -3926,7 +3926,7 @@
     "Lesser Dragonstorm": {
       "name": "Lesser Dragonstorm",
       "description": "<p>A small-scale version of a dragonstorm-a churning vortex of wind infused with fire, acid, lightning, poison, and ice-fills Alseta's Ring.</p>",
-      "disable": "<p>@Check[religion|dc:40|name:Call for Divine Intervention] (legendary) to call out to a non-evil deity for direct intervention to disperse the lesser dragonstorm (prayers to Apsu allow characters who are masters in Religion to attempt the check as if they were legendary instead), @Check[thievery|dc:42|name:Deactivate Vengegate|traits:action:disable-a-device] (legendary) to deactivate Vengegate while the manifestation is forcing it open, or a successful @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (10th level; DC 40) to counteract the lesser dragonstorm.</p>",
+      "disable": "<p>@Check[religion|dc:40|name:Call for Divine Intervention] (legendary) to call out to a non-evil deity for direct intervention to disperse the lesser dragonstorm (prayers to Apsu allow characters who are masters in Religion to attempt the check as if they were legendary instead), @Check[thievery|dc:42|name:Deactivate Vengegate|traits:action:disable-a-device] (legendary) to deactivate Vengegate while the manifestation is forcing it open, or a successful @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (10th rank; DC 40) to counteract the lesser dragonstorm.</p>",
       "routine": "<p>(1 action) On its initiative, the lesser dragonstorm reaches out and blasts all creatures within Alseta's Ring. Affected creatures take @Damage[2d8[acid],2d8[cold],2d8[electricity],2d8[fire],2d8[poison]]{10d8 damage} (@Check[reflex|dc:46|basic]), evenly split between acid, cold, fire, electricity, and poison. Creatures that fail their save are pulled 20 feet toward the center of Alseta's Ring (or are knocked prone and pulled 30 feet on a critical failure). After 10 rounds, the lesser dragonstorm is destroyed, but a much greater dragonstorm manifests in the surrounding region-see The Dragonstorm.</p>",
       "source": "Pathfinder #150: Broken Promises",
       "stealth": "<p>(legendary)</p>",
@@ -4051,7 +4051,7 @@
     "Luminous Ward": {
       "name": "Luminous Ward",
       "description": "<p>A burst of radiance explodes from the door.</p>",
-      "disable": "<p>@Check[thievery|dc:40|name:|traits:action:disable-a-device] (master) to disable the wards or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (9th level; counteract DC 38) to counteract the ward</p>",
+      "disable": "<p>@Check[thievery|dc:40|name:|traits:action:disable-a-device] (master) to disable the wards or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (9th rank; counteract DC 38) to counteract the ward</p>",
       "reset": "<p>The trap resets after 1 hour.</p>",
       "source": "Pathfinder #149: Against the Scarlet Triad",
       "stealth": "<p>(master)</p>",
@@ -4459,7 +4459,7 @@
         },
         "action->Contingency": {
           "name": "Contingency",
-          "description": "<p><strong>Trigger</strong> Mengkare fails a saving throw against a spell.</p>\n<hr />\n<p><strong>Effect</strong> @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (7th level) attempts to counteract the triggering spell.</p>"
+          "description": "<p><strong>Trigger</strong> Mengkare fails a saving throw against a spell.</p>\n<hr />\n<p><strong>Effect</strong> @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (7th rank) attempts to counteract the triggering spell.</p>"
         },
         "action->Extra Reaction": {
           "name": "Extra Reaction",
@@ -6122,7 +6122,7 @@
     "Seismic Spears Trap": {
       "name": "Seismic Spears Trap",
       "description": "<p>Lines of searing lava lance through the area, causing targets to shake as if caught in an earthquake and potentially become petrified.</p>",
-      "disable": "<p>@Check[thievery|dc:43|name:Disable the Wards|traits:magical,trap] (master) to disable the wards or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (9th level; counteract DC 38) to counteract the ward.</p>",
+      "disable": "<p>@Check[thievery|dc:43|name:Disable the Wards|traits:magical,trap] (master) to disable the wards or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (9th rank; counteract DC 38) to counteract the ward.</p>",
       "reset": "<p>The trap resets after 1 minute.</p>",
       "source": "Pathfinder #149: Against the Scarlet Triad",
       "stealth": "<p>(master)</p>",
@@ -7029,7 +7029,7 @@
     "Vision of Dahak": {
       "name": "Visão de Dahak",
       "description": "<p>Rajadas de fogo e fumaça saem das paredes do túnel para se aglutinar na forma ardente do próprio Dahak; um PC que for bem-sucedido em um teste de @Check[religion|dc:20|name:Recognize Depiction of Dahak|traits:hazard,complex,fire,magical,trap,action:recall-knowledge] para Recordar Conhecimento observa que o dragão de fogo se assemelha muito às representações clássicas do deus dracônico da destruição.</p>",
-      "disable": "<p>@Check[religion|dc:26|name:Counteract Dahak With Prayers|traits:complex,fire,magical,trap,hazard] (expert) para proferir orações a uma divindade não maligna para neutralizar a presença de Dahak (orações a Apsu permitem que este teste seja feito se o personagem for meramente treinado em Religião), @Check[thievery|dc:30|name:Divert the Hazard's Energy Back|traits:complex,fire,magical,trap,hazard] (expert) para desviar as energias do perigo de volta para si mesmas, ou um @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dissipar Magia} bem-sucedido (4º nível; CD para neutralizar 26).</p>",
+      "disable": "<p>@Check[religion|dc:26|name:Counteract Dahak With Prayers|traits:complex,fire,magical,trap,hazard] (expert) to utter prayers to a non-evil deity to counteract Dahak's presence (prayers to Apsu allow this check to be made if the character is merely trained in Religion), @Check[thievery|dc:30|name:Divert the Hazard's Energy Back|traits:complex,fire,magical,trap,hazard] (expert) to divert the hazard's energies back upon themselves, or a successful @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (4th rank; counteract DC 26).</p>",
       "reset": "<p>A visão de Dahak se desativa e redefine automaticamente quando nenhuma criatura permanece dentro da estação Huntergate.</p>",
       "routine": "<p>(2 ações) A visão de Dahak se manifesta ao lado da criatura que está mais próxima do centro da estação, então usa sua Arma de Sopro em uma direção que atinge o maior número possível de alvos em sua área.</p>",
       "source": "Pathfinder #146: Cult of Cinders",
@@ -7293,7 +7293,7 @@
     "Wrath of the Destroyer": {
       "name": "Wrath of the Destroyer",
       "description": "<p>These heavy doors, carved with an image of Dahak, echo with a hatred so powerful that it can kill anyone who comes nearby, manifesting a vision of Dahak's head emerging from the doors to strike at a foe.</p>",
-      "disable": "<p>@Check[thievery|dc:29|name:Disrupt the Divine Magic|traits:complex,magical,trap,hazard] (expert) to disrupt the divine magic, @Check[religion|dc:29|name:Placate Wrathful Energies|traits:complex,magical,trap,hazard] (expert) to placate the wrathful energies, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (5th level; counteract DC 26).</p>",
+      "disable": "<p>@Check[thievery|dc:29|name:Disrupt the Divine Magic|traits:complex,magical,trap,hazard] (expert) to disrupt the divine magic, @Check[religion|dc:29|name:Placate Wrathful Energies|traits:complex,magical,trap,hazard] (expert) to placate the wrathful energies, or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (5th rank; counteract DC 26).</p>",
       "reset": "<p>The trap deactivates and resets if 1 minute passes without any creature being in range.</p>",
       "routine": "<p>(1 action) On its initiative, the wrath of the destroyer targets the closest target in area <strong>C6</strong> with Face of the Fatal Divine.</p>",
       "source": "Pathfinder #146: Cult of Cinders",

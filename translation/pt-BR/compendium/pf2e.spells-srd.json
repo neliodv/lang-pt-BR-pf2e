@@ -525,6 +525,11 @@
       "source": "Pathfinder Player Core",
       "target": "outra criatura de até 8º nível que seja adoradora da mesma divindade ou filosofia que você"
     },
+    "Augmented Body": {
+      "name": "Augmented Body",
+      "description": "<p>You magically augment your body with clockwork parts and magitech innovations. Choose any one effect of your choice. You can Dismiss the spell.</p>\n<ul>\n<li><strong>Ablative Plating</strong> You coat your body with metal plates that protect your vital organs. You gain resistance 1 to physical damage.</li>\n<li><strong>Clockwork Arm</strong> You transform one of your arms into a clockwork arm powered by gears, springs, and pneumatic actuators. You gain a clockwork fist unarmed attack, which has the agile, finesse, and free-hand traits and deals 1d6 bludgeoning damage.</li>\n<li><strong>Spined Fingertips</strong> Your fingers sprout microscopic metal spines that enable you to cling to surfaces like a spider. You gain a climb Speed of 20 feet.</li>\n<li><strong>Spring-Loaded Legs</strong> Your leg muscles are augmented with powerful springs. You gain a +10-foot status bonus to your Speed and double the distance you @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}.</li>\n</ul>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.CVR6mkf5bVIK9KjU]{Spell Effect: Augmented Body}</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The ablative plating's resistance increases to 2. The clockwork fist is a +1 striking weapon.</p>\n<p><strong>Heightened (5th)</strong> The ablative plating's resistance increases to 3, and the clockwork fist is a +2 striking weapon.</p>\n<p><strong>Heightened (7th)</strong> The ablative plating's resistance increases to 4, and the clockwork fist is a +2 greater striking weapon.</p>\n<p><strong>Heightened (9th)</strong> The ablative plating's resistance increases to 5 and the clockwork fist is a +3 major striking weapon.</p>",
+      "source": "Pathfinder #215: To Blot Out the Sun"
+    },
     "Augury": {
       "name": "Augúrio",
       "description": "<p>Você ganha um vislumbre vago do futuro. Durante o lançamento deste feitiço, pergunte sobre os resultados de um determinado curso de ação. O feitiço pode prever resultados de até 30 minutos no futuro e revelar o melhor palpite do GM entre os seguintes resultados: bom, ruim, misto (os resultados serão uma mistura de bom e ruim) e nada (não haverá resultados particularmente bons ou ruins).</p>\n<p>O GM rola um @Check[flat|dc:6|showDC:all|traits:secret] secreto. Em uma falha, o resultado é sempre \"nada\". Isso torna impossível dizer se um resultado \"nada\" é preciso. Se alguém perguntar sobre o mesmo tópico que o primeiro lançamento de <em>augúrio</em> durante um lançamento adicional, o GM usa o resultado do lançamento secreto do primeiro lançamento. Se as circunstâncias mudarem, porém, é possível obter um resultado diferente.</p>",
@@ -1738,6 +1743,11 @@
       },
       "source": "Pathfinder Player Core",
       "target": "1 criatura"
+    },
+    "Conjured Clockwork": {
+      "name": "Conjured Clockwork",
+      "description": "<p>You conjure a complex clockwork device on the ground and cause it to slowly spread across the battlefield. The area is difficult terrain. Each creature that enters or ends its turn in the area takes 2d8 slashing damage with a basic Reflex save. A creature can take this damage only once per turn. On subsequent rounds, the first time you Sustain the spell each round, you can expand the radius of the clockwork device by 5 feet.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d8.</p>",
+      "source": "Pathfinder #215: To Blot Out the Sun"
     },
     "Conjured Conveyance": {
       "name": "Conjuração de Transporte",
@@ -4514,7 +4524,7 @@
     },
     "Honeyed Words": {
       "name": "Palavras Melosas",
-      "description": "<p>Falsidades saem de seus lábios tão suavemente quanto seda. Você ganha um bônus de status +4 em testes de Enganação para Mentir e contra testes de Percepção para discernir se você está dizendo a verdade, e você adiciona seu nível mesmo se não for treinado. Se a implausibilidade de suas mentiras levar a uma penalidade de circunstância ou a um aumento de CD, reduza essa penalidade pela metade ou aumente-a pela metade.</p>",
+      "description": "<p>Falsehoods pass your lips as smoothly as silk. You gain a +4 status bonus to Deception checks to @UUID[Compendium.pf2e.actionspf2e.Item.ewwCglB7XOPLUz72]{Lie} and against Perception checks to discern if you are telling the truth, and you add your level even if untrained. If the implausibility of your lies prompts a circumstance penalty or a DC increase, reduce that penalty by half or increase it by half.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.6vodhSeI3ClMfOGd]{Spell Effect: Honeyed Words}</p>",
       "source": "Pathfinder Player Core"
     },
     "Horizon Thunder Sphere": {
@@ -5063,7 +5073,7 @@
     },
     "Ki Cutting Sight": {
       "name": "Visão Cortante de Ki",
-      "description": "<p>O Ki flui através de tudo na existência - animais e plantas, vivos e mortos, mortais e espíritos. Golpeie no lugar certo, da maneira certa, e o fluxo é interrompido, com consequências terríveis.</p>\n<p>Quando você Conjurar a Magia, faça um teste de @Check[perception|defense:fortitude] Percepção contra a CD de Fortitude do alvo. Se você for bem-sucedido, na próxima vez que você causar dano ao alvo com um Golpe ou magia de ki, você causa 4d10 de dano cortante adicional.</p>\n<hr />\n<p><strong>Aprimorado (+1)</strong> O dano de precisão aumenta em 1d10.</p>",
+      "description": "<p>Ki flows through everything in existence—animals and plants, living and dead, mortals and spirits. Strike at just the right place, in just the right way, and the flow is stopped, with dire consequences.</p>\n<p>When you Cast the Spell, make a @Check[perception|defense:fortitude] check against the target's Fortitude DC. If you succeed, the next time you deal damage to the target with a Strike or ki spell, you deal 4d10 additional slashing damage.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.IFbDmy0HhKa8XaEU]{Spell Effect: Ki Cutting Sight}</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The slashing damage increases by 1d10.</p>",
       "source": "Pathfinder Wake the Dead #2",
       "target": "1 criatura"
     },
@@ -10250,7 +10260,7 @@
     },
     "Wall of Wind": {
       "name": "Muralha de Vento",
-      "description": "<p>Você cria uma barreira de rajadas de vento que impede qualquer coisa que se mova através dela. A parede de ventos giratórios tem 5 pés de espessura, 60 pés de comprimento e 30 pés de altura. A parede fica na vertical, mas você pode moldar seu caminho. Embora a muralha de vento distorça o ar, ela não impede a visão. A parede tem os seguintes efeitos.</p>\n<ul>\n<li>Munição de ataques físicos à distância - como flechas, virotes, balas de funda e outros objetos de tamanho semelhante - não podem passar pela parede. Ataques com armas à distância maiores, como dardos, sofrem uma penalidade de circunstância -2 em seus testes de ataque se seus caminhos passarem pela parede. Armas à distância massivas e efeitos de magia que não criam objetos físicos passam pela parede sem penalidade.</li>\n<li>A parede é terreno difícil para criaturas que tentam se mover por terra através dela. Gases, incluindo criaturas em @UUID[Compendium.pf2e.spells-srd.Item.V8wXOsoejQhe6CyG]{Forma de Vapor}, não podem passar pela parede.</li>\n<li>Uma criatura que tenta voar através da parede usando uma ação de movimento deve fazer um teste de Fortitude.</li>\n</ul>\n<hr />\n<p><strong>Sucesso Crítico</strong> A criatura pode se mover pela parede normalmente neste turno.</p>\n<p><strong>Sucesso</strong> A criatura voadora pode se mover pela parede neste turno, mas a parede é terreno difícil.</p>\n<p><strong>Falha</strong> A parede interrompe o movimento da criatura voadora e qualquer movimento restante de sua ação atual é desperdiçado.</p>\n<p><strong>Falha Crítica</strong> Como falha, e a criatura é empurrada 10 pés para longe da parede.</p>",
+      "description": "<p>You create a barrier of gusting winds that hinders anything moving through it. The wall of swirling winds is 5 feet thick, 60 feet long, and 30 feet high. The wall stands vertically, but you can shape its path. Though the wall of wind distorts the air, it does not hamper sight. The wall has the following effects.</p>\n<ul>\n<li>Ammunition from physical ranged attacks-such as arrows, bolts, sling bullets, and other objects of similar size-can't pass through the wall. Attacks with bigger ranged weapons, such as javelins, take a -2 circumstance penalty to their attack rolls if their paths pass through the wall. Massive ranged weapons and spell effects that don't create physical objects pass through the wall with no penalty.</li>\n<li>The wall is difficult terrain to creatures attempting to move overland through it. Gases, including creatures in @UUID[Compendium.pf2e.spells-srd.Item.V8wXOsoejQhe6CyG]{Vapor Form}, can't pass through the wall.</li>\n<li>A creature that attempts to fly through the wall using a move action must attempt a Fortitude save.</li>\n</ul>\n<hr />\n<p><strong>Critical Success</strong> The creature can move through the wall normally this turn.</p>\n<p><strong>Success</strong> The flying creature can move through the wall this turn, but the wall is difficult terrain.</p>\n<p><strong>Failure</strong> The wall stops the movement of the flying creature, and any remaining movement from its current action is wasted.</p>\n<p><strong>Critical Failure</strong> As failure, and the creature is pushed 10 feet away from the wall.</p>",
       "source": "Pathfinder Player Core"
     },
     "Wanderer's Guide": {
